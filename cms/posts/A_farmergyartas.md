@@ -1,5 +1,5 @@
 ---
-title: Határtalan felületek-Egyedi ipari festési alkamazások I.
+title: Határtalan felületek - Egyedi ipari festési alkamazások I.
 date: 2025-03-03T23:00:00.000Z
 excerpt: >-
   Mi köze a Dewa Zrt.-nek a farmernadrág gyártáshoz?
