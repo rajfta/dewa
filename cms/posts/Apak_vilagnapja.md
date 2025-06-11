@@ -27,7 +27,7 @@ Bár akkoriban még nem láthatták előre, ez a tudatos, értékalapú szemlél
 
 Ahogy a cég évről évre fejlődött, a tulajdonosok családjai is bővültek – a cég mellett felnövő gyerekek közül többen is közelebb kerültek a vállalkozás világához. A továbbiakban Buczkó Péternek és fiának, Patricknak a történetét követjük, valamint azt, hogyan vált utóbbi aktív résztvevőjévé a budaörsi központ életének.
 
-Hogyan indult az együttműködés? Mi adta a lendületet a bekapcsolódáshoz? – Kérdeztem először Patrickot.
+*Hogyan indult az együttműködés? Mi adta a lendületet a bekapcsolódáshoz?* – Kérdeztem először Patrickot.
 
 ,,Kisgyerek korom óta vannak emlékeim a cégről, hisz rengeteg programra vittek a szüleim; síelni is egy ilyen alkalmával tanultam meg. Ennek ellenére tinédzser koromig csak elképzeléseim voltak a cég tevékenységéről, a barátaimnak mindig azt mondtam, hogy a faterom a Moszkva téren ecseteket árul. Az érdeklődésem a cég iránt a felsőoktatási tanulmányaimmal egyidejűleg jött, ekkor kezdtem a cégnél dolgozni. Az első pár évben karbantartó és szerviz feladatokat láttam el, később idegennyelvű feladatokban segítettem a kollégáknak, miközben egyre nagyobb tudásra és felelősségre tettem szert.”
 
@@ -39,7 +39,7 @@ KÉP
 
 #### Szerepek és egyensúly - az összhang kialakítása
 
-Hogyan képzeljük el Titeket családként és kollégákként? Milyen nehézségekkel kellett megküzdenetek az évek során? – Tettem fel következő kérdésem.
+*Hogyan képzeljük el Titeket családként és kollégákként? Milyen nehézségekkel kellett megküzdenetek az évek során?* – Tettem fel következő kérdésem.
 
 „Családként együtt dolgozni egyszerre jelent örömöt és kihívást” – kezdte Péter. „Ariela, a feleségem vezeti a pénzügyi területet, így hárman vagyunk jelen a családból a budaörsi központban. Tudatosan ügyelünk arra, hogy a családi és munkahelyi szerepeket különválasszuk – otthon próbálunk nem beszélni a munkáról, az
 irodában nem ülünk egymás mellé, nem egymást keressük először, mégis van egy hagyomány, amit megtartottunk: minden nap együtt ebédelünk.”
@@ -54,7 +54,7 @@ alapokat és a precizitást tartja a legnagyobb példának.
 
 #### Családi értékek a munkahelyen - a Dewa szellemisége
 
-Péter, hogyan jelennek meg a családi értékek a munkahelyen, a Dewa mindennapi működésében?
+*Péter, hogyan jelennek meg a családi értékek a munkahelyen, a Dewa mindennapi működésében?*
 
 „A Dewa Zrt. nemcsak tulajdonosi szinten családi vállalkozás, hanem a mindennapi munkában is átjárja ez a szemlélet a céget. Számunkra természetes, hogy az irodában is önazonosak maradunk, és ahogy a cég formált minket, úgy formáltuk mi is a vállalati kultúrát. A kollégák nálunk nem csupán munkatársak, hanem egy összetartó, családközpontú közösség tagjai, ahol az őszinte kapcsolatoknak és a kölcsönös támogatásnak is fontos szerepe van. A közös programok régóta részei az életünknek, és ezekre mindig meghívjuk a munkatársak családtagjait is, így ezek az alkalmak igazi baráti és bensőséges eseményekké váltak.”
 
