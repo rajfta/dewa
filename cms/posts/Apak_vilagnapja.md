@@ -1,6 +1,6 @@
 ---
 title: >-
-  Egy történet, két generáció – Hogyan építkezik tovább családi alapokon a Dewa
+  Egy történet, két generáció – Hogyan építkezik tovább családi alapokra a Dewa
   Zrt. budaörsi központja?
 date: 2025-06-10T22:00:00.000Z
 excerpt: >-
