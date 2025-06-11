@@ -23,7 +23,7 @@ A vállalkozás két telephelyen kezdte meg működését: Péter vezette a buda
 
 Bár akkoriban még nem láthatták előre, ez a tudatos, értékalapú szemlélet nemcsak a vállalkozás elindítását tette sikeressé, hanem a Dewa Zrt. máig tartó fejlődésének is szilárd alapját képzi.
 
-#### Generációk találkozása – Patrick becsatlakozása
+# **Generációk találkozása – Patrick becsatlakozása**
 
 Ahogy a cég évről évre fejlődött, a tulajdonosok családjai is bővültek – a cég mellett felnövő gyerekek közül többen is közelebb kerültek a vállalkozás világához. A továbbiakban Buczkó Péternek és fiának, Patricknak a történetét követjük, valamint azt, hogyan vált utóbbi aktív résztvevőjévé a budaörsi központ életének.
 
@@ -37,7 +37,7 @@ Patrickot az édesapja invitálta a cégbe, motivációiról a következőket mo
 
 KÉP
 
-#### Szerepek és egyensúly - az összhang kialakítása
+# **Szerepek és egyensúly - az összhang kialakítása**
 
 *Hogyan képzeljük el Titeket családként és kollégákként? Milyen nehézségekkel kellett megküzdenetek az évek során?* – Tettem fel következő kérdésem.
 
@@ -52,17 +52,13 @@ többször.
 Ezek után megkérdeztem tőlük, ki mit tanult vagy értékel leginkább a másikban. A válaszokból gyorsan kirajzolódott, hogy a kölcsönös tisztelet az alap: az idősebb generáció különösen nagyra tartja, hogy a fiatalabb kiemelkedően jó a kapcsolatok építésében, és új energiát hoz a csapatba, míg ő maga a szakmai
 alapokat és a precizitást tartja a legnagyobb példának.
 
-#### Családi értékek a munkahelyen - a Dewa szellemisége
+# **Családi értékek a munkahelyen - a Dewa szellemisége**
 
 *Péter, hogyan jelennek meg a családi értékek a munkahelyen, a Dewa mindennapi működésében?*
 
 „A Dewa Zrt. nemcsak tulajdonosi szinten családi vállalkozás, hanem a mindennapi munkában is átjárja ez a szemlélet a céget. Számunkra természetes, hogy az irodában is önazonosak maradunk, és ahogy a cég formált minket, úgy formáltuk mi is a vállalati kultúrát. A kollégák nálunk nem csupán munkatársak, hanem egy összetartó, családközpontú közösség tagjai, ahol az őszinte kapcsolatoknak és a kölcsönös támogatásnak is fontos szerepe van. A közös programok régóta részei az életünknek, és ezekre mindig meghívjuk a munkatársak családtagjait is, így ezek az alkalmak igazi baráti és bensőséges eseményekké váltak.”
 
-![](/Kép1.JPG)
-
-Kép: a budaörsi csapat és családtagjaik
-
-#### Bizalommal továbbadni, elkötelezetten továbbépíteni - jövőkép
+# **Bizalommal továbbadni, elkötelezetten továbbépíteni - jövőkép**
 
 A generációváltás nem könnyű – Patrick szerint ez sokszor „egyfajta harc a szülőkkel”, ahol az irányítás átadásához türelemre és kölcsönös bizalomra van szükség. Péter viszont nyugodt szívvel ad teret a fiatalabb lendületnek, mert látja: a vállalkozás jó kezekben van.
 
