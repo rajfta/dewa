@@ -9,6 +9,7 @@ excerpt: >-
   értékeket továbbvivő közös céllal dolgoznak, hogy a budaörsi központ jövője
   még fényesebb legyen. Olvasd el a történetüket, és ismerd meg, hogyan
   alakítják együtt a vállalat következő fejezetét!
+coverImage: /Csoport.JPG
 seo:
   title: Generációk együttműködése I Dewa Zrt.
   description: >-
@@ -38,7 +39,7 @@ KÉP
 
 #### Szerepek és egyensúly - az összhang kialakítása
 
-Hogyan képzeljük el Titeket családként és kollégákként? Milyen nehézségekkel kellett megküzdenetek az évek során? – Tettem fel következő kérdésem. 
+Hogyan képzeljük el Titeket családként és kollégákként? Milyen nehézségekkel kellett megküzdenetek az évek során? – Tettem fel következő kérdésem.
 
 „Családként együtt dolgozni egyszerre jelent örömöt és kihívást” – kezdte Péter. „Ariela, a feleségem vezeti a pénzügyi területet, így hárman vagyunk jelen a családból a budaörsi központban. Tudatosan ügyelünk arra, hogy a családi és munkahelyi szerepeket különválasszuk – otthon próbálunk nem beszélni a munkáról, az
 irodában nem ülünk egymás mellé, nem egymást keressük először, mégis van egy hagyomány, amit megtartottunk: minden nap együtt ebédelünk.”
@@ -63,6 +64,6 @@ Kép: a budaörsi csapat és családtagjaik
 
 #### Bizalommal továbbadni, elkötelezetten továbbépíteni - jövőkép
 
-A generációváltás nem könnyű – Patrick szerint ez sokszor „egyfajta harc a szülőkkel”, ahol az irányítás átadásához türelemre és kölcsönös bizalomra van szükség. Péter viszont nyugodt szívvel ad teret a fiatalabb lendületnek, mert látja: a vállalkozás jó kezekben van. 
+A generációváltás nem könnyű – Patrick szerint ez sokszor „egyfajta harc a szülőkkel”, ahol az irányítás átadásához türelemre és kölcsönös bizalomra van szükség. Péter viszont nyugodt szívvel ad teret a fiatalabb lendületnek, mert látja: a vállalkozás jó kezekben van.
 
 A cél közös: értékeket továbbvinni, újakat teremteni – úgy fejlődni, hogy közben megmaradjon a cég szíve és lelke: a család.
