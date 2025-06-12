@@ -58,8 +58,6 @@ alapokat és a precizitást tartja a legnagyobb példának.
 
 ![](/csoportkep.jpeg)
 
-A budaörsi kollégák és családtagjaik
-
 ### **Bizalommal továbbadni, elkötelezetten továbbépíteni - jövőkép**
 
 A generációváltás nem könnyű – Patrick szerint ez sokszor „egyfajta harc a szülőkkel”, ahol az irányítás átadásához türelemre és kölcsönös bizalomra van szükség. Péter viszont nyugodt szívvel ad teret a fiatalabb lendületnek, mert látja: a vállalkozás jó kezekben van. A cél közös: értékeket továbbvinni, újakat teremteni - úgy fejlődni, hogy közben megmaradjon a cég szíve és lelke: a család.
