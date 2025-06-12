@@ -44,9 +44,7 @@ Patrickot az édesapja invitálta a cégbe, motivációiról a következőket mo
 „Családként együtt dolgozni egyszerre jelent örömöt és kihívást” – kezdte Péter. „Ariela, a feleségem vezeti a pénzügyi területet, így hárman vagyunk jelen a családból a budaörsi központban. Tudatosan ügyelünk arra, hogy a családi és munkahelyi szerepeket különválasszuk – otthon próbálunk nem beszélni a munkáról, az
 irodában nem ülünk egymás mellé, nem egymást keressük először, mégis van egy hagyomány, amit megtartottunk: minden nap együtt ebédelünk.”
 
-A határok kijelölése azonban csak az első lépés volt – a közös munka kiegyensúlyozott dinamikája egy hosszabb tanulási folyamat eredménye. Mindannyiuknak nehéz volt kilépni a szülő-gyermek szerepből, de idővel oldódott a generációs hierarchia. Ma már a döntéseket csapatként hozzák: megvitatják, mérlegelnek, és közösen döntenek – ami nemcsak a családjukra, hanem az egész cég működésére is jellemző. Péter az évek alatt egyre több feladatot és felelősséget bízott fiára, és mára már nyitott Patrick újító szemléletére is:
-
-„Ismeri, hogyan gondolkodom, aztán megoldja úgy, ahogy szerinte a legjobb” – mondja egyre
+A határok kijelölése azonban csak az első lépés volt – a közös munka kiegyensúlyozott dinamikája egy hosszabb tanulási folyamat eredménye. Mindannyiuknak nehéz volt kilépni a szülő-gyermek szerepből, de idővel oldódott a generációs hierarchia. Ma már a döntéseket csapatként hozzák: megvitatják, mérlegelnek, és közösen döntenek – ami nemcsak a családjukra, hanem az egész cég működésére is jellemző. Péter az évek alatt egyre több feladatot és felelősséget bízott fiára, és mára már nyitott Patrick újító szemléletére is:„Ismeri, hogyan gondolkodom, aztán megoldja úgy, ahogy szerinte a legjobb” – mondja egyre
 többször.
 
 Ezek után megkérdeztem tőlük, ki mit tanult vagy értékel leginkább a másikban. A válaszokból gyorsan kirajzolódott, hogy a kölcsönös tisztelet az alap: az idősebb generáció különösen nagyra tartja, hogy a fiatalabb kiemelkedően jó a kapcsolatok építésében, és új energiát hoz a csapatba, míg ő maga a szakmai
@@ -56,7 +54,7 @@ alapokat és a precizitást tartja a legnagyobb példának.
 
 *Péter, hogyan jelennek meg a családi értékek a munkahelyen, a Dewa mindennapi működésében?*
 
-„A Dewa Zrt. nemcsak tulajdonosi szinten családi vállalkozás, hanem a mindennapi munkában is átjárja ez a szemlélet a céget. Számunkra természetes, hogy az irodában is önazonosak maradunk, és ahogy a cég formált minket, úgy formáltuk mi is a vállalati kultúrát. A kollégák nálunk nem csupán munkatársak, hanem egy összetartó, családközpontú közösség tagjai, ahol az őszinte kapcsolatoknak és a kölcsönös támogatásnak is fontos szerepe van. A közös programok régóta részei az életünknek, és ezekre mindig meghívjuk a munkatársak családtagjait is, így ezek az alkalmak igazi baráti és bensőséges eseményekké váltak.”
+„A Dewa Zrt. nemcsak tulajdonosi szinten családi vállalkozás, hanem a mindennapi munkánkban is átjárja ez a szemlélet a céget. Számunkra természetes, hogy az irodában is önazonosak maradunk, és ahogy a cég formált minket, úgy formáltuk mi is a vállalati kultúrát. A kollégák nálunk nem csupán munkatársak, hanem egy összetartó, családközpontú közösség tagjai, ahol az őszinte kapcsolatoknak és a kölcsönös támogatásnak is fontos szerepe van. A közös programok régóta részei az életünknek, és ezekre mindig meghívjuk a munkatársak családtagjait is, így ezek az alkalmak igazi baráti és bensőséges eseményekké váltak.”
 
 ![](/csoportkep.jpeg)
 
