@@ -9,7 +9,7 @@ excerpt: >-
   értékeket továbbvivő közös céllal dolgoznak, hogy a budaörsi központ jövője
   még fényesebb legyen. Olvasd el a történetüket, és ismerd meg, hogyan
   alakítják együtt a vállalat következő fejezetét!
-coverImage: /Csoport.JPG
+coverImage: /csoport.JPG
 seo:
   title: Generációk együttműködése I Dewa Zrt.
   description: >-
