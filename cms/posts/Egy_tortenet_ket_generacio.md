@@ -63,4 +63,6 @@ alapokat és a precizitást tartja a legnagyobb példának.
 
 ### **Bizalommal továbbadni, elkötelezetten továbbépíteni - jövőkép**
 
-A generációváltás nem könnyű – Patrick szerint ez sokszor „egyfajta harc a szülőkkel”, ahol az irányítás átadásához türelemre és kölcsönös bizalomra van szükség. Péter viszont nyugodt szívvel ad teret a fiatalabb lendületnek, mert látja: a vállalkozás jó kezekben van. A cél közös: értékeket továbbvinni, újakat teremteni - úgy fejlődni, hogy közben megmaradjon a cég szíve és lelke: a család.
+A generációváltás nem könnyű – Patrick szerint ez sokszor „egyfajta harc a szülőkkel”, ahol az irányítás átadásához türelemre, kölcsönös bizalomra és nyitottságra van szükség. A fiatalabb nemzedék új ötleteket, más szemléletet hoz, ami kezdetben ütközhet a korábbi renddel, de hosszú távon erősséggé válhat. 
+
+Péter viszont mára már nyugodt szívvel ad teret ennek a lendületnek, mert mindketten tudják: a vállalatnál kialakult értékrend és szervezeti kultúra szilárd alapot jelent a váltáshoz, miközben Péter bízni tud a fiában és az évek során megszerzett tudásra épülő döntéseiben is. A cél közös, értékeket továbbvinni, újakat teremteni – úgy haladni előre, hogy közben megmaradjon a cég szíve és lelke: a család.
