@@ -59,6 +59,8 @@ alapokat és a precizitást tartja a legnagyobb példának.
 
 „A Dewa Zrt. nemcsak tulajdonosi szinten családi vállalkozás, hanem a mindennapi munkánkban is átjárja ez a szemlélet a céget. Számunkra természetes, hogy az irodában is önazonosak maradunk, és ahogy a cég formált minket, úgy formáltuk mi is a vállalati kultúrát. A kollégák nálunk nem csupán munkatársak, hanem egy összetartó, családközpontú közösség tagjai, ahol az őszinte kapcsolatoknak és a kölcsönös támogatásnak is fontos szerepe van. A közös programok régóta részei az életünknek, és ezekre mindig meghívjuk a munkatársak családtagjait is, így ezek az alkalmak igazi baráti és bensőséges eseményekké váltak.”
 
+![A Dewa Zrt. budaörsi központjának kollégái és családtagjaik](/csoportkep.jpeg "A Dewa Zrt. budaörsi központjának kollégái és családtagjaik")
+
 ### **Bizalommal továbbadni, elkötelezetten továbbépíteni - jövőkép**
 
 A generációváltás nem könnyű – Patrick szerint ez sokszor „egyfajta harc a szülőkkel”, ahol az irányítás átadásához türelemre, kölcsönös bizalomra és nyitottságra van szükség. A fiatalabb nemzedék új ötleteket, más szemléletet hoz, ami kezdetben ütközhet a korábbi renddel, de hosszú távon erősséggé válhat. 
