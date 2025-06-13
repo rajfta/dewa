@@ -18,12 +18,13 @@ seo:
     szóló története.
 ---
 
-A Dewa Zrt. története 1991-ben kezdődött, amikor Buczkó Péter, Ursz József és a később kivásárolt Bradács Géza úgy döntöttek, hogy kiválnak az addigi állami cégtől (HAFE – Hajtások és Festőberendezések), ahol kollégaként dolgoztak, és Péter felesége, Ariela De Ambrosi bevonásával saját magánvállalkozásba kezdenek.\
+A Dewa Zrt. története 1991-ben kezdődött, amikor Buczkó Péter, Ursz József és a később kivásárolt Bradács Géza úgy döntöttek, hogy kiválnak az addigi állami cégtől (HAFE – Hajtások és Festőberendezések), ahol kollégaként dolgoztak, és Péter felesége, Ariela De Ambrosi bevonásával saját magánvállalkozásba kezdenek.
+
 A vállalkozás két telephelyen kezdte meg működését: Péter vezette a budaörsi, József pedig a békéscsabai központot. A szakmai alapokat a korábbi munkahelyükön szerzett tapasztalatokra építették, de tevékenységük fókuszát tudatosan szűkítették: a HAFE széles profiljából csak pár szeletet, de annál megalapozottabb területet vittek tovább. Stratégiájukat az akkori piaci helyzetre, az erős keresletre és gyenge kínálatra alapozták, és két alappillérre építették: egyrészt hosszú távú, bizalmon alapuló partnerkapcsolatok kialakítására nyugat-európai gyártókkal, másrészt a hazai kereslet pontos és rugalmas kiszolgálására.
 
 Bár akkoriban még nem láthatták előre, ez a tudatos, értékalapú szemlélet nemcsak a vállalkozás elindítását tette sikeressé, hanem a Dewa Zrt. máig tartó fejlődésének is szilárd alapját képzi.
 
-![A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza](/alapitas.jpg "A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza")![](/alapitas.jpg "Az alapítók csoportképe:")
+![A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza](/alapitas.jpg "A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza")![A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza](/alapitas.jpg "A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza")
 
 ### **Generációk találkozása – Patrick becsatlakozása**
 
