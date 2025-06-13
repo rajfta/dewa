@@ -23,7 +23,7 @@ A vállalkozás két telephelyen kezdte meg működését: Péter vezette a buda
 
 Bár akkoriban még nem láthatták előre, ez a tudatos, értékalapú szemlélet nemcsak a vállalkozás elindítását tette sikeressé, hanem a Dewa Zrt. máig tartó fejlődésének is szilárd alapját képzi.
 
-![](/alapitas.jpg "Az alapítók csoportképe")
+![A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza](/alapitas.jpg "A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza")![](/alapitas.jpg "Az alapítók csoportképe:")
 
 ### **Generációk találkozása – Patrick becsatlakozása**
 
