@@ -42,7 +42,7 @@ Patrickot az édesapja invitálta a cégbe, motivációiról a következőket mo
 
 ### **Szerepek és egyensúly - az összhang kialakítása**
 
-*Hogyan képzeljük el Titeket családként és kollégákként? Milyen nehézségekkel kellett megküzdenetek az évek során?* – Tettem fel következő kérdésem.
+*Hogyan képzeljük el Titeket családként és kollégákként? Milyen nehézségekkel kellett megküzdenetek az évek során?* 
 
 „Családként együtt dolgozni egyszerre jelent örömöt és kihívást” – kezdte Péter. „Ariela, a feleségem vezeti a pénzügyi területet, így hárman vagyunk jelen a családból a budaörsi központban. Tudatosan ügyelünk arra, hogy a családi és munkahelyi szerepeket különválasszuk – otthon próbálunk nem beszélni a munkáról, az
 irodában nem ülünk egymás mellé, nem egymást keressük először, mégis van egy hagyomány, amit megtartottunk: minden nap együtt ebédelünk.”
