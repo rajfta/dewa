@@ -37,7 +37,7 @@ Patrickot az édesapja invitálta a cégbe, motivációiról a következőket mo
 
 ,,Akkoriban nem gondolkodtam még tudatosan azon, ki lesz a budaörsi központ következő vezetője, de megtetszett a gondolat, hogy a családban maradjon a vállalkozás. Nem az volt a cél, hogy mindenáron együtt dolgozzunk, hanem, hogy Patrick saját tapasztalatain keresztül ismerje meg a vállalkozást, hogy el tudja dönteni, mennyire érzi magáénak azt.”
 
-![](/honlapra.jpg "Buczkó Péter és Patrick")
+![](/Buczko_Peter_es_Patrick.jpg "Buczkó Péter és Patrick")
 
 ### **Szerepek és egyensúly - az összhang kialakítása**
 
