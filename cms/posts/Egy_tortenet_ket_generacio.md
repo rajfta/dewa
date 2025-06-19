@@ -18,11 +18,11 @@ seo:
     szóló története.
 ---
 
-A Dewa Zrt. története 1991-ben kezdődött, amikor Buczkó Péter, Ursz József és a (később kivásárolt) Bradács Géza úgy döntöttek, hogy kiválnak az addigi állami cégtől (HAFE – Hajtások és Festőberendezések), ahol kollégaként dolgoztak, és Péter felesége, Ariela De Ambrosi bevonásával saját magánvállalkozásba kezdenek.
+A Dewa Zrt. története 1990 szeptember 30-án kezdődött, amikor Buczkó Péter, Ursz József és a (később kivásárolt) Bradács Géza úgy döntöttek, hogy kiválnak az addigi állami cégtől (HAFE – Hajtóművek és Festőberendezések Gyára), ahol kollégaként dolgoztak, és Péter felesége, Ariela De Ambrosi bevonásával saját magánvállalkozásba kezdenek.
 
 A vállalkozás két telephelyen kezdte meg működését: Péter vezette a budaörsi, József pedig a békéscsabai központot. A szakmai alapokat a korábbi munkahelyükön szerzett tapasztalatokra építették, de tevékenységük fókuszát tudatosan szűkítették: a HAFE széles profiljából csak pár szeletet, de annál megalapozottabb területet vittek tovább. Stratégiájukat az akkori piaci helyzetre, az erős keresletre és gyenge kínálatra alapozták, és két alappillérre építették: egyrészt hosszú távú, bizalmon alapuló partnerkapcsolatok kialakítására nyugat-európai gyártókkal, másrészt a hazai kereslet pontos és rugalmas kiszolgálására.
 
-Bár akkoriban még nem láthatták előre, ez a tudatos, értékalapú szemlélet nemcsak a vállalkozás elindítását tette sikeressé, hanem a Dewa Zrt. máig tartó fejlődésének is szilárd alapját képzi.
+Bár akkoriban még nem láthatták előre, ez a tudatos, értékalapú szemlélet nemcsak a vállalkozás elindítását tette sikeressé, hanem az akkor még Dewa Kft., mára már Dewa Zrt. máig tartó fejlődésének is szilárd alapját képzi.
 
 ![A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza](/alapitas.jpg "A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza")
 
@@ -42,7 +42,7 @@ Patrickot az édesapja invitálta a cégbe, motivációiról a következőket mo
 
 ### **Szerepek és egyensúly - az összhang kialakítása**
 
-*Hogyan képzeljük el Titeket családként és kollégákként? Milyen nehézségekkel kellett megküzdenetek az évek során?* 
+*Hogyan képzeljük el Titeket családként és kollégákként? Milyen nehézségekkel kellett megküzdenetek az évek során?*
 
 „Családként együtt dolgozni egyszerre jelent örömöt és kihívást” – kezdte Péter. „Ariela, a feleségem vezeti a pénzügyi területet, így hárman vagyunk jelen a családból a budaörsi központban. Tudatosan ügyelünk arra, hogy a családi és munkahelyi szerepeket különválasszuk – otthon próbálunk nem beszélni a munkáról, az
 irodában nem ülünk egymás mellé, nem egymást keressük először, mégis van egy hagyomány, amit megtartottunk: minden nap együtt ebédelünk.”
@@ -63,6 +63,6 @@ alapokat és a precizitást tartja a legnagyobb példának.
 
 ### **Bizalommal továbbadni, elkötelezetten továbbépíteni - jövőkép**
 
-A generációváltás nem könnyű – Patrick szerint ez sokszor „egyfajta harc a szülőkkel”, ahol az irányítás átadásához türelemre, kölcsönös bizalomra és nyitottságra van szükség. A fiatalabb nemzedék új ötleteket, más szemléletet hoz, ami kezdetben ütközhet a korábbi renddel, de hosszú távon erősséggé válhat. 
+A generációváltás nem könnyű – Patrick szerint ez sokszor „egyfajta harc a szülőkkel”, ahol az irányítás átadásához türelemre, kölcsönös bizalomra és nyitottságra van szükség. A fiatalabb nemzedék új ötleteket, más szemléletet hoz, ami kezdetben ütközhet a korábbi renddel, de hosszú távon erősséggé válhat.
 
 Péter viszont mára már nyugodt szívvel ad teret ennek a lendületnek, mert mindketten tudják: a vállalatnál kialakult értékrend és szervezeti kultúra szilárd alapot jelent a váltáshoz, miközben Péter bízni tud a fiában és az évek során megszerzett tudásra épülő döntéseiben is. A cél közös, értékeket továbbvinni, újakat teremteni – úgy haladni előre, hogy közben megmaradjon a cég szíve és lelke: a család.
