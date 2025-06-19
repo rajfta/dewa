@@ -18,7 +18,7 @@ seo:
     szóló története.
 ---
 
-A Dewa Zrt. története 1990 szeptember 30-án kezdődött, amikor Buczkó Péter, Ursz József és a (később kivásárolt) Bradács Géza úgy döntöttek, hogy kiválnak az addigi állami cégtől (HAFE – Hajtóművek és Festőberendezések Gyára), ahol kollégaként dolgoztak, és Péter felesége, Ariela De Ambrosi bevonásával saját magánvállalkozásba kezdenek.
+A Dewa Zrt. története 1990. szeptember 30-án kezdődött, amikor Buczkó Péter, Ursz József és a (későbbiekben kivásárolt) Bradács Géza úgy döntöttek, hogy kiválnak az addigi állami cégtől (HAFE – Hajtóművek és Festőberendezések Gyára), ahol kollégaként dolgoztak, és Péter felesége, Ariela De Ambrosi bevonásával saját magánvállalkozásba kezdenek.
 
 A vállalkozás két telephelyen kezdte meg működését: Péter vezette a budaörsi, József pedig a békéscsabai központot. A szakmai alapokat a korábbi munkahelyükön szerzett tapasztalatokra építették, de tevékenységük fókuszát tudatosan szűkítették: a HAFE széles profiljából csak pár szeletet, de annál megalapozottabb területet vittek tovább. Stratégiájukat az akkori piaci helyzetre, az erős keresletre és gyenge kínálatra alapozták, és két alappillérre építették: egyrészt hosszú távú, bizalmon alapuló partnerkapcsolatok kialakítására nyugat-európai gyártókkal, másrészt a hazai kereslet pontos és rugalmas kiszolgálására.
 
@@ -50,8 +50,7 @@ irodában nem ülünk egymás mellé, nem egymást keressük először, mégis v
 A határok kijelölése azonban csak az első lépés volt – a közös munka kiegyensúlyozott dinamikája egy hosszabb tanulási folyamat eredménye. Mindannyiuknak nehéz volt kilépni a szülő-gyermek szerepből, de idővel oldódott a generációs hierarchia. Ma már a döntéseket csapatként hozzák: megvitatják, mérlegelnek, és közösen döntenek – ami nemcsak a családjukra, hanem az egész cég működésére is jellemző. Péter az évek alatt egyre több feladatot és felelősséget bízott fiára, és mára már nyitott Patrick újító szemléletére is:„Ismeri, hogyan gondolkodom, aztán megoldja úgy, ahogy szerinte a legjobb” – mondja egyre
 többször.
 
-Ezek után megkérdeztem tőlük, ki mit tanult vagy értékel leginkább a másikban. A válaszokból gyorsan kirajzolódott, hogy a kölcsönös tisztelet az alap: az idősebb generáció különösen nagyra tartja, hogy a fiatalabb kiemelkedően jó a kapcsolatok építésében, és új energiát hoz a csapatba, míg ő maga a szakmai
-alapokat és a precizitást tartja a legnagyobb példának.
+Ezután arra kértem őket, hogy osszák meg mit tanultak a másiktól, illetve mit értékelnek leginkább a másikban. A válaszokból gyorsan kirajzolódott, hogy a kölcsönös tisztelet az alap: az idősebb generáció különösen nagyra tartja, hogy a fiatalabb kiemelkedően jó a kapcsolatok építésében, és új energiát hoz a csapatba, míg ő maga a szakmai alapokat és a precizitást tartja a legnagyobb példának.
 
 ### **Családi értékek a munkahelyen - a Dewa szellemisége**
 
