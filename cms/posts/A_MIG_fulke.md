@@ -5,7 +5,7 @@ excerpt: >-
   A katonai repülőgépek festése nem mindennapi feladat: egyszerre technológiai
   kihívás és biztonsági felelősség. Olvasd el a cikket, és ismerd meg, hogyan
   vesz részt a Dewa Zrt. több mint 25 éve a honvédség munkájában!
-coverImage: ''
+coverImage: /MIG_29.JPG
 seo:
   title: Katonai gépek festése I MIG fülke
   description: A Dewa Zrt. által telepített Blowtherm festőfülke a Honvédség falain belül
