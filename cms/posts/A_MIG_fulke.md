@@ -14,6 +14,8 @@ seo:
 Az elmúlt évek eseményei sajnálatos módon aktuálissá tették a háború és béke kérdését, azt viszont örömmel mondhatjuk, hogy már többször dolgoztunk ebben a rendkívül szűk és speciális szegmensben. A katonai repülőeszközök festése – legyen szó harci helikopterekről, csapatszállító, teher- vagy vadászgépekről – nem csupán technikai kihívás, de komoly felelősség is. Az évek során több megrendelést kaptunk hazai NATO és nemzeti légibázisoktól komplett vadászgép-festőfülke, valamint helikopter- és nagyméretű repülőalkatrészek festésére alkalmas rendszerek tervezésére és kivitelezésére, a következőkben a szegmens legspeciálisabb
 projektjéről olvashatnak.
 
+![](</Céges előadás.png>)
+
 # Egy különleges projekt emléke, a ,,MIG fülke"
 
 Az 1937-ben átadott kecskeméti légibázis, mai nevén a Magyar Honvédség vitéz Szentgyörgyi Dezső 101. Repülődandár szerepe mindig kiemelten fontos volt a magyar hadtörténelem életében, és büszkék vagyunk arra, hogy ennek mi is részesei lehetünk!
@@ -22,9 +24,11 @@ Cégünk 1997-ben építette a bázisra a mai napig használatban lévő fényez
 repülőgépek festési karbantartási munkákhoz használnak. Ezt akkoriban cégen belül „MIG fülkének” neveztük – akkortájt MIG-29-es gépek voltak szolgálatban –, mely több szempontból is különleges projektnek számított:
 
 * Kültéri telepítés: a fényezőfülkét fogadó épülettel együtt, teljes fővállalkozásban építettük fel
-* Szokatlan belső, hasznos méretek: 22 m hosszú, 6 m magas, 15 m széles 
+* Szokatlan belső, hasznos méretek: 22 m hosszú, 6 m magas, 15 m széles
 * Speciális kapumegoldás: extra széles, repülő hangárokra tervezve
 * Többfunkciós használat: a karbantartási munkák mellett dekorációs festések is zajlanak benne
 * Elismerés a helyszínen: emlékmakettet kaptunk a helyi személyzettől
 
 Büszkeséggel tölt el minket, hogy a fülke a mai napig használatban van, és több mint 25 év távlatából is kiválóan szolgálja a katonai repülőgépek festési igényeit. Ez a projekt ma is élő bizonyítéka annak, hogy tartós, precízen tervezett rendszereink a legszigorúbb követelményeknek is megfelelnek – akár katonai környezetben is.
+
+![](/MIG.jpg)
