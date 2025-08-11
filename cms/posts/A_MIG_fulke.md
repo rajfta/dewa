@@ -5,7 +5,7 @@ excerpt: >-
   A katonai repülőgépek festése nem mindennapi feladat: egyszerre technológiai
   kihívás és biztonsági felelősség. Olvasd el a cikket, és ismerd meg, hogyan
   vesz részt a Dewa Zrt. több mint 25 éve a honvédség munkájában!
-coverImage: /MiG-29_game_over_11.JPG
+coverImage: ''
 seo:
   title: Katonai gépek festése I MIG fülke
   description: A Dewa Zrt. által telepített Blowtherm festőfülke a Honvédség falain belül
@@ -16,7 +16,7 @@ projektjéről olvashatnak.
 
 ![](</Céges előadás.png>)
 
-# Egy különleges projekt emléke, a ,,MIG fülke"
+## Egy különleges projekt emléke, a ,,MIG fülke"
 
 Az 1937-ben átadott kecskeméti légibázis, mai nevén a Magyar Honvédség vitéz Szentgyörgyi Dezső 101. Repülődandár szerepe mindig kiemelten fontos volt a magyar hadtörténelem életében, és büszkék vagyunk arra, hogy ennek mi is részesei lehetünk!
 
