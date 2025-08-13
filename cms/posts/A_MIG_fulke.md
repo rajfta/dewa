@@ -14,8 +14,6 @@ seo:
 Az elmúlt évek eseményei sajnálatos módon aktuálissá tették a háború és béke kérdését, azt viszont örömmel mondhatjuk, hogy már többször dolgoztunk ebben a rendkívül szűk és speciális szegmensben. A katonai repülőeszközök festése – legyen szó harci helikopterekről, csapatszállító, teher- vagy vadászgépekről – nem csupán technikai kihívás, de komoly felelősség is. Az évek során több megrendelést kaptunk hazai NATO és nemzeti légibázisoktól komplett vadászgép-festőfülke, valamint helikopter- és nagyméretű repülőalkatrészek festésére alkalmas rendszerek tervezésére és kivitelezésére, a következőkben a szegmens legspeciálisabb
 projektjéről olvashatnak.
 
-![](</Céges előadás.png>)
-
 **Egy különleges projekt emléke, a ,,MIG fülke"**
 
 Az 1937-ben átadott kecskeméti légibázis, mai nevén a Magyar Honvédség vitéz Szentgyörgyi Dezső 101. Repülődandár szerepe mindig kiemelten fontos volt a magyar hadtörténelem életében, és büszkék vagyunk arra, hogy ennek mi is részesei lehetünk!
