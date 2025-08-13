@@ -14,7 +14,7 @@ seo:
 Az elmúlt évek eseményei sajnálatos módon aktuálissá tették a háború és béke kérdését, azt viszont örömmel mondhatjuk, hogy már többször dolgoztunk ebben a rendkívül szűk és speciális szegmensben. A katonai repülőeszközök festése – legyen szó harci helikopterekről, csapatszállító, teher- vagy vadászgépekről – nem csupán technikai kihívás, de komoly felelősség is. Az évek során több megrendelést kaptunk hazai NATO és nemzeti légibázisoktól komplett vadászgép-festőfülke, valamint helikopter- és nagyméretű repülőalkatrészek festésére alkalmas rendszerek tervezésére és kivitelezésére, a következőkben a szegmens legspeciálisabb
 projektjéről olvashatnak.
 
-![](/repülő.png)
+![A Dewa Zrt. által telepített "MIG fülke"](/MIG.jpg "A Dewa Zrt. által telepített \"MIG fülke\"")
 
 **Egy különleges projekt emléke, a ,,MIG fülke"**
 
