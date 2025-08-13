@@ -27,7 +27,7 @@ repülőgépek festési karbantartási munkákhoz használnak, a mai napig! Ezt 
 * **Szokatlan belső, hasznos méretek:** 22 m hosszú, 6 m magas, 15 m széles
 * **Speciális kapumegoldás**: extra széles, repülő hangárokra tervezve
 * **Többfunkciós használat:** a karbantartási munkák mellett dekorációs festések is zajlanak benne
-* **Elismerés a helyszínen:** emlékmakettet kaptunk a helyi személyzettől
+* **Elismerés a helyszínen:** emlékmakettet kaptunk a helyi személyzettől, melyet a mai napig kiállítva tartunk az irodában
 
 ![A Dewa Zrt. által telepített "MIG fülke" belülről](/repulo.png "A Dewa Zrt. által telepített \"MIG fülke\" belülről")
 
