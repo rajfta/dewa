@@ -29,6 +29,6 @@ repülőgépek festési karbantartási munkákhoz használnak. Ezt akkoriban cé
 * Többfunkciós használat: a karbantartási munkák mellett dekorációs festések is zajlanak benne
 * Elismerés a helyszínen: emlékmakettet kaptunk a helyi személyzettől
 
-Büszkeséggel tölt el minket, hogy a fülke a **mai napig használatban van**, és több mint 25 év távlatából is kiválóan szolgálja a katonai repülőgépek festési igényeit. Ez a projekt ma is élő bizonyítéka annak, hogy tartós, precízen tervezett rendszereink a legszigorúbb követelményeknek is megfelelnek – akár katonai környezetben is.
+![A Dewa Zrt. által telepített "MIG fülke" belülről](/repulo.png "A Dewa Zrt. által telepített \"MIG fülke\" belülről")
 
-![](/MIG.jpg)
+Büszkeséggel tölt el minket, hogy a fülke a **mai napig használatban van**, és több mint 25 év távlatából is kiválóan szolgálja a katonai repülőgépek festési igényeit. Ez a projekt ma is élő bizonyítéka annak, hogy tartós, precízen tervezett rendszereink a legszigorúbb követelményeknek is megfelelnek – akár katonai környezetben is.
