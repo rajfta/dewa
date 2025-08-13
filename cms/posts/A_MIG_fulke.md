@@ -21,13 +21,13 @@ projektjéről olvashatnak.
 Az 1937-ben átadott kecskeméti légibázis, mai nevén a Magyar Honvédség vitéz Szentgyörgyi Dezső 101. Repülődandár szerepe mindig kiemelten fontos volt a magyar hadtörténelem életében, és büszkék vagyunk arra, hogy ennek mi is részesei lehetünk!
 
 Cégünk 1997-ben építette a bázisra a mai napig használatban lévő fényezőfülkét, melyet elsősorban a harci
-repülőgépek festési karbantartási munkákhoz használnak. Ezt akkoriban cégen belül „MIG fülkének” neveztük – akkortájt MIG-29-es gépek voltak szolgálatban –, mely több szempontból is különleges projektnek számított:
+repülőgépek festési karbantartási munkákhoz használnak, a mai napig! Ezt akkoriban cégen belül „MIG fülkének” neveztük – akkortájt MIG-29-es gépek voltak szolgálatban –, mely több szempontból is különleges projektnek számított:
 
-* Kültéri telepítés: a fényezőfülkét fogadó épülettel együtt, teljes fővállalkozásban építettük fel
-* Szokatlan belső, hasznos méretek: 22 m hosszú, 6 m magas, 15 m széles
-* Speciális kapumegoldás: extra széles, repülő hangárokra tervezve
-* Többfunkciós használat: a karbantartási munkák mellett dekorációs festések is zajlanak benne
-* Elismerés a helyszínen: emlékmakettet kaptunk a helyi személyzettől
+* **Kültéri telepítés:** a fényezőfülkét fogadó épülettel együtt, teljes fővállalkozásban építettük fel
+* **Szokatlan belső, hasznos méretek:** 22 m hosszú, 6 m magas, 15 m széles
+* **Speciális kapumegoldás**: extra széles, repülő hangárokra tervezve
+* **Többfunkciós használat:** a karbantartási munkák mellett dekorációs festések is zajlanak benne
+* **Elismerés a helyszínen:** emlékmakettet kaptunk a helyi személyzettől
 
 ![A Dewa Zrt. által telepített "MIG fülke" belülről](/repulo.png "A Dewa Zrt. által telepített \"MIG fülke\" belülről")
 
