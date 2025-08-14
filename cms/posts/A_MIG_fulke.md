@@ -4,7 +4,7 @@ date: 2025-08-11T22:00:00.000Z
 excerpt: >-
   A katonai repülőgépek festése nem mindennapi feladat: egyszerre technológiai
   kihívás és biztonsági felelősség. Olvasd el a cikket, és ismerd meg, hogyan
-  vesz részt a Dewa Zrt. több mint 25 éve a honvédség munkájában!
+  vesz részt a Dewa Zrt. több mint 25 éve a Honvédség munkájában!
 coverImage: /MIG_29.JPG
 seo:
   title: Katonai gépek festése I MIG fülke
@@ -25,7 +25,7 @@ repülőgépek festési karbantartási munkákhoz használnak, a mai napig! Ezt 
 
 * **Kültéri telepítés:** a fényezőfülkét fogadó épülettel együtt, teljes fővállalkozásban építettük fel
 * **Szokatlan belső, hasznos méretek:** 22 m hosszú, 6 m magas, 15 m széles
-* **Speciális kapumegoldás**: extra széles, repülő hangárokra tervezve
+* **Speciális kapumegoldás**: extra széles, repülőhangárokra tervezve
 * **Többfunkciós használat:** a karbantartási munkák mellett dekorációs festések is zajlanak benne
 * **Elismerés a helyszínen:** emlékmakettet kaptunk a helyi személyzettől, melyet a mai napig kiállítva tartunk az irodában
 
