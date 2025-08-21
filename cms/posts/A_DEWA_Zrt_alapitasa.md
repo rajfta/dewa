@@ -5,6 +5,10 @@ excerpt: >-
   Ismerje meg a DEWA Zrt. történetét a kezdetektől napjainkig, fedezze fel
   budaörsi és békéscsabai központunk működését, és ismerje meg, hogyan dolgoznak
   együtt vezetőink a vállalat sikereiért!
+coverImage: /alapitok es fiaik.jpg
+seo:
+  title: A Dewa Zrt. alapítása és jelenlegi működése
+  description: A Dewa Zrt. festőipari cég alapításának története és jelenlegi működése
 ---
 
 A Dewa Zrt. története a ’90-es évek elejéig nyúlik vissza, amikor három kolléga – Ursz József, Buczkó Péter és Bradács Géza – fejében megfogant a közös vállalkozás gondolata. Hosszú éveken át dolgoztak együtt az állami tulajdonú Hajtóművek és Festőberendezések Gyáránál (HAFE), ahol egy nemzetközi projekt keretében több alkalommal is Kínába utaztak, alkalmanként 4-5 hónapokra. Egy szűk, hatfős szakmai csapat tagjaiként egymásra utalva irányították a festősorok felszerelését és beüzemelését– ami idővel szoros barátsággá mélyítette a kapcsolatukat. A kötődésük nemcsak szakmai, hanem személyes síkon is megerősödött: családjaik együtt jártak nyaralni, a magánéletben is közeli viszonyt ápoltak.
