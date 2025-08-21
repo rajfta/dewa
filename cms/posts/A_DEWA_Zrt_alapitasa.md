@@ -13,14 +13,13 @@ Amikor a rendszerváltás után a korábbi munkahelyük megszűnt az ismert műk
 
 ![A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza](/alapitas.jpg "A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza")
 
-Az alapok lefektetése
----------------------
+## Az alapok lefektetése
 
 A cég alapításában négyen vettek részt: József, Péter, Péter felesége, Ariela De Ambrosi, valamint a későbbiekben elhunyt Bradács Géza. A kezdőtőke szerény volt, Péter például saját megtakarásaiból, míg Géza lakáshitelből teremtette elő a szükséges összeget. A vállalkozás eleinte József lakásán, majd két telephelyen kezdte meg működését: Péter vezette a budaörsi, József pedig a békéscsabai központot. A szakmai alapokat korábbi  munkahelyükön szerzett tapasztalataikra építették, ám a tevékenység fókuszát tudatosan szűkítették: a korábbi, széles profillal működő cég kínálatából csak néhány, de annál stabilabb és megalapozottabb területet vittek tovább. Kezdetben elsősorban a festőfülkék és a szórástechnika területére koncentráltak, majd az évek során kibővítették tevékenységi körüket a felületkezelés és a tüzeléstechnika divízióival is.
 
 Stratégiájukat két pillérre építették: egyrészt hosszú távú, bizalmon alapuló kizárólagos partnerkapcsolatok kialakítására a nyugat-európai gyártókkal, másrészt a hazai kereslet pontos és rugalmas kiszolgálására. Bár akkoriban még nem láthatták előre, ez a tudatos, értékalapú szemlélet – amely az emberek közötti megbízhatóságra és a szakmai hitelességre épült – nemcsak a vállalkozás elindítását tette sikeressé, hanem a Dewa Zrt. máig tartó fejlődésének is szilárd alapját képezte.
 
-![](</regi csapat.jpg>)
+![A Dewa Zrt. munkatársai a kezdeti időkben](</regi csapat.jpg> "A Dewa Zrt. munkatársai a kezdeti időkben")![](</regi csapat.jpg> "A")
 
 ## A kibontakozás időszaka
 
@@ -43,8 +42,7 @@ Józsi ezt így egészítette ki: Valóban pozitív ember vagyok, és ha valamib
 
 ![](</Peter es Jozsi.jpg>)
 
-A következő lépések
--------------------
+## A következő lépések
 
 A vállalkozás olyan stabil alapokra épült, hogy mára akár napokra is nyugodt szívvel magára hagyható. Ahogy az Egy történet, két generáció rovatunkban is olvashatták, a cég bővülésével az Ursz- és a Buczkó-család több tagja is csatlakozott a közös munkához. József fia, ifjabb Ursz József veszi majd át a békéscsabai telephely vezetését, míg Péter fia, Buczkó Patrick a budaörsi központ irányítását. Ez az alapítók számára hatalmas könnyebbséget jelent, hiszen az elmúlt évek során számos feladatkört átadhattak nekik, megkönnyítve saját munkájukat, és előkészítve fokozatos visszavonulásukat a napi operatív irányításból. Bár továbbra is szeretik, amit csinálnak – különösen a festőrendszerek kialakítását –, érzik, hogy lassan eljön a stafétabot átadásának ideje. Hiszik, hogy a cég jó kezekben van a következő generációnál, akik a legjobb példát követve viszik majd tovább, és új lendülettel, friss szemlélettel építik tovább a Dewa Zrt. jövőjét.
 
