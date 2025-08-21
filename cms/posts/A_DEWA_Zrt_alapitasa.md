@@ -40,10 +40,10 @@ Péter így fogalmazott: „Amit Józsitól tanultam, az a pozitív hozzáállá
 
 Józsi ezt így egészítette ki: Valóban pozitív ember vagyok, és ha valamiben nem bízom, inkább bele sem kezdek. Hála Istennek, hogy ezekre a dolgokra azonnal ráérzek. Meggyőződésem, hogy legyen szó emberről vagy vállalatról, a fejlődés csak pozitív hozzáállással érhető el. Péter számomra olyan, mintha a testvérem lenne - kapcsolatunk évtizedek óta kiváló, és a közös munka talán még jobban bebiztosította ezt.”
 
-![](</Peter es Jozsi.jpg>)
+![A Dewa Zrt. két központjának vezetői: Buczkó Péter és Ursz József](</Peter es Jozsi.jpg> "A Dewa Zrt. két központjának vezetői: Buczkó Péter és Ursz József")![](</Peter es Jozsi.jpg> "A")
 
 ## A következő lépések
 
 A vállalkozás olyan stabil alapokra épült, hogy mára akár napokra is nyugodt szívvel magára hagyható. Ahogy az Egy történet, két generáció rovatunkban is olvashatták, a cég bővülésével az Ursz- és a Buczkó-család több tagja is csatlakozott a közös munkához. József fia, ifjabb Ursz József veszi majd át a békéscsabai telephely vezetését, míg Péter fia, Buczkó Patrick a budaörsi központ irányítását. Ez az alapítók számára hatalmas könnyebbséget jelent, hiszen az elmúlt évek során számos feladatkört átadhattak nekik, megkönnyítve saját munkájukat, és előkészítve fokozatos visszavonulásukat a napi operatív irányításból. Bár továbbra is szeretik, amit csinálnak – különösen a festőrendszerek kialakítását –, érzik, hogy lassan eljön a stafétabot átadásának ideje. Hiszik, hogy a cég jó kezekben van a következő generációnál, akik a legjobb példát követve viszik majd tovább, és új lendülettel, friss szemlélettel építik tovább a Dewa Zrt. jövőjét.
 
-![](</alapitok es fiaik.jpg>)
+![A Dewa Zrt. jelenlegi és jöbőbeli vezetői: Buczkó Patrick, Buckó Péter, Ursz József és ifjabb Ursz József](</alapitok es fiaik.jpg> "A Dewa Zrt. jelenlegi és jöbőbeli vezetői: Buczkó Patrick, Buckó Péter, Ursz József és ifjabb Ursz József")![](</alapitok es fiaik.jpg> "A")
