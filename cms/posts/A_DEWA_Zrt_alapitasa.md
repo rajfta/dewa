@@ -44,7 +44,7 @@ Péter így fogalmazott: „Amit Józsitól tanultam, az a pozitív hozzáállá
 
 Józsi ezt így egészítette ki: Valóban pozitív ember vagyok, és ha valamiben nem bízom, inkább bele sem kezdek. Hála Istennek, hogy ezekre a dolgokra azonnal ráérzek. Meggyőződésem, hogy legyen szó emberről vagy vállalatról, a fejlődés csak pozitív hozzáállással érhető el. Péter számomra olyan, mintha a testvérem lenne - kapcsolatunk évtizedek óta kiváló, és a közös munka talán még jobban bebiztosította ezt.”
 
-![A Dewa Zrt. két központjának vezetői: Buczkó Péter és Ursz József](</Peter es Jozsi.jpg> "A Dewa Zrt. két központjának vezetői: Buczkó Péter és Ursz József")![](</Peter es Jozsi.jpg> "A")
+![A Dewa Zrt. két központjának vezetői: Buczkó Péter és Ursz József](</Peter es Jozsi.jpg> "A Dewa Zrt. két központjának vezetői: Buczkó Péter és Ursz József")
 
 ## Lépések a jövő felé
 
