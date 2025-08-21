@@ -16,7 +16,7 @@ projektjéről olvashatnak.
 
 ![A Dewa Zrt. által telepített "MIG fülke"](/MIG.jpg "A Dewa Zrt. által telepített \"MIG fülke\"")
 
-**Egy különleges projekt emléke, a ,,MIG fülke"**
+## **Egy különleges projekt emléke, a ,,MIG fülke"**
 
 Az 1937-ben átadott kecskeméti légibázis, mai nevén a Magyar Honvédség vitéz Szentgyörgyi Dezső 101. Repülődandár szerepe mindig kiemelten fontos volt a magyar hadtörténelem életében, és büszkék vagyunk arra, hogy ennek mi is részesei lehetünk!
 
