@@ -26,7 +26,7 @@ Bár akkoriban még nem láthatták előre, ez a tudatos, értékalapú szemlél
 
 ![A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza](/alapitas.jpg "A Dewa Zrt. alapítói: Buczkó Péter, Ariela De Ambrosi, Ursz József és Bradács Géza")
 
-### **Generációk találkozása – Patrick becsatlakozása**
+## **Generációk találkozása – Patrick becsatlakozása**
 
 Ahogy a cég évről évre fejlődött, a tulajdonosok családjai is bővültek – a cég mellett felnövő gyerekek közül többen is közelebb kerültek a vállalkozás világához. A továbbiakban Buczkó Péternek és fiának, Patricknak a történetét követjük, valamint azt, hogyan vált utóbbi aktív résztvevőjévé a budaörsi központ életének.
 
@@ -40,7 +40,7 @@ Patrickot az édesapja invitálta a cégbe, motivációiról a következőket mo
 
 ![Buczkó Patrick és Buczkó Péter](/Buczko_Peter_es_Patrick.jpg "Buczkó Patrick és Buczkó Péter")
 
-### **Szerepek és egyensúly - az összhang kialakítása**
+## **Szerepek és egyensúly - az összhang kialakítása**
 
 *Hogyan képzeljünk el Titeket családként és kollégákként? Milyen nehézségekkel kellett megküzdenetek az évek során?*
 
@@ -52,7 +52,7 @@ többször.
 
 Ezután arra kértem őket, hogy osszák meg mit tanultak a másiktól, illetve mit értékelnek leginkább a másikban. A válaszokból gyorsan kirajzolódott, hogy a kölcsönös tisztelet az alap: az idősebb generáció különösen nagyra tartja, hogy a fiatalabb kiemelkedően jó a kapcsolatok építésében, és új energiát hoz a csapatba, míg ő maga a szakmai alapokat és a precizitást tartja a legnagyobb példának.
 
-### **Családi értékek a munkahelyen - a Dewa szellemisége**
+## **Családi értékek a munkahelyen - a Dewa szellemisége**
 
 *Péter, hogyan jelennek meg a családi értékek a munkahelyen, a Dewa mindennapi működésében?*
 
@@ -60,7 +60,7 @@ Ezután arra kértem őket, hogy osszák meg mit tanultak a másiktól, illetve 
 
 ![A Dewa Zrt. budaörsi központjának kollégái és családtagjaik](/csoportkep.jpeg "A Dewa Zrt. budaörsi központjának kollégái és családtagjaik")
 
-### **Bizalommal továbbadni, elkötelezetten továbbépíteni - jövőkép**
+## **Bizalommal továbbadni, elkötelezetten továbbépíteni - jövőkép**
 
 A generációváltás nem könnyű – Patrick szerint ez sokszor „egyfajta harc a szülőkkel”, ahol az irányítás átadásához türelemre, kölcsönös bizalomra és nyitottságra van szükség. A fiatalabb nemzedék új ötleteket, más szemléletet hoz, ami kezdetben ütközhet a korábbi renddel, de hosszú távon erősséggé válhat.
 
