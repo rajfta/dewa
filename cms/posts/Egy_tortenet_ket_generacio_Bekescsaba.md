@@ -7,6 +7,7 @@ excerpt: >-
   Egy központ irányítása nehéz és összetett feladat, különösen, ha a stafétát is
   át kell adni. Olvassa el cikkünket és ismerje meg közelebbről, hogyan működik
   a békéscsabai központ, és miként készül az Ursz család a generációváltásra!
+coverImage: /Urszek.jpg
 seo:
   title: >-
     Egy történet – két generáció: a központ és az Ursz család Békéscsabán
@@ -50,4 +51,4 @@ Ahogy korábban is említettük, a békéscsabai központban az Ursz család tö
 
 Bár a család nap mint nap együtt dolgozik, tudatosan különválasztják a munkát és a magánéletet: a hétvégi közös ebédek a személyes kapcsolódásról szólnak, nem pedig az üzletről – otthon a cég nem kerül szóba. Ennek ellenére a családi jelleg mégis átszövi a békéscsabai központ mindennapjait: a hangulat barátságos, jókedvű, a kollégák barátként fordulnak egymáshoz, valódi közösséget alkotva. József így fogalmazott:
 
-> „Azt hiszem, ez a cég legnagyobb értéke – az a bizalom és összetartás, ami közöttünk van. Éppen ezért mindenkinek szabad kezet adok a saját területén, mert tudom, számíthatok rájuk. Meggyőződésem, hogy a Dewa egy aranytojást tojó tyúk: olyan vállalkozás, amire mindig lesz igény, akárhogyan is változik a piac vagy a technológia. Ha jól vezetjük, és folyamatosan fejlesztjük, a Dewa generációkon át sikeresen működhet még – és örömmel látom, hogy Józsi lassan készen áll, hogy átvegye a irányítást. Teljes szívvel bízom benne, hogy az ő kezei alatt a cég és a békéscsabai központ nemcsak megőrzi értékeit, hanem egy még szebb jövő felé halad majd tovább.”
+> „Azt hiszem, ez a cég legnagyobb értéke – az a bizalom és összetartás, ami közöttünk van. Éppen ezért mindenkinek szabad kezet adok a saját területén, mert tudom, számíthatok rájuk. Meggyőződésem, hogy a Dewa egy aranytojást tojó tyúk: olyan vállalkozás, amire mindig lesz igény, akárhogyan is változik a piac vagy a technológia. Ha jól vezetjük, és folyamatosan fejlesztjük, a Dewa generációkon át sikeresen működhet még – és örömmel látom, hogy Józsi lassan készen áll, hogy átvegye a irányítást. Teljes szívvel bízom benne, hogy az ő kezei alatt a cég és a békéscsabai központ nemcsak megőrzi értékeit, hanem egy még szebb jövő felé halad majd tovább."
