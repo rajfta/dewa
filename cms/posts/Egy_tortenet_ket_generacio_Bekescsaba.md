@@ -22,6 +22,8 @@ A békéscsabai csapat kezdetben egyszemélyes volt: József éveken át egyedü
 
 A következőkben közelebbről is bemutatjuk a békéscsabai központ működését, valamint azt, hogyan kapcsolódott be ifjabb Ursz József a napi irányításba, és miként készül arra, hogy továbbvigye édesapja szakmai és emberi örökségét.
 
+![A Dewa Zrt. munkatársai a kezdeti időkben](</regi csapat 2.jpg> "A Dewa Zrt. munkatársai a kezdeti időkben")
+
 ## A békéscsabai csapat bővülése és ifjabb Ursz József becsatlakozása
 
 Ifjabb Ursz József 16 éve kapcsolódott be a Dewa Zrt. mindennapi életébe, amikor édesapja felkérte, hogy jöjjön a céghez dolgozni: „Próbálja meg, és nézz meg, hogyan érzi magát, mit kell csinálni, de nem kötelező jelleggel.” – mondta neki anno. Addig élsportolóként tevékenykedett, és versenyszerűen futballozott, ezért a cég tevékenysége iránt kevésbé érdeklődött, de maga a vállalat nem volt idegen számára, hiszen már kisiskolás korától rendszeresen járt a cégalapító családokkal közös nyaralásokra, és tudta, hogy sikeres, hisz elsőkézből tapasztalhatta a családján keresztül.
