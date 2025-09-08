@@ -32,6 +32,8 @@ A kezdetekre így emlékezett vissza:
 
 Eleinte nem volt könnyű számára eligazodni a szerverek és a vállalat sokszínű tevékenységi körei között, de hamar ráérzett az összefüggésekre és a cég működésének logikájára, az évek során pedig egyre nagyobb rálátásra és tudásra tett szert. Ma már ő vezeti a raktár részleget és a szervizcsapatot, amellett, hogy a logisztikai és pénzügyi feladatokért is ő felel.
 
+![A békéscsabai központ vezetői: Ursz József és fia, ifjabb Ursz József](/Urszek.jpg "A békéscsabai központ vezetői: Ursz József és fia, ifjabb Ursz József")
+
 ## A csatlakozás utáni kibontakozás – egy új vezető születése
 
 Egy családi vállalkozásba való bekapcsolódás gyakran tartogat nehézségeket, ám az Ursz család esetében ez természetesen, problémák nélkül történt. Édesapja így emlékezett vissza rá:
