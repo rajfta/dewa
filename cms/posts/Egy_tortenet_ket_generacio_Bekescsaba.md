@@ -22,25 +22,25 @@ A békéscsabai csapat kezdetben egyszemélyes volt: József éveken át egyedü
 
 A következőkben közelebbről is bemutatjuk a békéscsabai központ működését, valamint azt, hogyan kapcsolódott be ifjabb Ursz József a napi irányításba, és miként készül arra, hogy továbbvigye édesapja szakmai és emberi örökségét.
 
-### A békéscsabai csapat bővülése és ifjabb Ursz József becsatlakozása
+## A békéscsabai csapat bővülése és ifjabb Ursz József becsatlakozása
 
 Ifjabb Ursz József 16 éve kapcsolódott be a Dewa Zrt. mindennapi életébe, amikor édesapja felkérte, hogy jöjjön a céghez dolgozni: „Próbálja meg, és nézz meg, hogyan érzi magát, mit kell csinálni, de nem kötelező jelleggel.” – mondta neki anno. Addig élsportolóként tevékenykedett, és versenyszerűen futballozott, ezért a cég tevékenysége iránt kevésbé érdeklődött, de maga a vállalat nem volt idegen számára, hiszen már kisiskolás korától rendszeresen járt a cégalapító családokkal közös nyaralásokra, és tudta, hogy sikeres, hisz elsőkézből tapasztalhatta a családján keresztül.
 
-A kezdetekre így emlékezett vissza: 
+A kezdetekre így emlékezett vissza:
 
 > „Tizenhat évvel ezelőtt még csak segédmunkásként dolgoztam berendezéseink szerelésein, így közvetlenül ismerhettem meg azok összeállítását. Kellner Oszkár – az akkori főszervizes – mellett tanultam a szervizelés fortélyait, a szervizelésekhez szükséges alapanyagok összeállítását. Aki idővel megismertette velem a logisztikai és pénzügyi feladatok világát, az a Kovács András, az akkori logisztikai szakemberünk volt. Szakmailag és emberileg is rengeteget köszönhetek mindkettőjüknek.”
 
 Eleinte nem volt könnyű számára eligazodni a szerverek és a vállalat sokszínű tevékenységi körei között, de hamar ráérzett az összefüggésekre és a cég működésének logikájára, az évek során pedig egyre nagyobb rálátásra és tudásra tett szert. Ma már ő vezeti a raktár részleget és a szervizcsapatot, amellett, hogy a logisztikai és pénzügyi feladatokért is ő felel.
 
-### A csatlakozás utáni kibontakozás – egy új vezető születése
+## A csatlakozás utáni kibontakozás – egy új vezető születése
 
-Egy családi vállalkozásba való bekapcsolódás gyakran tartogat nehézségeket, ám az Ursz család esetében ez természetesen, problémák nélkül történt. Édesapja így emlékezett vissza rá: 
+Egy családi vállalkozásba való bekapcsolódás gyakran tartogat nehézségeket, ám az Ursz család esetében ez természetesen, problémák nélkül történt. Édesapja így emlékezett vissza rá:
 
 > „Valószínűleg azért ment különösebb nehézségek nélkül, mert mindig nagyon jó kapcsolatunk volt a fiammal – soha nem okozott gondot, hogy megtaláljuk a közös hangot. A szervizcsapat is azonnal befogadta, ami sokat segített a beilleszkedésében. Láttam rajta, hogy tényleg érdekli, amit csinál, és komolyan is veszi, így fokozatosan egyre több felelősséget adtam át neki. Mára végigjárta a ranglétrát, és teljes mértékben megbízom benne – szakmailag és emberileg egyaránt. Ha a kapcsolatrendszerem miatt engem keresnek meg az ügyfelek, gondolkodás nélkül továbbirányítom őket Józsihoz, és nyugodt szívvel rábízom az üzletelést.”
 
 Ahhoz, hogy ifjabb József eljusson idáig rengeteget kellett fejlődnie szakmailag, mellyel párhuzamosan a hozzáállása is átalakult. Ami kezdetben csupán munkahely volt számára, mára jövőképpé vált: felismerte, hogy a Dewa Zrt.-ben nemcsak lehetőség van, hanem hosszú távú perspektíva is – a saját, a gyermekeinek és akár majdani unokáinak jövője számára.
 
-### Családi szerepek és értékek a központban – a jövő felé
+## Családi szerepek és értékek a központban – a jövő felé
 
 Ahogy korábban is említettük, a békéscsabai központban az Ursz család több tagja is aktív szerepet vállal: ifjabb József mellett jelen van nővére, Judit, valamint felesége, Lejla is. Mindannyian kiveszik a részüket a vállalat működéséből – Judit jogászként a cég jogi ügyeiért felel, míg Lejla az üzletfejlesztési feladatokat látja el, elsősorban kiépített kapcsolatrendszerére és kiváló kommunikációs készségeire támaszkodva.
 
