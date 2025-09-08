@@ -2,14 +2,14 @@
 title: >-
   Egy történet, két generáció – Hogyan építkezik tovább családi alapokra a Dewa
   Zrt. budaörsi központja?
-date: '2025-06-12T22:00:00.000Z'
+date: 2025-06-12T22:00:00.000Z
 excerpt: >-
   Az út nem volt mindig egyszerű, de a kitartás és a kölcsönös tisztelet
   segített megtalálni az összhangot. Buczkó Péter és fia, Patrick, a családi
   értékeket szem előtt tartva, közös célért dolgoznak, hogy a budaörsi központ
   jövője még fényesebb legyen. Olvasd el a történetüket, és ismerd meg, hogyan
   alakítják együtt a vállalat következő fejezetét!
-coverImage: /budaors.jpg
+coverImage: /Buczko_Peter_es_Patrick.jpg
 seo:
   title: Generációk együttműködése I Dewa Zrt.
   description: >-
