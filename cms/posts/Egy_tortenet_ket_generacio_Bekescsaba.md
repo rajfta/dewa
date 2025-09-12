@@ -9,9 +9,7 @@ excerpt: >-
   a békéscsabai központ, és miként készül az Ursz család a generációváltásra!
 coverImage: /Urszek.jpg
 seo:
-  title: >-
-    Egy történet – két generáció: a központ és az Ursz család Békéscsabán
-    –együtt haladva, egymást formálva
+  title: Generációk együttműködése I Békéscsaba
   description: A Dewa Zrt. festőipari cég békéscsabai központjának működése és irányítása
 ---
 
