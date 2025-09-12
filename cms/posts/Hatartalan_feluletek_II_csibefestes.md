@@ -6,14 +6,15 @@ excerpt: >-
   sikerrel vettük az akadályt! Olvassa el cikkünket, és ismerje meg hogyan
   alakítottuk át az ipari festéstechnikát biztonságos, állatbarát megoldássá egy
   keltetőüzem számára!
-coverImage: /csibek.jpg
+coverImage: /csibe.png
 seo:
   title: Határtalan felületek I Csibefestés
   description: A Dewa Zrt. speciális megoldása egy keltetőüzem számára
 ---
 
-A Dewa Zrt.-hez 2024-ben nem mindennapi megkeresés érkezett: egy mezőörsi keltetőüzem kért tőlünk megoldást arra, hogy a keltetést követő szexálási folyamatot – vagyis a hím és nőstény csibék szétválasztását –
-egy speciális színezési rendszerrel tegyék pontosabbá és ellenőrizhetőbbé. A feladat újdonságát az jelentette, hogy élő állatok festésére korábban nem dolgoztunk ki technológiai koncepciót, így teljesen új szempontok kerültek előtérbe.
+A Dewa Zrt.-hez 2024-ben nem mindennapi megkeresés érkezett: egy mezőörsi keltetőüzem kért tőlünk megoldást arra, hogy a keltetést követő szexálási folyamatot – vagyis a hím és nőstény csibék szétválasztását – egy speciális színezési rendszerrel tegyük pontosabbá és ellenőrizhetőbbé. A feladat újdonságát az jelentette, hogy élő állatok festésére korábban nem dolgoztunk ki technológiai koncepciót, így teljesen új szempontok kerültek előtérbe.
+
+![](</csibek ladaban.jpg>)
 
 A tervezés során több alapvető kérdésre kellett választ adnunk:
 
