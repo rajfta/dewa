@@ -11,7 +11,7 @@ excerpt: >-
   alakítják együtt a vállalat következő fejezetét!
 coverImage: /Buczko_Peter_es_Patrick.jpg
 seo:
-  title: Generációk együttműködése I Dewa Zrt.
+  title: Generációk együttműködése I Budaörs
   description: >-
     Buczkó Péter és fia, Patrick generációk közötti együttműködéséről, a
     kihívások leküzdéséről és a Dewa Zrt. budaörsi központjának fényes jövőjéről
