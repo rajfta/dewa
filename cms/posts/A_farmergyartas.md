@@ -9,7 +9,7 @@ excerpt: >-
   egy magyar vállalat, a Dewa is részese volt?
 coverImage: /farmerfestés.jpg
 seo:
-  title: Farmergyártás I Dewa Zrt
+  title: Határtalan felületek I Farmergyártás
   description: Dewa zrt által Blowtherm fülkében megoldott Levi's farmer festés
 ---
 
