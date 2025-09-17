@@ -25,7 +25,7 @@ A következőkben közelebbről is bemutatjuk a békéscsabai központ működé
 
 ## A békéscsabai csapat bővülése és ifjabb Ursz József becsatlakozása
 
-Ifjabb Ursz József 16 éve kapcsolódott be a Dewa Zrt. mindennapi életébe, amikor édesapja felkérte, hogy jöjjön a céghez dolgozni: „Próbálja, és nézze meg, hogyan érzi magát, mit kell csinálni, de nem kötelező jelleggel.” – mondta neki anno. Addig élsportolóként tevékenykedett, és versenyszerűen futballozott, ezért a cég tevékenysége iránt kevésbé érdeklődött, de maga a vállalat nem volt idegen számára, hiszen már kisiskolás korától rendszeresen járt a cégalapító családokkal közös nyaralásokra, és tudta, hogy sikeres, hisz elsőkézből tapasztalhatta a családján keresztül.
+Ifjabb Ursz József 16 éve kapcsolódott be a Dewa Zrt. mindennapi életébe, amikor édesapja felkérte, hogy jöjjön a céghez dolgozni: „Próbálja ki, és nézze meg, hogyan érzi magát, mit kell csinálni, de nem kötelező jelleggel.” – mondta neki anno. Addig élsportolóként tevékenykedett, és versenyszerűen futballozott, ezért a cég tevékenysége iránt kevésbé érdeklődött, de maga a vállalat nem volt idegen számára, hiszen már kisiskolás korától rendszeresen járt a cégalapító családokkal közös nyaralásokra, és tudta, hogy sikeres, hisz elsőkézből tapasztalhatta a családján keresztül.
 
 A kezdetekre így emlékezett vissza:
 
