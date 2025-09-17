@@ -17,7 +17,7 @@ A Dewa Zrt. története 1990-ben kezdődött, amikor három egykori kolléga –
 
 A kezdeti működés Békéscsabáról zajlott, ám a gyors fejlődés hamar szükségessé tette egy második székhely létrehozását. Míg József Békéscsabán a keleti régióhoz tartozó feladatokat vállalta, Péter elkezdte kiépíteni a vállalkozás nyugat-magyarországi központját Budaörsön. A két központ saját telephelyen, hasonló felépítésű épületekben működik, tükrözve a vállalat egységességét mind megjelenésében, mind működésében.
 
-A békéscsabai csapat kezdetben egyszemélyes volt: József éveken át egyedül látta el a napi feladatokat, ám a cég növekedésével szükségessé vált egy stabil, megbízható munkaközösség kialakítása, ami számára is nagy könnyebbséget jelentett. Mára ez a csapat bő tízfősre nőtt, szervizesekkel, mérnökökkel, valamint családtagokkal bővülve – köztük József két gyermekével és egyik menyével. Az évek során a központ egyre inkább családi jellegűvé vált, ahol a generációk közötti együttműködés nemcsak értékké, hanem a hosszú távú fejlődés egyik kulcselemévé is nőtte ki magát.
+A békéscsabai csapat kezdetben egyszemélyes volt: József éveken át egyedül látta el a napi feladatokat, ám a cég növekedésével szükségessé vált egy stabil, megbízható munkaközösség kialakítása, ami számára is nagy könnyebbséget jelentett. Mára ez a csapat bő tízfősre nőtt, szervizesekkel, mérnökökkel, valamint családtagokkal bővülve – köztük József két gyermekével és menyével. Az évek során a központ egyre inkább családi jellegűvé vált, ahol a generációk közötti együttműködés nemcsak értékké, hanem a hosszú távú fejlődés egyik kulcselemévé is nőtte ki magát.
 
 A következőkben közelebbről is bemutatjuk a békéscsabai központ működését, valamint azt, hogyan kapcsolódott be ifjabb Ursz József a napi irányításba, és miként készül arra, hogy továbbvigye édesapja szakmai és emberi örökségét.
 
@@ -25,7 +25,7 @@ A következőkben közelebbről is bemutatjuk a békéscsabai központ működé
 
 ## A békéscsabai csapat bővülése és ifjabb Ursz József becsatlakozása
 
-Ifjabb Ursz József 16 éve kapcsolódott be a Dewa Zrt. mindennapi életébe, amikor édesapja felkérte, hogy jöjjön a céghez dolgozni: „Próbálja meg, és nézz meg, hogyan érzi magát, mit kell csinálni, de nem kötelező jelleggel.” – mondta neki anno. Addig élsportolóként tevékenykedett, és versenyszerűen futballozott, ezért a cég tevékenysége iránt kevésbé érdeklődött, de maga a vállalat nem volt idegen számára, hiszen már kisiskolás korától rendszeresen járt a cégalapító családokkal közös nyaralásokra, és tudta, hogy sikeres, hisz elsőkézből tapasztalhatta a családján keresztül.
+Ifjabb Ursz József 16 éve kapcsolódott be a Dewa Zrt. mindennapi életébe, amikor édesapja felkérte, hogy jöjjön a céghez dolgozni: „Próbálja, és nézze meg, hogyan érzi magát, mit kell csinálni, de nem kötelező jelleggel.” – mondta neki anno. Addig élsportolóként tevékenykedett, és versenyszerűen futballozott, ezért a cég tevékenysége iránt kevésbé érdeklődött, de maga a vállalat nem volt idegen számára, hiszen már kisiskolás korától rendszeresen járt a cégalapító családokkal közös nyaralásokra, és tudta, hogy sikeres, hisz elsőkézből tapasztalhatta a családján keresztül.
 
 A kezdetekre így emlékezett vissza:
 
