@@ -12,7 +12,7 @@ seo:
   description: A Dewa Zrt. festőipari vállalat és a divatipar kapcsolódása
 ---
 
-A kirakati babák - ezek a csendes, olykor félelmetes kirakat őrök – jóval többek egyszerű ruhaakasztóknál. Minden egyes darab gondos gyártási folyamat eredménye, amelynek egyik kulcslépése a festés: a hibátlan felület, a színek, textúrák mind hozzájárulnak ahhoz, hogy a ruhadarabok a lehető legjobban érvényesüljenek a kirakatban.
+A kirakati babák - ezek a csendes, olykor félelmetes kirakat őrök – jóval többek egyszerű ruhaakasztóknál. Minden egyes darab gondos gyártási folyamat eredménye, amelynek egyik kulcslépése a festés: a hibátlan felület, a színek, a textúrák mind hozzájárulnak ahhoz, hogy a ruhadarabok a lehető legjobban érvényesüljenek a kirakatban.
 
 A próbababák világa rendkívül sokszínű:
 
