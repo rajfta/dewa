@@ -131,7 +131,7 @@ const Navbar: FC = () => {
               textTransform="uppercase"
               fontSize="2xl"
             >
-              Írjon Nekünk
+              Írjon Nekünk!
             </Text>
           </ModalHeader>
           <ModalCloseButton size="lg" />

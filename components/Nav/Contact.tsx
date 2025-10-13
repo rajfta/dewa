@@ -18,7 +18,7 @@ const Contact: FC = () => {
       onClick={onOpen}
       justifyContent="center"
     >
-      Írjon Nekünk
+      Írjon Nekünk!
     </BaseButton>
   );
 };

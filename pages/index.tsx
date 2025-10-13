@@ -313,7 +313,7 @@ const Hero = ({ subtitle, imageSrc }: HeroProps) => {
                       variant="primary"
                       mb={4}
                     >
-                      Írjon Nekünk
+                      Írjon Nekünk!
                     </Button>
                     <Link href="/kapcsolat">
                       <a>

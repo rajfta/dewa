@@ -49,7 +49,7 @@ const Footer = () => {
             side="right"
             onClick={onOpen}
           >
-            Írjon Nekünk
+            Írjon Nekünk!
           </Button>
         </Flex>
 
