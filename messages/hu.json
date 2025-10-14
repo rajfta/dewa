@@ -1,0 +1,93 @@
+{
+  "common": {
+    "contact": "Kapcsolat",
+    "readMore": "Továbbiak",
+    "learnMore": "Tudjon meg többet",
+    "getStarted": "Kezdjünk",
+    "readArticle": "Elolvasom",
+    "backTo": "Vissza",
+    "send": "Küldés"
+  },
+  "nav": {
+    "home": "Főoldal",
+    "products": "Termékek",
+    "references": "Referenciák",
+    "blog": "Cikkek",
+    "contact": "Kapcsolat",
+    "career": "Karrier",
+    "sprayBooths": "Fényezőfülkék",
+    "sprayTechnology": "Szórástechnika",
+    "heatingTechnology": "Tüzeléstechnika",
+    "surfaceTreatment": "Felületkezelés"
+  },
+  "footer": {
+    "didWeInterestYou": "Felkeltettük",
+    "yourInterest": "érdeklődését?",
+    "writeToUs": "Írjon Nekünk!",
+    "budaorsCenter": "Budaörsi Központ",
+    "bekescsabaCenter": "Békéscsabai Központ",
+    "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörsi Ipari Park)",
+    "bekescsabaAddress": "5600 Békéscsaba Gyulai út (Lukoil-al szemben)"
+  },
+  "hero": {
+    "turnkey": "Kulcsrakész",
+    "paintingSolutions": "festőipari megoldások",
+    "writeToUs": "Írjon Nekünk!",
+    "contact": "Kapcsolat"
+  },
+  "about": {
+    "yearsExperience": "év Tapasztalat",
+    "division": "Divízió",
+    "successfulProjects": "Sikeres Projekt"
+  },
+  "products": {
+    "sprayBooths": "Fényezőfülkék",
+    "sprayTechnology": "Szórástechnika",
+    "heatingTechnology": "Tüzeléstechnika",
+    "surfaceTreatment": "Felületkezelés",
+    "allSubcategories": "Összes alkategória"
+  },
+  "references": {
+    "title": "Referenciák",
+    "backToReferences": "Vissza a referenciákhoz",
+    "hallOfFame": "Büszkeségfal",
+    "galleries": "Galériák"
+  },
+  "blog": {
+    "title": "Blog",
+    "articles": "Cikkek",
+    "backToBlog": "Vissza a cikkekhez"
+  },
+  "contactPage": {
+    "title": "Kapcsolat",
+    "getInTouch": "Lépjen kapcsolatba velünk",
+    "description": "Kérdése van? Írjon nekünk bizalommal!",
+    "budaorsOffice": "Budaörsi Iroda",
+    "bekescsabaOffice": "Békéscsabai Iroda",
+    "budaors": "Budaörs",
+    "bekescsaba": "Békéscsaba",
+    "name": "Név",
+    "department": "Részleg",
+    "email": "Email",
+    "telephone": "Telefon",
+    "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörsi Ipari Park)",
+    "bekescsabaAddress": "5600 Békéscsaba Gyulai út (Lukoil-al szemben)"
+  },
+  "contactForm": {
+    "title": "Írjon Nekünk!",
+    "subject": "Tárgy",
+    "telephone": "Telefonszám",
+    "telephonePlaceholder": "Telefonszám",
+    "email": "Email cím",
+    "emailPlaceholder": "Email",
+    "message": "Üzenet",
+    "messagePlaceholder": "Üzenet",
+    "send": "Küldés",
+    "sending": "Email küldés alatt...",
+    "success": "Email sikeresen elküldve!",
+    "error": "Sikertelen küldés, kérjük próbálja meg újra!",
+    "required": "Kötelező mező!",
+    "minLength": "Legalább {min} karakter!",
+    "maxLength": "Nem lehet több, mint {max} karakter!"
+  }
+}

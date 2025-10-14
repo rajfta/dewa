@@ -21,6 +21,7 @@
     "framer-motion": "^11",
     "gray-matter": "^4.0.3",
     "next": "15.5.4",
+    "next-intl": "^4.3.12",
     "node-fetch": "^3.3.2",
     "nodemailer": "^7.0.9",
     "react": "^19.2.0",

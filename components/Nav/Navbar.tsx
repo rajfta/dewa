@@ -19,6 +19,7 @@ import {
   useToast,
 } from "@chakra-ui/react";
 import Link from "next/link";
+import { useTranslations } from "next-intl";
 
 import { DewaIcon, DotsIcon } from "../icons";
 
@@ -29,6 +30,7 @@ import { Button } from "../uikit";
 const Navbar: FC = () => {
   const { isOpen, onClose } = useContact();
   const [isEmailSending, setIsEmailSending] = useState(false);
+  const t = useTranslations('contactForm');
 
   const initialRef = useRef(null);
   const {
@@ -43,7 +45,7 @@ const Navbar: FC = () => {
     onClose();
     toast({
       status: "info",
-      title: "Email küldés alatt...",
+      title: t('sending'),
       duration: 15000,
       position: "bottom",
     });
@@ -66,7 +68,7 @@ const Navbar: FC = () => {
       // eslint-disable-next-line no-console
       if (response.status === 200) {
         toast({
-          title: "Email sikeresen elküldve!",
+          title: t('success'),
           duration: 5000,
           isClosable: true,
           status: "success",
@@ -77,7 +79,7 @@ const Navbar: FC = () => {
       setIsEmailSending(false);
       // eslint-disable-next-line no-console
       toast({
-        title: "Sikertelen küldés, kérjük próbálja meg újra!",
+        title: t('error'),
         duration: 5000,
         isClosable: true,
         status: "error",
@@ -129,14 +131,14 @@ const Navbar: FC = () => {
               textTransform="uppercase"
               fontSize="2xl"
             >
-              Írjon Nekünk!
+              {t('title')}
             </Text>
           </ModalHeader>
           <ModalCloseButton size="lg" />
           <ModalBody pb={6}>
             <form onSubmit={handleSubmit(onSubmit)}>
               <FormControl isInvalid={!!errors.subject} isRequired id="subject">
-                <FormLabel htmlFor="subject">Tárgy</FormLabel>
+                <FormLabel htmlFor="subject">{t('subject')}</FormLabel>
                 <Input
                   id="subject"
                   type="text"
@@ -145,11 +147,11 @@ const Navbar: FC = () => {
                   py={6}
                   fontSize="lg"
                   {...register("subject", {
-                    required: "Kötelező mező!",
-                    minLength: { value: 3, message: "Legalább 3 karakter!" },
+                    required: t('required'),
+                    minLength: { value: 3, message: t('minLength', { min: 3 }) },
                     maxLength: {
                       value: 1200,
-                      message: "Nem lehet több, mint 1200 karakter!",
+                      message: t('maxLength', { max: 1200 }),
                     },
                   })}
                 />
@@ -164,15 +166,15 @@ const Navbar: FC = () => {
                 mt={6}
                 id="telephone"
               >
-                <FormLabel htmlFor="telephone">Telefonszám</FormLabel>
+                <FormLabel htmlFor="telephone">{t('telephone')}</FormLabel>
                 <Input
                   id="telephone"
                   type="number"
-                  placeholder="Telefonszám"
+                  placeholder={t('telephonePlaceholder')}
                   backgroundColor="primary.100"
                   py={6}
                   fontSize="lg"
-                  {...register("telephone", { required: "Kötelező mező!" })}
+                  {...register("telephone", { required: t('required') })}
                 />
                 <FormErrorMessage>
                   {errors.telephone && (errors.telephone.message as string)}
@@ -185,15 +187,15 @@ const Navbar: FC = () => {
                 mt={6}
                 id="email"
               >
-                <FormLabel htmlFor="email">Email cím</FormLabel>
+                <FormLabel htmlFor="email">{t('email')}</FormLabel>
                 <Input
                   id="email"
                   type="email"
-                  placeholder="Email"
+                  placeholder={t('emailPlaceholder')}
                   backgroundColor="primary.100"
                   py={6}
                   fontSize="lg"
-                  {...register("email", { required: "Kötelező mező!" })}
+                  {...register("email", { required: t('required') })}
                 />
                 <FormErrorMessage>
                   {errors.email && (errors.email.message as string)}
@@ -206,16 +208,16 @@ const Navbar: FC = () => {
                 isInvalid={!!errors.message}
                 id="message"
               >
-                <FormLabel>Üzenet</FormLabel>
+                <FormLabel>{t('message')}</FormLabel>
                 <Textarea
                   backgroundColor="primary.100"
                   height={["150px", "150px", "2x", "2xs"]}
                   resize="vertical"
-                  placeholder="Üzenet"
+                  placeholder={t('messagePlaceholder')}
                   fontSize="lg"
                   {...register("message", {
-                    required: "Kötelező mező!",
-                    minLength: { value: 20, message: "Legalább 20 karakter!" },
+                    required: t('required'),
+                    minLength: { value: 20, message: t('minLength', { min: 20 }) },
                   })}
                 />
                 <FormErrorMessage>
@@ -233,7 +235,7 @@ const Navbar: FC = () => {
                     backgroundColor: isEmailSending ? "gray.200" : null,
                   }}
                 >
-                  Küldés
+                  {t('send')}
                 </Button>
               </Flex>
             </form>

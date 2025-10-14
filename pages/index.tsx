@@ -4,8 +4,10 @@ import Link from "next/link";
 import { motion, useAnimationControls } from "framer-motion";
 import { GetStaticProps } from "next";
 import { ComponentWithAs, IconProps } from "@chakra-ui/react";
+import { useTranslations } from "next-intl";
 import { Button } from "../components/uikit";
 import { useContact } from "../hooks";
+import { getMessages } from "../lib/getMessages";
 import {
   FeluletIcon,
   FestofulkekIcon,
@@ -23,6 +25,8 @@ type AboutUsProps = {
 };
 
 const AboutUs: FC<AboutUsProps> = ({ title, description, imageSrc }) => {
+  const t = useTranslations('about');
+
   return (
     <div className="max-w-[100vw] overflow-hidden">
       <motion.div
@@ -57,7 +61,7 @@ const AboutUs: FC<AboutUsProps> = ({ title, description, imageSrc }) => {
                 <dl className="-mx-8 -mt-8 flex flex-wrap">
                   <div className="flex flex-col px-8 pt-8">
                     <dt className="order-2 capitalize text-base font-medium text-gray-500">
-                      év Tapasztalat
+                      {t('yearsExperience')}
                     </dt>
                     <dd className="order-1 text-2xl font-extrabold text-primary-500 sm:text-3xl">
                       30+
@@ -65,7 +69,7 @@ const AboutUs: FC<AboutUsProps> = ({ title, description, imageSrc }) => {
                   </div>
                   <div className="flex flex-col px-8 pt-8">
                     <dt className="order-2 text-base font-medium text-gray-500">
-                      Divízió
+                      {t('division')}
                     </dt>
                     <dd className="order-1 text-2xl font-extrabold text-primary-500 sm:text-3xl">
                       4
@@ -73,7 +77,7 @@ const AboutUs: FC<AboutUsProps> = ({ title, description, imageSrc }) => {
                   </div>
                   <div className="flex flex-col px-8 pt-8">
                     <dt className="order-2 text-base font-medium text-gray-500">
-                      Sikeres Projekt
+                      {t('successfulProjects')}
                     </dt>
                     <dd className="order-1 text-2xl font-extrabold text-primary-500 sm:text-3xl">
                       2500+
@@ -134,6 +138,8 @@ const Products = ({
   szoras,
   imageSrc,
 }: ProductsProps) => {
+  const t = useTranslations('products');
+
   return (
     <div className="max-w-[100vw] overflow-hidden">
       <motion.div
@@ -161,28 +167,28 @@ const Products = ({
               <div className="mt-16 grid grid-cols-1 gap-y-10 lg:grid-cols-4">
                 <Division
                   href="/termekek/fenyezofulkek"
-                  name="Fényezőfülkék"
+                  name={t('sprayBooths')}
                   Logo={FestofulkekIcon}
                   description={feny}
                 />
 
                 <Division
                   href="/termekek/szorastechnika"
-                  name="Szórástechnika"
+                  name={t('sprayTechnology')}
                   Logo={SzorasIcon}
                   description={szoras}
                 />
 
                 <Division
                   href="/termekek/tuzelestechnika"
-                  name="Tüzeléstechnika"
+                  name={t('heatingTechnology')}
                   Logo={TuzelesIcon}
                   description={tuz}
                 />
 
                 <Division
                   href="/termekek/feluletkezeles"
-                  name="Felületkezelés"
+                  name={t('surfaceTreatment')}
                   Logo={FeluletIcon}
                   description={felulet}
                 />
@@ -217,6 +223,8 @@ type HeroProps = {
 
 const Hero = ({ subtitle, imageSrc }: HeroProps) => {
   const { onOpen } = useContact();
+  const t = useTranslations('hero');
+  const commonT = useTranslations('common');
 
   const titleControls = useAnimationControls();
   const subTitleControls = useAnimationControls();
@@ -281,9 +289,9 @@ const Hero = ({ subtitle, imageSrc }: HeroProps) => {
                     animate={titleControls}
                     className="text-4xl tracking-tight pb-2 font-extrabold sm:text-5xl md:text-6xl"
                   >
-                    <span className="block xl:inline">Kulcsrakész</span>{" "}
+                    <span className="block xl:inline">{t('turnkey')}</span>{" "}
                     <span className="block text-primary-500 xl:inline">
-                      festőipari megoldások
+                      {t('paintingSolutions')}
                     </span>
                   </motion.h1>
                   <motion.h3
@@ -311,7 +319,7 @@ const Hero = ({ subtitle, imageSrc }: HeroProps) => {
                       variant="primary"
                       mb={4}
                     >
-                      Írjon Nekünk!
+                      {t('writeToUs')}
                     </Button>
                     <Link href="/kapcsolat">
                       <Button
@@ -325,7 +333,7 @@ const Hero = ({ subtitle, imageSrc }: HeroProps) => {
                           backgroundColor: "gray.200",
                         }}
                       >
-                        Kapcsolat
+                        {commonT('contact')}
                       </Button>
                     </Link>
                   </motion.div>
@@ -385,7 +393,7 @@ const Index = ({ data }: { data: HomePageType }) => {
   );
 };
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale = 'hu' }) => {
   const homepageProps = getAllContents("fooldal", [
     "hero-subtitle",
     "hero-image",
@@ -402,10 +410,12 @@ export const getStaticProps: GetStaticProps = async () => {
   ]) as HomePageType[];
 
   const data = homepageProps[0];
+  const messages = await getMessages(locale);
 
   return {
     props: {
       data,
+      messages,
     },
   };
 };

@@ -1,5 +1,6 @@
 import { Flex, Grid, Text, Heading, Stack, HStack } from "@chakra-ui/react";
 import Image from "next/image";
+import { useTranslations } from "next-intl";
 import { useContact } from "../hooks";
 import { DotsIcon, MailIcon, MapIcon, TelephoneIcon } from "./icons";
 import { Button } from "./uikit";
@@ -10,6 +11,7 @@ const Separator = () => {
 
 const Footer = () => {
   const { onOpen } = useContact();
+  const t = useTranslations('footer');
 
   return (
     <Flex
@@ -41,7 +43,7 @@ const Footer = () => {
           pl={[8, 8, 24, 32, 64]}
         >
           <Heading fontSize={[24, 24, 36]} fontWeight={600}>
-            Felkeltettük <br /> érdeklődését?
+            {t('didWeInterestYou')} <br /> {t('yourInterest')}
           </Heading>
           <Button
             mt={[8, 8, 0]}
@@ -49,7 +51,7 @@ const Footer = () => {
             side="right"
             onClick={onOpen}
           >
-            Írjon Nekünk!
+            {t('writeToUs')}
           </Button>
         </Flex>
 
@@ -69,12 +71,12 @@ const Footer = () => {
             mb={[12, 12, 0]}
           >
             <Text fontWeight={500} fontSize={20}>
-              Budaörsi Központ
+              {t('budaorsCenter')}
             </Text>
             <HStack>
               <MapIcon />
               <Text fontSize={[12, 12, 16]}>
-                2040 Budaörs, Gyár u. 2. (Budaörsi Ipari Park)
+                {t('budaorsAddress')}
               </Text>
             </HStack>
             <HStack>
@@ -93,12 +95,12 @@ const Footer = () => {
             gap={4}
           >
             <Text fontWeight={500} fontSize={20}>
-              Békéscsabai Központ
+              {t('bekescsabaCenter')}
             </Text>
             <HStack>
               <MapIcon />
               <Text fontSize={[12, 12, 16]}>
-                5600 Békéscsaba Gyulai út (Lukoil-al szemben)
+                {t('bekescsabaAddress')}
               </Text>
             </HStack>
             <HStack>

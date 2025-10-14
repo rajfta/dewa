@@ -18,8 +18,10 @@ import {
   Heading,
 } from "@chakra-ui/react";
 import { useTable, useSortBy } from "react-table";
+import { useTranslations } from "next-intl";
 
 import { getAllContents } from "../../util";
+import { getMessages } from "../../lib/getMessages";
 import { ContactType } from "../../types";
 import {
   ChevronDownIcon,
@@ -88,6 +90,8 @@ const getIcon = (id: string) => {
 };
 
 const ContactList: FC<ContactProps> = ({ contacts }) => {
+  const t = useTranslations('contactPage');
+
   contacts.sort((a, b) => {
     if (a.reszleg === "kozpont") {
       if (b.reszleg === "kozpont") {
@@ -116,24 +120,24 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
   const columns = useMemo(
     () => [
       {
-        Header: "Név",
+        Header: t('name'),
         accessor: "name",
       },
       {
-        Header: "Részleg",
+        Header: t('department'),
         accessor: "department",
       },
       {
-        Header: "Email",
+        Header: t('email'),
         accessor: "email",
       },
       {
-        Header: "Telefon",
+        Header: t('telephone'),
         accessor: "telephone",
         isNumeric: true,
       },
     ],
-    []
+    [t]
   );
 
   const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =
@@ -226,7 +230,7 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
                   return (
                     <Td
                       textTransform={
-                        cell.column.Header === "Részleg" ? "capitalize" : ""
+                        cell.column.Header === t('department') ? "capitalize" : ""
                       }
                       key={cell.value}
                       display={
@@ -252,6 +256,7 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
 
 const Contact: FC<ContactProps> = ({ contacts }) => {
   const [active, setActive] = useState("budaors");
+  const t = useTranslations('contactPage');
 
   const onActivation = useCallback((e) => {
     setActive(e.target.value);
@@ -265,20 +270,20 @@ const Contact: FC<ContactProps> = ({ contacts }) => {
     <Flex direction="column" align="center" mt={12}>
       <HStack w="100%" align="center" justify="center" mb={8}>
         <Option value="budaors" active={active} onClick={onActivation}>
-          Budaörs
+          {t('budaors')}
         </Option>
         <Option value="bekescsaba" active={active} onClick={onActivation}>
-          Békéscsaba
+          {t('bekescsaba')}
         </Option>
       </HStack>
       <ContactList contacts={selectedContacts} />
       {active === "budaors" ? (
         <Heading mt={32} mb={6} fontSize={24} p={4} fontWeight={400}>
-          2040 Budaörs, Gyár u. 2. (Budaörsi Ipari Park)
+          {t('budaorsAddress')}
         </Heading>
       ) : (
         <Heading mt={32} mb={6} fontSize={24} p={4} fontWeight={400}>
-          5600 Békéscsaba Gyulai út (Lukoil-al szemben)
+          {t('bekescsabaAddress')}
         </Heading>
       )}
       <AspectRatio w="100%" ratio={[1, 1, 31 / 9]}>
@@ -303,7 +308,7 @@ const Contact: FC<ContactProps> = ({ contacts }) => {
   );
 };
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale = 'hu' }) => {
   const contacts = getAllContents("kapcsolat", [
     "nev",
     "slug",
@@ -313,9 +318,12 @@ export const getStaticProps: GetStaticProps = async () => {
     "telefonszam",
   ]);
 
+  const messages = await getMessages(locale);
+
   return {
     props: {
       contacts,
+      messages,
     },
   };
 };

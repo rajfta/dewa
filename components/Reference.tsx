@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { FC, useState } from "react";
 import { Flex, AspectRatio, Heading, Text } from "@chakra-ui/react";
-
+import { useTranslations } from "next-intl";
 import Link from "next/link";
 import { PostType } from "../types";
 
@@ -15,6 +15,7 @@ const Reference: FC<ReferenceProps> = ({
   post: { slug, coverImage, title, date, excerpt },
 }) => {
   const [isHovered, setIsHovered] = useState(false);
+  const t = useTranslations('common');
 
   return (
     <Link
@@ -89,7 +90,7 @@ const Reference: FC<ReferenceProps> = ({
               isHovered ? "secondary.500" : "secondary.50",
             ]}
           >
-            Elolvasom
+            {t('readArticle')}
           </Button>
         </Flex>
       </Flex>

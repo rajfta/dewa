@@ -3,9 +3,11 @@ import { GetStaticProps } from "next";
 import { useRouter } from "next/router";
 import { FC, useMemo } from "react";
 import { Grid, Heading } from "@chakra-ui/react";
+import { useTranslations } from "next-intl";
 
 import { getAllContents } from "../../util";
 import { PostType } from "../../types";
+import { getMessages } from "../../lib/getMessages";
 
 import Reference from "../../components/Reference";
 import Gallery from "../../components/Gallery";
@@ -17,6 +19,7 @@ type PostProps = {
 
 const References: FC<PostProps> = ({ references }) => {
   const router = useRouter();
+  const t = useTranslations('references');
 
   const hallOfFames = useMemo(
     () =>
@@ -38,7 +41,7 @@ const References: FC<PostProps> = ({ references }) => {
 
   return (
     <>
-      <Heading textAlign="center">Büszkeségfal</Heading>
+      <Heading textAlign="center">{t('hallOfFame')}</Heading>
       <div className="grid mt-16 px-4 sm:px-4 gap-8 xl:gap-8 md:px-40 justify-center grid-cols-1 sm:grid-cols-2 lg:grid-cols-[repeat(2,_420px)]">
         {hallOfFames.map((hallOfFame) => {
           return (
@@ -50,7 +53,7 @@ const References: FC<PostProps> = ({ references }) => {
       </div>
 
       <Heading textAlign="center" my={16}>
-        Galériák
+        {t('galleries')}
       </Heading>
       <Grid
         px={[4, 4, 40]}
@@ -71,7 +74,7 @@ const References: FC<PostProps> = ({ references }) => {
   );
 };
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale = 'hu' }) => {
   const references = getAllContents("references", [
     "title",
     "excerpt",
@@ -91,9 +94,12 @@ export const getStaticProps: GetStaticProps = async () => {
     };
   });
 
+  const messages = await getMessages(locale);
+
   return {
     props: {
       references: serializedReferences,
+      messages,
     },
   };
 };

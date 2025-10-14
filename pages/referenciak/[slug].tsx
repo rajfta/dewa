@@ -9,6 +9,7 @@ import { Divider } from "@chakra-ui/react";
 import PageBody from "../../components/PageBody";
 import PageHeader from "../../components/PageHeader";
 import { getAllContents, getContentBySlug } from "../../util";
+import { getMessages } from "../../lib/getMessages";
 
 import { PostType } from "../../types";
 import Carousel from "../../components/Carousel";
@@ -87,7 +88,7 @@ const Reference: FC<PostProps> = ({ reference }) => {
   );
 };
 
-export const getStaticProps: GetStaticProps = async ({ params: { slug } }) => {
+export const getStaticProps: GetStaticProps = async ({ params: { slug }, locale = 'hu' }) => {
   const reference = getContentBySlug("references", slug as string, [
     "slug",
     "content",
@@ -105,9 +106,12 @@ export const getStaticProps: GetStaticProps = async ({ params: { slug } }) => {
     date: reference.date.toString(),
   };
 
+  const messages = await getMessages(locale);
+
   return {
     props: {
       reference: serializedReference,
+      messages,
     },
   };
 };
@@ -115,11 +119,20 @@ export const getStaticProps: GetStaticProps = async ({ params: { slug } }) => {
 export const getStaticPaths: GetStaticPaths = async () => {
   const posts = getAllContents("references", ["slug"]);
 
-  const paths = posts.map((post) => ({
-    params: {
-      slug: post.slug,
+  const paths = posts.flatMap((post) => [
+    {
+      params: {
+        slug: post.slug,
+      },
+      locale: 'hu',
     },
-  }));
+    {
+      params: {
+        slug: post.slug,
+      },
+      locale: 'en',
+    },
+  ]);
 
   return {
     paths,

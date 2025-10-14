@@ -28,6 +28,7 @@ import {
 import { headerPX } from "./consts";
 import Contact from "./Contact";
 import { MenuContext } from "../../hooks/useMenu";
+import LanguageSwitcher from "../LanguageSwitcher";
 
 type LinkItemProps = {
   href: string;
@@ -232,6 +233,7 @@ const NavItems: FC = () => {
         Karrier
       </NavItem>
       <Contact />
+      <LanguageSwitcher />
     </Stack>
   );
 };

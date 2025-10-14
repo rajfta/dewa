@@ -9,31 +9,18 @@ import {
   Stack,
   Button,
 } from "@chakra-ui/react";
+import { useTranslations } from "next-intl";
 
 import { ChevronDownIcon } from "../../components/icons";
 import { ProductType, ContentType } from "../../types";
 import { getAllContents } from "../../util";
 import Product from "../../components/Product";
 import { useCurrentBreakpoint } from "../../hooks";
+import { getMessages } from "../../lib/getMessages";
 
 type ProductProps = {
   products: ProductType[];
   slug: ContentType;
-};
-
-const getDivisionName = (slug: ContentType) => {
-  switch (slug) {
-    case "feluletkezeles":
-      return "Felületkezelés";
-    case "fenyezofulkek":
-      return "Fényezőfülkék";
-    case "tuzelestechnika":
-      return "Tüzeléstechnika";
-    case "szorastechnika":
-      return "Szórástechnika";
-    default:
-      return null;
-  }
 };
 
 type SubCategoryProps = {
@@ -67,6 +54,7 @@ const SubCategory: FC<SubCategoryProps> = ({
 
 const Products: FC<ProductProps> = ({ slug, products }) => {
   const { isLgMinus } = useCurrentBreakpoint();
+  const t = useTranslations('products');
 
   const uniqueCategories: string[] = [];
   products.forEach(({ alkategoria }) => {
@@ -76,6 +64,21 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
   });
 
   const router = useRouter();
+
+  const getDivisionName = useCallback((slugValue: ContentType) => {
+    switch (slugValue) {
+      case "feluletkezeles":
+        return t('surfaceTreatment');
+      case "fenyezofulkek":
+        return t('sprayBooths');
+      case "tuzelestechnika":
+        return t('heatingTechnology');
+      case "szorastechnika":
+        return t('sprayTechnology');
+      default:
+        return null;
+    }
+  }, [t]);
 
   const [currentSubcategory, setcurrentSubcategory] = useState("");
   const currentSubProducts = products.filter(
@@ -124,7 +127,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
             bg="primary.100"
             icon={<ChevronDownIcon fontSize={12} fill="none" />}
             variant="filled"
-            placeholder="Összes alkategória"
+            placeholder={t('allSubcategories')}
             onChange={onSubcategoryChange}
             sx={{
               option: {
@@ -147,7 +150,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
               value=""
               onClick={onSubcategoryChange}
             >
-              Összes alkategória
+              {t('allSubcategories')}
             </SubCategory>
             {uniqueCategories.map((category) => {
               return (
@@ -175,8 +178,10 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
 
 export const getStaticProps: GetStaticProps = async ({
   params: { slug },
+  locale = 'hu',
 }: {
   params: { slug: ContentType };
+  locale?: string;
 }) => {
   const products = getAllContents(slug, [
     "divizio",
@@ -187,37 +192,34 @@ export const getStaticProps: GetStaticProps = async ({
     "slug",
   ]);
 
+  const messages = await getMessages(locale);
+
   return {
     props: {
       slug,
       products,
+      messages,
     },
   };
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = [
+  const slugs = ["feluletkezeles", "fenyezofulkek", "tuzelestechnika", "szorastechnika"];
+
+  const paths = slugs.flatMap((slug) => [
     {
       params: {
-        slug: "feluletkezeles",
+        slug,
       },
+      locale: 'hu',
     },
     {
       params: {
-        slug: "fenyezofulkek",
+        slug,
       },
+      locale: 'en',
     },
-    {
-      params: {
-        slug: "tuzelestechnika",
-      },
-    },
-    {
-      params: {
-        slug: "szorastechnika",
-      },
-    },
-  ];
+  ]);
 
   return {
     paths,

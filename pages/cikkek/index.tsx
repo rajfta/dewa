@@ -2,8 +2,10 @@ import { GetStaticProps } from "next";
 import { useRouter } from "next/router";
 import { FC, useCallback } from "react";
 import { Heading, SimpleGrid } from "@chakra-ui/react";
+import { useTranslations } from "next-intl";
 
 import { getAllContents } from "../../util";
+import { getMessages } from "../../lib/getMessages";
 
 import { PostType } from "../../types";
 import Article from "../../components/Article";
@@ -14,6 +16,7 @@ type CikkekType = {
 
 const Cikkek: FC<CikkekType> = ({ posts }) => {
   const router = useRouter();
+  const t = useTranslations('blog');
   const onOpen = useCallback(
     (slug: string) => {
       router.push({
@@ -30,7 +33,7 @@ const Cikkek: FC<CikkekType> = ({ posts }) => {
 
   return (
     <div className="wrapper">
-      <Heading textAlign="center">Cikkek</Heading>
+      <Heading textAlign="center">{t('articles')}</Heading>
       <SimpleGrid
         mt={16}
         columns={[1, 2, 2, 3]}
@@ -44,7 +47,7 @@ const Cikkek: FC<CikkekType> = ({ posts }) => {
   );
 };
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale = 'hu' }) => {
   const posts = getAllContents("posts", [
     "title",
     "excerpt",
@@ -60,9 +63,12 @@ export const getStaticProps: GetStaticProps = async () => {
     };
   });
 
+  const messages = await getMessages(locale);
+
   return {
     props: {
       posts: serializedPosts,
+      messages,
     },
   };
 };
