@@ -44,11 +44,10 @@ const PageHeader: FC<PageHeaderProps> = ({
             fontSize={[null, null, null, 24]}
             mb={[3, null, null, null]}
             color="grey.iron"
-            noOfLines={12}
           >
             {excerpt}
           </Text>
-          <Text variant="meta" mb={[3, null, null, null]}>
+          <Text fontSize="sm" color="grey.shadow" mb={[3, null, null, null]}>
             {new Date(date).toLocaleDateString("hu-HU", {
               year: "numeric",
               month: "long",

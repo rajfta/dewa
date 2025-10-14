@@ -14,7 +14,7 @@ const BaseButton: FC<ButtonProps> = ({ variant, side, children, ...props }) => {
     // @ts-ignore
     <Box
       as="button"
-      d="inline-flex"
+      display="inline-flex"
       alignItems="center"
       lineHeight="1.2"
       transition="all 0.2s cubic-bezier(.08,.52,.52,1)"

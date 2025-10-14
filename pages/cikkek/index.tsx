@@ -33,7 +33,6 @@ const Cikkek: FC<CikkekType> = ({ posts }) => {
       <Heading textAlign="center">Cikkek</Heading>
       <SimpleGrid
         mt={16}
-        justify="center"
         columns={[1, 2, 2, 3]}
         spacing={[16, 16, 16, 20]}
       >

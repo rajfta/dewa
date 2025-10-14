@@ -99,20 +99,18 @@ type DivisionProps = {
 const Division = ({ href, name, Logo, description }: DivisionProps) => {
   return (
     <Link href={href}>
-      <a>
-        <motion.div
-          whileHover={{ y: -10 }}
-          className="sm:flex hover:shadow-md rounded-md p-4 lg:block"
-        >
-          <div className="sm:flex-shrink-0">
-            <Logo boxSize={32} />
-          </div>
-          <div className="mt-4 sm:mt-0 sm:ml-6 lg:mt-6 lg:ml-0">
-            <h3 className="text-md font-medium text-gray-900">{name}</h3>
-            <p className="mt-2 text-sm text-gray-500">{description}</p>
-          </div>
-        </motion.div>
-      </a>
+      <motion.div
+        whileHover={{ y: -10 }}
+        className="sm:flex hover:shadow-md rounded-md p-4 lg:block"
+      >
+        <div className="sm:flex-shrink-0">
+          <Logo boxSize={32} />
+        </div>
+        <div className="mt-4 sm:mt-0 sm:ml-6 lg:mt-6 lg:ml-0">
+          <h3 className="text-md font-medium text-gray-900">{name}</h3>
+          <p className="mt-2 text-sm text-gray-500">{description}</p>
+        </div>
+      </motion.div>
     </Link>
   );
 };
@@ -205,7 +203,7 @@ const Divider = () => {
       </div>
       <div className=" flex justify-center">
         <span className="bg-background -scale-x-100 relative h-24 w-24 lg:w-32 lg:h-32 px-2 text-gray-500">
-          <Image layout="fill" objectFit="cover" src="/robot.png" />
+          <Image layout="fill" objectFit="cover" src="/robot.png" alt="Robot divider" />
         </span>
       </div>
     </div>
@@ -316,21 +314,19 @@ const Hero = ({ subtitle, imageSrc }: HeroProps) => {
                       Írjon Nekünk!
                     </Button>
                     <Link href="/kapcsolat">
-                      <a>
-                        <Button
-                          side="right"
-                          w="100%"
-                          borderWidth={1}
-                          borderColor="primary.500"
-                          backgroundColor="transparent"
-                          color="primary.500"
-                          _hover={{
-                            backgroundColor: "gray.200",
-                          }}
-                        >
-                          Kapcsolat
-                        </Button>
-                      </a>
+                      <Button
+                        side="right"
+                        w="100%"
+                        borderWidth={1}
+                        borderColor="primary.500"
+                        backgroundColor="transparent"
+                        color="primary.500"
+                        _hover={{
+                          backgroundColor: "gray.200",
+                        }}
+                      >
+                        Kapcsolat
+                      </Button>
                     </Link>
                   </motion.div>
                 </div>

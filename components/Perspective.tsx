@@ -1,15 +1,16 @@
 import React, { FC, useCallback, PointerEvent } from "react";
-import { Box, BoxProps, Flex, FlexProps } from "@chakra-ui/react";
+import { Box, Flex } from "@chakra-ui/react";
 import { animate, motion, useMotionValue, useTransform } from "framer-motion";
 
-const PerspectiveHover = motion<BoxProps>(Box);
-const AnimationContainer = motion<FlexProps>(Flex);
+const PerspectiveHover = motion(Box);
+const AnimationContainer = motion(Flex);
 
 const isPointerMakesItCloser = true;
 const ogAngle = 9 * (isPointerMakesItCloser ? -1 : 1);
 
 type PerspectiveProps = {
   intensity?: number;
+  children?: React.ReactNode;
 };
 
 const Perspective: FC<PerspectiveProps> = ({ children, intensity }) => {

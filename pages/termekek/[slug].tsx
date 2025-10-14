@@ -40,6 +40,7 @@ type SubCategoryProps = {
   currentSubcategory: string;
   value: string;
   onClick: (e: any) => void;
+  children?: React.ReactNode;
 };
 
 const SubCategory: FC<SubCategoryProps> = ({
@@ -83,7 +84,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
   const selectedProducts =
     currentSubcategory === "" ? products : currentSubProducts;
 
-  const onSubcategoryChange = useCallback((e) => {
+  const onSubcategoryChange = useCallback((e: any) => {
     setcurrentSubcategory(e.target.value);
   }, []);
 
@@ -103,8 +104,8 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
         mt={[6, 8, 12, 16]}
         mb={[null, null, 12, 12]}
         fontSize={["xl", "xl", "2xl", "2xl"]}
-        variant="title"
-        fontWeight="medium"
+        color="#000"
+        fontWeight="semibold"
       >
         {getDivisionName(slug)}
         <Flex ml={1} color="secondary.500">

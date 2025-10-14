@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["airbnb-typescript-prettier"],
+  extends: ["next", "next/core-web-vitals", "next/typescript"],
   rules: {
     "@typescript-eslint/ban-ts-ignore": "off",
     "react/react-in-jsx-scope": "off",
@@ -13,20 +13,6 @@ module.exports = {
     "react/jsx-no-constructed-context-values": "off",
     "react/jsx-pascal-case": "off",
     "react/require-default-props": "off",
-    "react/function-component-definition": [
-      2,
-      {
-        namedComponents: "arrow-function",
-        unnamedComponents: "arrow-function",
-      },
-    ],
-    "jsx-a11y/anchor-is-valid": [
-      "error",
-      {
-        components: ["Link"],
-        specialLink: ["hrefLeft", "hrefRight"],
-        aspects: ["invalidHref", "preferButton"],
-      },
-    ],
+    "jsx-a11y/anchor-is-valid": "off",
   },
 };

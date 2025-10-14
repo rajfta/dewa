@@ -17,6 +17,7 @@ import { TriangleIcon } from "./icons";
 
 type AProps = {
   href: string;
+  children?: React.ReactNode;
 };
 
 type ImgProps = {
@@ -27,8 +28,8 @@ type ImgProps = {
 
 const A: FC<AProps> = ({ children, href }) => {
   return href.startsWith("/") || href === "" ? (
-    <Link href={href}>
-      <a className="text-primary-500 hover:underline">{children}</a>
+    <Link href={href} className="text-primary-500 hover:underline">
+      {children}
     </Link>
   ) : (
     <a
@@ -60,15 +61,15 @@ const Img: FC<ImgProps> = ({ src, alt, title }) => {
   );
 };
 
-const H1: FC = ({ children }) => {
+const H1: FC<{ children?: React.ReactNode }> = ({ children }) => {
   return (
-    <Heading variant="hero" as="h2">
+    <Heading fontSize={["5xl", "5xl", "6xl"]} color="#000" as="h2">
       {children}
     </Heading>
   );
 };
 
-const H2: FC = ({ children }) => {
+const H2: FC<{ children?: React.ReactNode }> = ({ children }) => {
   return (
     <Heading as="h2" mb={4}>
       {children}
@@ -76,15 +77,15 @@ const H2: FC = ({ children }) => {
   );
 };
 
-const H3: FC = ({ children }) => {
+const H3: FC<{ children?: React.ReactNode }> = ({ children }) => {
   return <Heading as="h3">{children}</Heading>;
 };
 
-const P: FC = ({ children }) => {
+const P: FC<{ children?: React.ReactNode }> = ({ children }) => {
   return <Text my={1}>{children}</Text>;
 };
 
-const Ul: FC = ({ children }) => {
+const Ul: FC<{ children?: React.ReactNode }> = ({ children }) => {
   return (
     <UnorderedList ml={0} listStyleType="none" spacing={2} mb={4}>
       {children}
@@ -92,7 +93,7 @@ const Ul: FC = ({ children }) => {
   );
 };
 
-const Ol: FC = ({ children }) => {
+const Ol: FC<{ children?: React.ReactNode }> = ({ children }) => {
   return (
     <OrderedList spacing={3} mb={6}>
       {children}
@@ -100,7 +101,7 @@ const Ol: FC = ({ children }) => {
   );
 };
 
-const Li: FC = ({ children }) => {
+const Li: FC<{ children?: React.ReactNode }> = ({ children }) => {
   return (
     <ListItem display="flex" alignItems="baseline">
       <ListIcon
@@ -115,7 +116,7 @@ const Li: FC = ({ children }) => {
   );
 };
 
-const Blockqoute: FC = ({ children }) => {
+const Blockqoute: FC<{ children?: React.ReactNode }> = ({ children }) => {
   return (
     <Box
       as="blockquote"

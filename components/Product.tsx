@@ -147,12 +147,10 @@ const Product: FC<ProductProps> = ({ product }) => {
             <Text
               fontWeight="semibold"
               mb={[3, null, null, null]}
-              noOfLines={2}
             >
               {nev}
             </Text>
             <Flex
-              noOfLines={8}
               mb={[3, null, null, null]}
               color="grey.iron"
               gap={12}

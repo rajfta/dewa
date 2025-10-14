@@ -32,6 +32,7 @@ import { MenuContext } from "../../hooks/useMenu";
 type LinkItemProps = {
   href: string;
   css?: any;
+  children?: React.ReactNode;
 };
 
 const LinkItem: FC<LinkItemProps> = ({ children, href, css }) => {
@@ -40,20 +41,18 @@ const LinkItem: FC<LinkItemProps> = ({ children, href, css }) => {
   const currentPage = asPath.includes(href);
 
   return (
-    <NextLink href={href} passHref>
-      <a>
-        <Box
-          onClick={onClose}
-          color={currentPage ? "secondary.500" : "black"}
-          cursor="pointer"
-          _hover={{
-            transform: "scale(1.02)",
-          }}
-          {...css}
-        >
-          {children}
-        </Box>
-      </a>
+    <NextLink href={href}>
+      <Box
+        onClick={onClose}
+        color={currentPage ? "secondary.500" : "black"}
+        cursor="pointer"
+        _hover={{
+          transform: "scale(1.02)",
+        }}
+        {...css}
+      >
+        {children}
+      </Box>
     </NextLink>
   );
 };
@@ -137,7 +136,7 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
   );
 };
 
-const Products: FC = ({ children }) => {
+const Products: FC<{ children?: React.ReactNode }> = ({ children }) => {
   const { pathname } = useRouter();
   const currentPage = pathname.includes("termekek");
 
@@ -184,6 +183,7 @@ const Products: FC = ({ children }) => {
 
 type NavItemProps = {
   href?: string;
+  children?: React.ReactNode;
 };
 
 const NavItem: FC<NavItemProps> = ({ children, href }) => {
@@ -256,7 +256,7 @@ const Navlist: FC = () => {
       <Drawer size="xs" onClose={onClose} isOpen={isOpen}>
         <DrawerOverlay background="backdrop" />
         <DrawerContent borderLeftRadius="md" bg="primary.100" color="black">
-          <DrawerHeader d="flex" justifyContent="flex-end" px={headerPX}>
+          <DrawerHeader display="flex" justifyContent="flex-end" px={headerPX}>
             <IconButton
               alignSelf="flex-end"
               bg="transparent !important"

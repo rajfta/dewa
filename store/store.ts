@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import create from "zustand";
+import { create } from "zustand";
 
 import { InitialState, StoreState } from "./types";
 import { loadState, saveState } from "./util";

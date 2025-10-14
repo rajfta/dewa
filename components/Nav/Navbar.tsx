@@ -30,7 +30,7 @@ const Navbar: FC = () => {
   const { isOpen, onClose } = useContact();
   const [isEmailSending, setIsEmailSending] = useState(false);
 
-  const initialRef = useRef();
+  const initialRef = useRef(null);
   const {
     handleSubmit,
     register,
@@ -90,9 +90,7 @@ const Navbar: FC = () => {
     <div className="wrapper flex items-center justify-between mb-4">
       <Box cursor="pointer">
         <Link href="/">
-          <a>
-            <DewaIcon w={32} h={24} />
-          </a>
+          <DewaIcon w={32} h={24} />
         </Link>
       </Box>
       <Navlist />
@@ -137,7 +135,7 @@ const Navbar: FC = () => {
           <ModalCloseButton size="lg" />
           <ModalBody pb={6}>
             <form onSubmit={handleSubmit(onSubmit)}>
-              <FormControl isInvalid={errors.subject} isRequired id="subject">
+              <FormControl isInvalid={!!errors.subject} isRequired id="subject">
                 <FormLabel htmlFor="subject">Tárgy</FormLabel>
                 <Input
                   id="subject"
@@ -147,8 +145,8 @@ const Navbar: FC = () => {
                   py={6}
                   fontSize="lg"
                   {...register("subject", {
-                    required: "This is required",
-                    minLength: { value: 3, message: "Kötelező mező!" },
+                    required: "Kötelező mező!",
+                    minLength: { value: 3, message: "Legalább 3 karakter!" },
                     maxLength: {
                       value: 1200,
                       message: "Nem lehet több, mint 1200 karakter!",
@@ -156,12 +154,12 @@ const Navbar: FC = () => {
                   })}
                 />
                 <FormErrorMessage>
-                  {errors.subject && errors.subject.message}
+                  {errors.subject && (errors.subject.message as string)}
                 </FormErrorMessage>
               </FormControl>
 
               <FormControl
-                isInvalid={errors.telephone}
+                isInvalid={!!errors.telephone}
                 isRequired
                 mt={6}
                 id="telephone"
@@ -174,12 +172,15 @@ const Navbar: FC = () => {
                   backgroundColor="primary.100"
                   py={6}
                   fontSize="lg"
-                  {...register("telephone")}
+                  {...register("telephone", { required: "Kötelező mező!" })}
                 />
+                <FormErrorMessage>
+                  {errors.telephone && (errors.telephone.message as string)}
+                </FormErrorMessage>
               </FormControl>
 
               <FormControl
-                isInvalid={errors.email}
+                isInvalid={!!errors.email}
                 isRequired
                 mt={6}
                 id="email"
@@ -192,14 +193,17 @@ const Navbar: FC = () => {
                   backgroundColor="primary.100"
                   py={6}
                   fontSize="lg"
-                  {...register("email")}
+                  {...register("email", { required: "Kötelező mező!" })}
                 />
+                <FormErrorMessage>
+                  {errors.email && (errors.email.message as string)}
+                </FormErrorMessage>
               </FormControl>
 
               <FormControl
                 isRequired
                 mt={6}
-                isInvalid={errors.message}
+                isInvalid={!!errors.message}
                 id="message"
               >
                 <FormLabel>Üzenet</FormLabel>
@@ -210,12 +214,12 @@ const Navbar: FC = () => {
                   placeholder="Üzenet"
                   fontSize="lg"
                   {...register("message", {
-                    required: "This is required",
+                    required: "Kötelező mező!",
                     minLength: { value: 20, message: "Legalább 20 karakter!" },
                   })}
                 />
                 <FormErrorMessage>
-                  {errors.message && errors.message.message}
+                  {errors.message && (errors.message.message as string)}
                 </FormErrorMessage>
               </FormControl>
               <Flex mt={8} w="100" justify="flex-end">

@@ -12,6 +12,7 @@ type CarouselProps = {
 const Carousel: FC<CarouselProps> = ({ gallery }) => {
   return (
     <div className="wrapper select-none">
+      {/* @ts-ignore - Type incompatibility with react-responsive-carousel and React 19 */}
       <RCarousel
         renderArrowPrev={(onClickHandler, hasPrev, label) =>
           hasPrev && (
@@ -35,8 +36,9 @@ const Carousel: FC<CarouselProps> = ({ gallery }) => {
                 backgroundColor: "curtain.4",
               }}
               title={label}
-              leftIcon={<ChevronLeftIcon color="#fff" fontSize={20} />}
-            />
+            >
+              <ChevronLeftIcon color="#fff" fontSize={20} />
+            </ChakraButton>
           )
         }
         renderArrowNext={(onClickHandler, hasNext, label) =>
@@ -61,8 +63,9 @@ const Carousel: FC<CarouselProps> = ({ gallery }) => {
                 backgroundColor: "curtain.4",
               }}
               title={label}
-              rightIcon={<ChevronRightIcon color="#fff" fontSize={20} />}
-            />
+            >
+              <ChevronRightIcon color="#fff" fontSize={20} />
+            </ChakraButton>
           )
         }
       >

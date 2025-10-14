@@ -54,7 +54,6 @@ const References: FC<PostProps> = ({ references }) => {
       </Heading>
       <Grid
         px={[4, 4, 40]}
-        justify="space-between"
         gridTemplateColumns={[
           "1fr",
           "repeat(2, 1fr)",

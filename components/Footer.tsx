@@ -65,7 +65,7 @@ const Footer = () => {
           <Stack
             direction="column"
             align={["center", "center", "initial"]}
-            spacing={4}
+            gap={4}
             mb={[12, 12, 0]}
           >
             <Text fontWeight={500} fontSize={20}>
@@ -90,7 +90,7 @@ const Footer = () => {
           <Stack
             align={["center", "center", "initial"]}
             direction="column"
-            spacing={4}
+            gap={4}
           >
             <Text fontWeight={500} fontSize={20}>
               Békéscsabai Központ
@@ -125,6 +125,7 @@ const Footer = () => {
               layout="fill"
               objectFit="contain"
               src="/partners/blowtherm.png"
+              alt="Blowtherm partner logo"
             />
           </Flex>
           <Flex h={12} position="relative">
@@ -132,6 +133,7 @@ const Footer = () => {
               layout="fill"
               objectFit="contain"
               src="/partners/filcar.png"
+              alt="Filcar partner logo"
             />
           </Flex>
           <Flex h={8} position="relative">
@@ -139,6 +141,7 @@ const Footer = () => {
               layout="fill"
               objectFit="contain"
               src="/partners/formeco.png"
+              alt="Formeco partner logo"
             />
           </Flex>
           <Flex h={8} position="relative">
@@ -146,6 +149,7 @@ const Footer = () => {
               layout="fill"
               objectFit="contain"
               src="/partners/reglo.png"
+              alt="Reglo partner logo"
             />
           </Flex>
           <Flex h={8} position="relative">
@@ -153,10 +157,11 @@ const Footer = () => {
               layout="fill"
               objectFit="contain"
               src="/partners/sames-kremlim.png"
+              alt="Sames Kremlin partner logo"
             />
           </Flex>
           <Flex h={8} position="relative">
-            <Image layout="fill" objectFit="contain" src="/partners/aaf.png" />
+            <Image layout="fill" objectFit="contain" src="/partners/aaf.png" alt="AAF partner logo" />
           </Flex>
         </Grid>
       </Flex>
