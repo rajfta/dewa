@@ -34,8 +34,8 @@ export default function middleware(request: NextRequest) {
 }
 
 export const config = {
-  // Match all pathnames except API routes, static files, and Next.js internals
+  // Match all pathnames except API routes, static files, Next.js internals, and admin
   matcher: [
-    '/((?!api|_next/static|_next/image|favicon.ico|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)'
+    '/((?!api|_next/static|_next/image|favicon.ico|admin|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)'
   ]
 };
