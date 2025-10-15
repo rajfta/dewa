@@ -1,4 +1,5 @@
 import { FC } from "react";
+import { useTranslations } from "next-intl";
 
 import { useContact } from "../../hooks";
 
@@ -6,6 +7,7 @@ import { BaseButton } from "../uikit";
 
 const Contact: FC = () => {
   const { onOpen } = useContact();
+  const t = useTranslations('footer');
 
   return (
     <BaseButton
@@ -18,7 +20,7 @@ const Contact: FC = () => {
       onClick={onOpen}
       justifyContent="center"
     >
-      Írjon Nekünk!
+      {t('writeToUs')}
     </BaseButton>
   );
 };

@@ -1,4 +1,4 @@
-import React, { FC, useState, useCallback } from "react";
+import React, { FC, useState, useCallback, useMemo } from "react";
 import {
   Box,
   Link as ChakraLink,
@@ -14,6 +14,7 @@ import {
 } from "@chakra-ui/react";
 import NextLink from "next/link";
 import { useRouter } from "next/router";
+import { useTranslations } from "next-intl";
 
 import { getRemovedAccents } from "../../util/removeAccents";
 import { useCurrentBreakpoint, useMenu } from "../../hooks";
@@ -28,7 +29,6 @@ import {
 import { headerPX } from "./consts";
 import Contact from "./Contact";
 import { MenuContext } from "../../hooks/useMenu";
-import LanguageSwitcher from "../LanguageSwitcher";
 
 type LinkItemProps = {
   href: string;
@@ -58,19 +58,20 @@ const LinkItem: FC<LinkItemProps> = ({ children, href, css }) => {
   );
 };
 
-const productCategories = [
-  "Fényezőfülkék",
-  "Felületkezelés",
-  "Tüzeléstechnika",
-  "Szórástechnika",
-];
-
 type ProductCategoriesProps = {
   show: boolean;
 };
 
 const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
   const { isLg } = useCurrentBreakpoint();
+  const t = useTranslations('nav');
+
+  const productCategories = useMemo(() => [
+    { key: 'sprayBooths', slug: 'fenyezofulkek' },
+    { key: 'surfaceTreatment', slug: 'feluletkezeles' },
+    { key: 'heatingTechnology', slug: 'tuzelestechnika' },
+    { key: 'sprayTechnology', slug: 'szorastechnika' },
+  ], []);
 
   if (!show) {
     return null;
@@ -88,10 +89,9 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
         bg="background"
       >
         {productCategories.map((category, i) => {
-          const lowcase = category.toLowerCase();
-          const href = `/termekek/${getRemovedAccents(lowcase)}`;
+          const href = `/termekek/${category.slug}`;
           return (
-            <Box key={category}>
+            <Box key={category.key}>
               <LinkItem
                 href={href}
                 css={{
@@ -101,7 +101,7 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
                   paddingRight: "16px",
                 }}
               >
-                {category}
+                {t(category.key as any)}
               </LinkItem>
               {i + 1 < productCategories.length && (
                 <Box height={0.25} width="100%" backgroundColor="curtain.2" />
@@ -116,11 +116,10 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
   return (
     <Stack alignItems="flex-end" mt={6}>
       {productCategories.map((category) => {
-        const lowcase = category.toLowerCase();
-        const href = `/termekek/${getRemovedAccents(lowcase)}`;
+        const href = `/termekek/${category.slug}`;
         return (
           <LinkItem
-            key={category}
+            key={category.key}
             href={href}
             css={{
               paddingTop: "12px",
@@ -129,7 +128,7 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
               fontSize: "lg",
             }}
           >
-            {category}
+            {t(category.key as any)}
           </LinkItem>
         );
       })}
@@ -189,8 +188,12 @@ type NavItemProps = {
 
 const NavItem: FC<NavItemProps> = ({ children, href }) => {
   const { onClose } = useMenu();
+  const t = useTranslations('nav');
 
-  if (children === "Karrier") {
+  const isCareer = children === t('career');
+  const isProducts = children === t('products');
+
+  if (isCareer) {
     return (
       <ChakraLink
         onClick={onClose}
@@ -210,7 +213,7 @@ const NavItem: FC<NavItemProps> = ({ children, href }) => {
     );
   }
 
-  if (children === "Termékek") {
+  if (isProducts) {
     return <Products>{children}</Products>;
   }
 
@@ -218,6 +221,8 @@ const NavItem: FC<NavItemProps> = ({ children, href }) => {
 };
 
 const NavItems: FC = () => {
+  const t = useTranslations('nav');
+
   return (
     <Stack
       spacing={12}
@@ -225,15 +230,14 @@ const NavItems: FC = () => {
       direction={["column", "column", "column", "row"]}
       zIndex={12}
     >
-      <NavItem href="/termekek">Termékek</NavItem>
-      <NavItem href="/referenciak">Referenciák</NavItem>
-      <NavItem href="/cikkek">Cikkek</NavItem>
-      <NavItem href="/kapcsolat">Kapcsolat</NavItem>
+      <NavItem href="/termekek">{t('products')}</NavItem>
+      <NavItem href="/referenciak">{t('references')}</NavItem>
+      <NavItem href="/cikkek">{t('blog')}</NavItem>
+      <NavItem href="/kapcsolat">{t('contact')}</NavItem>
       <NavItem href="https://www.profession.hu/allasok/dewa-zrt/1,0,0,0,0,0,0,0,0,0,38885">
-        Karrier
+        {t('career')}
       </NavItem>
       <Contact />
-      <LanguageSwitcher />
     </Stack>
   );
 };

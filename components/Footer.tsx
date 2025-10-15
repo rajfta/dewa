@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import { useContact } from "../hooks";
 import { DotsIcon, MailIcon, MapIcon, TelephoneIcon } from "./icons";
 import { Button } from "./uikit";
+import LanguageSwitcher from "./LanguageSwitcher";
 
 const Separator = () => {
   return <Flex w="100%" h="1px" my={[10, 10, 20]} bg="whiteAlpha.300" />;
@@ -166,6 +167,16 @@ const Footer = () => {
             <Image layout="fill" objectFit="contain" src="/partners/aaf.png" alt="AAF partner logo" />
           </Flex>
         </Grid>
+
+        <Flex
+          justify="center"
+          align="center"
+          pl={[8, 8, 24, 32, 64]}
+          pt={8}
+          pb={4}
+        >
+          <LanguageSwitcher />
+        </Flex>
       </Flex>
     </Flex>
   );

@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import { Button, HStack, Text } from "@chakra-ui/react";
+import { Button, HStack, Text, Flex } from "@chakra-ui/react";
 
 const LanguageSwitcher = () => {
   const router = useRouter();
@@ -16,21 +16,35 @@ const LanguageSwitcher = () => {
   return (
     <HStack spacing={2}>
       <Button
-        size="sm"
-        variant={locale === 'hu' ? 'solid' : 'ghost'}
-        colorScheme={locale === 'hu' ? 'primary' : 'gray'}
+        size="xs"
+        variant="ghost"
         onClick={() => changeLanguage('hu')}
-        fontWeight={locale === 'hu' ? 600 : 400}
+        fontWeight={locale === 'hu' ? 700 : 400}
+        opacity={locale === 'hu' ? 1 : 0.6}
+        color="white"
+        px={2}
+        _hover={{
+          opacity: 1,
+          bg: 'whiteAlpha.200'
+        }}
+        leftIcon={<Text fontSize="16px">🇭🇺</Text>}
       >
         HU
       </Button>
-      <Text color="gray.400">|</Text>
+      <Text color="whiteAlpha.500" fontSize="sm">|</Text>
       <Button
-        size="sm"
-        variant={locale === 'en' ? 'solid' : 'ghost'}
-        colorScheme={locale === 'en' ? 'primary' : 'gray'}
+        size="xs"
+        variant="ghost"
         onClick={() => changeLanguage('en')}
-        fontWeight={locale === 'en' ? 600 : 400}
+        fontWeight={locale === 'en' ? 700 : 400}
+        opacity={locale === 'en' ? 1 : 0.6}
+        color="white"
+        px={2}
+        _hover={{
+          opacity: 1,
+          bg: 'whiteAlpha.200'
+        }}
+        leftIcon={<Text fontSize="16px">🇬🇧</Text>}
       >
         EN
       </Button>
