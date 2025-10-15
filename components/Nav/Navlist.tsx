@@ -16,7 +16,6 @@ import NextLink from "next/link";
 import { useRouter } from "next/router";
 import { useTranslations } from "next-intl";
 
-import { getRemovedAccents } from "../../util/removeAccents";
 import { useCurrentBreakpoint, useMenu } from "../../hooks";
 
 import {

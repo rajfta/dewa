@@ -168,9 +168,28 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Home",
-        name: "home",
-        path: "cms/pages",
+        label: "Home (Hungarian)",
+        name: "home_hu",
+        path: "cms/pages/hu",
+        match: {
+          include: "**/*",
+        },
+        fields: [
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
+          ...homepageFields(),
+        ],
+      },
+      {
+        format: "md",
+        label: "Home (English)",
+        name: "home_en",
+        path: "cms/pages/en",
         match: {
           include: "**/*",
         },

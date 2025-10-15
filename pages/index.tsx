@@ -407,7 +407,7 @@ export const getStaticProps: GetStaticProps = async ({ locale = 'hu' }) => {
     "tuzeles-desc",
     "felulet-desc",
     "serv-image",
-  ]) as HomePageType[];
+  ], locale) as HomePageType[];
 
   const data = homepageProps[0];
   const messages = await getMessages(locale);

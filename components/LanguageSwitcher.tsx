@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import { Button, HStack, Text, Flex } from "@chakra-ui/react";
+import { Button, HStack, Text } from "@chakra-ui/react";
 
 const LanguageSwitcher = () => {
   const router = useRouter();
