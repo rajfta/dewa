@@ -55,7 +55,7 @@ export const getStaticProps: GetStaticProps = async ({ locale = 'hu' }) => {
     "date",
     "seo",
     "slug",
-  ]);
+  ], locale);
   const serializedPosts = posts.map((post) => {
     return {
       ...post,

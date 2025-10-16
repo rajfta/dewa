@@ -1,6 +1,9 @@
 ---
+nev: Buczkó Patrick
+role: projektvezető
+role_en: project manager
 reszleg: festőfülkék
-nev: Buczkó Patrick projektvezető
+reszleg_en: paint booths
 helyszin: budaors
 email: b.patrick@dewa.hu
 telefonszam: +36 23 889 784

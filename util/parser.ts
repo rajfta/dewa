@@ -13,9 +13,9 @@ import {
 const getDirectory = (type: ContentType, locale: string = 'hu') => {
   switch (type) {
     case "posts":
-      return path.join(process.cwd(), "cms/posts");
+      return path.join(process.cwd(), `cms/posts/${locale}`);
     case "references":
-      return path.join(process.cwd(), "cms/references");
+      return path.join(process.cwd(), `cms/references/${locale}`);
     case "feluletkezeles":
       return path.join(process.cwd(), "cms/termekek/feluletkezeles");
     case "fenyezofulkek":

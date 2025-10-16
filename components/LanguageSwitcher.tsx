@@ -6,10 +6,7 @@ const LanguageSwitcher = () => {
   const { locale, pathname, asPath, query } = router;
 
   const changeLanguage = (newLocale: string) => {
-    // Set cookie to persist locale preference
-    document.cookie = `NEXT_LOCALE=${newLocale}; max-age=${60 * 60 * 24 * 365}; path=/`;
-
-    // Navigate to new locale
+    // Navigate to new locale - Next.js i18n handles routing and cookie persistence
     router.push({ pathname, query }, asPath, { locale: newLocale });
   };
 

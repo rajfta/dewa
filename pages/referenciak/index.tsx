@@ -86,7 +86,7 @@ export const getStaticProps: GetStaticProps = async ({ locale = 'hu' }) => {
     "seo",
     "slug",
     "_template",
-  ]);
+  ], locale);
   const serializedReferences = references.map((reference) => {
     return {
       ...reference,

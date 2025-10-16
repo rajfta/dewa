@@ -109,8 +109,20 @@ export function kapcsolat_egyenFields() {
     {
       type: "string",
       name: "nev",
-      label: "Nev",
+      label: "Name",
       required: true,
+    },
+    {
+      type: "string",
+      name: "role",
+      label: "Role (Hungarian)",
+      required: false,
+    },
+    {
+      type: "string",
+      name: "role_en",
+      label: "Role (English)",
+      required: false,
     },
     {
       type: "string",
@@ -121,7 +133,7 @@ export function kapcsolat_egyenFields() {
     {
       type: "string",
       name: "reszleg",
-      label: "reszleg",
+      label: "reszleg (Hungarian)",
       options: [
         "központ",
         "szervíz",
@@ -130,6 +142,21 @@ export function kapcsolat_egyenFields() {
         "szórástechnika",
         "ipari festőberendezések",
         "festőfülkék",
+      ],
+      required: true,
+    },
+    {
+      type: "string",
+      name: "reszleg_en",
+      label: "reszleg (English)",
+      options: [
+        "headquarters",
+        "service",
+        "heating technology",
+        "warehouse",
+        "spray technology",
+        "industrial painting equipment",
+        "paint booths",
       ],
       required: true,
     },

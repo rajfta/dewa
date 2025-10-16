@@ -1,6 +1,9 @@
 ---
+nev: Buczkó Péter
+role: vezérigazgató
+role_en: CEO
 reszleg: központ
-nev: Buczkó Péter vezérigazgató
+reszleg_en: headquarters
 helyszin: budaors
 email: 'buczko@dewa.hu '
 telefonszam: +36 23 889 789

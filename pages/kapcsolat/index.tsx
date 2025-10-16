@@ -1,6 +1,7 @@
 // @ts-nocheck
 import React, { FC, useState, useCallback, useMemo } from "react";
 import { GetStaticProps } from "next";
+import { useRouter } from "next/router";
 import {
   Flex,
   HStack,
@@ -91,10 +92,12 @@ const getIcon = (id: string) => {
 
 const ContactList: FC<ContactProps> = ({ contacts }) => {
   const t = useTranslations('contactPage');
+  const router = useRouter();
+  const locale = router.locale || 'hu';
 
   contacts.sort((a, b) => {
-    if (a.reszleg === "kozpont") {
-      if (b.reszleg === "kozpont") {
+    if (a.reszleg === "kozpont" || a.reszleg === "központ") {
+      if (b.reszleg === "kozpont" || b.reszleg === "központ") {
         return a.nev.localeCompare(b.nev);
       }
 
@@ -108,13 +111,14 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
 
   const data = useMemo(
     () =>
-      contacts.map(({ nev, reszleg, email, telefonszam }) => ({
+      contacts.map(({ nev, role, role_en, reszleg, reszleg_en, email, telefonszam }) => ({
         name: nev,
-        department: reszleg,
+        role: locale === 'en' ? role_en : role,
+        department: locale === 'en' ? reszleg_en : reszleg,
         email,
         telephone: telefonszam,
       })),
-    [contacts]
+    [contacts, locale]
   );
 
   const columns = useMemo(
@@ -122,6 +126,10 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
       {
         Header: t('name'),
         accessor: "name",
+      },
+      {
+        Header: t('role'),
+        accessor: "role",
       },
       {
         Header: t('department'),
@@ -147,6 +155,7 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
     return (
       <Flex direction="column" alignSelf="normal" mt={8}>
         {contacts.map((contact) => {
+          const displayRole = locale === 'en' ? contact.role_en : contact.role;
           return (
             <Flex
               key={contact.slug}
@@ -158,6 +167,11 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
               <Text fontWeight={500} fontSize="18" mb={2}>
                 {contact.nev}
               </Text>
+              {displayRole && (
+                <Text fontSize="14" color="gray.600" mb={2}>
+                  {displayRole}
+                </Text>
+              )}
               <Flex mb={1} align="center" justify="start">
                 <MailIcon />
                 <Text ml={2}>{contact.email}</Text>
@@ -175,7 +189,7 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
   }
 
   return (
-    <div className="h-72 w-full overflow-auto">
+    <div className="w-full wrapper">
       <Table {...getTableProps()}>
         <Thead>
           {headerGroups.map((headerGroup) => (
@@ -184,7 +198,7 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
                 return (
                   <Th
                     display={
-                      isMd && isMobile && column.id === "department"
+                      isMd && isMobile && (column.id === "department" || column.id === "role")
                         ? "none"
                         : "th"
                     }
@@ -234,7 +248,7 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
                       }
                       key={cell.value}
                       display={
-                        isMd && isMobile && cell.column.id === "department"
+                        isMd && isMobile && (cell.column.id === "department" || cell.column.id === "role")
                           ? "none"
                           : "td"
                       }
@@ -286,21 +300,22 @@ const Contact: FC<ContactProps> = ({ contacts }) => {
           {t('bekescsabaAddress')}
         </Heading>
       )}
-      <AspectRatio w="100%" ratio={[1, 1, 31 / 9]}>
+
+      <AspectRatio className="wrapper" w="100%" ratio={[1, 1, 31 / 9]}>
         {active === "budaors" ? (
           <iframe
-            loading="lazy"
-            title="Dewa HQ"
-            allowFullScreen
-            src="https://www.google.com/maps/embed/v1/place?q=dewa&key=AIzaSyDGQJAOWTOczUfw4RU9YoRBdpD44Kas81Q&zoom=14"
+          loading="lazy"
+          title="Dewa HQ"
+          allowFullScreen
+          src="https://www.google.com/maps/embed/v1/place?q=dewa&key=AIzaSyDGQJAOWTOczUfw4RU9YoRBdpD44Kas81Q&zoom=14"
           />
         ) : (
           <iframe
-            title="Dewa Bekescsaba"
-            src="https://www.google.com/maps/embed/v1/place?q=dewa+bekescsaba&key=AIzaSyDGQJAOWTOczUfw4RU9YoRBdpD44Kas81Q&zoom=14"
-            allowFullScreen
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"
+          title="Dewa Bekescsaba"
+          src="https://www.google.com/maps/embed/v1/place?q=dewa+bekescsaba&key=AIzaSyDGQJAOWTOczUfw4RU9YoRBdpD44Kas81Q&zoom=14"
+          allowFullScreen
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
           />
         )}
       </AspectRatio>
@@ -312,7 +327,10 @@ export const getStaticProps: GetStaticProps = async ({ locale = 'hu' }) => {
   const contacts = getAllContents("kapcsolat", [
     "nev",
     "slug",
+    "role",
+    "role_en",
     "reszleg",
+    "reszleg_en",
     "helyszin",
     "email",
     "telefonszam",

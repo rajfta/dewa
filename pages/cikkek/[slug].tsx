@@ -59,7 +59,7 @@ export const getStaticProps: GetStaticProps = async ({ params: { slug }, locale 
     "excerpt",
     "seo",
     "title",
-  ]);
+  ], locale);
   const serializedPost = {
     ...post,
     date: post.date.toString(),
@@ -76,22 +76,19 @@ export const getStaticProps: GetStaticProps = async ({ params: { slug }, locale 
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const posts = getAllContents("posts", ["slug"]);
+  const postsHu = getAllContents("posts", ["slug"], 'hu');
+  const postsEn = getAllContents("posts", ["slug"], 'en');
 
-  const paths = posts.flatMap((post) => [
-    {
-      params: {
-        slug: post.slug,
-      },
+  const paths = [
+    ...postsHu.map((post) => ({
+      params: { slug: post.slug },
       locale: 'hu',
-    },
-    {
-      params: {
-        slug: post.slug,
-      },
+    })),
+    ...postsEn.map((post) => ({
+      params: { slug: post.slug },
       locale: 'en',
-    },
-  ]);
+    })),
+  ];
 
   return {
     paths,

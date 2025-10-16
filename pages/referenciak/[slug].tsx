@@ -99,7 +99,7 @@ export const getStaticProps: GetStaticProps = async ({ params: { slug }, locale 
     "seo",
     "title",
     "_template",
-  ]);
+  ], locale);
 
   const serializedReference: { [key: string]: string } = {
     ...reference,
@@ -117,22 +117,19 @@ export const getStaticProps: GetStaticProps = async ({ params: { slug }, locale 
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const posts = getAllContents("references", ["slug"]);
+  const referencesHu = getAllContents("references", ["slug"], 'hu');
+  const referencesEn = getAllContents("references", ["slug"], 'en');
 
-  const paths = posts.flatMap((post) => [
-    {
-      params: {
-        slug: post.slug,
-      },
+  const paths = [
+    ...referencesHu.map((ref) => ({
+      params: { slug: ref.slug },
       locale: 'hu',
-    },
-    {
-      params: {
-        slug: post.slug,
-      },
+    })),
+    ...referencesEn.map((ref) => ({
+      params: { slug: ref.slug },
       locale: 'en',
-    },
-  ]);
+    })),
+  ];
 
   return {
     paths,

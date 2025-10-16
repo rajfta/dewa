@@ -110,9 +110,9 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Posts",
-        name: "posts",
-        path: "cms/posts",
+        label: "Posts (Hungarian)",
+        name: "posts_hu",
+        path: "cms/posts/hu",
         match: {
           include: "**/*",
         },
@@ -129,9 +129,28 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "References",
-        name: "references",
-        path: "cms/references",
+        label: "Posts (English)",
+        name: "posts_en",
+        path: "cms/posts/en",
+        match: {
+          include: "**/*",
+        },
+        fields: [
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
+          ...postFields(),
+        ],
+      },
+      {
+        format: "md",
+        label: "References (Hungarian)",
+        name: "references_hu",
+        path: "cms/references/hu",
         match: {
           include: "**/*",
         },
@@ -163,6 +182,45 @@ export default defineConfig({
             ],
             label: "referencia",
             name: "referencia",
+          },
+        ],
+      },
+      {
+        format: "md",
+        label: "References (English)",
+        name: "references_en",
+        path: "cms/references/en",
+        match: {
+          include: "**/*",
+        },
+        templates: [
+          {
+            fields: [
+              {
+                type: "rich-text",
+                name: "body",
+                label: "Body of Document",
+                description: "This is the markdown body",
+                isBody: true,
+              },
+              ...reference_galleryFields(),
+            ],
+            label: "reference-gallery",
+            name: "reference_gallery",
+          },
+          {
+            fields: [
+              {
+                type: "rich-text",
+                name: "body",
+                label: "Body of Document",
+                description: "This is the markdown body",
+                isBody: true,
+              },
+              ...reference_hall_of_fameFields(),
+            ],
+            label: "reference",
+            name: "reference",
           },
         ],
       },

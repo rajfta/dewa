@@ -1,6 +1,9 @@
 ---
+nev: Ifj. Ursz József
+role: szervízvezető
+role_en: service manager
 reszleg: szervíz
-nev: Ifj. Ursz József szervízvezető
+reszleg_en: service
 helyszin: bekescsaba
 email: logisztika.bcs@dewa.hu
 telefonszam: +36 30 242 2555
