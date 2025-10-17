@@ -22,7 +22,6 @@ const breakpoints = createBreakpoints({
 	xl,
 });
 
-// @ts-expect-error
 const theme = extendTheme({
 	fonts,
 	colors,

@@ -59,7 +59,6 @@ const Navbar: FC = () => {
 		};
 
 		try {
-			// @ts-expect-error
 			const response = await axios(config);
 			toast.closeAll();
 			setIsEmailSending(false);

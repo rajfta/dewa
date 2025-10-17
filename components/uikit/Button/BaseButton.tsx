@@ -11,7 +11,6 @@ const m = desiredMargin.map((element) => element - iconSpanMargin);
 
 const BaseButton: FC<ButtonProps> = ({ variant, side, children, ...props }) => {
 	return (
-		// @ts-expect-error
 		<Box
 			as="button"
 			display="inline-flex"
