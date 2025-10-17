@@ -9,6 +9,7 @@ import {
     type SetStateAction,
     useState,
 } from "react";
+import ReactMarkdown from "react-markdown";
 import type { ProductType } from "../types";
 
 import { Button } from "./uikit";
@@ -67,10 +68,8 @@ const ProductModal = ({ open, setOpen, product }: ProductModalProps) => {
                                         >
                                             {product.nev}
                                         </Dialog.Title>
-                                        <div className="mt-2">
-                                            <p className="text-md text-left text-gray-700">
-                                                {product.leiras}
-                                            </p>
+                                        <div className="mt-2 prose prose-sm text-gray-700 text-left max-w-none">
+                                            <ReactMarkdown>{product.leiras}</ReactMarkdown>
                                         </div>
                                     </div>
                                     <div className="mt-5 sm:mt-6">
@@ -144,7 +143,9 @@ const Product: FC<ProductProps> = ({ product }) => {
                             overflowY="hidden"
                             height={140}
                         >
-                            <p className="text-sm line-clamp-6">{leiras}</p>
+                            <div className="text-sm line-clamp-6 prose prose-sm max-w-none">
+                                <ReactMarkdown>{leiras}</ReactMarkdown>
+                            </div>
                         </Box>
                     </Flex>
                 </Flex>

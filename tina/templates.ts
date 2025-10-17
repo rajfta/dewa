@@ -70,12 +70,9 @@ export function ipari_feluletkezeles_termekFields() {
             label: "nev",
         },
         {
-            type: "string",
+            type: "rich-text",
             name: "leiras",
             label: "leiras",
-            ui: {
-                component: "textarea",
-            },
         },
         {
             type: "image",
@@ -376,12 +373,9 @@ export function szorastechnika_termekFields() {
             label: "nev",
         },
         {
-            type: "string",
+            type: "rich-text",
             name: "leiras",
             label: "leiras",
-            ui: {
-                component: "textarea",
-            },
         },
         {
             type: "image",
@@ -418,12 +412,9 @@ export function fenyezofulkekFields() {
             required: true,
         },
         {
-            type: "string",
+            type: "rich-text",
             name: "leiras",
             label: "leiras",
-            ui: {
-                component: "textarea",
-            },
             required: true,
         },
         {
@@ -459,12 +450,9 @@ export function tuzelestechnika_termekFields() {
             label: "nev",
         },
         {
-            type: "string",
+            type: "rich-text",
             name: "leiras",
             label: "leiras",
-            ui: {
-                component: "textarea",
-            },
         },
         {
             type: "image",
