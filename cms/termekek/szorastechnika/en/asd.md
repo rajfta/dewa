@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airless berendezések Category
+alkategoria: Airless Equipment
 nev: 'SAMES - AIRLESS AS2 automata szórópisztoly  '
 leiras: >-
   Premium quality industrial system engineered for demanding professional

@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airless berendezések Category
+alkategoria: Airless Equipment
 nev: SAMES - AIRLESS 30F60 Flowmax festékpumpa
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

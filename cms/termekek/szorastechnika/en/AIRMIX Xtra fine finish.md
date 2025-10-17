@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airmix berendezések Category
+alkategoria: Airmix Equipment
 nev: 'SAMES - AIRMIX Xtra fine finish fúvóka '
 leiras: >-
   High-quality industrial solution engineered for optimal performance and

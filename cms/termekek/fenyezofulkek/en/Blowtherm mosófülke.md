@@ -1,6 +1,6 @@
 ---
 divizio: PAINT BOOTH
-alkategoria: Kiegészítő berendezések Category
+alkategoria: Auxiliary Equipment
 nev: MOSÓFÜLKE
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

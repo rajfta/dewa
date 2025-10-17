@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airless berendezések Category
+alkategoria: Airless Equipment
 nev: 'SAMES - AIRLESS Cyclomix Expert festékadagoló és keverő '
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

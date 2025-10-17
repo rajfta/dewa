@@ -1,6 +1,6 @@
 ---
 divizio: PAINT BOOTH
-alkategoria: Ipari fényezőfülkék Category
+alkategoria: Industrial Spray Booths
 nev: BLOWTHERM SPACE SAVER
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

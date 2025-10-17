@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airless berendezések Category
+alkategoria: Airless Equipment
 nev: SAMES - AIRLESS 65C260 festékpumpa
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

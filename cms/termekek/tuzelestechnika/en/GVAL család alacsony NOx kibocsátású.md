@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Product Category
+alkategoria: Other Products
 nev: Alacsony NOx kibocsátású gázégők (GVAL család)
 leiras: >-
   High-quality industrial solution engineered for optimal performance and

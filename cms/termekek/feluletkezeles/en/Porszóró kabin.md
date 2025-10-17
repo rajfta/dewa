@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Porszóró berendezések Category
+alkategoria: Powder Coating Equipment
 nev: Porszóró kabin
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

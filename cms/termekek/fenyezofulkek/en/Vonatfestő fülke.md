@@ -1,6 +1,6 @@
 ---
 divizio: PAINT BOOTH
-alkategoria: Vasúti fényezőfülkék Category
+alkategoria: Railway Spray Booths
 nev: 'Vonatfestő '
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

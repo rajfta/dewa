@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Melegvizes és gőzkazánok Category
+alkategoria: Hot Water and Steam Boilers
 nev: PACK - P TRS TS
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

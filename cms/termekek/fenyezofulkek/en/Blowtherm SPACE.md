@@ -1,6 +1,6 @@
 ---
 divizio: PAINT BOOTH
-alkategoria: Ipari fényezőfülkék Category
+alkategoria: Industrial Spray Booths
 nev: 'BLOWTHERM SPACE '
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

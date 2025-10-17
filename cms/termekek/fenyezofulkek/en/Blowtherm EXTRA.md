@@ -1,6 +1,6 @@
 ---
 divizio: PAINT BOOTH
-alkategoria: Személyautó fényezőfülkék Category
+alkategoria: Passenger Car Spray Booths
 nev: BLOWTHERM EXTRA
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

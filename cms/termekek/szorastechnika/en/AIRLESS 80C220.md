@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airless berendezések Category
+alkategoria: Airless Equipment
 nev: SAMES - AIRLESS 80C220 festékpumpa
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

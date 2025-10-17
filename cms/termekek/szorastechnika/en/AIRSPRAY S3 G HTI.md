@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Sűrített levegős berendezések Category
+alkategoria: Compressed Air Equipment
 nev: 'SAMES - AIRSPRAY S3 G HTI kézi szórópisztoly '
 leiras: >-
   High-quality industrial solution engineered for optimal performance and

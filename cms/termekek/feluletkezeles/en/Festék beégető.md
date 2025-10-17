@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Szárító kemencék Category
+alkategoria: Drying Ovens
 nev: 'Festék beégető kemence '
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

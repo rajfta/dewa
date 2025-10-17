@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Felületkezelők Category
+alkategoria: Surface Treatment Systems
 nev: 'Mártő rendszerű előkezelő '
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

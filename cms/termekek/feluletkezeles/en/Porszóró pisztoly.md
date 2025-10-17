@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Porszóró berendezések Category
+alkategoria: Powder Coating Equipment
 nev: 'Porszóró pisztoly '
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

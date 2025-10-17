@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Anyagmozgató berendezések Category
+alkategoria: Material Handling Equipment
 nev: Anyagmozgató rendszerek
 leiras: >-
   High-quality industrial solution engineered for optimal performance and

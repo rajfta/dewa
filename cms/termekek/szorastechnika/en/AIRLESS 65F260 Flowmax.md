@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airless berendezések Category
+alkategoria: Airless Equipment
 nev: SAMES - KREMLIN 65F260 Flowmax festékpumpa
 leiras: >-
   Premium quality industrial system engineered for demanding professional

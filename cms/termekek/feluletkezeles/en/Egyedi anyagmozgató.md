@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Egyedi tervezésű festőberendezések Category
+alkategoria: Custom Painting Equipment
 nev: 'Egyedi anyagmozgató berendezés '
 leiras: >-
   High-quality industrial solution engineered for optimal performance and

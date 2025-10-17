@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Hőlégfúvók Category
+alkategoria: Hot Air Blowers
 nev: 'IHPTM C fali hőlégfúvó '
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

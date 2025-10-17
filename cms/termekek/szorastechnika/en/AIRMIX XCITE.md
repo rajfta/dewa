@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airmix berendezések Category
+alkategoria: Airmix Equipment
 nev: 'SAMES - AIRMIX XCITE kézi szórópisztoly '
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

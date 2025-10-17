@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Blokkégők Category
+alkategoria: Block Burners
 nev: 'Moduláris duálégő (BLOWTHERM GM család) '
 leiras: >-
   High-quality industrial solution engineered for optimal performance and

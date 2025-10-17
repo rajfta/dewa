@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Hőlégfúvók Category
+alkategoria: Hot Air Blowers
 nev: IHPTM C kültéri fali hőlégfúvó
 leiras: >-
   High-quality industrial solution engineered for optimal performance and

@@ -1,6 +1,6 @@
 ---
 divizio: PAINT BOOTH
-alkategoria: Kiegészítő berendezések Category
+alkategoria: Auxiliary Equipment
 nev: REGLO Wall-Man 3D-s festőállvány
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

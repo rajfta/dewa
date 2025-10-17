@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Sűrített levegős berendezések Category
+alkategoria: Compressed Air Equipment
 nev: SAMES - AIRSPRAY 08C240 festékpumpa
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

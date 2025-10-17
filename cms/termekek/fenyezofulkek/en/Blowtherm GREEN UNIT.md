@@ -1,6 +1,6 @@
 ---
 divizio: PAINT BOOTH
-alkategoria: Kiegészítő berendezések Category
+alkategoria: Auxiliary Equipment
 nev: BLOWTHERM GREEN UNIT
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

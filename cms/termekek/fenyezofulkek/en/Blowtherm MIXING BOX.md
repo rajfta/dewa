@@ -1,6 +1,6 @@
 ---
 divizio: PAINT BOOTH
-alkategoria: Előkészítő állások és festékkonyhák Category
+alkategoria: Preparation Stations and Paint Kitchens
 nev: BLOWTHERM MIXING BOX
 leiras: >-
   Premium quality industrial system engineered for demanding professional

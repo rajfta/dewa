@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airmix berendezések Category
+alkategoria: Airmix Equipment
 nev: SAMES - AIRMIX 20C100 festékpumpa
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

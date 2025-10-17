@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Melegvizes és gőzkazánok Category
+alkategoria: Hot Water and Steam Boilers
 nev: 'PACK P AR 3S '
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

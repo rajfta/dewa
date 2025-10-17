@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airless berendezések Category
+alkategoria: Airless Equipment
 nev: 'SAMES - AIRLESS ASI 24 - 40 automata szórópisztoly '
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

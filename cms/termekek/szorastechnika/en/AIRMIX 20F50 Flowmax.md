@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airmix berendezések Category
+alkategoria: Airmix Equipment
 nev: SAMES - AIRMIX 20F50 Flowmax
 leiras: >-
   High-quality industrial solution engineered for optimal performance and

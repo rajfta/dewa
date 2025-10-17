@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: KTL festősorok Category
+alkategoria: KTL Painting Lines
 nev: 'KTL festősor '
 leiras: >-
   Premium quality industrial system engineered for demanding professional

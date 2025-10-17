@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Szárító kemencék Category
+alkategoria: Drying Ovens
 nev: Vízleszárító kemence
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

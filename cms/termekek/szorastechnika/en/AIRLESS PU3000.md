@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airless berendezések Category
+alkategoria: Airless Equipment
 nev: 'SAMES - AIRLESS PU3000 festékadagoló és keverő '
 leiras: >-
   Premium quality industrial system engineered for demanding professional

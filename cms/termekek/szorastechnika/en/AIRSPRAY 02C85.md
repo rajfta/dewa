@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Sűrített levegős berendezések Category
+alkategoria: Compressed Air Equipment
 nev: 'SAMES - AIRSPRAY 02C85 festékpumpa '
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

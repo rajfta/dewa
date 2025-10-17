@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airmix berendezések Category
+alkategoria: Airmix Equipment
 nev: SAMES - AIRMIX 16F240 Flowmax festékpumpa
 leiras: >-
   Premium quality industrial system engineered for demanding professional

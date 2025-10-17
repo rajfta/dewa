@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Felületkezelők Category
+alkategoria: Surface Treatment Systems
 nev: Szóró rendszerű előkezelő
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

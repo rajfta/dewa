@@ -1,6 +1,6 @@
 ---
 divizio: PAINT BOOTH
-alkategoria: Előkészítő állások és festékkonyhák Category
+alkategoria: Preparation Stations and Paint Kitchens
 nev: BLOWTHERM GENIUS
 leiras: >-
   High-quality industrial solution engineered for optimal performance and

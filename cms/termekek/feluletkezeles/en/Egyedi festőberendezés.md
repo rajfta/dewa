@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Egyedi tervezésű festőberendezések Category
+alkategoria: Custom Painting Equipment
 nev: Egyedi tervezésű festőberendezés
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

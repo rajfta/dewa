@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airless berendezések Category
+alkategoria: Airless Equipment
 nev: SAMES - AIRLESS 30C50 festékpumpa
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

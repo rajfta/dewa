@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Blokkégők Category
+alkategoria: Block Burners
 nev: 'Egyfokozatú olajégő (BLOWTHERM MKAL család) '
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Porszóró berendezések Category
+alkategoria: Powder Coating Equipment
 nev: Patronos leválasztó egység
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

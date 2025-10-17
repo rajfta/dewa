@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Szennyvízkezelő berendezések Category
+alkategoria: Wastewater Treatment Equipment
 nev: Szennyvízkezelő berendezés
 leiras: >-
   High-quality industrial solution engineered for optimal performance and

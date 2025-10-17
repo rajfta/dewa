@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Melegvizes és gőzkazánok Category
+alkategoria: Hot Water and Steam Boilers
 nev: PACK P TRS 3S
 leiras: >-
   High-quality industrial solution engineered for optimal performance and

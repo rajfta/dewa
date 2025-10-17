@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airmix berendezések Category
+alkategoria: Airmix Equipment
 nev: 'SAMES - AIRMIX Cyclomix Multi festékadagoló és keverő '
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Airmix berendezések Category
+alkategoria: Airmix Equipment
 nev: 'SAMES - AIRMIX Auto Color színváltó '
 leiras: >-
   Premium quality industrial system engineered for demanding professional

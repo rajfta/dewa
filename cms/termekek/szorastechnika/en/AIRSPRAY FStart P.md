@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Sűrített levegős berendezések Category
+alkategoria: Compressed Air Equipment
 nev: 'SAMES - AIRSPRAY FStart P kézi szórópisztoly '
 leiras: >-
   Premium quality industrial system engineered for demanding professional

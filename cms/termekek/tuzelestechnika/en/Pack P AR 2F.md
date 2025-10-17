@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Melegvizes és gőzkazánok Category
+alkategoria: Hot Water and Steam Boilers
 nev: 'PACK P AR 2F dupla égős kazán '
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

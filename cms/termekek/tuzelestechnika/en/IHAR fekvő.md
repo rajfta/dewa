@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Hőlégfúvók Category
+alkategoria: Hot Air Blowers
 nev: 'IH/AR vízszintes ipari hőlégfúvó '
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

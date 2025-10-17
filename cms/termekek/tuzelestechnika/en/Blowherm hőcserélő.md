@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Hőcserélők Category
+alkategoria: Heat Exchangers
 nev: 'BLOWTHERM hőcserélő/tűztér '
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

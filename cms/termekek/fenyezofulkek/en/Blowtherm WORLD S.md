@@ -1,6 +1,6 @@
 ---
 divizio: PAINT BOOTH
-alkategoria: Személyautó fényezőfülkék Category
+alkategoria: Passenger Car Spray Booths
 nev: BLOWTHERM WORLD S
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Sűrített levegős berendezések Category
+alkategoria: Compressed Air Equipment
 nev: 'SAMES - AIRSPRAY FPro P kézi szórópisztoly '
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

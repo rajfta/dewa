@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Sűrített levegős berendezések Category
+alkategoria: Compressed Air Equipment
 nev: SAMES - AIRSPRAY 04F240 Flowmax festékpumpa
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

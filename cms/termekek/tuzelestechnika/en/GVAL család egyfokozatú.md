@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Blokkégők Category
+alkategoria: Block Burners
 nev: 'Egyfokozatú gázégő (BLOWTHERM GVAL család) '
 leiras: >-
   Advanced industrial equipment offering superior performance and versatility.

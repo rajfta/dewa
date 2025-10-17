@@ -1,6 +1,6 @@
 ---
 divizio: BLASTING TECHNOLOGY
-alkategoria: Sűrített levegős berendezések Category
+alkategoria: Compressed Air Equipment
 nev: 'SAMES - AIRSPRAY Cyclomix expert festékadagoló és keverő '
 leiras: >-
   State-of-the-art industrial equipment combining innovation and reliability.

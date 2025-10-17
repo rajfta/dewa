@@ -1,6 +1,6 @@
 ---
 divizio: HEATING TECHNOLOGY
-alkategoria: Hőlégfúvók Category
+alkategoria: Hot Air Blowers
 nev: IHHR speciális hőlégfúvó
 leiras: >-
   Premium quality industrial system engineered for demanding professional

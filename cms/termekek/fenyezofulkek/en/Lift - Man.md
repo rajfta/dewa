@@ -1,6 +1,6 @@
 ---
 divizio: PAINT BOOTH
-alkategoria: Kiegészítő berendezések Category
+alkategoria: Auxiliary Equipment
 nev: REGLO Lift - Man mobil festőállvány
 leiras: >-
   Professional industrial equipment designed for high-performance applications.

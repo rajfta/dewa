@@ -1,6 +1,6 @@
 ---
 divizio: IPARI FELÜLETKEZELÉS
-alkategoria: Porszóró berendezések Category
+alkategoria: Powder Coating Equipment
 nev: 'Ciklonos porleválsztó egység '
 leiras: >-
   Premium quality industrial system engineered for demanding professional
