@@ -7,180 +7,184 @@ import LanguageSwitcher from "./LanguageSwitcher";
 import { Button } from "./uikit";
 
 const Separator = () => {
-	return <Flex w="100%" h="1px" my={[10, 10, 20]} bg="whiteAlpha.300" />;
+    return <Flex w="100%" h="1px" my={[10, 10, 20]} bg="whiteAlpha.300" />;
 };
 
 const Footer = () => {
-	const { onOpen } = useContact();
-	const t = useTranslations("footer");
+    const { onOpen } = useContact();
+    const t = useTranslations("footer");
 
-	return (
-		<Flex
-			mt={40}
-			bg="footer"
-			w={["100%", "100%", "95%"]}
-			borderTopRightRadius={32}
-			position="relative"
-			direction="column"
-			py={[10, 10, 16]}
-			pr={[8, 8, 24, 32, 64]}
-			color="white"
-			align="center"
-		>
-			<DotsIcon
-				color="white"
-				position="absolute"
-				zIndex={10}
-				boxSize={[24, 40]}
-				right={10}
-				top={10}
-				transform="rotate(-90deg)"
-			/>
-			<Flex direction="column" w="100%">
-				<Flex
-					justify="space-between"
-					align="center"
-					direction={["column", "column", "row"]}
-					pl={[8, 8, 24, 32, 64]}
-				>
-					<Heading fontSize={[24, 24, 36]} fontWeight={600}>
-						{t("didWeInterestYou")} <br /> {t("yourInterest")}
-					</Heading>
-					<Button
-						mt={[8, 8, 0]}
-						variant="tertiary"
-						side="right"
-						onClick={onOpen}
-					>
-						{t("writeToUs")}
-					</Button>
-				</Flex>
+    return (
+        <Flex
+            mt={40}
+            bg="footer"
+            w={["100%", "100%", "95%"]}
+            borderTopRightRadius={32}
+            position="relative"
+            direction="column"
+            py={[10, 10, 16]}
+            pr={[8, 8, 24, 32, 64]}
+            color="white"
+            align="center"
+        >
+            <DotsIcon
+                color="white"
+                position="absolute"
+                zIndex={10}
+                boxSize={[24, 40]}
+                right={10}
+                top={10}
+                transform="rotate(-90deg)"
+            />
+            <Flex direction="column" w="100%">
+                <Flex
+                    justify="space-between"
+                    align="center"
+                    direction={["column", "column", "row"]}
+                    pl={[8, 8, 24, 32, 64]}
+                >
+                    <Heading fontSize={[24, 24, 36]} fontWeight={600}>
+                        {t("didWeInterestYou")} <br /> {t("yourInterest")}
+                    </Heading>
+                    <Button
+                        mt={[8, 8, 0]}
+                        variant="tertiary"
+                        side="right"
+                        onClick={onOpen}
+                    >
+                        {t("writeToUs")}
+                    </Button>
+                </Flex>
 
-				<Separator />
+                <Separator />
 
-				<Flex
-					textAlign={["center", "center", "inherit"]}
-					justify="space-between"
-					align="center"
-					direction={["column", "column", "row"]}
-					pl={[8, 8, 24, 32, 64]}
-				>
-					<Stack
-						direction="column"
-						align={["center", "center", "initial"]}
-						gap={4}
-						mb={[12, 12, 0]}
-					>
-						<Text fontWeight={500} fontSize={20}>
-							{t("budaorsCenter")}
-						</Text>
-						<HStack>
-							<MapIcon />
-							<Text fontSize={[12, 12, 16]}>{t("budaorsAddress")}</Text>
-						</HStack>
-						<HStack>
-							<TelephoneIcon />
-							<Text fontSize={[12, 12, 16]}>+36 23 889 770</Text>
-						</HStack>
-						<HStack>
-							<MailIcon />
-							<Text fontSize={[12, 12, 16]}>dewa@dewa.hu</Text>
-						</HStack>
-					</Stack>
+                <Flex
+                    textAlign={["center", "center", "inherit"]}
+                    justify="space-between"
+                    align="center"
+                    direction={["column", "column", "row"]}
+                    pl={[8, 8, 24, 32, 64]}
+                >
+                    <Stack
+                        direction="column"
+                        align={["center", "center", "initial"]}
+                        gap={4}
+                        mb={[12, 12, 0]}
+                    >
+                        <Text fontWeight={500} fontSize={20}>
+                            {t("budaorsCenter")}
+                        </Text>
+                        <HStack>
+                            <MapIcon />
+                            <Text fontSize={[12, 12, 16]}>
+                                {t("budaorsAddress")}
+                            </Text>
+                        </HStack>
+                        <HStack>
+                            <TelephoneIcon />
+                            <Text fontSize={[12, 12, 16]}>+36 23 889 770</Text>
+                        </HStack>
+                        <HStack>
+                            <MailIcon />
+                            <Text fontSize={[12, 12, 16]}>dewa@dewa.hu</Text>
+                        </HStack>
+                    </Stack>
 
-					<Stack
-						align={["center", "center", "initial"]}
-						direction="column"
-						gap={4}
-					>
-						<Text fontWeight={500} fontSize={20}>
-							{t("bekescsabaCenter")}
-						</Text>
-						<HStack>
-							<MapIcon />
-							<Text fontSize={[12, 12, 16]}>{t("bekescsabaAddress")}</Text>
-						</HStack>
-						<HStack>
-							<TelephoneIcon />
-							<Text fontSize={[12, 12, 16]}>+36 66 546 500</Text>
-						</HStack>
-						<HStack>
-							<MailIcon />
-							<Text fontSize={[12, 12, 16]}>dewabcs@dewa.hu</Text>
-						</HStack>
-					</Stack>
-				</Flex>
+                    <Stack
+                        align={["center", "center", "initial"]}
+                        direction="column"
+                        gap={4}
+                    >
+                        <Text fontWeight={500} fontSize={20}>
+                            {t("bekescsabaCenter")}
+                        </Text>
+                        <HStack>
+                            <MapIcon />
+                            <Text fontSize={[12, 12, 16]}>
+                                {t("bekescsabaAddress")}
+                            </Text>
+                        </HStack>
+                        <HStack>
+                            <TelephoneIcon />
+                            <Text fontSize={[12, 12, 16]}>+36 66 546 500</Text>
+                        </HStack>
+                        <HStack>
+                            <MailIcon />
+                            <Text fontSize={[12, 12, 16]}>dewabcs@dewa.hu</Text>
+                        </HStack>
+                    </Stack>
+                </Flex>
 
-				<Separator />
+                <Separator />
 
-				<Grid
-					pl={[8, 8, 24, 32, 64]}
-					rowGap={16}
-					templateColumns={["1fr 1fr", "1fr 1fr", "repeat(6, auto)"]}
-					alignItems="center"
-				>
-					<Flex h={8} position="relative">
-						<Image
-							layout="fill"
-							objectFit="contain"
-							src="/partners/blowtherm.png"
-							alt="Blowtherm partner logo"
-						/>
-					</Flex>
-					<Flex h={12} position="relative">
-						<Image
-							layout="fill"
-							objectFit="contain"
-							src="/partners/filcar.png"
-							alt="Filcar partner logo"
-						/>
-					</Flex>
-					<Flex h={8} position="relative">
-						<Image
-							layout="fill"
-							objectFit="contain"
-							src="/partners/formeco.png"
-							alt="Formeco partner logo"
-						/>
-					</Flex>
-					<Flex h={8} position="relative">
-						<Image
-							layout="fill"
-							objectFit="contain"
-							src="/partners/reglo.png"
-							alt="Reglo partner logo"
-						/>
-					</Flex>
-					<Flex h={8} position="relative">
-						<Image
-							layout="fill"
-							objectFit="contain"
-							src="/partners/sames-kremlim.png"
-							alt="Sames Kremlin partner logo"
-						/>
-					</Flex>
-					<Flex h={8} position="relative">
-						<Image
-							layout="fill"
-							objectFit="contain"
-							src="/partners/aaf.png"
-							alt="AAF partner logo"
-						/>
-					</Flex>
-				</Grid>
+                <Grid
+                    pl={[8, 8, 24, 32, 64]}
+                    rowGap={16}
+                    templateColumns={["1fr 1fr", "1fr 1fr", "repeat(6, auto)"]}
+                    alignItems="center"
+                >
+                    <Flex h={8} position="relative">
+                        <Image
+                            layout="fill"
+                            objectFit="contain"
+                            src="/partners/blowtherm.png"
+                            alt="Blowtherm partner logo"
+                        />
+                    </Flex>
+                    <Flex h={12} position="relative">
+                        <Image
+                            layout="fill"
+                            objectFit="contain"
+                            src="/partners/filcar.png"
+                            alt="Filcar partner logo"
+                        />
+                    </Flex>
+                    <Flex h={8} position="relative">
+                        <Image
+                            layout="fill"
+                            objectFit="contain"
+                            src="/partners/formeco.png"
+                            alt="Formeco partner logo"
+                        />
+                    </Flex>
+                    <Flex h={8} position="relative">
+                        <Image
+                            layout="fill"
+                            objectFit="contain"
+                            src="/partners/reglo.png"
+                            alt="Reglo partner logo"
+                        />
+                    </Flex>
+                    <Flex h={8} position="relative">
+                        <Image
+                            layout="fill"
+                            objectFit="contain"
+                            src="/partners/sames-kremlim.png"
+                            alt="Sames Kremlin partner logo"
+                        />
+                    </Flex>
+                    <Flex h={8} position="relative">
+                        <Image
+                            layout="fill"
+                            objectFit="contain"
+                            src="/partners/aaf.png"
+                            alt="AAF partner logo"
+                        />
+                    </Flex>
+                </Grid>
 
-				<Flex
-					justify="center"
-					align="center"
-					pl={[8, 8, 24, 32, 64]}
-					pt={8}
-					pb={4}
-				>
-					<LanguageSwitcher />
-				</Flex>
-			</Flex>
-		</Flex>
-	);
+                <Flex
+                    justify="center"
+                    align="center"
+                    pl={[8, 8, 24, 32, 64]}
+                    pt={8}
+                    pb={4}
+                >
+                    <LanguageSwitcher />
+                </Flex>
+            </Flex>
+        </Flex>
+    );
 };
 
 export default Footer;

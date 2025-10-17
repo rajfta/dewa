@@ -1,94 +1,94 @@
 {
-	"common": {
-		"contact": "Contact",
-		"readMore": "Read More",
-		"learnMore": "Learn More",
-		"getStarted": "Get Started",
-		"readArticle": "Read More",
-		"backTo": "Back to",
-		"send": "Send"
-	},
-	"nav": {
-		"home": "Home",
-		"products": "Products",
-		"references": "References",
-		"blog": "Articles",
-		"contact": "Contact",
-		"career": "Career",
-		"sprayBooths": "Spray Booths",
-		"sprayTechnology": "Spray Technology",
-		"heatingTechnology": "Heating Technology",
-		"surfaceTreatment": "Surface Treatment"
-	},
-	"footer": {
-		"didWeInterestYou": "Did we catch",
-		"yourInterest": "your interest?",
-		"writeToUs": "Contact Us!",
-		"budaorsCenter": "Budaörs Center",
-		"bekescsabaCenter": "Békéscsaba Center",
-		"budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörs Industrial Park)",
-		"bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)"
-	},
-	"hero": {
-		"turnkey": "Turnkey",
-		"paintingSolutions": "painting industry solutions",
-		"writeToUs": "Contact Us!",
-		"contact": "Contact"
-	},
-	"about": {
-		"yearsExperience": "Years of Experience",
-		"division": "Divisions",
-		"successfulProjects": "Successful Projects"
-	},
-	"products": {
-		"sprayBooths": "Spray Booths",
-		"sprayTechnology": "Spray Technology",
-		"heatingTechnology": "Heating Technology",
-		"surfaceTreatment": "Surface Treatment",
-		"allSubcategories": "All Subcategories"
-	},
-	"references": {
-		"title": "References",
-		"backToReferences": "Back to References",
-		"hallOfFame": "Hall of Fame",
-		"galleries": "Galleries"
-	},
-	"blog": {
-		"title": "Blog",
-		"articles": "Articles",
-		"backToBlog": "Back to Articles"
-	},
-	"contactPage": {
-		"title": "Contact",
-		"getInTouch": "Get in Touch",
-		"description": "Have questions? Feel free to contact us!",
-		"budaorsOffice": "Budaörs Office",
-		"bekescsabaOffice": "Békéscsaba Office",
-		"budaors": "Budaörs",
-		"bekescsaba": "Békéscsaba",
-		"name": "Name",
-		"role": "Role",
-		"department": "Department",
-		"email": "Email",
-		"telephone": "Phone",
-		"budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörs Industrial Park)",
-		"bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)"
-	},
-	"contactForm": {
-		"title": "Contact Us!",
-		"subject": "Subject",
-		"telephone": "Phone Number",
-		"telephonePlaceholder": "Phone Number",
-		"email": "Email Address",
-		"emailPlaceholder": "Email",
-		"message": "Message",
-		"messagePlaceholder": "Message",
-		"send": "Send",
-		"sending": "Sending email...",
-		"success": "Email sent successfully!",
-		"error": "Failed to send, please try again!",
-		"required": "Required field!",
-		"minLength": "At least {min} characters!",
-		"maxLength": "No more than {max} characters!"
-	}
+    "common": {
+        "contact": "Contact",
+        "readMore": "Read More",
+        "learnMore": "Learn More",
+        "getStarted": "Get Started",
+        "readArticle": "Read More",
+        "backTo": "Back to",
+        "send": "Send"
+    },
+    "nav": {
+        "home": "Home",
+        "products": "Products",
+        "references": "References",
+        "blog": "Articles",
+        "contact": "Contact",
+        "career": "Career",
+        "sprayBooths": "Spray Booths",
+        "sprayTechnology": "Spray Technology",
+        "heatingTechnology": "Heating Technology",
+        "surfaceTreatment": "Surface Treatment"
+    },
+    "footer": {
+        "didWeInterestYou": "Did we catch",
+        "yourInterest": "your interest?",
+        "writeToUs": "Contact Us!",
+        "budaorsCenter": "Budaörs Center",
+        "bekescsabaCenter": "Békéscsaba Center",
+        "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörs Industrial Park)",
+        "bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)"
+    },
+    "hero": {
+        "turnkey": "Turnkey",
+        "paintingSolutions": "painting industry solutions",
+        "writeToUs": "Contact Us!",
+        "contact": "Contact"
+    },
+    "about": {
+        "yearsExperience": "Years of Experience",
+        "division": "Divisions",
+        "successfulProjects": "Successful Projects"
+    },
+    "products": {
+        "sprayBooths": "Spray Booths",
+        "sprayTechnology": "Spray Technology",
+        "heatingTechnology": "Heating Technology",
+        "surfaceTreatment": "Surface Treatment",
+        "allSubcategories": "All Subcategories"
+    },
+    "references": {
+        "title": "References",
+        "backToReferences": "Back to References",
+        "hallOfFame": "Hall of Fame",
+        "galleries": "Galleries"
+    },
+    "blog": {
+        "title": "Blog",
+        "articles": "Articles",
+        "backToBlog": "Back to Articles"
+    },
+    "contactPage": {
+        "title": "Contact",
+        "getInTouch": "Get in Touch",
+        "description": "Have questions? Feel free to contact us!",
+        "budaorsOffice": "Budaörs Office",
+        "bekescsabaOffice": "Békéscsaba Office",
+        "budaors": "Budaörs",
+        "bekescsaba": "Békéscsaba",
+        "name": "Name",
+        "role": "Role",
+        "department": "Department",
+        "email": "Email",
+        "telephone": "Phone",
+        "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörs Industrial Park)",
+        "bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)"
+    },
+    "contactForm": {
+        "title": "Contact Us!",
+        "subject": "Subject",
+        "telephone": "Phone Number",
+        "telephonePlaceholder": "Phone Number",
+        "email": "Email Address",
+        "emailPlaceholder": "Email",
+        "message": "Message",
+        "messagePlaceholder": "Message",
+        "send": "Send",
+        "sending": "Sending email...",
+        "success": "Email sent successfully!",
+        "error": "Failed to send, please try again!",
+        "required": "Required field!",
+        "minLength": "At least {min} characters!",
+        "maxLength": "No more than {max} characters!"
+    }
 }

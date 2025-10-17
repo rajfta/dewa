@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer components {
-	.wrapper {
-		@apply mx-auto max-w-default px-4 md:px-8 xl:px-16;
-	}
+    .wrapper {
+        @apply mx-auto max-w-default px-4 md:px-8 xl:px-16;
+    }
 }

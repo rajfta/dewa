@@ -7,13 +7,13 @@ export const defaultLocale = "hu" as const;
 export type Locale = (typeof locales)[number];
 
 export default getRequestConfig(async ({ locale }) => {
-	// Validate that the incoming `locale` parameter is valid
-	if (!locales.includes(locale as any)) {
-		locale = defaultLocale;
-	}
+    // Validate that the incoming `locale` parameter is valid
+    if (!locales.includes(locale as any)) {
+        locale = defaultLocale;
+    }
 
-	return {
-		locale,
-		messages: (await import(`./messages/${locale}.json`)).default,
-	};
+    return {
+        locale,
+        messages: (await import(`./messages/${locale}.json`)).default,
+    };
 });
