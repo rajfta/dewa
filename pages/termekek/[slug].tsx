@@ -186,14 +186,18 @@ export const getStaticProps: GetStaticProps = async ({
 	params: { slug: ContentType };
 	locale?: string;
 }) => {
-	const products = getAllContents(slug, [
-		"divizio",
-		"boritokep",
-		"alkategoria",
-		"leiras",
-		"nev",
-		"slug",
-	]);
+	const products = getAllContents(
+		slug,
+		[
+			"divizio",
+			"boritokep",
+			"alkategoria",
+			"leiras",
+			"nev",
+			"slug",
+		],
+		locale,
+	);
 
 	const messages = await getMessages(locale);
 

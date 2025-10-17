@@ -17,13 +17,13 @@ const getDirectory = (type: ContentType, locale: string = "hu") => {
 		case "references":
 			return path.join(process.cwd(), `cms/references/${locale}`);
 		case "feluletkezeles":
-			return path.join(process.cwd(), "cms/termekek/feluletkezeles");
+			return path.join(process.cwd(), `cms/termekek/feluletkezeles/${locale}`);
 		case "fenyezofulkek":
-			return path.join(process.cwd(), "cms/termekek/fenyezofulkek");
+			return path.join(process.cwd(), `cms/termekek/fenyezofulkek/${locale}`);
 		case "tuzelestechnika":
-			return path.join(process.cwd(), "cms/termekek/tuzelestechnika");
+			return path.join(process.cwd(), `cms/termekek/tuzelestechnika/${locale}`);
 		case "szorastechnika":
-			return path.join(process.cwd(), "cms/termekek/szorastechnika");
+			return path.join(process.cwd(), `cms/termekek/szorastechnika/${locale}`);
 		case "fooldal":
 			return path.join(process.cwd(), `cms/pages/${locale}`);
 		case "kapcsolat":
