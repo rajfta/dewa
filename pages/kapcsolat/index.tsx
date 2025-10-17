@@ -330,7 +330,11 @@ const Contact: FC<ContactProps> = ({ contacts }) => {
                 </Heading>
             )}
 
-            <AspectRatio className="wrapper" w="100%" ratio={[1, 1, 31 / 9]}>
+            <AspectRatio
+                className="wrapper mx-16"
+                w="100%"
+                ratio={[1, 1, 31 / 9]}
+            >
                 {active === "budaors" ? (
                     <iframe
                         loading="lazy"

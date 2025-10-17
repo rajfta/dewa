@@ -45,6 +45,8 @@ const LinkItem: FC<LinkItemProps> = ({ children, href, css }) => {
                 onClick={onClose}
                 color={currentPage ? "secondary.500" : "black"}
                 cursor="pointer"
+                flexWrap="nowrap"
+                whiteSpace="nowrap"
                 _hover={{
                     transform: "scale(1.02)",
                 }}

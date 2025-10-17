@@ -14,14 +14,14 @@ const NotFound = () => {
             direction="column"
             align="center"
         >
-            <Heading mb={32}>A keresett oldal nem található !</Heading>
+            <Heading mb={32}>The requested page was not found!</Heading>
             <Button
                 onClick={() => router.push("/")}
                 textTransform="initial"
                 variant="primary"
                 side="left"
             >
-                Vissza a Főoldalra
+                Back to Homepage
             </Button>
         </Flex>
     );
