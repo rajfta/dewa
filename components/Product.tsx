@@ -103,7 +103,7 @@ const ParsedText = ({ text }: { text: string }) => {
                 <Text
                     mb={index !== textArray.length ? 2 : 0}
                     fontSize="s"
-                    key={index}
+                    key={`${line} parsed`}
                 >
                     {line}
                 </Text>
@@ -161,6 +161,7 @@ const Product: FC<ProductProps> = ({ product }) => {
                             color="grey.iron"
                             gap={12}
                             flexDir="column"
+                            overflowY="hidden"
                         >
                             <ParsedText text={leiras} />
                         </Flex>
