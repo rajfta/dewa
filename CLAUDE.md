@@ -10,17 +10,20 @@ This is a Next.js-based corporate website for DEWA Zrt., a Hungarian industrial 
 
 ### Development
 ```bash
-yarn dev              # Start Next.js dev server with TinaCMS
-yarn build            # Build TinaCMS admin + Next.js production build
-yarn start            # Build and start production server
-yarn export           # Export static site
-yarn serve            # Serve exported static files
+pnpm dev              # Start Next.js dev server with TinaCMS
+pnpm build            # Build TinaCMS admin + Next.js production build
+pnpm start            # Build and start production server
+pnpm export           # Export static site
+pnpm serve            # Serve exported static files
+pnpm check            # Run Biome linter and formatter checks
+pnpm fix              # Auto-fix linting and formatting issues
 ```
 
 ### Important Notes
-- Always run `yarn build` to verify changes compile successfully
+- Always run `pnpm build` to verify changes compile successfully
 - TinaCMS builds admin interface in `public/admin/` before Next.js build
 - Development server runs TinaCMS alongside Next.js on default ports
+- This project uses **pnpm** (not yarn or npm) for package management
 
 ## Architecture
 

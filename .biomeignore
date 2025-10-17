@@ -1,0 +1,17 @@
+# Build artifacts
+.next/
+out/
+dist/
+
+# Dependencies
+node_modules/
+pnpm-lock.yaml
+
+# Generated files
+*.tsbuildinfo
+
+# Config
+.claude/
+
+# Assets
+public/

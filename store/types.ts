@@ -1,7 +1,7 @@
 export type InitialState = {
-  editableSite: boolean;
+	editableSite: boolean;
 };
 
 export type StoreState = InitialState & {
-  setEditableSite: (editableSite: boolean) => void;
+	setEditableSite: (editableSite: boolean) => void;
 };
