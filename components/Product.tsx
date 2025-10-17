@@ -1,4 +1,4 @@
-import { AspectRatio, Flex, Text } from "@chakra-ui/react";
+import { AspectRatio, Box, Flex, Text } from "@chakra-ui/react";
 import { Dialog, Transition } from "@headlessui/react";
 import { motion } from "framer-motion";
 import Image from "next/image";
@@ -93,25 +93,6 @@ const ProductModal = ({ open, setOpen, product }: ProductModalProps) => {
     );
 };
 
-const ParsedText = ({ text }: { text: string }) => {
-    const textArray = text.split("\n").filter((line) => line !== "");
-
-    return (
-        <>
-            {textArray.map((line, index) => (
-                // eslint-disable-next-line react/no-array-index-key
-                <Text
-                    mb={index !== textArray.length ? 2 : 0}
-                    fontSize="s"
-                    key={`${line} parsed`}
-                >
-                    {line}
-                </Text>
-            ))}
-        </>
-    );
-};
-
 const Product: FC<ProductProps> = ({ product }) => {
     const [open, setOpen] = useState(false);
 
@@ -156,15 +137,15 @@ const Product: FC<ProductProps> = ({ product }) => {
                         <Text fontWeight="semibold" mb={[3, null, null, null]}>
                             {nev}
                         </Text>
-                        <Flex
+                        <Box
                             mb={[3, null, null, null]}
                             color="grey.iron"
                             gap={12}
-                            flexDir="column"
                             overflowY="hidden"
+                            height={140}
                         >
-                            <ParsedText text={leiras} />
-                        </Flex>
+                            <p className="text-sm line-clamp-6">{leiras}</p>
+                        </Box>
                     </Flex>
                 </Flex>
             </motion.div>
