@@ -1,5 +1,3 @@
-// @ts-nocheck
-
 import {
 	AspectRatio,
 	Button,
@@ -38,7 +36,8 @@ type ContactProps = {
 type OptionProps = {
 	value: string;
 	isActive: boolean;
-	onClick: (e: any) => void;
+	onClick: (e: React.MouseEvent<HTMLButtonElement>) => void;
+	children?: React.ReactNode;
 };
 
 const Option: FC<OptionProps> = ({ value, isActive, onClick, children }) => {
@@ -79,10 +78,6 @@ const getIcon = (id: string) => {
 			return <TelephoneIcon mr={1.5} boxSize={4} color="black" />;
 		case "email":
 			return <MailIcon mr={1.5} boxSize={4} color="black" />;
-
-		case "asd":
-			return <TelephoneIcon mr={1.5} boxSize={4} color="black" />;
-
 		default:
 			return null;
 	}
@@ -202,9 +197,9 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
 											isMobile &&
 											(column.id === "department" || column.id === "role")
 												? "none"
-												: "th"
+												: undefined
 										}
-										key={headerGroup}
+										key={column.id}
 										{...column.getHeaderProps(column.getSortByToggleProps())}
 										isNumeric={column.isNumeric}
 									>
@@ -238,8 +233,8 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
 						prepareRow(row);
 						return (
 							<Tr
-								key={row}
-								bg={i % 2 === 0 && "primary.100"}
+								key={row.id}
+								bg={i % 2 === 0 ? "primary.100" : undefined}
 								{...row.getRowProps()}
 							>
 								{row.cells.map((cell) => {
@@ -248,16 +243,16 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
 											textTransform={
 												cell.column.Header === t("department")
 													? "capitalize"
-													: ""
+													: undefined
 											}
-											key={cell.value}
+											key={cell.column.id}
 											display={
 												isMd &&
 												isMobile &&
 												(cell.column.id === "department" ||
 													cell.column.id === "role")
 													? "none"
-													: "td"
+													: undefined
 											}
 											{...cell.getCellProps()}
 											isNumeric={cell.column.isNumeric}
@@ -279,8 +274,8 @@ const Contact: FC<ContactProps> = ({ contacts }) => {
 	const [active, setActive] = useState("budaors");
 	const t = useTranslations("contactPage");
 
-	const onActivation = useCallback((e) => {
-		setActive(e.target.value);
+	const onActivation = useCallback((e: React.MouseEvent<HTMLButtonElement>) => {
+		setActive((e.target as HTMLButtonElement).value);
 	}, []);
 
 	const selectedContacts = contacts.filter(
@@ -290,10 +285,10 @@ const Contact: FC<ContactProps> = ({ contacts }) => {
 	return (
 		<Flex direction="column" align="center" mt={12}>
 			<HStack w="100%" align="center" justify="center" mb={8}>
-				<Option value="budaors" active={active} onClick={onActivation}>
+				<Option value="budaors" isActive={active === "budaors"} onClick={onActivation}>
 					{t("budaors")}
 				</Option>
-				<Option value="bekescsaba" active={active} onClick={onActivation}>
+				<Option value="bekescsaba" isActive={active === "bekescsaba"} onClick={onActivation}>
 					{t("bekescsaba")}
 				</Option>
 			</HStack>
@@ -322,7 +317,7 @@ const Contact: FC<ContactProps> = ({ contacts }) => {
 						src="https://www.google.com/maps/embed/v1/place?q=dewa+bekescsaba&key=AIzaSyDGQJAOWTOczUfw4RU9YoRBdpD44Kas81Q&zoom=14"
 						allowFullScreen
 						loading="lazy"
-						referrerpolicy="no-referrer-when-downgrade"
+						referrerPolicy="no-referrer-when-downgrade"
 					/>
 				)}
 			</AspectRatio>
