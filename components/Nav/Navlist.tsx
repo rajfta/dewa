@@ -72,6 +72,7 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
             { key: "surfaceTreatment", slug: "feluletkezeles" },
             { key: "heatingTechnology", slug: "tuzelestechnika" },
             { key: "sprayTechnology", slug: "szorastechnika" },
+            { key: "service", slug: "szerviz" },
         ],
         [],
     );

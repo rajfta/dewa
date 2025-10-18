@@ -478,3 +478,39 @@ export function tuzelestechnika_termekFields() {
         },
     ] as TinaField[];
 }
+export function szerviz_termekFields() {
+    return [
+        {
+            type: "string",
+            name: "nev",
+            label: "nev",
+        },
+        {
+            type: "rich-text",
+            name: "leiras",
+            label: "leiras",
+        },
+        {
+            type: "image",
+            name: "boritokep",
+            label: "boritokep",
+        },
+        {
+            type: "string",
+            name: "divizio",
+            label: "divizio",
+        },
+        {
+            type: "string",
+            name: "alkategoria",
+            label: "alkategoria",
+            options: [
+                "Karbantartás",
+                "Javítás",
+                "Telepítés",
+                "Szakértői tanácsadás",
+                "Alkatrész utánpótlás",
+            ],
+        },
+    ] as TinaField[];
+}

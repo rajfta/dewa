@@ -8,6 +8,7 @@ import {
     postFields,
     reference_galleryFields,
     reference_hall_of_fameFields,
+    szerviz_termekFields,
     szorastechnika_termekFields,
     tuzelestechnika_termekFields,
 } from "./templates";
@@ -106,6 +107,25 @@ export default defineConfig({
                         isBody: true,
                     },
                     ...szorastechnika_termekFields(),
+                ],
+            },
+            {
+                format: "md",
+                label: "Szerviz",
+                name: "szerviz",
+                path: "cms/termekek/szerviz",
+                match: {
+                    include: "**/*",
+                },
+                fields: [
+                    {
+                        type: "rich-text",
+                        name: "body",
+                        label: "Body of Document",
+                        description: "This is the markdown body",
+                        isBody: true,
+                    },
+                    ...szerviz_termekFields(),
                 ],
             },
             {

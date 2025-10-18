@@ -18,7 +18,8 @@
         "sprayBooths": "Spray Booths",
         "sprayTechnology": "Spray Technology",
         "heatingTechnology": "Heating Technology",
-        "surfaceTreatment": "Surface Treatment"
+        "surfaceTreatment": "Surface Treatment",
+        "service": "Service"
     },
     "footer": {
         "didWeInterestYou": "Did we catch",
@@ -45,6 +46,7 @@
         "sprayTechnology": "Spray Technology",
         "heatingTechnology": "Heating Technology",
         "surfaceTreatment": "Surface Treatment",
+        "service": "Service",
         "allSubcategories": "All Subcategories"
     },
     "references": {

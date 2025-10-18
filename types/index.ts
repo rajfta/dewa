@@ -5,6 +5,7 @@ export type ContentType =
     | "fenyezofulkek"
     | "tuzelestechnika"
     | "szorastechnika"
+    | "szerviz"
     | "fooldal"
     | "kapcsolat";
 

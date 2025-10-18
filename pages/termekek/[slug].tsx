@@ -76,6 +76,8 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
                     return t("heatingTechnology");
                 case "szorastechnika":
                     return t("sprayTechnology");
+                case "szerviz":
+                    return t("service");
                 default:
                     return null;
             }
@@ -94,6 +96,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
         setcurrentSubcategory(e.target.value);
     }, []);
 
+    // biome-ignore lint/correctness/useExhaustiveDependencies: <should only run on slug change>
     useEffect(() => {
         setcurrentSubcategory("");
     }, [slug]);
@@ -209,6 +212,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
         "fenyezofulkek",
         "tuzelestechnika",
         "szorastechnika",
+        "szerviz",
     ];
 
     const paths = slugs.flatMap((slug) => [

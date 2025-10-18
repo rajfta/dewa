@@ -36,6 +36,11 @@ const getDirectory = (type: ContentType, locale: string = "hu") => {
                 process.cwd(),
                 `cms/termekek/szorastechnika/${locale}`,
             );
+        case "szerviz":
+            return path.join(
+                process.cwd(),
+                `cms/termekek/szerviz/${locale}`,
+            );
         case "fooldal":
             return path.join(process.cwd(), `cms/pages/${locale}`);
         case "kapcsolat":

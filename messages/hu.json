@@ -18,7 +18,8 @@
         "sprayBooths": "Fényezőfülkék",
         "sprayTechnology": "Szórástechnika",
         "heatingTechnology": "Tüzeléstechnika",
-        "surfaceTreatment": "Felületkezelés"
+        "surfaceTreatment": "Felületkezelés",
+        "service": "Szerviz"
     },
     "footer": {
         "didWeInterestYou": "Felkeltettük",
@@ -45,6 +46,7 @@
         "sprayTechnology": "Szórástechnika",
         "heatingTechnology": "Tüzeléstechnika",
         "surfaceTreatment": "Felületkezelés",
+        "service": "Szerviz",
         "allSubcategories": "Összes alkategória"
     },
     "references": {
