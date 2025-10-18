@@ -5,6 +5,7 @@ import {
     Select,
     SimpleGrid,
     Stack,
+    Text,
 } from "@chakra-ui/react";
 import type { GetStaticPaths, GetStaticProps } from "next";
 import { useRouter } from "next/router";
@@ -121,6 +122,17 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
                     ({selectedProducts.length}){" "}
                 </Flex>
             </Heading>
+            {slug === "szerviz" && (
+                <Text
+                    fontSize={["md", "md", "lg"]}
+                    color="grey.charcoal"
+                    mb={8}
+                    maxW="4xl"
+                    lineHeight="1.8"
+                >
+                    Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco.
+                </Text>
+            )}
             <Stack
                 mt={[8, 8, null, null]}
                 spacing={16}
