@@ -21,14 +21,13 @@ const PageHeader: FC<PageHeaderProps> = ({
             <Flex
                 mx="auto"
                 direction={["column", "row", "row", "row"]}
-                align="center"
+                align="start"
                 justify="space-between"
             >
                 <Flex
                     direction="column"
                     align="flex-start"
                     justify={[null, "center", "center", "center"]}
-                    maxW={[null, "40%", "40%", "40%"]}
                 >
                     <Button
                         variant="secondary"
@@ -39,9 +38,11 @@ const PageHeader: FC<PageHeaderProps> = ({
                     >
                         Back
                     </Button>
-                    <h1 className="mb-4 text-5xl font-semibold">{title}</h1>
+                    <h1 className="mb-4 text-3xl lg:text-5xl font-semibold">
+                        {title}
+                    </h1>
                     <Text
-                        fontSize={[null, null, null, 24]}
+                        fontSize={[14, 18]}
                         mb={[3, null, null, null]}
                         color="grey.iron"
                     >
@@ -64,7 +65,7 @@ const PageHeader: FC<PageHeaderProps> = ({
                     overflow="hidden"
                     h={["auto", "250px", "350px", "450px"]}
                     pt={["100%", "initial", "initial", "initial"]}
-                    w={["100%", "250px", "350px", "450px"]}
+                    minW={["100%", "250px", "350px", "450px"]}
                     borderRadius="lg"
                     mb={6}
                     ml={[0, 16, 24, 32]}
