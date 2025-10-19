@@ -1,0 +1,38 @@
+[
+    {
+        "slug": "blowtherm",
+        "nev": "Blowtherm",
+        "logo": "/partners/blowtherm.png",
+        "sorrend": 1
+    },
+    {
+        "slug": "filcar",
+        "nev": "Filcar",
+        "logo": "/partners/filcar.png",
+        "sorrend": 2
+    },
+    {
+        "slug": "formeco",
+        "nev": "Formeco",
+        "logo": "/partners/formeco.png",
+        "sorrend": 3
+    },
+    {
+        "slug": "reglo",
+        "nev": "Reglo",
+        "logo": "/partners/reglo.png",
+        "sorrend": 4
+    },
+    {
+        "slug": "sames-kremlin",
+        "nev": "Sames Kremlin",
+        "logo": "/partners/sames-kremlim.png",
+        "sorrend": 5
+    },
+    {
+        "slug": "aaf",
+        "nev": "AAF",
+        "logo": "/partners/aaf.png",
+        "sorrend": 6
+    }
+]

@@ -1,4 +1,4 @@
-import { AspectRatio, Box, Flex, Text, useToast } from "@chakra-ui/react";
+import { AspectRatio, Box, Flex, Text } from "@chakra-ui/react";
 import { Dialog, Transition } from "@headlessui/react";
 import { motion } from "framer-motion";
 import Image from "next/image";

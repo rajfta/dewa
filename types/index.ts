@@ -7,7 +7,8 @@ export type ContentType =
     | "szorastechnika"
     | "szerviz"
     | "fooldal"
-    | "kapcsolat";
+    | "kapcsolat"
+    | "partnerek";
 
 export type SeoType = {
     title: string;
@@ -70,3 +71,12 @@ export type ProductType = {
 };
 
 export type ProductKeys = keyof ProductType;
+
+export type PartnerType = {
+    slug: string;
+    nev: string;
+    logo: string;
+    sorrend?: number;
+};
+
+export type PartnerKeys = keyof PartnerType;

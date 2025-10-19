@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "scripts": {
         "dev": "tinacms dev -c \"next\"",
-        "build": "tinacms build && next build",
+        "build": "node scripts/generate-partners-json.js && tinacms build --local && next build",
         "start": "tinacms build && next start",
         "export": "next export",
         "serve": "npx serve out/",

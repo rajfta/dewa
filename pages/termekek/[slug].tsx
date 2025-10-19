@@ -79,17 +79,20 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
     }, [router.query.product]);
 
     // Handle opening modal - update URL with query param
-    const handleOpenModal = useCallback((productSlug: string) => {
-        setOpenProductSlug(productSlug);
-        router.push(
-            {
-                pathname: router.pathname,
-                query: { ...router.query, product: productSlug },
-            },
-            undefined,
-            { shallow: true }
-        );
-    }, [router]);
+    const handleOpenModal = useCallback(
+        (productSlug: string) => {
+            setOpenProductSlug(productSlug);
+            router.push(
+                {
+                    pathname: router.pathname,
+                    query: { ...router.query, product: productSlug },
+                },
+                undefined,
+                { shallow: true },
+            );
+        },
+        [router],
+    );
 
     // Handle closing modal - remove query param
     const handleCloseModal = useCallback(() => {
@@ -101,7 +104,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
                 query: restQuery,
             },
             undefined,
-            { shallow: true }
+            { shallow: true },
         );
     }, [router]);
 
@@ -230,7 +233,9 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
                                 key={product.slug}
                                 product={product}
                                 open={openProductSlug === product.slug}
-                                onOpenModal={() => handleOpenModal(product.slug)}
+                                onOpenModal={() =>
+                                    handleOpenModal(product.slug)
+                                }
                                 onCloseModal={handleCloseModal}
                             />
                         );

@@ -514,3 +514,25 @@ export function szerviz_termekFields() {
         },
     ] as TinaField[];
 }
+export function partnerFields() {
+    return [
+        {
+            type: "string",
+            name: "nev",
+            label: "Partner Name",
+            required: true,
+        },
+        {
+            type: "image",
+            name: "logo",
+            label: "Partner Logo",
+            required: true,
+        },
+        {
+            type: "number",
+            name: "sorrend",
+            label: "Display Order",
+            description: "Lower numbers appear first (optional)",
+        },
+    ] as TinaField[];
+}

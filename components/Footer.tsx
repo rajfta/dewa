@@ -1,7 +1,9 @@
 import { Flex, Grid, Heading, HStack, Stack, Text } from "@chakra-ui/react";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import { useEffect, useState } from "react";
 import { useContact } from "../hooks";
+import type { PartnerType } from "../types";
 import { DotsIcon, MailIcon, MapIcon, TelephoneIcon } from "./icons";
 import LanguageSwitcher from "./LanguageSwitcher";
 import { Button } from "./uikit";
@@ -13,6 +15,15 @@ const Separator = () => {
 const Footer = () => {
     const { onOpen } = useContact();
     const t = useTranslations("footer");
+    const [partners, setPartners] = useState<PartnerType[]>([]);
+
+    // Fetch partners from static JSON file (generated at build time)
+    useEffect(() => {
+        fetch("/data/partners.json")
+            .then((res) => res.json())
+            .then((data) => setPartners(data))
+            .catch((err) => console.error("Failed to load partners:", err));
+    }, []);
 
     return (
         <Flex
@@ -118,59 +129,26 @@ const Footer = () => {
                 <Separator />
 
                 <Grid
+                    templateColumns={["repeat(3, 1fr)"]}
                     pl={[8, 8, 24, 32, 64]}
-                    rowGap={16}
-                    templateColumns={["1fr 1fr", "1fr 1fr", "repeat(6, auto)"]}
+                    gap={[8, 8, 12]}
+                    h={120}
                     alignItems="center"
                 >
-                    <Flex h={8} position="relative">
-                        <Image
-                            layout="fill"
-                            objectFit="contain"
-                            src="/partners/blowtherm.png"
-                            alt="Blowtherm partner logo"
-                        />
-                    </Flex>
-                    <Flex h={12} position="relative">
-                        <Image
-                            layout="fill"
-                            objectFit="contain"
-                            src="/partners/filcar.png"
-                            alt="Filcar partner logo"
-                        />
-                    </Flex>
-                    <Flex h={8} position="relative">
-                        <Image
-                            layout="fill"
-                            objectFit="contain"
-                            src="/partners/formeco.png"
-                            alt="Formeco partner logo"
-                        />
-                    </Flex>
-                    <Flex h={8} position="relative">
-                        <Image
-                            layout="fill"
-                            objectFit="contain"
-                            src="/partners/reglo.png"
-                            alt="Reglo partner logo"
-                        />
-                    </Flex>
-                    <Flex h={8} position="relative">
-                        <Image
-                            layout="fill"
-                            objectFit="contain"
-                            src="/partners/sames-kremlim.png"
-                            alt="Sames Kremlin partner logo"
-                        />
-                    </Flex>
-                    <Flex h={8} position="relative">
-                        <Image
-                            layout="fill"
-                            objectFit="contain"
-                            src="/partners/aaf.png"
-                            alt="AAF partner logo"
-                        />
-                    </Flex>
+                    {partners.map((partner) => (
+                        <div
+                            key={partner.nev}
+                            className="relative justify-center items-center h-full w-full"
+                        >
+                            {/** biome-ignore lint/performance/noImgElement: <because> */}
+                            <img
+                                // layout="fill"
+                                className="object-contain absolute h-full"
+                                src={partner.logo}
+                                alt={`${partner.nev} partner logo`}
+                            />
+                        </div>
+                    ))}
                 </Grid>
 
                 <Flex

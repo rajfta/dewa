@@ -5,6 +5,7 @@ import {
     homepageFields,
     ipari_feluletkezeles_termekFields,
     kapcsolat_egyenFields,
+    partnerFields,
     postFields,
     reference_galleryFields,
     reference_hall_of_fameFields,
@@ -299,6 +300,25 @@ export default defineConfig({
                         isBody: true,
                     },
                     ...kapcsolat_egyenFields(),
+                ],
+            },
+            {
+                format: "md",
+                label: "Partners",
+                name: "partnerek",
+                path: "cms/partnerek",
+                match: {
+                    include: "**/*",
+                },
+                fields: [
+                    {
+                        type: "rich-text",
+                        name: "body",
+                        label: "Body of Document",
+                        description: "This is the markdown body",
+                        isBody: true,
+                    },
+                    ...partnerFields(),
                 ],
             },
         ],

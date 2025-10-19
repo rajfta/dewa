@@ -214,15 +214,19 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
                                         }
                                         key={column.id}
                                         {...column.getHeaderProps(
+                                            // @ts-expect-error - useSortBy plugin adds this method
                                             column.getSortByToggleProps(),
                                         )}
+                                        // @ts-expect-error - custom property for Chakra UI
                                         isNumeric={column.isNumeric}
                                     >
                                         {getIcon(column.id)}
                                         {column.render("Header")}
 
                                         {/* eslint-disable-next-line no-nested-ternary */}
+                                        {/* @ts-expect-error - useSortBy plugin adds isSorted and isSortedDesc */}
                                         {column.isSorted ? (
+                                            // @ts-expect-error - useSortBy plugin property
                                             column.isSortedDesc ? (
                                                 <chakra.span pl="4">
                                                     <ChevronDownIcon aria-label="sorted descending" />
@@ -271,6 +275,7 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
                                                     : undefined
                                             }
                                             {...cell.getCellProps()}
+                                            // @ts-expect-error - custom property for Chakra UI
                                             isNumeric={cell.column.isNumeric}
                                         >
                                             {cell.render("Cell")}

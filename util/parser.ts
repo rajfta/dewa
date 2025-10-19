@@ -6,6 +6,7 @@ import type {
     ContactKeys,
     ContentType,
     HomePageKeys,
+    PartnerKeys,
     PostKeys,
     ProductKeys,
 } from "../types";
@@ -37,21 +38,25 @@ const getDirectory = (type: ContentType, locale: string = "hu") => {
                 `cms/termekek/szorastechnika/${locale}`,
             );
         case "szerviz":
-            return path.join(
-                process.cwd(),
-                `cms/termekek/szerviz/${locale}`,
-            );
+            return path.join(process.cwd(), `cms/termekek/szerviz/${locale}`);
         case "fooldal":
             return path.join(process.cwd(), `cms/pages/${locale}`);
         case "kapcsolat":
             return path.join(process.cwd(), "cms/kapcsolat");
+        case "partnerek":
+            return path.join(process.cwd(), "cms/partnerek");
 
         default:
             return null;
     }
 };
 
-type Fields = PostKeys[] | ProductKeys[] | ContactKeys[] | HomePageKeys[];
+type Fields =
+    | PostKeys[]
+    | ProductKeys[]
+    | ContactKeys[]
+    | HomePageKeys[]
+    | PartnerKeys[];
 
 export function getContentSlugs(type: ContentType, locale: string = "hu") {
     return fs.readdirSync(getDirectory(type, locale));
@@ -94,9 +99,19 @@ export function getAllContents(
 ) {
     const slugs = getContentSlugs(type, locale);
 
-    const posts = slugs
-        .map((slug) => getContentBySlug(type, slug, fields, locale))
-        // sort posts by date in descending order
-        .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
-    return posts;
+    const contents = slugs.map((slug) =>
+        getContentBySlug(type, slug, fields, locale),
+    );
+
+    // Sort by date for posts/references, by sorrend for partners, or keep original order
+    if (type === "partnerek") {
+        return contents.sort((a, b) => {
+            const aSort = typeof a.sorrend === "number" ? a.sorrend : 999;
+            const bSort = typeof b.sorrend === "number" ? b.sorrend : 999;
+            return aSort - bSort;
+        });
+    }
+
+    // sort posts/references by date in descending order
+    return contents.sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
 }
