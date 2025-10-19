@@ -22,7 +22,9 @@ import { MenuContext } from "../../hooks/useMenu";
 import {
     ChevronDownIcon,
     CloseIcon,
+    FacebookIcon,
     HamburgerIcon,
+    LinkedInIcon,
     OutsideIcon,
 } from "../icons";
 import Contact from "./Contact";
@@ -260,6 +262,26 @@ const NavItems: FC = () => {
                 {t("career")}
             </NavItem>
             <Contact />
+            <Flex gap={3} align="center">
+                <ChakraLink
+                    href="https://linkedin.com"
+                    isExternal
+                    color="black"
+                    _hover={{ color: "primary.500" }}
+                    transition="color 0.2s"
+                >
+                    <LinkedInIcon boxSize={5} />
+                </ChakraLink>
+                <ChakraLink
+                    href="https://facebook.com"
+                    isExternal
+                    color="black"
+                    _hover={{ color: "primary.500" }}
+                    transition="color 0.2s"
+                >
+                    <FacebookIcon boxSize={5} />
+                </ChakraLink>
+            </Flex>
         </Stack>
     );
 };

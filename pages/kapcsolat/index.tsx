@@ -5,6 +5,7 @@ import {
     Flex,
     Heading,
     HStack,
+    Link as ChakraLink,
     Stack,
     Table,
     Tbody,
@@ -21,6 +22,8 @@ import React, { type FC, useCallback, useMemo, useState } from "react";
 import { useSortBy, useTable } from "react-table";
 import {
     ChevronDownIcon,
+    FacebookIcon,
+    LinkedInIcon,
     MailIcon,
     TelephoneIcon,
 } from "../../components/icons";
@@ -325,6 +328,26 @@ const Contact: FC<ContactProps> = ({ contacts }) => {
                 </Option>
             </HStack>
             <ContactList contacts={selectedContacts} />
+            <Flex gap={6} mt={12} align="center" justify="center">
+                <ChakraLink
+                    href="https://linkedin.com"
+                    isExternal
+                    color="black"
+                    _hover={{ color: "primary.500" }}
+                    transition="color 0.2s"
+                >
+                    <LinkedInIcon boxSize={8} />
+                </ChakraLink>
+                <ChakraLink
+                    href="https://facebook.com"
+                    isExternal
+                    color="black"
+                    _hover={{ color: "primary.500" }}
+                    transition="color 0.2s"
+                >
+                    <FacebookIcon boxSize={8} />
+                </ChakraLink>
+            </Flex>
             {active === "budaors" ? (
                 <Heading mt={32} mb={6} fontSize={24} p={4} fontWeight={400}>
                     {t("budaorsAddress")}
