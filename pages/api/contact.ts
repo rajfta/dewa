@@ -1,6 +1,7 @@
+import type { NextApiRequest, NextApiResponse } from "next";
 import nodemailer from "nodemailer";
 
-export default async (req: any, res: any) => {
+export default async (req: NextApiRequest, res: NextApiResponse) => {
     const { subject, email, message, telephone } = req.body;
     const transporter = nodemailer.createTransport({
         host: "mail.dewa.hu",

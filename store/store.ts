@@ -25,12 +25,19 @@ export function initStore(preloadedState: InitialState = initialState) {
     }));
 }
 
-export const useStore = (selector: any, eqFn?: any) => {
+export const useStore = <T>(
+    selector: (state: StoreState) => T,
+    eqFn?: (a: T, b: T) => boolean,
+) => {
     const store = useContext(StoreContext);
+    if (!store) {
+        throw new Error("useStore must be used within StoreProvider");
+    }
     const values = store(selector, eqFn);
 
     return values;
 };
 
-export const editableSiteSelector = (state: any) => state.editableSite;
-export const setEditableSiteSelector = (state: any) => state.setEditableSite;
+export const editableSiteSelector = (state: StoreState) => state.editableSite;
+export const setEditableSiteSelector = (state: StoreState) =>
+    state.setEditableSite;

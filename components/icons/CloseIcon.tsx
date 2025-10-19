@@ -4,13 +4,7 @@ export const CloseIcon = createIcon({
     displayName: "CloseIcon",
     viewBox: "0 0 20 20",
     path: (
-        <svg
-            width="20"
-            height="20"
-            viewBox="0 0 20 20"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-        >
+        <>
             <rect
                 x="1.50598"
                 width="25.5566"
@@ -26,6 +20,9 @@ export const CloseIcon = createIcon({
                 transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 1.50598 19.5771)"
                 fill="currentColor"
             />
-        </svg>
+        </>
     ),
+    defaultProps: {
+        "aria-label": "Close",
+    },
 });

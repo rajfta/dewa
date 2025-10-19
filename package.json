@@ -9,7 +9,7 @@
         "serve": "npx serve out/",
         "check": "biome check .",
         "fix": "biome check --write .",
-        "fix:unsafe": "biome check --write --unsafe."
+        "fix:unsafe": "biome check --write --unsafe"
     },
     "dependencies": {
         "@chakra-ui/react": "^2.8.2",

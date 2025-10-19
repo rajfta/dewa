@@ -6,8 +6,10 @@ export const PaintGunIcon = ({ ...svgProps }) => {
             viewBox="0 0 49 89"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
+            aria-label="Paint spray gun"
             {...svgProps}
         >
+            <title>Paint spray gun</title>
             <g clipPath="url(#clip0_1034_19342)">
                 <path
                     d="M23.3153 0.660978C23.465 0.822567 23.6813 0.866637 23.9973 0.807878C24.563 0.690357 25.5611 1.05761 25.794 1.43955C26.0768 1.90963 26.0103 2.86447 25.6775 3.1142C25.5278 3.24641 24.9456 3.42269 24.3966 3.52552C20.1379 4.2894 10.7554 7.68278 6.36359 10.0479C5.49853 10.5179 4.21759 11.2818 3.5189 11.7666C2.8202 12.2367 2.10487 12.6333 1.92188 12.6333C0.6243 12.6333 0.158502 10.6502 1.27309 9.87159C1.53926 9.68062 1.68898 9.43089 1.68898 9.18116C1.68898 8.6817 2.23795 8.21162 4.36731 6.87484C7.51144 4.89169 12.1195 2.87916 16.5279 1.55707C19.8883 0.543459 22.8328 0.161519 23.3153 0.660978Z"
@@ -27,6 +29,7 @@ export const PaintGunIcon = ({ ...svgProps }) => {
                 />
             </g>
             <defs>
+                {/* biome-ignore lint/correctness/useUniqueElementIds: clipPath IDs are scoped within each SVG instance */}
                 <clipPath id="clip0_1034_19342">
                     <rect
                         width="48.0769"

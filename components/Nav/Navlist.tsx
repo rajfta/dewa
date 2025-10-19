@@ -30,7 +30,7 @@ import { headerPX } from "./consts";
 
 type LinkItemProps = {
     href: string;
-    css?: any;
+    css?: Record<string, unknown>;
     children?: React.ReactNode;
 };
 
@@ -105,7 +105,14 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
                                     paddingRight: "16px",
                                 }}
                             >
-                                {t(category.key as any)}
+                                {t(
+                                    category.key as
+                                        | "sprayBooths"
+                                        | "surfaceTreatment"
+                                        | "heatingTechnology"
+                                        | "sprayTechnology"
+                                        | "service",
+                                )}
                             </LinkItem>
                             {i + 1 < productCategories.length && (
                                 <Box
@@ -136,7 +143,14 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
                             fontSize: "lg",
                         }}
                     >
-                        {t(category.key as any)}
+                        {t(
+                            category.key as
+                                | "sprayBooths"
+                                | "surfaceTreatment"
+                                | "heatingTechnology"
+                                | "sprayTechnology"
+                                | "service",
+                        )}
                     </LinkItem>
                 );
             })}

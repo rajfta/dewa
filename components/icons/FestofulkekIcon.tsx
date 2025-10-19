@@ -219,6 +219,7 @@ export const FestofulkekIcon = createIcon({
                 />
             </g>
             <defs>
+                {/* biome-ignore lint/correctness/useUniqueElementIds: clipPath IDs are scoped within each SVG instance */}
                 <clipPath id="clip0_749_1648">
                     <rect width="286" height="286" fill="white" />
                 </clipPath>

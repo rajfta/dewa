@@ -8,7 +8,7 @@ export type Locale = (typeof locales)[number];
 
 export default getRequestConfig(async ({ locale }) => {
     // Validate that the incoming `locale` parameter is valid
-    if (!locales.includes(locale as any)) {
+    if (!locales.includes(locale as Locale)) {
         locale = defaultLocale;
     }
 

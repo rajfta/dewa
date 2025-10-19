@@ -18,12 +18,19 @@ import {
 import axios from "axios";
 import Link from "next/link";
 import { useTranslations } from "next-intl";
-import { type FC, useRef, useState } from "react";
+import { type FC, useId, useRef, useState } from "react";
 import { useForm } from "react-hook-form";
 import { useContact } from "../../hooks";
 import { DewaIcon, DotsIcon } from "../icons";
 import { Button } from "../uikit";
 import Navlist from "./Navlist";
+
+type ContactFormValues = {
+    subject: string;
+    telephone: string;
+    email: string;
+    message: string;
+};
 
 const Navbar: FC = () => {
     const { isOpen, onClose } = useContact();
@@ -35,11 +42,17 @@ const Navbar: FC = () => {
         handleSubmit,
         register,
         formState: { errors, isSubmitting },
-    } = useForm();
+    } = useForm<ContactFormValues>();
 
     const toast = useToast();
 
-    const onSubmit = async (values: any) => {
+    // Generate unique IDs for form fields
+    const subjectId = useId();
+    const telephoneId = useId();
+    const emailId = useId();
+    const messageId = useId();
+
+    const onSubmit = async (values: ContactFormValues) => {
         onClose();
         toast({
             status: "info",
@@ -72,7 +85,7 @@ const Navbar: FC = () => {
                     position: "bottom",
                 });
             }
-        } catch (err) {
+        } catch (_err) {
             setIsEmailSending(false);
             // eslint-disable-next-line no-console
             toast({
@@ -147,13 +160,12 @@ const Navbar: FC = () => {
                             <FormControl
                                 isInvalid={!!errors.subject}
                                 isRequired
-                                id="subject"
                             >
-                                <FormLabel htmlFor="subject">
+                                <FormLabel htmlFor={subjectId}>
                                     {t("subject")}
                                 </FormLabel>
                                 <Input
-                                    id="subject"
+                                    id={subjectId}
                                     type="text"
                                     ref={initialRef}
                                     backgroundColor="primary.100"
@@ -183,13 +195,12 @@ const Navbar: FC = () => {
                                 isInvalid={!!errors.telephone}
                                 isRequired
                                 mt={6}
-                                id="telephone"
                             >
-                                <FormLabel htmlFor="telephone">
+                                <FormLabel htmlFor={telephoneId}>
                                     {t("telephone")}
                                 </FormLabel>
                                 <Input
-                                    id="telephone"
+                                    id={telephoneId}
                                     type="number"
                                     placeholder={t("telephonePlaceholder")}
                                     backgroundColor="primary.100"
@@ -209,13 +220,12 @@ const Navbar: FC = () => {
                                 isInvalid={!!errors.email}
                                 isRequired
                                 mt={6}
-                                id="email"
                             >
-                                <FormLabel htmlFor="email">
+                                <FormLabel htmlFor={emailId}>
                                     {t("email")}
                                 </FormLabel>
                                 <Input
-                                    id="email"
+                                    id={emailId}
                                     type="email"
                                     placeholder={t("emailPlaceholder")}
                                     backgroundColor="primary.100"
@@ -235,10 +245,12 @@ const Navbar: FC = () => {
                                 isRequired
                                 mt={6}
                                 isInvalid={!!errors.message}
-                                id="message"
                             >
-                                <FormLabel>{t("message")}</FormLabel>
+                                <FormLabel htmlFor={messageId}>
+                                    {t("message")}
+                                </FormLabel>
                                 <Textarea
+                                    id={messageId}
                                     backgroundColor="primary.100"
                                     height={["150px", "150px", "2x", "2xs"]}
                                     resize="vertical"

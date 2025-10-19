@@ -1,9 +1,11 @@
 import { useMemo } from "react";
 import { initStore } from "./store";
+import type { InitialState } from "./types";
 
+// biome-ignore lint/suspicious/noExplicitAny: Zustand store type is complex, using any for flexibility
 let store: any;
 
-export const initializeStore = (preloadedState: any) => {
+export const initializeStore = (preloadedState?: InitialState) => {
     // eslint-disable-next-line no-underscore-dangle
     let _store = store ?? initStore(preloadedState);
 
@@ -27,7 +29,7 @@ export const initializeStore = (preloadedState: any) => {
 };
 
 // eslint-disable-next-line @typescript-eslint/no-shadow
-export function useHydrate(initialState: any) {
+export function useHydrate(initialState: InitialState | string | undefined) {
     const state =
         typeof initialState === "string"
             ? JSON.parse(initialState)

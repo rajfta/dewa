@@ -179,6 +179,7 @@ export const TuzelesIcon = createIcon({
                 </g>
             </g>
             <defs>
+                {/* biome-ignore lint/correctness/useUniqueElementIds: clipPath IDs are scoped within each SVG instance */}
                 <clipPath id="clip0_749_1728">
                     <rect
                         width="286"
@@ -187,6 +188,7 @@ export const TuzelesIcon = createIcon({
                         transform="translate(0.5)"
                     />
                 </clipPath>
+                {/* biome-ignore lint/correctness/useUniqueElementIds: clipPath IDs are scoped within each SVG instance */}
                 <clipPath id="clip1_749_1728">
                     <rect
                         width="61"

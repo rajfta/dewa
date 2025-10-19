@@ -38,6 +38,7 @@ const AboutUs: FC<AboutUsProps> = ({ title, description, imageSrc }) => {
             >
                 <div className="relative bg-white">
                     <div className="h-56 bg-indigo-600 sm:h-72 lg:absolute lg:left-0 lg:h-full lg:w-1/2">
+                        {/* * biome-ignore lint/performance/noImgElement: <asd> */}
                         <img
                             className="w-full h-full object-cover"
                             src={imageSrc}
@@ -163,6 +164,7 @@ const Products = ({
                                     </p>
                                 </div>
                                 <div className="aspect-[3/2] bg-gray-100 rounded-lg overflow-hidden">
+                                    {/* * biome-ignore lint/performance/noImgElement: <asd> */}
                                     <img
                                         src={imageSrc}
                                         alt=""

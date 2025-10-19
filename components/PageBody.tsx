@@ -13,9 +13,8 @@ import Link from "next/link";
 import type { FC } from "react";
 import { createContext, useContext, useMemo, useState } from "react";
 import ReactMarkdown from "react-markdown";
-
-import { TriangleIcon } from "./icons";
 import ImageLightbox, { type LightboxSlide } from "./ImageLightbox";
+import { TriangleIcon } from "./icons";
 
 // Context to manage lightbox state across markdown components
 type ImageLightboxContextType = {
@@ -202,7 +201,9 @@ const PageBody: FC<PageBodyProps> = ({ content }) => {
                 setLightboxOpen(true);
             },
             registerImage: (src: string, alt: string, title: string) => {
-                const existingIndex = images.findIndex((img) => img.src === src);
+                const existingIndex = images.findIndex(
+                    (img) => img.src === src,
+                );
                 if (existingIndex !== -1) {
                     return existingIndex;
                 }

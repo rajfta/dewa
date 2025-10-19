@@ -59,9 +59,11 @@ export const SzorasIcon = createIcon({
                 </g>
             </g>
             <defs>
+                {/* biome-ignore lint/correctness/useUniqueElementIds: clipPath IDs are scoped within each SVG instance */}
                 <clipPath id="clip0_749_1708">
                     <rect width="286" height="286" fill="white" />
                 </clipPath>
+                {/* biome-ignore lint/correctness/useUniqueElementIds: clipPath IDs are scoped within each SVG instance */}
                 <clipPath id="clip1_749_1708">
                     <rect
                         width="55"

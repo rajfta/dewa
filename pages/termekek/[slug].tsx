@@ -27,7 +27,11 @@ type ProductProps = {
 type SubCategoryProps = {
     currentSubcategory: string;
     value: string;
-    onClick: (e: any) => void;
+    onClick: (
+        e:
+            | React.MouseEvent<HTMLButtonElement>
+            | React.ChangeEvent<HTMLSelectElement>,
+    ) => void;
     children?: React.ReactNode;
 };
 
@@ -97,6 +101,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
     // Handle closing modal - remove query param
     const handleCloseModal = useCallback(() => {
         setOpenProductSlug(null);
+        // biome-ignore lint/correctness/noUnusedVariables: <destructuring to remove product param>
         const { product, ...restQuery } = router.query;
         router.push(
             {
@@ -135,9 +140,17 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
     const selectedProducts =
         currentSubcategory === "" ? products : currentSubProducts;
 
-    const onSubcategoryChange = useCallback((e: any) => {
-        setcurrentSubcategory(e.target.value);
-    }, []);
+    const onSubcategoryChange = useCallback(
+        (
+            e:
+                | React.MouseEvent<HTMLButtonElement>
+                | React.ChangeEvent<HTMLSelectElement>,
+        ) => {
+            const target = e.target as HTMLButtonElement | HTMLSelectElement;
+            setcurrentSubcategory(target.value);
+        },
+        [],
+    );
 
     // biome-ignore lint/correctness/useExhaustiveDependencies: <should only run on slug change>
     useEffect(() => {
