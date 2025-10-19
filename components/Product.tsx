@@ -1,7 +1,8 @@
-import { AspectRatio, Box, Flex, Text } from "@chakra-ui/react";
+import { AspectRatio, Box, Flex, Text, useToast } from "@chakra-ui/react";
 import { Dialog, Transition } from "@headlessui/react";
 import { motion } from "framer-motion";
 import Image from "next/image";
+import Link from "next/link";
 import {
     type Dispatch,
     type FC,
@@ -16,18 +17,60 @@ import { Button } from "./uikit";
 
 type ProductProps = {
     product: ProductType;
+    open?: boolean;
+    onOpenModal?: () => void;
+    onCloseModal?: () => void;
 };
 
 type ProductModalProps = {
     product: ProductType;
     open: boolean;
     setOpen: Dispatch<SetStateAction<boolean>>;
+    onClose?: () => void;
 };
 
-const ProductModal = ({ open, setOpen, product }: ProductModalProps) => {
+type ProductLinkProps = {
+    href: string;
+    children?: React.ReactNode;
+};
+
+const ProductLink: FC<ProductLinkProps> = ({ children, href }) => {
+    return href.startsWith("/") || href === "" ? (
+        <Link href={href} className="text-primary-500 hover:underline">
+            {children}
+        </Link>
+    ) : (
+        <a
+            className="text-primary-500 hover:underline"
+            href={href}
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            {children}
+        </a>
+    );
+};
+
+const components = {
+    a: ProductLink,
+};
+
+const ProductModal = ({
+    open,
+    setOpen,
+    product,
+    onClose,
+}: ProductModalProps) => {
+    const handleClose = () => {
+        setOpen(false);
+        if (onClose) {
+            onClose();
+        }
+    };
+
     return (
         <Transition.Root show={open} as={Fragment}>
-            <Dialog as="div" className="relative z-15" onClose={setOpen}>
+            <Dialog as="div" className="relative z-15" onClose={handleClose}>
                 <Transition.Child
                     as={Fragment}
                     enter="ease-out duration-300"
@@ -69,15 +112,19 @@ const ProductModal = ({ open, setOpen, product }: ProductModalProps) => {
                                             {product.nev}
                                         </Dialog.Title>
                                         <div className="mt-2 prose prose-sm text-gray-700 text-left max-w-none">
-                                            <ReactMarkdown>{product.leiras}</ReactMarkdown>
+                                            <ReactMarkdown
+                                                components={components}
+                                            >
+                                                {product.leiras}
+                                            </ReactMarkdown>
                                         </div>
                                     </div>
-                                    <div className="mt-5 sm:mt-6">
+                                    <div className="mt-5 sm:mt-6 flex gap-3">
                                         <Button
                                             variant="secondary"
                                             side="left"
-                                            className="inline-flex justify-center w-full rounded-md border-transparent shadow-sm px-4 py-2text-base font-medium focus:outline-none focus:ring-transparent text-white sm:text-sm"
-                                            onClick={() => setOpen(false)}
+                                            className="inline-flex justify-center flex-1 rounded-md border-transparent shadow-sm px-4 py-2 text-base font-medium focus:outline-none focus:ring-transparent text-white sm:text-sm"
+                                            onClick={handleClose}
                                         >
                                             Bezár
                                         </Button>
@@ -92,17 +139,43 @@ const ProductModal = ({ open, setOpen, product }: ProductModalProps) => {
     );
 };
 
-const Product: FC<ProductProps> = ({ product }) => {
-    const [open, setOpen] = useState(false);
+const Product: FC<ProductProps> = ({
+    product,
+    open: externalOpen,
+    onOpenModal,
+    onCloseModal,
+}) => {
+    const [internalOpen, setInternalOpen] = useState(false);
+
+    // Use external open state if provided, otherwise use internal state
+    const isOpen = externalOpen !== undefined ? externalOpen : internalOpen;
+    const setOpen =
+        externalOpen !== undefined
+            ? (value: boolean) => {
+                  if (value && onOpenModal) {
+                      onOpenModal();
+                  } else if (!value && onCloseModal) {
+                      onCloseModal();
+                  }
+              }
+            : setInternalOpen;
 
     const { nev, leiras, boritokep } = product;
+
+    const handleCardClick = () => {
+        if (onOpenModal) {
+            onOpenModal();
+        } else {
+            setInternalOpen(true);
+        }
+    };
 
     return (
         <>
             <motion.div
                 whileHover={{ y: -5 }}
                 className="hover:cursor-pointer shadow-lg hover:shadow-xl"
-                onClick={() => setOpen(true)}
+                onClick={handleCardClick}
             >
                 <Flex
                     direction="column"
@@ -144,13 +217,20 @@ const Product: FC<ProductProps> = ({ product }) => {
                             height={140}
                         >
                             <div className="text-sm line-clamp-6 prose prose-sm max-w-none">
-                                <ReactMarkdown>{leiras}</ReactMarkdown>
+                                <ReactMarkdown components={components}>
+                                    {leiras}
+                                </ReactMarkdown>
                             </div>
                         </Box>
                     </Flex>
                 </Flex>
             </motion.div>
-            <ProductModal product={product} open={open} setOpen={setOpen} />
+            <ProductModal
+                product={product}
+                open={isOpen}
+                setOpen={setOpen}
+                onClose={onCloseModal}
+            />
         </>
     );
 };

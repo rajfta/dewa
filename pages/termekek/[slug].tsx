@@ -65,6 +65,45 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
     });
 
     const router = useRouter();
+    const [openProductSlug, setOpenProductSlug] = useState<string | null>(null);
+
+    // Read query parameter on mount and when it changes
+    // biome-ignore lint/correctness/useExhaustiveDependencies: <only sync when query param changes>
+    useEffect(() => {
+        const productSlug = router.query.product as string | undefined;
+        if (productSlug && productSlug !== openProductSlug) {
+            setOpenProductSlug(productSlug);
+        } else if (!productSlug && openProductSlug) {
+            setOpenProductSlug(null);
+        }
+    }, [router.query.product]);
+
+    // Handle opening modal - update URL with query param
+    const handleOpenModal = useCallback((productSlug: string) => {
+        setOpenProductSlug(productSlug);
+        router.push(
+            {
+                pathname: router.pathname,
+                query: { ...router.query, product: productSlug },
+            },
+            undefined,
+            { shallow: true }
+        );
+    }, [router]);
+
+    // Handle closing modal - remove query param
+    const handleCloseModal = useCallback(() => {
+        setOpenProductSlug(null);
+        const { product, ...restQuery } = router.query;
+        router.push(
+            {
+                pathname: router.pathname,
+                query: restQuery,
+            },
+            undefined,
+            { shallow: true }
+        );
+    }, [router]);
 
     const getDivisionName = useCallback(
         (slugValue: ContentType) => {
@@ -186,7 +225,15 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
                 )}
                 <SimpleGrid columns={[1, 2, 2, 3, 3]} spacing={8}>
                     {selectedProducts.map((product) => {
-                        return <Product key={product.slug} product={product} />;
+                        return (
+                            <Product
+                                key={product.slug}
+                                product={product}
+                                open={openProductSlug === product.slug}
+                                onOpenModal={() => handleOpenModal(product.slug)}
+                                onCloseModal={handleCloseModal}
+                            />
+                        );
                     })}
                 </SimpleGrid>
             </Stack>
