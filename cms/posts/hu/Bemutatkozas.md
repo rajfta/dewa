@@ -1,6 +1,6 @@
 ---
 title: 'Bemutatkozás: kik vagyunk mi? '
-date: 2023/02/01
+date: 2023-02-01T00:00:00.000Z
 excerpt: 'Cégünk és szolgáltatásaink rövid bemutatása. Ismerjen meg Minket közelebbről! '
 coverImage: /uploads/robotkezt.png
 seo:

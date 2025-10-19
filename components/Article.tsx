@@ -28,7 +28,7 @@ const Article: FC<ArticleProps> = ({
         >
             <motion.article
                 whileHover={{ y: -5 }}
-                className="flex flex-col items-start p-4 rounded-md hover:shadow-md"
+                className="flex flex-col items-start p-4 rounded-md hover:shadow-md h-full"
                 onHoverStart={() => setIsHovered(true)}
                 onHoverEnd={() => setIsHovered(false)}
             >
@@ -51,6 +51,7 @@ const Article: FC<ArticleProps> = ({
                 <Flex
                     direction="column"
                     justify="space-between"
+                    flex="1"
                     minH={[null, 64, 72, 80]}
                 >
                     <Heading
