@@ -1,19 +1,38 @@
 import type { FC } from "react";
+import { useState } from "react";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Button as ChakraButton } from "@chakra-ui/react";
 import { Carousel as RCarousel } from "react-responsive-carousel";
 
 import { ChevronLeftIcon, ChevronRightIcon } from "./icons";
+import ImageLightbox, { type LightboxSlide } from "./ImageLightbox";
 
 type CarouselProps = {
     gallery: string[];
 };
 
 const Carousel: FC<CarouselProps> = ({ gallery }) => {
+    const [lightboxOpen, setLightboxOpen] = useState(false);
+    const [lightboxIndex, setLightboxIndex] = useState(0);
+
+    // Convert gallery images to lightbox slides format
+    const lightboxSlides: LightboxSlide[] = gallery.map((image) => ({
+        src: image,
+        alt: image,
+        title: image.split("/").pop()?.split(".")[0] || image,
+        download: image,
+    }));
+
+    const handleImageClick = (index: number) => {
+        setLightboxIndex(index);
+        setLightboxOpen(true);
+    };
+
     return (
-        <div className="wrapper select-none">
-            {/* @ts-ignore - Type incompatibility with react-responsive-carousel and React 19 */}
-            <RCarousel
+        <>
+            <div className="wrapper select-none">
+                {/* @ts-ignore - Type incompatibility with react-responsive-carousel and React 19 */}
+                <RCarousel
                 renderArrowPrev={(onClickHandler, hasPrev, label) =>
                     hasPrev && (
                         <ChakraButton
@@ -69,11 +88,27 @@ const Carousel: FC<CarouselProps> = ({ gallery }) => {
                     )
                 }
             >
-                {gallery.map((image) => {
-                    return <img key={image} src={image} alt={image} />;
+                {gallery.map((image, index) => {
+                    return (
+                        <div
+                            key={image}
+                            onClick={() => handleImageClick(index)}
+                            style={{ cursor: "pointer" }}
+                        >
+                            <img src={image} alt={image} />
+                        </div>
+                    );
                 })}
             </RCarousel>
-        </div>
+            </div>
+
+            <ImageLightbox
+                open={lightboxOpen}
+                close={() => setLightboxOpen(false)}
+                slides={lightboxSlides}
+                index={lightboxIndex}
+            />
+        </>
     );
 };
 

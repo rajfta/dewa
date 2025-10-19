@@ -21,9 +21,6 @@ const Reference: FC<PostProps> = ({ reference }) => {
     const { seo, content, slug, gallery, _template } = reference;
 
     const { isFallback } = useRouter();
-    console.log("reference.title", reference.title);
-    console.log("slug", slug);
-    console.log("isFallback", isFallback);
     if (isFallback || !slug || !reference.title) {
         console.log("ERRORPAGE");
 

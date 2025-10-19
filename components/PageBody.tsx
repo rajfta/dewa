@@ -11,9 +11,21 @@ import {
 import Image from "next/image";
 import Link from "next/link";
 import type { FC } from "react";
+import { createContext, useContext, useMemo, useState } from "react";
 import ReactMarkdown from "react-markdown";
 
 import { TriangleIcon } from "./icons";
+import ImageLightbox, { type LightboxSlide } from "./ImageLightbox";
+
+// Context to manage lightbox state across markdown components
+type ImageLightboxContextType = {
+    openLightbox: (index: number) => void;
+    registerImage: (src: string, alt: string, title: string) => number;
+};
+
+const ImageLightboxContext = createContext<ImageLightboxContextType | null>(
+    null,
+);
 
 type AProps = {
     href: string;
@@ -45,10 +57,31 @@ const A: FC<AProps> = ({ children, href }) => {
 
 const Img: FC<ImgProps> = ({ src, alt, title }) => {
     const validSrc = src.replace("public/", "");
+    const context = useContext(ImageLightboxContext);
+
+    const imageIndex = useMemo(() => {
+        if (context) {
+            return context.registerImage(validSrc, alt, title);
+        }
+        return 0;
+    }, [context, validSrc, alt, title]);
+
+    const handleClick = () => {
+        if (context) {
+            context.openLightbox(imageIndex);
+        }
+    };
 
     return (
         <AspectRatio ratio={16 / 9} position="relative">
-            <a target="_blank" href={validSrc} rel="noreferrer">
+            <Box
+                onClick={handleClick}
+                cursor="pointer"
+                _hover={{
+                    opacity: 0.9,
+                }}
+                transition="opacity 0.2s"
+            >
                 <Image
                     src={validSrc}
                     alt={alt}
@@ -56,7 +89,7 @@ const Img: FC<ImgProps> = ({ src, alt, title }) => {
                     layout="fill"
                     objectFit="contain"
                 />
-            </a>
+            </Box>
         </AspectRatio>
     );
 };
@@ -157,19 +190,59 @@ const components = {
 };
 
 const PageBody: FC<PageBodyProps> = ({ content }) => {
+    const [lightboxOpen, setLightboxOpen] = useState(false);
+    const [lightboxIndex, setLightboxIndex] = useState(0);
+    const [images, setImages] = useState<LightboxSlide[]>([]);
+
+    // Context value for managing images and lightbox
+    const contextValue = useMemo<ImageLightboxContextType>(
+        () => ({
+            openLightbox: (index: number) => {
+                setLightboxIndex(index);
+                setLightboxOpen(true);
+            },
+            registerImage: (src: string, alt: string, title: string) => {
+                const existingIndex = images.findIndex((img) => img.src === src);
+                if (existingIndex !== -1) {
+                    return existingIndex;
+                }
+
+                const newImage: LightboxSlide = {
+                    src,
+                    alt: alt || title,
+                    title: title || alt,
+                    download: src,
+                };
+
+                setImages((prev) => [...prev, newImage]);
+                return images.length;
+            },
+        }),
+        [images],
+    );
+
     return (
-        <Box
-            as="article"
-            maxW="2xl"
-            px={[4, 4, 0]}
-            color="grey.charcoal"
-            fontSize="lg"
-            margin="0 auto"
-            lineHeight="2"
-        >
-            {/* @ts-ignore */}
-            <ReactMarkdown components={components}>{content}</ReactMarkdown>
-        </Box>
+        <ImageLightboxContext.Provider value={contextValue}>
+            <Box
+                as="article"
+                maxW="2xl"
+                px={[4, 4, 0]}
+                color="grey.charcoal"
+                fontSize="lg"
+                margin="0 auto"
+                lineHeight="2"
+            >
+                {/* @ts-ignore */}
+                <ReactMarkdown components={components}>{content}</ReactMarkdown>
+            </Box>
+
+            <ImageLightbox
+                open={lightboxOpen}
+                close={() => setLightboxOpen(false)}
+                slides={images}
+                index={lightboxIndex}
+            />
+        </ImageLightboxContext.Provider>
     );
 };
 

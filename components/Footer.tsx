@@ -1,5 +1,4 @@
 import { Flex, Grid, Heading, HStack, Stack, Text } from "@chakra-ui/react";
-import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
 import { useContact } from "../hooks";
