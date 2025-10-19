@@ -226,7 +226,7 @@ const PageBody: FC<PageBodyProps> = ({ content }) => {
         <ImageLightboxContext.Provider value={contextValue}>
             <Box
                 as="article"
-                maxW="2xl"
+                maxW="4xl"
                 px={[4, 4, 0]}
                 color="grey.charcoal"
                 fontSize="lg"
