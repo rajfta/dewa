@@ -1,7 +1,7 @@
 ---
 hero-image: /uploads/dsc_1420_3000x2000.jpeg
 about-title: 'Problémamegoldók, tanácsadók, szakemberek... Ezek vagyunk mi!'
-hero-subtitle: Kulcsrakész festőipari megoldások Magyarország piacvezetőjétől
+hero-subtitle: Valósítsa meg festőipari céljait a Dewánál! Magyarország piacvezetőjeként, kulcsrakész megoldásokat biztosítunk a csavarhúzótól a repülőgépfestésig.
 about-subtitle: >-
   A Dewa Zrt. több, mint 30 éve kulcsrakész technológiai megoldásokkal látja el
   a hazai festőipar összes szereplőjét: a legkisebb műhelytől a komplex
