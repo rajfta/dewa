@@ -1,7 +1,7 @@
 ---
 hero-image: /uploads/dsc_1420_3000x2000.jpeg
 about-title: Problem solvers, consultants, experts... That's who we are!
-hero-subtitle: Hungary's leading painting industry solutions
+hero-subtitle: Turnkey painting industry solutions from Hungary's market leader
 about-subtitle: Dewa Zrt. has been providing turnkey technological solutions to all players in the domestic painting industry for more than 30 years - from the smallest workshop to complex production lines. We have installed more than 2,500 installations nationwide - we provide our partners with constant spare parts supply, assistance and professional advice.
 about-kep: /uploads/dsc_1570_3000x2000.jpeg
 services-title: Our vision - To elevate Hungary's painting industry players to world-leading technological sophistication through our work

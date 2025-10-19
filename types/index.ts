@@ -34,7 +34,10 @@ export type HomePageKeys = keyof HomePageType;
 export type ContactType = {
     slug: string;
     nev: string;
+    role?: string;
+    role_en?: string;
     reszleg: string;
+    reszleg_en?: string;
     helyszin: string;
     email?: string;
     telefonszam?: string;

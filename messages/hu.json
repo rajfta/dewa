@@ -31,8 +31,9 @@
         "bekescsabaAddress": "5600 Békéscsaba Gyulai út (Lukoil-al szemben)"
     },
     "hero": {
-        "turnkey": "Kulcsrakész",
-        "paintingSolutions": "festőipari megoldások",
+        "title": "A jövőt mi festjük",
+        "turnkey": "A jövőt",
+        "paintingSolutions": "mi festjük",
         "writeToUs": "Írjon Nekünk!",
         "contact": "Kapcsolat"
     },
@@ -47,7 +48,8 @@
         "heatingTechnology": "Tüzeléstechnika",
         "surfaceTreatment": "Felületkezelés",
         "service": "Szerviz",
-        "allSubcategories": "Összes alkategória"
+        "allSubcategories": "Összes alkategória",
+        "serviceDescription": "Magyar Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco."
     },
     "references": {
         "title": "Referenciák",

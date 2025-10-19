@@ -31,8 +31,9 @@
         "bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)"
     },
     "hero": {
-        "turnkey": "Turnkey",
-        "paintingSolutions": "painting industry solutions",
+        "title": "We paint the future",
+        "turnkey": "We paint",
+        "paintingSolutions": "the future",
         "writeToUs": "Contact Us!",
         "contact": "Contact"
     },
@@ -47,7 +48,8 @@
         "heatingTechnology": "Heating Technology",
         "surfaceTreatment": "Surface Treatment",
         "service": "Service",
-        "allSubcategories": "All Subcategories"
+        "allSubcategories": "All Subcategories",
+        "serviceDescription": "English Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco."
     },
     "references": {
         "title": "References",

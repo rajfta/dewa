@@ -1,7 +1,7 @@
 ---
 hero-image: /uploads/dsc_1420_3000x2000.jpeg
 about-title: 'Problémamegoldók, tanácsadók, szakemberek... Ezek vagyunk mi!'
-hero-subtitle: Magyarország piacvezető festőipari megoldásai
+hero-subtitle: Kulcsrakész festőipari megoldások Magyarország piacvezetőjétől
 about-subtitle: >-
   A Dewa Zrt. több, mint 30 éve kulcsrakész technológiai megoldásokkal látja el
   a hazai festőipar összes szereplőjét: a legkisebb műhelytől a komplex

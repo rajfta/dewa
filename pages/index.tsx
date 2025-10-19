@@ -301,12 +301,12 @@ const Hero = ({ subtitle, imageSrc }: HeroProps) => {
                                                 "polygon(0% 100%, 100% 100%, 100% 100%, 0% 100%)",
                                         }}
                                         animate={titleControls}
-                                        className="text-4xl tracking-tight pb-2 font-extrabold sm:text-5xl md:text-6xl"
+                                        className="text-4xl tracking-tight pb-2 font-extrabold sm:text-5xl md:text-7xl"
                                     >
-                                        <span className="block xl:inline">
+                                        <span className="xl:inline">
                                             {t("turnkey")}
                                         </span>{" "}
-                                        <span className="block text-primary-500 xl:inline">
+                                        <span className="text-primary-500 xl:inline">
                                             {t("paintingSolutions")}
                                         </span>
                                     </motion.h1>

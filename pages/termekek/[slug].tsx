@@ -130,7 +130,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
                     maxW="4xl"
                     lineHeight="1.8"
                 >
-                    Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco.
+                    {t("serviceDescription")}
                 </Text>
             )}
             <Stack
