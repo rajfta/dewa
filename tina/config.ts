@@ -8,6 +8,7 @@ import {
     messagesFields,
     partnerFields,
     postFields,
+    privacyPolicyFields,
     reference_galleryFields,
     reference_hall_of_fameFields,
     szerviz_termekFields,
@@ -353,6 +354,56 @@ export default defineConfig({
                     },
                 },
                 fields: [...messagesFields()],
+            },
+            {
+                format: "md",
+                label: "Privacy Policy (Hungarian)",
+                name: "privacy_hu",
+                path: "cms/pages/privacy",
+                match: {
+                    include: "hu",
+                },
+                ui: {
+                    allowedActions: {
+                        create: false,
+                        delete: false,
+                    },
+                },
+                fields: [
+                    {
+                        type: "rich-text",
+                        name: "body",
+                        label: "Body of Document",
+                        description: "This is the markdown body",
+                        isBody: true,
+                    },
+                    ...privacyPolicyFields(),
+                ],
+            },
+            {
+                format: "md",
+                label: "Privacy Policy (English)",
+                name: "privacy_en",
+                path: "cms/pages/privacy",
+                match: {
+                    include: "en",
+                },
+                ui: {
+                    allowedActions: {
+                        create: false,
+                        delete: false,
+                    },
+                },
+                fields: [
+                    {
+                        type: "rich-text",
+                        name: "body",
+                        label: "Body of Document",
+                        description: "This is the markdown body",
+                        isBody: true,
+                    },
+                    ...privacyPolicyFields(),
+                ],
             },
         ],
     },

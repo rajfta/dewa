@@ -28,7 +28,9 @@
         "budaorsCenter": "Budaörs Center",
         "bekescsabaCenter": "Békéscsaba Center",
         "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörs Industrial Park)",
-        "bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)"
+        "bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)",
+        "privacyPolicy": "Privacy Policy",
+        "cookieNotice": "This site uses functional cookies to store language preferences."
     },
     "hero": {
         "title": "We paint the future",
@@ -49,6 +51,7 @@
         "surfaceTreatment": "Surface Treatment",
         "service": "Service",
         "allSubcategories": "All Subcategories",
+        "backToProducts": "Back to Products",
         "title": "Our Products",
         "subtitle": "Comprehensive industrial painting and surface treatment solutions",
         "surfaceTreatmentDescription": "Our surface treatment solutions provide comprehensive systems for preparing and finishing metal surfaces. From cleaning and degreasing to coating and drying, we offer complete solutions tailored to your industrial needs.",
@@ -99,7 +102,10 @@
         "error": "Failed to send, please try again!",
         "required": "Required field!",
         "minLength": "At least {min} characters!",
-        "maxLength": "No more than {max} characters!"
+        "maxLength": "No more than {max} characters!",
+        "consent": "I consent to DEWA Zrt. processing my data to respond to this inquiry",
+        "consentRequired": "Please accept the privacy policy!",
+        "privacyPolicy": "Privacy Policy"
     },
     "languageDetection": {
         "title": "Language Preference",

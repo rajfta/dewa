@@ -537,6 +537,30 @@ export function partnerFields() {
     ] as TinaField[];
 }
 
+export function privacyPolicyFields() {
+    return [
+        {
+            type: "string",
+            name: "title",
+            label: "Title",
+            required: true,
+        },
+        {
+            type: "datetime",
+            name: "lastUpdated",
+            label: "Last Updated",
+            required: true,
+        },
+        {
+            type: "object",
+            name: "seo",
+            label: "SEO",
+            required: true,
+            fields: [...seoFields()],
+        },
+    ] as TinaField[];
+}
+
 export function messagesFields() {
     return [
         {

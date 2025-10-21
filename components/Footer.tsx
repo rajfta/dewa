@@ -1,4 +1,13 @@
-import { Flex, Grid, Heading, HStack, Stack, Text } from "@chakra-ui/react";
+import {
+    Link as ChakraLink,
+    Flex,
+    Grid,
+    Heading,
+    HStack,
+    Stack,
+    Text,
+} from "@chakra-ui/react";
+import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
 import { useContact } from "../hooks";
@@ -158,6 +167,35 @@ const Footer = () => {
                     pb={4}
                 >
                     <LanguageSwitcher />
+                </Flex>
+
+                <Flex
+                    direction="column"
+                    align="center"
+                    gap={3}
+                    pl={[8, 8, 24, 32, 64]}
+                    pb={6}
+                >
+                    <Link href="/privacy" passHref legacyBehavior>
+                        <ChakraLink
+                            color="whiteAlpha.800"
+                            fontSize="sm"
+                            _hover={{
+                                color: "white",
+                                textDecoration: "underline",
+                            }}
+                        >
+                            {t("privacyPolicy")}
+                        </ChakraLink>
+                    </Link>
+                    <Text
+                        fontSize="xs"
+                        color="whiteAlpha.600"
+                        textAlign="center"
+                        maxW="2xl"
+                    >
+                        {t("cookieNotice")}
+                    </Text>
                 </Flex>
             </Flex>
         </Flex>

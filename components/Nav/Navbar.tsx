@@ -1,5 +1,7 @@
 import {
     Box,
+    Link as ChakraLink,
+    Checkbox,
     Flex,
     FormControl,
     FormErrorMessage,
@@ -30,6 +32,7 @@ type ContactFormValues = {
     telephone: string;
     email: string;
     message: string;
+    consent: boolean;
 };
 
 const Navbar: FC = () => {
@@ -271,6 +274,37 @@ const Navbar: FC = () => {
                                         (errors.message.message as string)}
                                 </FormErrorMessage>
                             </FormControl>
+
+                            <FormControl isInvalid={!!errors.consent} mt={6}>
+                                <Checkbox
+                                    {...register("consent", {
+                                        required: t("consentRequired"),
+                                    })}
+                                    colorScheme="blue"
+                                >
+                                    <Text fontSize="sm">
+                                        {t("consent")}.{" "}
+                                        <Link
+                                            href="/privacy"
+                                            passHref
+                                            legacyBehavior
+                                        >
+                                            <ChakraLink
+                                                color="blue.600"
+                                                textDecoration="underline"
+                                                isExternal
+                                            >
+                                                {t("privacyPolicy")}
+                                            </ChakraLink>
+                                        </Link>
+                                    </Text>
+                                </Checkbox>
+                                <FormErrorMessage>
+                                    {errors.consent &&
+                                        (errors.consent.message as string)}
+                                </FormErrorMessage>
+                            </FormControl>
+
                             <Flex mt={8} w="100" justify="flex-end">
                                 <Button
                                     disabled={isSubmitting || isEmailSending}

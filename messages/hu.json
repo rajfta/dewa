@@ -28,7 +28,9 @@
         "budaorsCenter": "Budaörsi Központ",
         "bekescsabaCenter": "Békéscsabai Központ",
         "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörsi Ipari Park)",
-        "bekescsabaAddress": "5600 Békéscsaba Gyulai út (Lukoil-al szemben)"
+        "bekescsabaAddress": "5600 Békéscsaba Gyulai út (Lukoil-al szemben)",
+        "privacyPolicy": "Adatvédelmi Nyilatkozat",
+        "cookieNotice": "Ez az oldal funkcionális cookie-kat használ a nyelvi beállítások tárolására."
     },
     "hero": {
         "title": "A jövőt mi festjük",
@@ -49,6 +51,7 @@
         "surfaceTreatment": "Felületkezelés",
         "service": "Szerviz",
         "allSubcategories": "Összes alkategória",
+        "backToProducts": "Vissza a termékekhez",
         "title": "Termékeink",
         "subtitle": "Átfogó ipari festési és felületkezelési megoldások",
         "surfaceTreatmentDescription": "Felületkezelési megoldásaink átfogó rendszereket biztosítanak fém felületek előkészítésére és befejezésére. A tisztítástól és zsírtalanítástól a bevonatolásig és szárításig, teljes körű, az Ön ipari igényeihez szabott megoldásokat kínálunk.",
@@ -99,7 +102,10 @@
         "error": "Sikertelen küldés, kérjük próbálja meg újra!",
         "required": "Kötelező mező!",
         "minLength": "Legalább {min} karakter!",
-        "maxLength": "Nem lehet több, mint {max} karakter!"
+        "maxLength": "Nem lehet több, mint {max} karakter!",
+        "consent": "Hozzájárulok, hogy a DEWA Zrt. kezelje adataimat a megkeresésemre történő válaszadás céljából",
+        "consentRequired": "Kérjük, fogadja el az adatvédelmi nyilatkozatot!",
+        "privacyPolicy": "Adatvédelmi Nyilatkozat"
     },
     "languageDetection": {
         "title": "Nyelvi beállítás",

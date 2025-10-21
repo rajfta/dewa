@@ -8,7 +8,8 @@ export type ContentType =
     | "szerviz"
     | "fooldal"
     | "kapcsolat"
-    | "partnerek";
+    | "partnerek"
+    | "privacy";
 
 export type SeoType = {
     title: string;

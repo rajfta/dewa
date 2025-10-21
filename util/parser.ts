@@ -45,6 +45,8 @@ const getDirectory = (type: ContentType, locale: string = "hu") => {
             return path.join(process.cwd(), "cms/kapcsolat");
         case "partnerek":
             return path.join(process.cwd(), "cms/partnerek");
+        case "privacy":
+            return path.join(process.cwd(), "cms/pages/privacy");
 
         default:
             return null;

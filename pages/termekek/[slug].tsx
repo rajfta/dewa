@@ -1,5 +1,5 @@
 import {
-    Button,
+    Button as ChakraButton,
     Flex,
     Heading,
     Select,
@@ -8,12 +8,14 @@ import {
     Text,
 } from "@chakra-ui/react";
 import type { GetStaticPaths, GetStaticProps } from "next";
+import Link from "next/link";
 import { useRouter } from "next/router";
 import { useTranslations } from "next-intl";
 import { type FC, useCallback, useEffect, useState } from "react";
 
 import { ChevronDownIcon } from "../../components/icons";
 import Product from "../../components/Product";
+import { Button } from "../../components/uikit";
 import { useCurrentBreakpoint } from "../../hooks";
 import { getMessages } from "../../lib/getMessages";
 import type { ContentType, ProductType } from "../../types";
@@ -42,7 +44,7 @@ const SubCategory: FC<SubCategoryProps> = ({
     onClick,
 }) => {
     return (
-        <Button
+        <ChakraButton
             color={currentSubcategory === value ? "secondary.500" : "black"}
             py={4}
             value={value}
@@ -53,7 +55,7 @@ const SubCategory: FC<SubCategoryProps> = ({
             onClick={onClick}
         >
             {children}
-        </Button>
+        </ChakraButton>
     );
 };
 
@@ -183,10 +185,20 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
 
     return (
         <div className="flex flex-col wrapper">
+            <Link href="/termekek">
+                <Button
+                    variant="secondary"
+                    mt={[6, 8, 12, 16]}
+                    mb={[8, 8, 12, 16]}
+                    side="left"
+                    alignSelf="flex-start"
+                >
+                    {t("backToProducts")}
+                </Button>
+            </Link>
             <Heading
                 display="flex"
                 alignItems="center"
-                mt={[6, 8, 12, 16]}
                 mb={[null, null, 12, 12]}
                 fontSize={["xl", "xl", "2xl", "2xl"]}
                 color="#000"
