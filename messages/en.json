@@ -49,7 +49,11 @@
         "surfaceTreatment": "Surface Treatment",
         "service": "Service",
         "allSubcategories": "All Subcategories",
-        "serviceDescription": "English Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco."
+        "surfaceTreatmentDescription": "Our surface treatment solutions provide comprehensive systems for preparing and finishing metal surfaces. From cleaning and degreasing to coating and drying, we offer complete solutions tailored to your industrial needs.",
+        "sprayBoothsDescription": "We design and manufacture high-quality spray booths that ensure optimal painting conditions. Our booths provide excellent ventilation, lighting, and temperature control for professional finishing results.",
+        "sprayTechnologyDescription": "Our spray technology equipment delivers precise and efficient coating application. We offer a wide range of spray guns, pumps, and automated systems for various industrial painting applications.",
+        "heatingTechnologyDescription": "Our heating technology solutions include industrial ovens, dryers, and heat recovery systems. We provide energy-efficient equipment designed to optimize your production processes and reduce operating costs.",
+        "serviceDescription": "Our comprehensive service department offers maintenance, repairs, and technical support for all types of industrial painting equipment. We ensure your systems operate at peak performance with minimal downtime."
     },
     "references": {
         "title": "References",

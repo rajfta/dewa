@@ -133,6 +133,26 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
         [t],
     );
 
+    const getDivisionDescription = useCallback(
+        (slugValue: ContentType) => {
+            switch (slugValue) {
+                case "feluletkezeles":
+                    return t("surfaceTreatmentDescription");
+                case "fenyezofulkek":
+                    return t("sprayBoothsDescription");
+                case "tuzelestechnika":
+                    return t("heatingTechnologyDescription");
+                case "szorastechnika":
+                    return t("sprayTechnologyDescription");
+                case "szerviz":
+                    return t("serviceDescription");
+                default:
+                    return null;
+            }
+        },
+        [t],
+    );
+
     const [currentSubcategory, setcurrentSubcategory] = useState("");
     const currentSubProducts = products.filter(
         (product) => product.alkategoria === currentSubcategory,
@@ -177,7 +197,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
                     ({selectedProducts.length}){" "}
                 </Flex>
             </Heading>
-            {slug === "szerviz" && (
+            {getDivisionDescription(slug) && (
                 <Text
                     fontSize={["md", "md", "lg"]}
                     color="grey.charcoal"
@@ -185,7 +205,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
                     maxW="4xl"
                     lineHeight="1.8"
                 >
-                    {t("serviceDescription")}
+                    {getDivisionDescription(slug)}
                 </Text>
             )}
             <Stack
