@@ -5,6 +5,7 @@ import {
     homepageFields,
     ipari_feluletkezeles_termekFields,
     kapcsolat_egyenFields,
+    messagesFields,
     partnerFields,
     postFields,
     reference_galleryFields,
@@ -320,6 +321,38 @@ export default defineConfig({
                     },
                     ...partnerFields(),
                 ],
+            },
+            {
+                format: "json",
+                label: "Messages (Hungarian)",
+                name: "messages_hu",
+                path: "messages",
+                match: {
+                    include: "hu",
+                },
+                ui: {
+                    allowedActions: {
+                        create: false,
+                        delete: false,
+                    },
+                },
+                fields: [...messagesFields()],
+            },
+            {
+                format: "json",
+                label: "Messages (English)",
+                name: "messages_en",
+                path: "messages",
+                match: {
+                    include: "en",
+                },
+                ui: {
+                    allowedActions: {
+                        create: false,
+                        delete: false,
+                    },
+                },
+                fields: [...messagesFields()],
             },
         ],
     },

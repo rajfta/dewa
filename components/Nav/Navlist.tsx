@@ -276,7 +276,7 @@ const NavItems: FC = () => {
             <Contact />
             <Flex gap={3} align="center">
                 <ChakraLink
-                    href="https://linkedin.com"
+                    href="https://linkedin.com/company/dewa-zrt/"
                     isExternal
                     color="black"
                     _hover={{ color: "primary.500" }}
@@ -285,7 +285,7 @@ const NavItems: FC = () => {
                     <LinkedInIcon boxSize={5} />
                 </ChakraLink>
                 <ChakraLink
-                    href="https://facebook.com"
+                    href="https://www.facebook.com/share/1LQPQRgWv6/"
                     isExternal
                     color="black"
                     _hover={{ color: "primary.500" }}

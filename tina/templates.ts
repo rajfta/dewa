@@ -536,3 +536,305 @@ export function partnerFields() {
         },
     ] as TinaField[];
 }
+
+export function messagesFields() {
+    return [
+        {
+            type: "object",
+            name: "common",
+            label: "Common Translations",
+            fields: [
+                { type: "string", name: "contact", label: "Contact" },
+                { type: "string", name: "readMore", label: "Read More" },
+                { type: "string", name: "learnMore", label: "Learn More" },
+                { type: "string", name: "getStarted", label: "Get Started" },
+                { type: "string", name: "readArticle", label: "Read Article" },
+                { type: "string", name: "backTo", label: "Back To" },
+                { type: "string", name: "send", label: "Send" },
+            ],
+        },
+        {
+            type: "object",
+            name: "nav",
+            label: "Navigation",
+            fields: [
+                { type: "string", name: "home", label: "Home" },
+                { type: "string", name: "products", label: "Products" },
+                { type: "string", name: "references", label: "References" },
+                { type: "string", name: "blog", label: "Blog" },
+                { type: "string", name: "contact", label: "Contact" },
+                { type: "string", name: "career", label: "Career" },
+                { type: "string", name: "sprayBooths", label: "Spray Booths" },
+                {
+                    type: "string",
+                    name: "sprayTechnology",
+                    label: "Spray Technology",
+                },
+                {
+                    type: "string",
+                    name: "heatingTechnology",
+                    label: "Heating Technology",
+                },
+                {
+                    type: "string",
+                    name: "surfaceTreatment",
+                    label: "Surface Treatment",
+                },
+                { type: "string", name: "service", label: "Service" },
+            ],
+        },
+        {
+            type: "object",
+            name: "footer",
+            label: "Footer",
+            fields: [
+                {
+                    type: "string",
+                    name: "didWeInterestYou",
+                    label: "Did We Interest You",
+                },
+                {
+                    type: "string",
+                    name: "yourInterest",
+                    label: "Your Interest",
+                },
+                { type: "string", name: "writeToUs", label: "Write To Us" },
+                {
+                    type: "string",
+                    name: "budaorsCenter",
+                    label: "Budaörs Center",
+                },
+                {
+                    type: "string",
+                    name: "bekescsabaCenter",
+                    label: "Békéscsaba Center",
+                },
+                {
+                    type: "string",
+                    name: "budaorsAddress",
+                    label: "Budaörs Address",
+                },
+                {
+                    type: "string",
+                    name: "bekescsabaAddress",
+                    label: "Békéscsaba Address",
+                },
+            ],
+        },
+        {
+            type: "object",
+            name: "hero",
+            label: "Hero Section",
+            fields: [
+                { type: "string", name: "title", label: "Title" },
+                { type: "string", name: "turnkey", label: "Turnkey" },
+                {
+                    type: "string",
+                    name: "paintingSolutions",
+                    label: "Painting Solutions",
+                },
+                { type: "string", name: "writeToUs", label: "Write To Us" },
+                { type: "string", name: "contact", label: "Contact" },
+            ],
+        },
+        {
+            type: "object",
+            name: "about",
+            label: "About Section",
+            fields: [
+                {
+                    type: "string",
+                    name: "yearsExperience",
+                    label: "Years Experience",
+                },
+                { type: "string", name: "division", label: "Division" },
+                {
+                    type: "string",
+                    name: "successfulProjects",
+                    label: "Successful Projects",
+                },
+            ],
+        },
+        {
+            type: "object",
+            name: "products",
+            label: "Products",
+            fields: [
+                { type: "string", name: "sprayBooths", label: "Spray Booths" },
+                {
+                    type: "string",
+                    name: "sprayTechnology",
+                    label: "Spray Technology",
+                },
+                {
+                    type: "string",
+                    name: "heatingTechnology",
+                    label: "Heating Technology",
+                },
+                {
+                    type: "string",
+                    name: "surfaceTreatment",
+                    label: "Surface Treatment",
+                },
+                { type: "string", name: "service", label: "Service" },
+                {
+                    type: "string",
+                    name: "allSubcategories",
+                    label: "All Subcategories",
+                },
+                { type: "string", name: "title", label: "Title" },
+                { type: "string", name: "subtitle", label: "Subtitle" },
+                {
+                    type: "string",
+                    name: "surfaceTreatmentDescription",
+                    label: "Surface Treatment Description",
+                    ui: { component: "textarea" },
+                },
+                {
+                    type: "string",
+                    name: "sprayBoothsDescription",
+                    label: "Spray Booths Description",
+                    ui: { component: "textarea" },
+                },
+                {
+                    type: "string",
+                    name: "sprayTechnologyDescription",
+                    label: "Spray Technology Description",
+                    ui: { component: "textarea" },
+                },
+                {
+                    type: "string",
+                    name: "heatingTechnologyDescription",
+                    label: "Heating Technology Description",
+                    ui: { component: "textarea" },
+                },
+                {
+                    type: "string",
+                    name: "serviceDescription",
+                    label: "Service Description",
+                    ui: { component: "textarea" },
+                },
+            ],
+        },
+        {
+            type: "object",
+            name: "references",
+            label: "References",
+            fields: [
+                { type: "string", name: "title", label: "Title" },
+                {
+                    type: "string",
+                    name: "backToReferences",
+                    label: "Back To References",
+                },
+                { type: "string", name: "hallOfFame", label: "Hall Of Fame" },
+                { type: "string", name: "galleries", label: "Galleries" },
+            ],
+        },
+        {
+            type: "object",
+            name: "blog",
+            label: "Blog",
+            fields: [
+                { type: "string", name: "title", label: "Title" },
+                { type: "string", name: "articles", label: "Articles" },
+                { type: "string", name: "backToBlog", label: "Back To Blog" },
+            ],
+        },
+        {
+            type: "object",
+            name: "contactPage",
+            label: "Contact Page",
+            fields: [
+                { type: "string", name: "title", label: "Title" },
+                { type: "string", name: "getInTouch", label: "Get In Touch" },
+                { type: "string", name: "description", label: "Description" },
+                {
+                    type: "string",
+                    name: "budaorsOffice",
+                    label: "Budaörs Office",
+                },
+                {
+                    type: "string",
+                    name: "bekescsabaOffice",
+                    label: "Békéscsaba Office",
+                },
+                { type: "string", name: "budaors", label: "Budaörs" },
+                { type: "string", name: "bekescsaba", label: "Békéscsaba" },
+                { type: "string", name: "name", label: "Name" },
+                { type: "string", name: "role", label: "Role" },
+                { type: "string", name: "department", label: "Department" },
+                { type: "string", name: "email", label: "Email" },
+                { type: "string", name: "telephone", label: "Telephone" },
+                {
+                    type: "string",
+                    name: "budaorsAddress",
+                    label: "Budaörs Address",
+                },
+                {
+                    type: "string",
+                    name: "bekescsabaAddress",
+                    label: "Békéscsaba Address",
+                },
+            ],
+        },
+        {
+            type: "object",
+            name: "contactForm",
+            label: "Contact Form",
+            fields: [
+                { type: "string", name: "title", label: "Title" },
+                { type: "string", name: "subject", label: "Subject" },
+                { type: "string", name: "telephone", label: "Telephone" },
+                {
+                    type: "string",
+                    name: "telephonePlaceholder",
+                    label: "Telephone Placeholder",
+                },
+                { type: "string", name: "email", label: "Email" },
+                {
+                    type: "string",
+                    name: "emailPlaceholder",
+                    label: "Email Placeholder",
+                },
+                { type: "string", name: "message", label: "Message" },
+                {
+                    type: "string",
+                    name: "messagePlaceholder",
+                    label: "Message Placeholder",
+                },
+                { type: "string", name: "send", label: "Send" },
+                { type: "string", name: "sending", label: "Sending" },
+                { type: "string", name: "success", label: "Success" },
+                { type: "string", name: "error", label: "Error" },
+                { type: "string", name: "required", label: "Required" },
+                { type: "string", name: "minLength", label: "Min Length" },
+                { type: "string", name: "maxLength", label: "Max Length" },
+            ],
+        },
+        {
+            type: "object",
+            name: "languageDetection",
+            label: "Language Detection",
+            fields: [
+                { type: "string", name: "title", label: "Title" },
+                {
+                    type: "string",
+                    name: "message",
+                    label: "Message",
+                    ui: { component: "textarea" },
+                },
+                {
+                    type: "string",
+                    name: "switchEnglish",
+                    label: "Switch English",
+                },
+                {
+                    type: "string",
+                    name: "stayHungarian",
+                    label: "Stay Hungarian",
+                },
+            ],
+        },
+    ] as TinaField[];
+}
