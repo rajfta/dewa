@@ -1,11 +1,11 @@
 import {
     AspectRatio,
     Button,
+    Link as ChakraLink,
     chakra,
     Flex,
     Heading,
     HStack,
-    Link as ChakraLink,
     Stack,
     Table,
     Tbody,

@@ -27,6 +27,7 @@ import {
     LinkedInIcon,
     OutsideIcon,
 } from "../icons";
+import LanguageSwitcher from "../LanguageSwitcher";
 import Contact from "./Contact";
 import { headerPX } from "./consts";
 
@@ -260,7 +261,7 @@ const NavItems: FC = () => {
 
     return (
         <Stack
-            spacing={12}
+            spacing={[6, 6, 6, 8, 12]}
             align={["flex-end", "flex-end", "flex-end", "baseline"]}
             direction={["column", "column", "column", "row"]}
             zIndex={12}
@@ -293,6 +294,12 @@ const NavItems: FC = () => {
                     <FacebookIcon boxSize={5} />
                 </ChakraLink>
             </Flex>
+            <LanguageSwitcher
+                textColor="black"
+                separatorColor="gray.400"
+                hoverBg="gray.100"
+                size="sm"
+            />
         </Stack>
     );
 };

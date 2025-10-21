@@ -100,5 +100,11 @@
         "required": "Kötelező mező!",
         "minLength": "Legalább {min} karakter!",
         "maxLength": "Nem lehet több, mint {max} karakter!"
+    },
+    "languageDetection": {
+        "title": "Nyelvi beállítás",
+        "message": "Észrevettük, hogy böngészője angol nyelvre van beállítva. Szeretné megtekinteni ezt a weboldalt angolul?",
+        "switchEnglish": "Váltás angolra",
+        "stayHungarian": "Maradok magyaron"
     }
 }

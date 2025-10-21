@@ -5,6 +5,7 @@ import type { AppProps } from "next/app";
 import { useRouter } from "next/router";
 import { NextIntlClientProvider } from "next-intl";
 import Footer from "../components/Footer";
+import LanguageDetectionDialog from "../components/LanguageDetectionDialog";
 import LocaleHead from "../components/LocaleHead";
 import Navbar from "../components/Nav/Navbar";
 import theme from "../components/theme";
@@ -29,6 +30,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
                     >
                         <LocaleHead />
                         <Navbar />
+                        <LanguageDetectionDialog />
                         <Component {...pageProps} />
                         <Footer />
                     </ContactContext.Provider>

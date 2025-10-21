@@ -100,5 +100,11 @@
         "required": "Required field!",
         "minLength": "At least {min} characters!",
         "maxLength": "No more than {max} characters!"
+    },
+    "languageDetection": {
+        "title": "Language Preference",
+        "message": "We noticed your browser is set to English. Would you like to view this website in English?",
+        "switchEnglish": "Switch to English",
+        "stayHungarian": "Stay in Hungarian"
     }
 }
