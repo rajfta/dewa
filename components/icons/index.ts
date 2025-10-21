@@ -16,6 +16,7 @@ export * from "./MapIcon";
 export * from "./OutsideIcon";
 export * from "./PaintGunIcon";
 export * from "./StarIcon";
+export * from "./SzervizIcon";
 export * from "./SzorasIcon";
 export * from "./TelephoneIcon";
 export * from "./TriangleIcon";

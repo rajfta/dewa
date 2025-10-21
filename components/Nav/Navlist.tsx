@@ -185,12 +185,21 @@ const Products: FC<{ children?: React.ReactNode }> = ({ children }) => {
             direction="column"
             position="relative"
             zIndex={1}
-            onClick={!isLg ? toggleShow : null}
             onMouseEnter={isLg ? onOpen : null}
             onMouseLeave={isLg ? onClose : null}
         >
             <Flex align="center" justify="flex-end">
-                {children}
+                <NextLink href="/termekek">
+                    <Box
+                        color={currentPage ? "secondary.500" : "black"}
+                        cursor="pointer"
+                        _hover={{
+                            transform: "scale(1.02)",
+                        }}
+                    >
+                        {children}
+                    </Box>
+                </NextLink>
                 <ChevronDownIcon
                     ml={3}
                     transform={show ? "rotate(180deg)" : "none"}
@@ -198,6 +207,8 @@ const Products: FC<{ children?: React.ReactNode }> = ({ children }) => {
                     fill="none"
                     width={3}
                     color={currentPage && "secondary.500"}
+                    cursor="pointer"
+                    onClick={!isLg ? toggleShow : null}
                 />
             </Flex>
             <ProductCategories show={show} />

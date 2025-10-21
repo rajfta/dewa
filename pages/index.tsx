@@ -9,6 +9,7 @@ import {
     FeluletIcon,
     FestofulkekIcon,
     PaintGunIcon,
+    SzervizIcon,
     SzorasIcon,
     TuzelesIcon,
 } from "../components/icons";
@@ -75,7 +76,7 @@ const AboutUs: FC<AboutUsProps> = ({ title, description, imageSrc }) => {
                                             {t("division")}
                                         </dt>
                                         <dd className="order-1 text-2xl font-extrabold text-primary-500 sm:text-3xl">
-                                            4
+                                            5
                                         </dd>
                                     </div>
                                     <div className="flex flex-col px-8 pt-8">
@@ -131,6 +132,7 @@ type ProductsProps = {
     tuz: string;
     felulet: string;
     szoras: string;
+    szerviz: string;
     imageSrc: string;
 };
 
@@ -141,6 +143,7 @@ const Products = ({
     tuz,
     felulet,
     szoras,
+    szerviz,
     imageSrc,
 }: ProductsProps) => {
     const t = useTranslations("products");
@@ -172,7 +175,7 @@ const Products = ({
                                     />
                                 </div>
                             </div>
-                            <div className="mt-16 grid grid-cols-1 gap-y-10 lg:grid-cols-4">
+                            <div className="mt-16 grid grid-cols-1 gap-y-10 lg:grid-cols-5">
                                 <Division
                                     href="/termekek/fenyezofulkek"
                                     name={t("sprayBooths")}
@@ -199,6 +202,13 @@ const Products = ({
                                     name={t("surfaceTreatment")}
                                     Logo={FeluletIcon}
                                     description={felulet}
+                                />
+
+                                <Division
+                                    href="/termekek/szerviz"
+                                    name={t("service")}
+                                    Logo={SzervizIcon}
+                                    description={szerviz}
                                 />
                             </div>
                         </div>
@@ -410,6 +420,7 @@ const Index = ({ data }: { data: HomePageType }) => {
                 feny={data["fenyezo-description"]}
                 tuz={data["tuzeles-desc"]}
                 szoras={data["szoras-desc"]}
+                szerviz={data["szerviz-desc"]}
                 imageSrc={data["serv-image"]}
             />
         </>
@@ -431,6 +442,7 @@ export const getStaticProps: GetStaticProps = async ({ locale = "hu" }) => {
             "szoras-desc",
             "tuzeles-desc",
             "felulet-desc",
+            "szerviz-desc",
             "serv-image",
         ],
         locale,

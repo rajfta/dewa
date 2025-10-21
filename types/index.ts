@@ -28,6 +28,7 @@ export type HomePageType = {
     "szoras-desc": string;
     "tuzeles-desc": string;
     "felulet-desc": string;
+    "szerviz-desc": string;
 };
 
 export type HomePageKeys = keyof HomePageType;

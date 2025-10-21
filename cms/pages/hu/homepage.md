@@ -44,6 +44,12 @@ felulet-desc: >-
   között található KTL és mártó típusú festés, a rendszerek része saját
   tervezésű anyagmozgató pálya, vízleszárító és beégető kemence, hűtőzóna,
   automata porfestő robotok és más egyéb!
+szerviz-desc: >-
+  Szerviz részlegünk átfogó karbantartást, javításokat és műszaki támogatást
+  nyújt minden típusú ipari festőberendezéshez. Szakértő csapatunk biztosítja,
+  hogy rendszerei csúcsteljesítménnyel működjenek minimális üzemszünettel.
+  Gyors reagálású alkatrészellátással és tapasztalt szerviztechnikával
+  támogatjuk partnereink folyamatos termelését.
 serv-image: /uploads/dsc_1327_3000x2000.jpeg
 ---
 
