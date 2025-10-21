@@ -36,6 +36,7 @@ const Gallery: FC<GalleryProps> = ({ post: { slug, coverImage, title } }) => {
                     shadow={[null, null, null, "md"]}
                     overflow="hidden"
                     cursor="pointer"
+                    h="full"
                 >
                     <AspectRatio
                         ratio={16 / 9}
@@ -52,19 +53,13 @@ const Gallery: FC<GalleryProps> = ({ post: { slug, coverImage, title } }) => {
                             objectFit="cover"
                         />
                     </AspectRatio>
-                    <Flex
-                        direction="column"
-                        justify="space-between"
-                        minH={[null, 12, 16, 36]}
-                        w="100%"
-                        px={3}
-                        pb={6}
-                    >
+                    <Flex direction="column" flex="1" w="100%" px={3} pb={6}>
                         <Heading
                             fontSize="2xl"
                             fontWeight="semibold"
                             color="#000"
                             mb={[3, null, null, null]}
+                            flex="1"
                         >
                             {title}
                         </Heading>

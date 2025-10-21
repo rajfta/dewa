@@ -23,6 +23,7 @@ const Reference: FC<ReferenceProps> = ({
                 pathname: "/referenciak/[slug]",
                 query: { slug },
             }}
+            className="h-full"
         >
             <Flex
                 direction="column"
@@ -38,6 +39,7 @@ const Reference: FC<ReferenceProps> = ({
                     "#fff",
                 ]}
                 cursor="pointer"
+                h="full"
                 onMouseEnter={() => setIsHovered(true)}
                 onMouseLeave={() => setIsHovered(false)}
             >
@@ -57,30 +59,27 @@ const Reference: FC<ReferenceProps> = ({
                         objectFit="cover"
                     />
                 </AspectRatio>
-                <Flex
-                    direction="column"
-                    justify="space-between"
-                    minH={[null, 64, 72, 80]}
-                    p={[null, null, null, 4]}
-                >
-                    <Heading
-                        fontSize="2xl"
-                        fontWeight="semibold"
-                        color="#000"
-                        mb={[3, null, null, null]}
-                    >
-                        {title}
-                    </Heading>
-                    <Text
-                        fontSize="sm"
-                        color="grey.shadow"
-                        mb={[3, null, null, null]}
-                    >
-                        {date}
-                    </Text>
-                    <Text mb={[3, null, null, null]} color="grey.iron">
-                        {excerpt}
-                    </Text>
+                <Flex direction="column" flex="1" p={[null, null, null, 4]}>
+                    <Flex direction="column" flex="1">
+                        <Heading
+                            fontSize="2xl"
+                            fontWeight="semibold"
+                            color="#000"
+                            mb={[3, null, null, null]}
+                        >
+                            {title}
+                        </Heading>
+                        <Text
+                            fontSize="sm"
+                            color="grey.shadow"
+                            mb={[3, null, null, null]}
+                        >
+                            {date}
+                        </Text>
+                        <Text mb={[3, null, null, null]} color="grey.iron">
+                            {excerpt}
+                        </Text>
+                    </Flex>
                     <Button
                         variant="secondary"
                         side="right"

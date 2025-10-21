@@ -51,13 +51,15 @@ const Perspective: FC<PerspectiveProps> = ({ children, intensity }) => {
     }, [rotateX, rotateY]);
 
     return (
-        <Flex justify="center" align="center" position="relative">
+        <Flex justify="center" align="center" position="relative" h="full">
             <AnimationContainer
                 onPointerLeave={handleReset}
                 justify="center"
                 align="center"
                 style={{ perspective: "2000px" }}
                 animate
+                h="full"
+                w="full"
             >
                 <PerspectiveHover
                     onPointerMove={onMove}
@@ -65,6 +67,8 @@ const Perspective: FC<PerspectiveProps> = ({ children, intensity }) => {
                         rotateX,
                         rotateY,
                     }}
+                    h="full"
+                    w="full"
                 >
                     {children}
                 </PerspectiveHover>
