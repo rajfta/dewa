@@ -113,5 +113,9 @@ export function getAllContents(
     }
 
     // sort posts/references by date in descending order
-    return contents.sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
+    return contents.sort((post1, post2) => {
+        const date1 = new Date(post1.date);
+        const date2 = new Date(post2.date);
+        return date2.getTime() - date1.getTime();
+    });
 }

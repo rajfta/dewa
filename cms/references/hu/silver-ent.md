@@ -6,7 +6,7 @@ excerpt: >-
   berendezések elkülönített munkafolyamatokban nyújtanak segítséget a produkciós
   iroda különböző egységeinek: jelmez készítés, kellék készítés és díszlet
   készítés.
-date: 2022-11-27T23:00:00.000Z
+date: 2022/11/28
 coverImage: /DSC_1384.jpg
 gallery:
   - /DSC_1401.jpg

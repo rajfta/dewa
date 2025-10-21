@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { type FC, useState } from "react";
 import type { PostType } from "../types";
+import { formatDate } from "../util/formatDate";
 
 import { Button } from "./uikit";
 
@@ -74,7 +75,7 @@ const Reference: FC<ReferenceProps> = ({
                             color="grey.shadow"
                             mb={[3, null, null, null]}
                         >
-                            {date}
+                            {formatDate(date)}
                         </Text>
                         <Text mb={[3, null, null, null]} color="grey.iron">
                             {excerpt}

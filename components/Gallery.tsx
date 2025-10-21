@@ -1,9 +1,10 @@
-import { AspectRatio, Flex, Heading } from "@chakra-ui/react";
+import { AspectRatio, Flex, Heading, Text } from "@chakra-ui/react";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
 import { type FC, useState } from "react";
 import type { PostType } from "../types";
+import { formatDate } from "../util/formatDate";
 
 import { Button } from "./uikit";
 
@@ -11,7 +12,9 @@ type GalleryProps = {
     post: PostType;
 };
 
-const Gallery: FC<GalleryProps> = ({ post: { slug, coverImage, title } }) => {
+const Gallery: FC<GalleryProps> = ({
+    post: { slug, coverImage, title, date },
+}) => {
     const [isHovered, setIsHovered] = useState(false);
 
     return (
@@ -54,15 +57,23 @@ const Gallery: FC<GalleryProps> = ({ post: { slug, coverImage, title } }) => {
                         />
                     </AspectRatio>
                     <Flex direction="column" flex="1" w="100%" px={3} pb={6}>
-                        <Heading
-                            fontSize="2xl"
-                            fontWeight="semibold"
-                            color="#000"
-                            mb={[3, null, null, null]}
-                            flex="1"
-                        >
-                            {title}
-                        </Heading>
+                        <Flex direction="column" flex="1">
+                            <Heading
+                                fontSize="2xl"
+                                fontWeight="semibold"
+                                color="#000"
+                                mb={[3, null, null, null]}
+                            >
+                                {title}
+                            </Heading>
+                            <Text
+                                fontSize="sm"
+                                color="grey.shadow"
+                                mb={[3, null, null, null]}
+                            >
+                                {formatDate(date)}
+                            </Text>
+                        </Flex>
                         <Button
                             variant="secondary"
                             p={0}

@@ -8,7 +8,7 @@ excerpt: >-
   is (aktívszenes oldószer leválasztó). Egyes gépészetek sajátossága, hogy
   DUÁL-ÉGŐVEL lettek szerelve, melyek lehetővé teszik a tüzelőanyag váltását
   (gáz, olaj) anélkül, hogy égőfejet cserélnénk.
-date: 2023-07-31T22:00:00.000Z
+date: 2023/08/01
 coverImage: /IMG_4110.jpg
 gallery:
   - /IMG_4105.jpg
