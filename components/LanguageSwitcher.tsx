@@ -7,6 +7,7 @@ type LanguageSwitcherProps = {
     separatorColor?: string;
     hoverBg?: string;
     size?: "xs" | "sm" | "md" | "lg";
+    compact?: boolean;
 };
 
 const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
@@ -14,6 +15,7 @@ const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
     separatorColor = "whiteAlpha.500",
     hoverBg = "whiteAlpha.200",
     size = "xs",
+    compact = false,
 }) => {
     const router = useRouter();
     const { locale, pathname, asPath, query } = router;
@@ -23,6 +25,30 @@ const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
         router.push({ pathname, query }, asPath, { locale: newLocale });
     };
 
+    // Compact mode: show only the non-active language
+    if (compact) {
+        const targetLocale = locale === "hu" ? "en" : "hu";
+        const flag = targetLocale === "hu" ? "🇭🇺" : "🇬🇧";
+        const label = targetLocale === "hu" ? "HU" : "EN";
+
+        return (
+            <Button
+                size={size}
+                variant="ghost"
+                onClick={() => changeLanguage(targetLocale)}
+                color={textColor}
+                px={2}
+                _hover={{
+                    bg: hoverBg,
+                }}
+                leftIcon={<Text fontSize="16px">{flag}</Text>}
+            >
+                {label}
+            </Button>
+        );
+    }
+
+    // Full mode: show both languages
     return (
         <HStack spacing={2}>
             <Button

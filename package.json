@@ -8,6 +8,7 @@
         "export": "next export",
         "serve": "npx serve out/",
         "check": "biome check .",
+        "typecheck": "tsc --noEmit",
         "fix": "biome check --write .",
         "fix:unsafe": "biome check --write --unsafe"
     },

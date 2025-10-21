@@ -295,8 +295,8 @@ const NavItems: FC = () => {
                 </ChakraLink>
             </Flex>
             <LanguageSwitcher
+                compact
                 textColor="black"
-                separatorColor="gray.400"
                 hoverBg="gray.100"
                 size="sm"
             />

@@ -15,12 +15,22 @@ pnpm build            # Build TinaCMS admin + Next.js production build
 pnpm start            # Build and start production server
 pnpm export           # Export static site
 pnpm serve            # Serve exported static files
+```
+
+### Verification & Testing
+```bash
 pnpm check            # Run Biome linter and formatter checks
+pnpm typecheck        # Run TypeScript type checking (tsc --noEmit)
 pnpm fix              # Auto-fix linting and formatting issues
+pnpm fix:unsafe       # Auto-fix with unsafe transformations
 ```
 
 ### Important Notes
-- Always run `pnpm build` to verify changes compile successfully
+- **ALWAYS use `pnpm check` and `pnpm typecheck` to verify changes** - DO NOT use `pnpm build` for verification
+- `pnpm build` is slow (runs TinaCMS build + Next.js build) and should only be run when specifically needed
+- Use `pnpm check` for linting/formatting verification
+- Use `pnpm typecheck` for TypeScript type checking
+- Use `pnpm fix` to automatically fix linting and formatting issues
 - TinaCMS builds admin interface in `public/admin/` before Next.js build
 - Development server runs TinaCMS alongside Next.js on default ports
 - This project uses **pnpm** (not yarn or npm) for package management
