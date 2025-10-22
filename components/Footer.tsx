@@ -146,7 +146,7 @@ const Footer = () => {
                     {partners.map((partner) => (
                         <div
                             key={partner.nev}
-                            className="relative justify-center items-center h-full w-full"
+                            className="relative justify-center flex items-center h-full w-full"
                         >
                             {/** biome-ignore lint/performance/noImgElement: <because> */}
                             <img
