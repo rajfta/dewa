@@ -1,5 +1,4 @@
-import { Button, HStack, Text } from "@chakra-ui/react";
-import Image from "next/image";
+import { Button, HStack, Image, Text } from "@chakra-ui/react";
 import { useRouter } from "next/router";
 import type { FC } from "react";
 
@@ -26,34 +25,50 @@ const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
         router.push({ pathname, query }, asPath, { locale: newLocale });
     };
 
-    // Compact mode: show only the non-active language
     if (compact) {
-        const targetLocale = locale === "hu" ? "en" : "hu";
-        const flagSrc =
-            targetLocale === "hu" ? "/flags/hu.svg" : "/flags/us.svg";
-        const label = targetLocale === "hu" ? "HU" : "EN";
-
         return (
-            <Button
-                size={size}
-                variant="ghost"
-                onClick={() => changeLanguage(targetLocale)}
-                color={textColor}
-                px={2}
-                _hover={{
-                    bg: hoverBg,
-                }}
-                leftIcon={
+            <HStack spacing={1}>
+                <Button
+                    size={size}
+                    variant="ghost"
+                    onClick={() => changeLanguage("hu")}
+                    opacity={locale === "hu" ? 1 : 0.5}
+                    color={textColor}
+                    px={1.5}
+                    _hover={{
+                        opacity: 1,
+                        bg: hoverBg,
+                    }}
+                    aria-label="Switch to Hungarian"
+                >
                     <Image
-                        src={flagSrc}
-                        alt={`${label} flag`}
-                        width={16}
-                        height={16}
+                        src="/flags/hu.svg"
+                        alt="HU flag"
+                        width="24px"
+                        height="12px"
                     />
-                }
-            >
-                {label}
-            </Button>
+                </Button>
+                <Button
+                    size={size}
+                    variant="ghost"
+                    onClick={() => changeLanguage("en")}
+                    opacity={locale === "en" ? 1 : 0.5}
+                    color={textColor}
+                    px={1.5}
+                    _hover={{
+                        opacity: 1,
+                        bg: hoverBg,
+                    }}
+                    aria-label="Switch to English"
+                >
+                    <Image
+                        src="/flags/us.svg"
+                        alt="EN flag"
+                        width="20px"
+                        height="20px"
+                    />
+                </Button>
+            </HStack>
         );
     }
 
@@ -76,8 +91,8 @@ const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
                     <Image
                         src="/flags/hu.svg"
                         alt="HU flag"
-                        width={16}
-                        height={16}
+                        width="16px"
+                        height="16px"
                     />
                 }
             >
@@ -102,8 +117,8 @@ const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
                     <Image
                         src="/flags/us.svg"
                         alt="EN flag"
-                        width={16}
-                        height={16}
+                        width="16px"
+                        height="16px"
                     />
                 }
             >

@@ -13,7 +13,8 @@ const Contact: FC = () => {
         <BaseButton
             variant="primary"
             width="100%"
-            py={[3, 3, 3, 2]}
+            py={[3, 3, 3, 1.5]}
+            px={[4, 4, 4, 3]}
             fontSize="normal"
             borderRadius="md"
             mb={[12, 12, 12, 0]}

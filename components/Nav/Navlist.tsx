@@ -261,7 +261,7 @@ const NavItems: FC = () => {
 
     return (
         <Stack
-            spacing={[6, 6, 6, 8, 12]}
+            spacing={6}
             align={["flex-end", "flex-end", "flex-end", "baseline"]}
             direction={["column", "column", "column", "row"]}
             zIndex={12}
@@ -274,7 +274,7 @@ const NavItems: FC = () => {
                 {t("career")}
             </NavItem>
             <Contact />
-            <Flex gap={3} align="center">
+            <Flex gap={2} align="center">
                 <ChakraLink
                     href="https://linkedin.com/company/dewa-zrt/"
                     isExternal
@@ -282,7 +282,7 @@ const NavItems: FC = () => {
                     _hover={{ color: "primary.500" }}
                     transition="color 0.2s"
                 >
-                    <LinkedInIcon boxSize={5} />
+                    <LinkedInIcon boxSize={4} />
                 </ChakraLink>
                 <ChakraLink
                     href="https://www.facebook.com/share/1LQPQRgWv6/"
@@ -291,7 +291,7 @@ const NavItems: FC = () => {
                     _hover={{ color: "primary.500" }}
                     transition="color 0.2s"
                 >
-                    <FacebookIcon boxSize={5} />
+                    <FacebookIcon boxSize={4} />
                 </ChakraLink>
             </Flex>
             <LanguageSwitcher
