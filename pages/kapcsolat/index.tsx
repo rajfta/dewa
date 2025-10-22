@@ -330,7 +330,7 @@ const Contact: FC<ContactProps> = ({ contacts }) => {
             <ContactList contacts={selectedContacts} />
             <Flex gap={6} mt={12} align="center" justify="center">
                 <ChakraLink
-                    href="https://linkedin.com"
+                    href="https://linkedin.com/company/dewa-zrt/"
                     isExternal
                     color="black"
                     _hover={{ color: "primary.500" }}
@@ -339,7 +339,7 @@ const Contact: FC<ContactProps> = ({ contacts }) => {
                     <LinkedInIcon boxSize={8} />
                 </ChakraLink>
                 <ChakraLink
-                    href="https://facebook.com"
+                    href="https://www.facebook.com/share/1LQPQRgWv6/"
                     isExternal
                     color="black"
                     _hover={{ color: "primary.500" }}
