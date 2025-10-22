@@ -1,4 +1,5 @@
 import { Button, HStack, Text } from "@chakra-ui/react";
+import Image from "next/image";
 import { useRouter } from "next/router";
 import type { FC } from "react";
 
@@ -28,7 +29,8 @@ const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
     // Compact mode: show only the non-active language
     if (compact) {
         const targetLocale = locale === "hu" ? "en" : "hu";
-        const flag = targetLocale === "hu" ? "🇭🇺" : "🇬🇧";
+        const flagSrc =
+            targetLocale === "hu" ? "/flags/hu.svg" : "/flags/us.svg";
         const label = targetLocale === "hu" ? "HU" : "EN";
 
         return (
@@ -41,7 +43,14 @@ const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
                 _hover={{
                     bg: hoverBg,
                 }}
-                leftIcon={<Text fontSize="16px">{flag}</Text>}
+                leftIcon={
+                    <Image
+                        src={flagSrc}
+                        alt={`${label} flag`}
+                        width={16}
+                        height={16}
+                    />
+                }
             >
                 {label}
             </Button>
@@ -63,7 +72,14 @@ const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
                     opacity: 1,
                     bg: hoverBg,
                 }}
-                leftIcon={<Text fontSize="16px">🇭🇺</Text>}
+                leftIcon={
+                    <Image
+                        src="/flags/hu.svg"
+                        alt="HU flag"
+                        width={16}
+                        height={16}
+                    />
+                }
             >
                 HU
             </Button>
@@ -82,7 +98,14 @@ const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
                     opacity: 1,
                     bg: hoverBg,
                 }}
-                leftIcon={<Text fontSize="16px">🇬🇧</Text>}
+                leftIcon={
+                    <Image
+                        src="/flags/us.svg"
+                        alt="EN flag"
+                        width={16}
+                        height={16}
+                    />
+                }
             >
                 EN
             </Button>
