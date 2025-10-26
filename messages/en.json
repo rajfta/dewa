@@ -30,7 +30,9 @@
         "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörs Industrial Park)",
         "bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)",
         "privacyPolicy": "Privacy Policy",
-        "cookieNotice": "This site uses functional cookies to store language preferences."
+        "cookieNotice": "This site uses functional cookies to store language preferences.",
+        "developedBy": "Developed by",
+        "rajftaDigital": "rajfta digital"
     },
     "hero": {
         "title": "We paint the future",

@@ -30,7 +30,9 @@
         "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörsi Ipari Park)",
         "bekescsabaAddress": "5600 Békéscsaba Gyulai út (Lukoil-al szemben)",
         "privacyPolicy": "Adatvédelmi Nyilatkozat",
-        "cookieNotice": "Ez az oldal funkcionális cookie-kat használ a nyelvi beállítások tárolására."
+        "cookieNotice": "Ez az oldal funkcionális cookie-kat használ a nyelvi beállítások tárolására.",
+        "developedBy": "Fejlesztette",
+        "rajftaDigital": "rajfta digital"
     },
     "hero": {
         "title": "A jövőt mi festjük",

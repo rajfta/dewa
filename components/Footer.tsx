@@ -197,6 +197,54 @@ const Footer = () => {
                         {t("cookieNotice")}
                     </Text>
                 </Flex>
+
+                {/* Developer Credit */}
+                <Flex
+                    direction="column"
+                    align="center"
+                    gap={2}
+                    pl={[8, 8, 24, 32, 64]}
+                    pt={4}
+                    pb={4}
+                    borderTop="1px solid"
+                    borderColor="whiteAlpha.200"
+                    mt={4}
+                >
+                    <HStack spacing={3} align="center">
+                        <Text fontSize="xs" color="whiteAlpha.700">
+                            {t("developedBy")}
+                        </Text>
+                        <ChakraLink
+                            href="https://rajfta.dev"
+                            isExternal
+                            display="flex"
+                            alignItems="center"
+                            gap={2}
+                            _hover={{
+                                opacity: 0.9,
+                                transform: "translateY(-1px)",
+                            }}
+                            transition="all 0.2s"
+                        >
+                            {/** biome-ignore lint/performance/noImgElement: <because> */}
+                            <img
+                                src="/rd/RD.svg"
+                                alt="RD Logo"
+                                style={{
+                                    height: "24px",
+                                    width: "auto",
+                                }}
+                            />
+                            <Text
+                                fontSize="xs"
+                                color="whiteAlpha.800"
+                                fontWeight={500}
+                            >
+                                {t("rajftaDigital")}
+                            </Text>
+                        </ChakraLink>
+                    </HStack>
+                </Flex>
             </Flex>
         </Flex>
     );
