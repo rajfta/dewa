@@ -28,30 +28,30 @@ services-subtitle: >-
   advice, iteratively refined plans and flexible availability, guiding them
   through the investment process in a programmatic way.
 fenyezo-description: >-
-  The Paint Booth division deals with the exclusive distribution, maintenance
-  and installation of closed paint booths manufactured by the Italian BLOWTHERM
-  in Hungary. Our booths are available in many sizes and configurations -
-  automotive painting, bus painting, train painting, aircraft painting,
-  carpentry work painting, small parts painting and much more!
+  Our Paint Booth Division is the exclusive Hungarian distributor, installer,
+  and service provider of BLOWTHERM enclosed spray booths from Italy. Our booths
+  are available in a wide range of sizes and configurations, making them ideal
+  for automotive, bus, and train painting, as well as aircraft, woodworking
+  projects, small parts, and many other surface coating applications.
 szoras-desc: >-
-  The spraying technology division offers equipment for painting, gluing and
-  other technologies occurring in the industry. For this, we have representative
-  relationships with several globally significant companies - Sames, Wagner,
-  Sagola. Our distributed equipment includes air spray manual and automatic
-  guns, material supply tanks, pumps - for both solvent and powder painting!
+  The Spray Technology Division supplies equipment for industrial applications
+  that involve painting, gluing, or any other process requiring the atomization
+  of liquids. We work with several globally recognized manufacturers, including
+  Sames, Wagner, and Sagola, as their official representatives. Our product
+  range includes manual and automatic air-atomizing spray guns, material supply
+  tanks, and pumps — suitable for both solvent-based and powder coatings.
 tuzeles-desc: >-
-  The Heating Technology division deals with the exclusive distribution in
-  Hungary of heating and air handling equipment manufactured by the Italian
-  BLOWTHERM. Among our equipment, without being exhaustive, we find the
-  following - wall-mounted hot air blowers, gas and oil-fired equipment, hot
-  water boilers, steam boilers and steam generators.
+  The Combustion Technology Division is the exclusive Hungarian distributor of
+  BLOWTHERM heating and air-handling equipment from Italy. Our portfolio
+  includes, but is not limited to: wall-mounted hot air blowers, gas- and
+  oil-fired heaters, hot water boilers, steam boilers, and steam generators.
 felulet-desc: >-
-  The Industrial Surface Treatment and Painting Equipment division designs and
-  executes complete painting workshops and production lines of various sizes and
-  painting technologies, from licensing to equipment commissioning. Among our
-  installed systems are KTL and immersion type painting, the systems include
-  custom-designed material handling tracks, water dryers and baking ovens,
-  cooling zones, automatic powder coating robots and more!
+  Our Surface Treatment Division designs and installs complete paint shops and
+  coating lines of various sizes and technologies — handling everything from
+  permitting to commissioning. Installed systems include KTL and dip-coating
+  equipment, along with our in-house designed material handling conveyors,
+  drying and curing ovens, cooling zones, automatic powder coating robots, and
+  other accessories.
 serv-image: /uploads/dsc_1327_3000x2000.jpeg
 ---
 
