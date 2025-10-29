@@ -48,6 +48,8 @@ Péter, how do family values appear in the workplace, in the daily operations of
 
 *,,Dewa Zrt. is not only a family business in terms of ownership, but this mindset permeates our daily work as well. For us, it is natural to remain authentic in the office, and just as the company has shaped us, we have also shaped the corporate culture. Our colleagues are not merely co-workers, but members of a close, family-oriented community, where honest relationships and mutual support play a central role. Shared events have long been a part of our life, and we always invite employees’ family members, making these occasions truly friendly and intimate gatherings."*
 
+**![Our Budaörs headquarters' team and their families](/csoportkep.jpeg "Our Budaörs headquarters' team and their families")
+
 ## Passing the Torch – Vision for the Future
 
 Generational change is not easy – according to Patrick, it often feels like *,,a kind of struggle with the parents"*, requiring patience, mutual trust, and openness to hand over leadership. The younger generation brings new ideas and a fresh perspective, which may initially clash with established routines but can become a strength in the long run. Péter, however, now confidently embraces this momentum, because they both understand that the company’s established values and organizational culture provide a solid foundation for transition, while Péter can trust his son and the decisions he makes based on the knowledge gained over the years. Their shared goal is to carry forward existing values, create new ones, and move forward while preserving the heart and soul of the company: the family.
