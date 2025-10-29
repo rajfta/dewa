@@ -16,6 +16,8 @@ Dewa Zrt. started on September 30, 1990, when Péter Buczkó, József Ursz, and 
 
 The company began operations from two locations: Péter led the Budaörs site, while József managed Békéscsaba. They built on their previous professional experience but deliberately focused on a smaller, well-defined segment of HAFE’s broad portfolio. Their strategy relied on the market conditions at the time—strong demand and weak supply—and centered on two pillars: long-term, trust-based partnerships with Western European manufacturers and precise, flexible service to domestic clients. This value-driven approach not only made the launch successful but laid a solid foundation for Dewa’s ongoing growth.
 
+![The founders of Dewa Zrt.: Péter Buczkó, Ariela De Ambrosi, József Ursz and Géza Bradács](/alapitas.jpg "The founders of Dewa Zrt.: Péter Buczkó, Ariela De Ambrosi, József Ursz and Géza Bradács")
+
 ## Generational Collaboration – Patrick Joins
 
 As the company grew year by year, the families of the owners also expanded – several children who grew up alongside the business became increasingly familiar with the world of the enterprise. In the following, we follow the story of Péter Buczkó and his son, Patrick, and explore how Patrick gradually became an active participant in the life of the Budaörs site.
