@@ -45,3 +45,5 @@ Today, Dewa stands on solid foundations that allow the founders to gradually ste
 For the founders, this transition brings relief and reassurance: the company they built not only endures but evolves, guided by the same values of trust, professionalism, and collaboration. As they gradually pass the baton, they remain deeply committed to their craft and continue to support the design of painting systems – a field they both love.
 
 The future of Dewa lies in the hands of the next generation, who bring new energy and fresh perspectives while honoring the legacy of their predecessors. With its dual leadership model, strong family involvement, and unwavering focus on quality and trust, Dewa Zrt. is well-positioned to continue its dynamic growth for decades to come.
+
+![The current and future directors of Dewa Zrt.: Patrick Buczkó, Péter Buczkó, József Ursz and József Ursz Jr.](/alapitok%20es%20fiaik.jpg "The current and future directors of Dewa Zrt.: Patrick Buczkó, Péter Buczkó, József Ursz and József Ursz Jr.")
