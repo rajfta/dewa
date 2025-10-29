@@ -1,13 +1,23 @@
 ---
+szerviz-desc: >-
+  Szerviz részlegünk átfogó karbantartást, javításokat és műszaki támogatást
+  nyújt minden típusú ipari festőberendezéshez. Szakértő csapatunk biztosítja,
+  hogy rendszerei csúcsteljesítménnyel működjenek minimális üzemszünettel. Gyors
+  reagálású alkatrészellátással és tapasztalt szerviztechnikával támogatjuk
+  partnereink folyamatos termelését.
+hero-subtitle: >-
+  Valósítsa meg festőipari céljait a Dewánál! Magyarország piacvezetőjeként,
+  több mint 35 éves tapasztalattal kulcsrakész és személyre szabott megoldásokat
+  biztosítunk az ipar minden szegmense számára - a kisebb műhelyektől a nagy
+  kapacitású gyártósorokig.
 hero-image: /uploads/dsc_1420_3000x2000.jpeg
 about-title: 'Problémamegoldók, tanácsadók, szakemberek... Ezek vagyunk mi!'
-hero-subtitle: Valósítsa meg festőipari céljait a Dewánál! Magyarország piacvezetőjeként, kulcsrakész megoldásokat biztosítunk a csavarhúzótól a repülőgépfestésig.
 about-subtitle: >-
-  A Dewa Zrt. több, mint 30 éve kulcsrakész technológiai megoldásokkal látja el
-  a hazai festőipar összes szereplőjét: a legkisebb műhelytől a komplex
-  gyártósorokig. Országszerte több, mint 2500 berendezést telepítettünk -
-  partnereink számára állandó készenlétben lévő alkatrészellátást,
-  segítségnyújtást és szakmai tanácsadást biztosítunk.
+  A Dewa Zrt. több, mint 35 éve kulcsrakész és személyre szabott technológiai
+  megoldásokkal látja el a hazai festőipar szereplőit két központjából.
+  Országszerte több, mint 2500 berendezést telepítettünk - partnereink számára
+  pedig állandó készenlétben lévő alkatrészellátást, karbantartást és szakmai
+  tanácsadást biztosítunk.
 about-kep: /uploads/dsc_1570_3000x2000.jpeg
 services-title: >-
   Víziónk - Magyarország festőipari szereplőit világvezető technológiai
@@ -21,16 +31,16 @@ services-subtitle: >-
 fenyezo-description: >-
   A Fényezőfülke divízió az olasz BLOWTHERM gyártmányú zárt fényezőfülkék
   kizárólagos magyarországi forgalmazásával, karbantartásával és telepítésével
-  foglalkozik. Fülkéink számos méretben és kialakításban elérhetőek: autóipari
-  festés, buszfestés, vonatfestés, repülő festés, asztalos munkák fényezése,
-  kisalkatrész festés és sok egyéb!
+  foglalkozik. Fülkéink számos méretben és kialakításban elérhetők, így
+  ideálisak az autóipari, busz- és vonatfestéshez, repülőgépek, asztalosmunkák,
+  kisalkatrészek és sok egyéb felület festéséhez.
 szoras-desc: >-
-  A szórástechnika divízió az iparban előforduló festési, ragasztási, és egyéb
-  (a folyadékok elporlasztását igénylő) technológiákhoz kínál berendezéseket.
-  Ehhez több, világviszonlyatban jelentős céggel állunk képviselői kapcsolatban:
-  Sames, Wagner, Sagola. Forgalmazott berendezéseink között megtalálhatóak
-  levegőporlasztású kézi és automata pisztolyok, anyagellátó tartályok,
-  szivattyúk - oldószeres és porfestésre egyaránt!
+  A Szórástechnika divízió az iparban előforduló festési, ragasztási, és egyéb,
+  a folyadékok elporlasztását igénylő technológiákhoz kínál berendezéseket.
+  Ehhez több, világviszonlyatban jelentős céggel állunk képviselői kapcsolatban
+  (például Sames, Wagner, Sagola). Forgalmazott berendezéseink között
+  megtalálhatóak levegőporlasztású kézi és automata pisztolyok, anyagellátó
+  tartályok, szivattyúk - melyek alkalmasak oldószeres és porfestésre egyaránt!
 tuzeles-desc: >-
   A Tüzeléstechnika divízió az olasz BLOWTHERM gyártmányú fűtő és légkezelő
   berendezések kizárólagos magyarországi forgalmazásával foglalkozik.
@@ -38,18 +48,12 @@ tuzeles-desc: >-
   szerelhető hőlégfúvó berendezések, gáz és - olajfűtésű berendezések,
   melegvizes kazánok, gőzkazánok és gőzfejlesztők.
 felulet-desc: >-
-  Az Ipari felületkezelő és festőberendezések divízió különböző méretű és
-  festéstechnológiájú komplett festőműhelyeket, festősorokat tervez és kivitelez
-  az engedélyeztetéstől a berendezés beüzemeléséig. Telepített rendszereink
-  között található KTL és mártó típusú festés, a rendszerek része saját
-  tervezésű anyagmozgató pálya, vízleszárító és beégető kemence, hűtőzóna,
-  automata porfestő robotok és más egyéb!
-szerviz-desc: >-
-  Szerviz részlegünk átfogó karbantartást, javításokat és műszaki támogatást
-  nyújt minden típusú ipari festőberendezéshez. Szakértő csapatunk biztosítja,
-  hogy rendszerei csúcsteljesítménnyel működjenek minimális üzemszünettel.
-  Gyors reagálású alkatrészellátással és tapasztalt szerviztechnikával
-  támogatjuk partnereink folyamatos termelését.
+  Felületkezelés divíziónk különböző méretű és festéstechnológiájú komplett
+  festőműhelyeket, festősorokat tervez és telepít az engedélyeztetéstől a
+  berendezés beüzemeléséig. Telepített rendszereink között megtalálhatók a KTL-
+  és mártó típusú festőberendezések, melyekhez saját tervezésű anyagmozgató
+  pályák, vízleszárító és beégető kemencék, hűtőzónák, automata porfestő robotok
+  és egyéb kiegészítők is tartoznak.
 serv-image: /uploads/dsc_1327_3000x2000.jpeg
 ---
 
