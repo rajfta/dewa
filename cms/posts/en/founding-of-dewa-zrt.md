@@ -1,6 +1,6 @@
 ---
 title: 'Dewa Zrt.: Strong Foundations, Dynamic Growth'
-date: 2023-02-03T00:00:00.000Z
+date: 2025-08-21T00:00:00.000Z
 excerpt: >-
   Discover the story of DEWA Zrt. from its beginnings to the present day.
   Explore the operations of our Budaörs and Békéscsaba headquarters, and learn
