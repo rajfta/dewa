@@ -30,6 +30,8 @@ Patrick was invited to join the company by his father, who explained his motivat
 
 *,,At that time, I hadn’t consciously thought about who would become the next leader of the Budaörs site, but I liked the idea of keeping the business within the family. The goal was not to work together at all costs, but for Patrick to experience the business firsthand, so he could decide for himself how much he felt it was his own."*
 
+**![Patrick Buczkó and Péter Buczkó](/Buczko_Peter_es_Patrick.jpg "Patrick Buczkó and Péter Buczkó")
+
 ## Roles and Balance
 
 How should we imagine you both, as a family and as colleagues? What challenges have you faced over the years?
