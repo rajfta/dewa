@@ -22,11 +22,9 @@ When HAFE ceased operations after the political transition, the three saw an opp
 
 Initially operating from private homes and small premises, the founders carefully selected a narrower but stronger portfolio compared to their previous employer. They focused on paint booths and spray technology, later expanding into surface treatment and combustion technology. Their strategy was twofold: building long-term, exclusive partnerships with Western European manufacturers, while serving the Hungarian market with flexibility and precision. What seemed at the time a practical necessity became the core philosophy of Dewa: people, trust, and professional credibility are the real foundations of sustainable growth.
 
-![The employees of Dewa Zrt. in the early days](/regi%20csapat%202.jpg "The employees of Dewa Zrt. in the early days")
-
 ## The Growth Period
 
-The company’s very first major order came from their former employer, HAFE, for large powder coating equipment – a clear sign of recognition and trust in the new enterprise. This reference quickly established Dewa’s credibility and opened doors for further growth. The timing was also favorable: as international car service networks and workshops expanded into Hungary, the need for reliable local suppliers grew. Dewa filled this gap with paint booths and spray technology, soon becoming an exclusive distributor for several renowned manufacturers such as Blowtherm, Sames, and Reglo. Over time, they also built close collaborations with companies like Hjort, Tama, Filcar, Wagner, and GEMA.
+The company’s very first major order came from their former employer, HAFE, for large powder coating equipment – a clear sign of recognition and trust in the new enterprise. This reference quickly established Dewa’s credibility and opened doors for further growth. The timing was also favorable: as international car service networks and workshops expanded into Hungary, the need for reliable local suppliers grew. Dewa filled this gap with paint booths and spray technology, soon becoming an exclusive distributor for several renowned manufacturers such as Blowtherm, Sames, and Reglo. Over time, they also built close collaborations with companies like Hjort, Tama, Filcar, Wagner, and GEMA.![The employees of Dewa Zrt. in the early days](/regi%20csapat%202.jpg "The employees of Dewa Zrt. in the early days")
 
 As projects became larger and more complex, the company expanded its staff. Family members of the founders gradually joined the business, reinforcing the personal and cohesive nature of Dewa’s culture. With an experienced and growing team, the company expanded into building complete paint lines and workshops, adding further value to its portfolio.
 
@@ -37,6 +35,8 @@ By 2014, both main Hungarian sites – in Budaörs and Békéscsaba – had comp
 ## Two Leaders, One Vision
 
 For more than three decades, the two principal leaders, József Ursz and Péter Buczkó, have not only managed the company together but also preserved a friendship that predates the business itself. Their partnership is built on trust, respect, and open communication – values that have enabled them to overcome challenges without ever facing serious conflict. They complement each other naturally: Péter describes himself as more cautious and analytical, while József brings energy and optimism to every decision. Péter admits that József’s positive outlook often balances his own hesitations, motivating him to see opportunities instead of risks. József, in turn, highlights Péter’s careful thinking as essential for minimizing mistakes and ensuring sustainable growth. Their partnership, built on mutual learning and personal trust, remains one of the company’s strongest assets.
+
+![The directors of the Dewa Zrt. headquarters: Péter Buczkó and József Ursz](/Peter%20es%20Jozsi.jpg "The directors of the Dewa Zrt. headquarters: Péter Buczkó and József Ursz")
 
 ## Looking Ahead
 
