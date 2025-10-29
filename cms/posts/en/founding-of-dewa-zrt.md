@@ -22,6 +22,8 @@ When HAFE ceased operations after the political transition, the three saw an opp
 
 Initially operating from private homes and small premises, the founders carefully selected a narrower but stronger portfolio compared to their previous employer. They focused on paint booths and spray technology, later expanding into surface treatment and combustion technology. Their strategy was twofold: building long-term, exclusive partnerships with Western European manufacturers, while serving the Hungarian market with flexibility and precision. What seemed at the time a practical necessity became the core philosophy of Dewa: people, trust, and professional credibility are the real foundations of sustainable growth.
 
+![The employees of Dewa Zrt. in the early days](/regi%20csapat%202.jpg "The employees of Dewa Zrt. in the early days")
+
 ## The Growth Period
 
 The company’s very first major order came from their former employer, HAFE, for large powder coating equipment – a clear sign of recognition and trust in the new enterprise. This reference quickly established Dewa’s credibility and opened doors for further growth. The timing was also favorable: as international car service networks and workshops expanded into Hungary, the need for reliable local suppliers grew. Dewa filled this gap with paint booths and spray technology, soon becoming an exclusive distributor for several renowned manufacturers such as Blowtherm, Sames, and Reglo. Over time, they also built close collaborations with companies like Hjort, Tama, Filcar, Wagner, and GEMA.
