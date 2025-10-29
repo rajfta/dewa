@@ -6,7 +6,7 @@ excerpt: >-
   Explore the operations of our Budaörs and Békéscsaba headquarters, and learn
   how our leadership team works together to drive the company’s continued
   success.
-coverImage: /uploads/dsc_1545_3000x2000.jpeg
+coverImage: /alapitok%20es%20fiaik.jpg
 seo:
   title: The Founding of DEWA Zrt. | Company History
   description: >-
