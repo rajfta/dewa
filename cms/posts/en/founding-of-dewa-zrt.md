@@ -1,9 +1,11 @@
 ---
-title: The Founding of DEWA Zrt.
+title: 'Dewa Zrt.: Strong Foundations, Dynamic Growth'
 date: 2023-02-03T00:00:00.000Z
 excerpt: >-
-  The story of how DEWA Zrt. was established and became Hungary's leading
-  industrial painting equipment company.
+  Discover the story of DEWA Zrt. from its beginnings to the present day.
+  Explore the operations of our Budaörs and Békéscsaba headquarters, and learn
+  how our leadership team works together to drive the company’s continued
+  success.
 coverImage: /uploads/dsc_1545_3000x2000.jpeg
 seo:
   title: The Founding of DEWA Zrt. | Company History
