@@ -18,6 +18,8 @@ The story of Dewa Zrt. dates back to the early 1990s, when three colleagues – 
 
 When HAFE ceased operations after the political transition, the three saw an opportunity to create something of their own. Convinced of their knowledge and driven by the ambition to work for their own goals, they established Dewa Kft. on September 30, 1990. This modestly funded venture, later transformed into Dewa Zrt., marked the beginning of a journey built on trust, resilience, and shared vision.
 
+![The founders of Dewa Zrt.: Péter Buczkó, Ariela De Ambrosi, József Ursz and Géza Bradács](/alapitas.jpg "The founders of Dewa Zrt.: Péter Buczkó, Ariela De Ambrosi, József Ursz and Géza Bradács")
+
 Initially operating from private homes and small premises, the founders carefully selected a narrower but stronger portfolio compared to their previous employer. They focused on paint booths and spray technology, later expanding into surface treatment and combustion technology. Their strategy was twofold: building long-term, exclusive partnerships with Western European manufacturers, while serving the Hungarian market with flexibility and precision. What seemed at the time a practical necessity became the core philosophy of Dewa: people, trust, and professional credibility are the real foundations of sustainable growth.
 
 ## The Growth Period
