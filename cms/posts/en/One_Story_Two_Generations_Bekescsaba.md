@@ -7,5 +7,10 @@ excerpt: >-
   Békéscsaba headquarters operates and how the Ursz family is preparing for the
   generational handover!
 coverImage: /Urszek.jpg
+seo:
+  title: One Story, Two Generations – Békéscsaba Headquarters
+  description: >-
+    Explore how the Ursz family manages the Békéscsaba headquarters and prepares
+    for the generational handover at Dewa Zrt.
 ---
 

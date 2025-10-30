@@ -10,6 +10,12 @@ excerpt: >-
   headquarters even brighter. Read their story and discover how they are shaping
   the company’s next chapter together!
 coverImage: /Buczko_Peter_es_Patrick.jpg
+seo:
+  title: One Story, Two Generations – Budaörs Headquarters
+  description: >-
+    Discover how Péter Buczkó and his son Patrick work together at Dewa Zrt.'s
+    Budaörs headquarters, blending experience with fresh perspectives for a
+    brighter future.
 ---
 
 Dewa Zrt. started on September 30, 1990, when Péter Buczkó, József Ursz, and (later bought-out) Géza Bradács decided to leave their state-owned employer (HAFE – Gear and Painting Equipment Factory) and start a private business, with Péter’s wife, Ariela De Ambrosi, joining the venture.
