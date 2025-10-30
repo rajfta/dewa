@@ -1,8 +1,8 @@
 import { AspectRatio, Flex, Heading, Text } from "@chakra-ui/react";
 import { motion } from "framer-motion";
 import Image from "next/image";
-
 import Link from "next/link";
+import { useTranslations } from "next-intl";
 import { type FC, useState } from "react";
 import type { PostType } from "../types";
 
@@ -18,6 +18,7 @@ const Article: FC<ArticleProps> = ({
     onOpen,
 }) => {
     const [isHovered, setIsHovered] = useState(false);
+    const t = useTranslations("common");
 
     return (
         <Link
@@ -93,7 +94,7 @@ const Article: FC<ArticleProps> = ({
                         side="right"
                         w="full"
                     >
-                        Elolvasom
+                        {t("readArticle")}
                     </Button>
                 </Flex>
             </motion.article>
