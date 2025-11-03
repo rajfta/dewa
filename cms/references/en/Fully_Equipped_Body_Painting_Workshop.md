@@ -8,6 +8,15 @@ excerpt: >-
   design and realization of the entire paint workshop.
 date: 2021-09-02T00:00:00.000Z
 coverImage: /karosszeria.webp
+gallery:
+  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/1.jpg
+  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/2.jpg
+  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/3.jpg
+  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/4.jpg
+  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/5.jpg
+  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/6.jpg
+  - /A Fully Equipped Workshop with Premium Technology/7.jpg
+  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/8.jpg
 seo:
   title: Fully Equipped Body Painting Workshop
   description: >-
