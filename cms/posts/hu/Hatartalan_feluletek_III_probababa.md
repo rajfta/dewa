@@ -1,6 +1,6 @@
 ---
 title: Határtalan felületek III. - Egyedi ipari festési alkalmazások
-date: 2025-09-20T22:00:00.000Z
+date: 2025-11-03T00:00:00.000Z
 excerpt: >-
   Elsőre talán meglepő lehet, hogy egy ipari festéstechnológiával foglalkozó cég
   kapcsolódik a divat világához, ám korábbi írásainkból megtudhatta már, hogy
