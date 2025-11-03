@@ -5,12 +5,8 @@ excerpt: 'Cégünk és szolgáltatásaink rövid bemutatása. Ismerjen meg Minke
 coverImage: /uploads/robotkezt.png
 seo:
   title: Bemutatkozás | Dewa Zrt. | Ipari festőberendezések
-  description: >-
-    Kulcsrakész ipari festőberendezések személyes igényeire szabva, széles
-    termék skálán! Fényezőfülkék, festőpisztolyok, szűrők, gáz-és olajtüzelésű
-    berendezések.
+  description: A Dewa Zrt. festőipari cég tevékenységeinek rövid bemutatása
 ---
-
 
 Üdvözöljük a Dewa Zrt honlapján, ahol minden ipari festőberendezéssel kapcsolatos ügyintézésre talál megoldást!  Csapatunk elkötelezett amellett, hogy kiváló minőségű, hatékony és ügyfeleink egyéni igényeinek megfelelő megoldásokat kínáljunk.
 
@@ -18,10 +14,10 @@ seo:
 
 Foglalkozási területünk rendkívül kiterjedt, jelenleg 4 divízió között osztjuk meg a felmerülő feladatokat:
 
-* [**Festőfülke Divízió**](https://dewa-zeta.vercel.app/termekek/fenyezofulkek "Fényezőfülkék") - Blowtherm ipari fényező fülkék és előkészítő állások telepítése
-* [**Szórástechnika Divízió**](https://dewa-zeta.vercel.app/termekek/szorastechnika "Szórástechnika") - Sames-Kremlin, Sagola és Wagner szórópisztolyok, pumpák és festékkeverők forgalmazása
-* [**Felületkezelés Divízió**](https://dewa-zeta.vercel.app/termekek/feluletkezeles "Felületkezelés") - Saját tervezésű kézi és automata porfestő, KTL és nedves festő sorok telepítése
-* [**Tüzeléstechnika Divízió**](https://dewa-zeta.vercel.app/termekek/tuzelestechnika "Tüzeléstechnika") - Blowtherm ipari hőlégfúvók, gőzfejlesztők, gáz-és olajégők forgalmazása
+* **[Festőfülke Divízió](https://dewa-zeta.vercel.app/termekek/fenyezofulkek "Fényezőfülkék")** - Blowtherm ipari fényező fülkék és előkészítő állások telepítése
+* **[Szórástechnika Divízió](https://dewa-zeta.vercel.app/termekek/szorastechnika "Szórástechnika")** - Sames-Kremlin, Sagola és Wagner szórópisztolyok, pumpák és festékkeverők forgalmazása
+* **[Felületkezelés Divízió](https://dewa-zeta.vercel.app/termekek/feluletkezeles "Felületkezelés")** - Saját tervezésű kézi és automata porfestő, KTL és nedves festő sorok telepítése
+* **[Tüzeléstechnika Divízió](https://dewa-zeta.vercel.app/termekek/tuzelestechnika "Tüzeléstechnika")** - Blowtherm ipari hőlégfúvók, gőzfejlesztők, gáz-és olajégők forgalmazása
 
 Az iparágban szerzett több, mint 30 éves tapasztalattal gyakorlottan megértjük az ügyfeleink előtt álló egyedi kihívásokat. Éppen ezért minden ügyfelünkkel szorosan együttműködünk, hogy megoldásainkat az ő egyedi igényeikre szabjuk. Legyen szó kisvállalkozásról, amely a berendezéseinek korszerűsítését kívánja, vagy egy nagyvállalatról, amely a termelési folyamatok ésszerűsítését kívánja elérni, mi rendelkezünk a megfelelő szakértelemmel és technológiával a munka megfelelő elvégzéséhez.
 
