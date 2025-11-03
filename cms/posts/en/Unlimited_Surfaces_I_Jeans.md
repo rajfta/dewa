@@ -1,6 +1,6 @@
 ---
-title: Unlimited Surfaces I. - Unique Insudtrial Painting Applications
-date: '2025-03-04T00:00:00.000Z'
+title: Unlimited Surfaces I. - Unique Industrial Painting Applications
+date: 2025-03-04T00:00:00.000Z
 excerpt: >-
   What does Dewa Zrt. have to do with jeans manufacturing?
 
@@ -13,8 +13,6 @@ seo:
   title: Jeans Manufacturing I Dewa Zrt.
   description: Dewa Zrt.'s role in jeans manufacturing in Hungary
 ---
-
-
 
 Jeans production actually has a significant history in Hungary as well, with several renowned international brands taking part over the decades. Back in the Kádár era, the May 1st Clothing Factory — which in the 1970s was one of Europe’s largest apparel manufacturers — signed a cooperation agreement with the world-famous Levi Strauss company in 1977. As a result, original Levi’s jeans began rolling off the production lines in the Marcali plant in the summer of 1978.
 
