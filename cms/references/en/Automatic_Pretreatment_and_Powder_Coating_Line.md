@@ -25,6 +25,9 @@ During the design phase, the system was divided into several key components, eac
 
 * Pretreatment: The dip-type pretreatment system uses installed multi-metal technology, enabling surface preparation for aluminum, steel/iron, and galvanized sheet components. The loading/unloading station was ergonomically designed for operator comfort and minimal staffing requirements. The drying unit and pretreatment section ensure that all parts are completely dry and free of residual chemicals, fully ready for coating.
 * Material Handling: Material transfer is performed by an automatic Power & Free conveyor system with an integrated automatic transfer mechanism. Once the parts are loaded, they move through the entire process automatically — requiring no additional manual handling before being unloaded as finished products.
+
+<!---->
+
 * Coating: Before entering the coating area, the conveyor track divides, directing parts to one of two stations. This layout ensures that the different coating technologies can operate simultaneously without interfering with each other:
   * A [Wagner](https://www.wagner-group.com/en/industry/) automatic powder-coating robot equipped with a cyclone-type powder recovery system and an automatic powder feed unit. This station handles large-scale, continuous batch coating.
   * A custom-designed manual powder-coating booth for unique or smaller parts, featuring a cartridge-based exhaust system for efficient and economical operation.
