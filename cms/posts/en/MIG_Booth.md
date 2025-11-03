@@ -1,6 +1,6 @@
 ---
 title: 'Military Aircraft in DEWA’s Paint Booth: The “MIG Booth” Serving for 25 Years'
-date: 2025-08-12T00:00:00.000Z
+date: 2025-07-13T00:00:00.000Z
 excerpt: >-
   Painting military aircraft is far from an everyday task — it’s both a
   technological challenge and a matter of safety. Read on to discover how DEWA
