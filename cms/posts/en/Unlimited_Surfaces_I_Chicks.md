@@ -14,15 +14,15 @@ seo:
 
 In 2024, Dewa Zrt. received an extraordinary request: a hatchery in Mezőörs approached us seeking a way to make the post-hatching sexing process — the separation of male and female chicks — more precise and verifiable through a special color-marking system.
 
-The novelty of this task lay in the fact that we had never before developed a technological concept for use on live animals. This required a completely new approach and the consideration of factors very different from those in conventional industrial painting.
+The novelty of this task lays in the fact that we had never before developed a technological concept for use on live animals. This required a completely new approach and the consideration of factors very different from those in conventional industrial painting.
 
 ![](/csibe.jpg)
 
 During the design phase, we had to address several key questions:
 
-* Painting pressure: We needed to determine a pressure level that ensured stable marking while preventing any harm to the delicate animals.
-* Paint quantity and targeted application: We had to find a way to ensure the paint only touched the intended chick — without contaminating its surroundings or the other animals.
-* Safe paint materials: Selecting a biologically harmless, non-toxic paint was essential to make the process acceptable and reliable.
+* **Painting pressure:** We needed to determine a pressure level that ensured stable marking while preventing any harm to the delicate animals.
+* **Paint quantity and targeted application:** We had to find a way to ensure the paint only touched the intended chick — without contaminating its surroundings or the other animals.
+* **Safe paint materials:** Selecting a biologically harmless, non-toxic paint was essential to make the process acceptable and reliable.
 
 ![](/szerkezet.jpg)
 
