@@ -1,6 +1,6 @@
 ---
 title: 25 éve szolgál a „MIG fülke” - Katonai gépek a Dewa Zrt. festőfülkéjében
-date: 2025-08-11T22:00:00.000Z
+date: 2025-07-13T00:00:00.000Z
 excerpt: >-
   A katonai repülőgépek festése nem mindennapi feladat: egyszerre technológiai
   kihívás és biztonsági felelősség. Olvassa el a cikket, és ismerje meg, hogyan
