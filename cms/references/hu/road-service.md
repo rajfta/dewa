@@ -1,14 +1,10 @@
 ---
 title: Új telepítés Toyota&Lexus márkakereskedésben
 excerpt: >-
-  Nyáron sem lazítunk! Legújabb sikeres projektünk a debreceni Road Service Kft.
-  - TOYOTA és LEXUS márkakereskedésben valósult meg. Tervezéstől az átadásig
-  maximális együttműködés jellemezte a munkafolyamatokat. A kompromisszummentes
-  berendezéseket úgy terveztük, hogy kielégítse a környezetvédelmi előírásokat
-  is (aktívszenes oldószer leválasztó). Egyes gépészetek sajátossága, hogy
-  DUÁL-ÉGŐVEL lettek szerelve, melyek lehetővé teszik a tüzelőanyag váltását
-  (gáz, olaj) anélkül, hogy égőfejet cserélnénk.
-date: 2023/08/01
+  A Dewa Zrt. új festéstechnikai rendszert telepített a debreceni Toyota és
+  Lexus márkakereskedésbe, amely környezetbarát és rugalmas, kettős üzemanyaggal
+  működő megoldást kínál.
+date: 2023-08-01T00:00:00.000Z
 coverImage: /IMG_4110.jpg
 gallery:
   - /IMG_4105.jpg
@@ -25,3 +21,4 @@ seo:
 _template: reference_gallery
 ---
 
+Nyáron sem lazítunk! Legújabb sikeres projektünk a debreceni Road Service Kft. - TOYOTA és LEXUS márkakereskedésben valósult meg. Tervezéstől az átadásig maximális együttműködés jellemezte a munkafolyamatokat. A kompromisszummentes berendezéseket úgy terveztük, hogy kielégítse a környezetvédelmi előírásokat is (aktívszenes oldószer leválasztó). Egyes gépészetek sajátossága, hogy DUÁL-ÉGŐVEL lettek szerelve, melyek lehetővé teszik a tüzelőanyag váltását (gáz, olaj) anélkül, hogy égőfejet cserélnénk.
