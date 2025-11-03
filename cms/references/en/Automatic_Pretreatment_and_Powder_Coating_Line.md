@@ -34,3 +34,5 @@ During the design phase, the system was divided into several key components, eac
 * Control System: A custom-developed PLC control unit continuously provides data and system feedback to both the operator and the client — including carrier location tracking, production progress, individual frame monitoring, and real-time temperature readings.
 
 All processes can be monitored and adjusted via touchscreen interface, and a remote access system enables Dewa Zrt. to supervise and maintain the line efficiently, ensuring smooth and reliable long-term operation.
+
+The video showcasing the pretreatment and powder coating line can be viewed [here](https://www.youtube.com/watch?v=7yMr4K64bUo)!
