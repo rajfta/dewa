@@ -8,6 +8,7 @@ excerpt: >-
   solution for a hatchery.
 coverImage: /csibe.png
 seo:
-  title: 'Unlimited Surfaces '
+  title: Unlimited Surfaces II. I Painting Chicks
+  description: A special animal-friendly painting solution for a hatchery from Dewa Zrt
 ---
 
