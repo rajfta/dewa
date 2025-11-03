@@ -7,6 +7,9 @@ excerpt: >-
   in our previous articles, Dewa operates in far more areas than you’d imagine!
   Read on to learn how our company contributes to the fashion industry.
 coverImage: /probababa%20oltonyben.png
+seo:
+  title: Unlimited Surfaces II. I Mannequins
+  description: The connection between Dewa Zrt. and the fashion industry
 ---
 
 Mannequins — those silent, sometimes eerie sentinels of shop windows — are far more than simple clothing stands. Each one is the result of a meticulous manufacturing process, where painting plays a key role. The flawless surface, the shades, and the textures all ensure that the garments they display look their absolute best.
