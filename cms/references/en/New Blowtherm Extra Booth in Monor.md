@@ -5,6 +5,13 @@ excerpt: >-
   Engineering Depot in Monor, featuring an extended size, 16-ton load capacity,
   and advanced control system for efficient operation.
 date: 2023-03-27T22:00:00.000Z
+coverImage: /New Blowtherm Extra Booth in Monor/1.jpg
+gallery:
+  - /New%20Blowtherm%20Extra%20Booth%20in%20Monor/2.jpg
+  - /New%20Blowtherm%20Extra%20Booth%20in%20Monor/3.jpg
+  - /New%20Blowtherm%20Extra%20Booth%20in%20Monor/4.jpg
+  - /New%20Blowtherm%20Extra%20Booth%20in%20Monor/5.jpg
+  - /New%20Blowtherm%20Extra%20Booth%20in%20Monor/6.jpg
 seo:
   title: New Blowtherm Extra Booth in Monor
   description: New Blowtherm Extra Booth installation in Monor by Dewa Zrt.
