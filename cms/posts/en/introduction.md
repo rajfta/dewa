@@ -8,11 +8,8 @@ excerpt: >-
   Read on to learn more about our company and the full range of our activities!
 coverImage: /uploads/robotkezt.png
 seo:
-  title: Introduction | Dewa Zrt. | Industrial Painting Equipment
-  description: >-
-    Turnkey industrial painting equipment tailored to your personal needs, with
-    a wide product range! Paint booths, spray guns, filters, gas and oil-fired
-    equipment.
+  title: Introduction
+  description: A brief overview of Dewa Zrt.’s industrial painting activities
 ---
 
 Welcome to the Dewa Zrt. website, where you'll find solutions for all your industrial painting equipment needs! Our team is committed to providing high-quality, efficient solutions tailored to our clients' individual requirements.
