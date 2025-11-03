@@ -1,5 +1,5 @@
 ---
-title: Complete Body Shop Paint Workshop
+title: Fully Equipped Body Shop Paint Workshop
 excerpt: >-
   Full turnkey paint workshop installation with Blowtherm equipment and custom
   material handling systems.
