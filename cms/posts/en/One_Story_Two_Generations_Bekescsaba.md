@@ -28,9 +28,11 @@ Next, we will take a closer look at the Békéscsaba headquarters, exploring how
 
 József Ursz Jr. joined the daily operations of Dewa Zrt. 16 years ago, when his father invited him to work at the company: “Try it, see how you feel, but it’s not mandatory,” he was told. Until then, he had been a professional athlete, playing competitive football, so his interest in the company’s activities was limited. However, the business was not unfamiliar to him, as he had spent summers with the founding families since childhood and had seen firsthand its success. He recalls:
 
-“Sixteen years ago, I started as a helper assembling our equipment, which allowed me to learn the setup process firsthand. I learned service techniques and material preparation from Oszkár Kellner, our chief service technician at the time. Later, András Kovács, our logistics specialist, introduced me to logistics and financial tasks. I owe a lot to both professionally and personally.”
+> “Sixteen years ago, I started as a helper assembling our equipment, which allowed me to learn the setup process firsthand. I learned service techniques and material preparation from Oszkár Kellner, our chief service technician at the time. Later, András Kovács, our logistics specialist, introduced me to logistics and financial tasks. I owe a lot to both professionally and personally.”
 
 Initially, navigating the company’s diverse activities was challenging, but he quickly grasped the interconnections and operational logic. Over the years, he gained increasing insight and expertise. Today, he leads the warehouse and service teams, while also overseeing logistics and financial responsibilities.
+
+![József Ursz and József Ursz Jr.](/Urszek.jpg "József Ursz and József Ursz Jr.")
 
 ## Growth After Joining – The Emergence of a New Leader
 
