@@ -9,9 +9,9 @@ coverImage: /uploads/2.jpg
 gallery:
   - /uploads/img_2356.webp
   - /uploads/img_2369.webp
+  - /uploads/img_2360.webp
   - /uploads/img_2386.webp
   - /uploads/img_2400.webp
-  - /uploads/img_2360.webp
 seo:
   title: Új Blowtherm Extra fülke az M4 Autópálya Mérnökség részére
   description: >-
