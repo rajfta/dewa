@@ -1,6 +1,6 @@
 ---
 title: Unlimited Surfaces III. - Unique Industrial Painting Applications
-date: 2025-10-12T00:00:00.000Z
+date: 2025-11-03T00:00:00.000Z
 excerpt: >-
   At first, it might seem surprising that a company specializing in industrial
   coating technology has ties to the world of fashion — but as you may have read
