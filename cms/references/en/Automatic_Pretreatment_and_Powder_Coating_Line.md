@@ -12,7 +12,7 @@ coverImage: /Automata előkezelő és porfestő sor-Aquacomet/cover.webp
 seo:
   title: Automatic Pretreatment and Powder Coating Line
   description: >-
-    Automatic Pretreatment and Powder Coating Line installed for Aquacomet Kft.
+    Automatic pretreatment and powder coating line installed for Aquacomet Kft.
     by Dewa Zrt.
 _template: reference
 ---
