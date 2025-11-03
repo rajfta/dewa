@@ -9,6 +9,7 @@ excerpt: >-
 date: 2021-09-02T00:00:00.000Z
 coverImage: /karosszeria.webp
 seo:
+  title: Fully Equipped Body Painting Workshop
   description: >-
     Blowtherm spray booth, paint-mixing room, and preparation station installed
     at the Mészáros & Mészáros Fleet site in 2021 by Dewa Zrt.
