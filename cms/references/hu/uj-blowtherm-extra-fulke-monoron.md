@@ -1,16 +1,10 @@
 ---
 title: Új Blowtherm Extra fülke Monoron
 excerpt: >-
-  Sikeres projektzárással kezdődött a 2023-as év. A legújabb Autópálya
-  Mérnökségi Telepen képviseltettük magunkat egy minden igényt kielégítő
-  fényezőfülkével. A berendezés növelt belmagassággal, szélességgel és
-  hosszúsággal várja, hogy színesebbé tegye a mindennapokat. A nagy teherbírású
-  járófelület lehetővé teszi az akár 16 tonnás tehergépjárművek fényezését is. A
-  berendezés a legújabb vezérlésünkkel került átadásra, mely a kezelő személyzet
-  munkáját és a karbantartás ütemezését is megkönnyíti, elősegíti. A fülke a
-  robosztus kivitelezése ellenére sem igényel plusz tartószerkezetet, mivel
-  önhordó panelezésű.
-date: 2023/03/28
+  A Dewa Zrt. új Blowtherm Extra fényezőfülkét telepített a monori Autópálya
+  Mérnökségi Telepen, amely megnövelt méreteivel, 16 tonnás teherbírásával és
+  korszerű vezérlésével hatékony működést biztosít.
+date: 2023-03-28T00:00:00.000Z
 coverImage: /uploads/2.jpg
 gallery:
   - /uploads/img_2356.webp
@@ -26,3 +20,4 @@ seo:
 _template: reference_gallery
 ---
 
+Sikeres projektzárással kezdődött a 2023-as év. A legújabb Autópálya Mérnökségi Telepen képviseltettük magunkat egy minden igényt kielégítő fényezőfülkével. A berendezés növelt belmagassággal, szélességgel és hosszúsággal várja, hogy színesebbé tegye a mindennapokat. A nagy teherbírású járófelület lehetővé teszi az akár 16 tonnás tehergépjárművek fényezését is. A berendezés a legújabb vezérlésünkkel került átadásra, mely a kezelő személyzet munkáját és a karbantartás ütemezését is megkönnyíti, elősegíti. A fülke a robosztus kivitelezése ellenére sem igényel plusz tartószerkezetet, mivel önhordó panelezésű.
