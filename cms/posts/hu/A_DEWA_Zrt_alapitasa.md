@@ -1,6 +1,6 @@
 ---
 title: 'Dewa Zrt.: stabil alapok, dinamikus fejlődés'
-date: 2025-08-20T22:00:00.000Z
+date: 2025-08-14T00:00:00.000Z
 excerpt: >-
   Ismerje meg a DEWA Zrt. történetét a kezdetektől napjainkig, fedezze fel a
   budaörsi és békéscsabai központunk működését, és ismerje meg, hogyan dolgoznak
