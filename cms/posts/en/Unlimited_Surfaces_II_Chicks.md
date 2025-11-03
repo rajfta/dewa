@@ -1,6 +1,6 @@
 ---
 title: Unlimited Surfaces II. - Unique Industrial Painting Applications
-date: '2025-09-12T00:00:00.000Z'
+date: 2025-10-12T00:00:00.000Z
 excerpt: >-
   Painting chicks? We were surprised, too, when this unique challenge first
   landed on our desk. But we faced it head-on and succeeded. Read on to find out
@@ -11,7 +11,6 @@ seo:
   title: Unlimited Surfaces II. I Painting Chicks
   description: A special animal-friendly painting solution for a hatchery from Dewa Zrt
 ---
-
 
 In 2024, Dewa Zrt. received an extraordinary request: a hatchery in Mezőörs approached us seeking a way to make the post-hatching sexing process — the separation of male and female chicks — more precise and verifiable through a special color-marking system.
 
