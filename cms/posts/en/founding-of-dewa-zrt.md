@@ -10,8 +10,8 @@ coverImage: /alapitok%20es%20fiaik.jpg
 seo:
   title: The Founding of DEWA Zrt. | Company History
   description: >-
-    Learn about the founding story of DEWA Zrt. and our journey to becoming
-    Hungary's premier industrial painting equipment provider.
+    The history and current operations of Dewa Zrt., an industrial painting
+    company
 ---
 
 The story of Dewa Zrt. dates back to the early 1990s, when three colleagues – József Ursz, Péter Buczkó, and Géza Bradács – decided to transform their shared expertise and friendship into a business. Having worked together for years at the state-owned HAFE (Hajtóművek és Festőberendezések Gyára), they had already proven their skills and teamwork in international projects, including extended assignments in China. These experiences forged not only professional trust but also lifelong personal bonds.
