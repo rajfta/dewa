@@ -11,7 +11,7 @@ excerpt: >-
   the company’s next chapter together!
 coverImage: /Buczko_Peter_es_Patrick.jpg
 seo:
-  title: One Story, Two Generations – Budaörs Headquarters
+  title: 'One Story, Two Generations – Budaörs Headquarters'
   description: >-
     Discover how Péter Buczkó and his son Patrick work together at Dewa Zrt.'s
     Budaörs headquarters, blending experience with fresh perspectives for a
@@ -36,7 +36,7 @@ Patrick was invited to join the company by his father, who explained his motivat
 
 *,,At that time, I hadn’t consciously thought about who would become the next leader of the Budaörs site, but I liked the idea of keeping the business within the family. The goal was not to work together at all costs, but for Patrick to experience the business firsthand, so he could decide for himself how much he felt it was his own."*
 
-**![Patrick Buczkó and Péter Buczkó](/Buczko_Peter_es_Patrick.jpg "Patrick Buczkó and Péter Buczkó")
+![Patrick Buczkó and Péter Buczkó](/Buczko_Peter_es_Patrick.jpg "Patrick Buczkó and Péter Buczkó")
 
 ## Roles and Balance
 
@@ -44,7 +44,7 @@ How should we imagine you both, as a family and as colleagues? What challenges h
 
 *,,Working together as a family brings both joy and challenges" Péter began. ,,My wife Ariela leads the finance department, so three of us from the family are present at the Budaörs site. We consciously make an effort to separate family and work roles – at home we try not to talk about work, in the office we don’t sit next to each other or seek each other out first. Yet there is one tradition we maintain: we have lunch together every day."*
 
-Setting boundaries was only the first step – achieving a balanced dynamic in their collaboration came through a longer learning process. It was initially difficult for all of them to step out of the parent-child roles, but over time, the generational hierarchy softened. Today, decisions are made as a team: they discuss, weigh options, and decide together – a practice that extends beyond their family to the functioning of the entire company. Over the years, Péter entrusted more tasks and responsibilities to his son, and has become increasingly open to Patrick’s innovative approach: 
+Setting boundaries was only the first step – achieving a balanced dynamic in their collaboration came through a longer learning process. It was initially difficult for all of them to step out of the parent-child roles, but over time, the generational hierarchy softened. Today, decisions are made as a team: they discuss, weigh options, and decide together – a practice that extends beyond their family to the functioning of the entire company. Over the years, Péter entrusted more tasks and responsibilities to his son, and has become increasingly open to Patrick’s innovative approach:
 
 *,,He understands how I think, and then solves things in the way he believes is best"* he says more and more often. I then asked them to share what they have learned from each other, and what they most value in one another. Their answers quickly revealed that mutual respect is the foundation: the older generation particularly values Patrick’s exceptional talent in building relationships and the new energy he brings to the team, while Patrick appreciates the professional foundations and precision that his father exemplifies.
 
@@ -54,7 +54,7 @@ Péter, how do family values appear in the workplace, in the daily operations of
 
 *,,Dewa Zrt. is not only a family business in terms of ownership, but this mindset permeates our daily work as well. For us, it is natural to remain authentic in the office, and just as the company has shaped us, we have also shaped the corporate culture. Our colleagues are not merely co-workers, but members of a close, family-oriented community, where honest relationships and mutual support play a central role. Shared events have long been a part of our life, and we always invite employees’ family members, making these occasions truly friendly and intimate gatherings."*
 
-**![Our Budaörs headquarters' team and their families](/csoportkep.jpeg "Our Budaörs headquarters' team and their families")
+![Our Budaörs headquarters' team and their families](/csoportkep.jpeg "Our Budaörs headquarters' team and their families")
 
 ## Passing the Torch – Vision for the Future
 
