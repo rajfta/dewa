@@ -22,7 +22,9 @@ The Békéscsaba team started as a one-person operation, with József managing d
 
 Next, we will take a closer look at the Békéscsaba headquarters, exploring how younger József Ursz joined daily management and how he is preparing to carry forward his father’s professional and personal legacy.
 
-The Expansion of the Békéscsaba Team and the Involvement of József Ursz Jr.
+![The employees of Dewa Zrt. in the early days](/regi%20csapat%202.jpg "The employees of Dewa Zrt. in the early days")
+
+## The Expansion of the Békéscsaba Team and the Involvement of József Ursz Jr.
 
 József Ursz Jr. joined the daily operations of Dewa Zrt. 16 years ago, when his father invited him to work at the company: “Try it, see how you feel, but it’s not mandatory,” he was told. Until then, he had been a professional athlete, playing competitive football, so his interest in the company’s activities was limited. However, the business was not unfamiliar to him, as he had spent summers with the founding families since childhood and had seen firsthand its success. He recalls:
 
@@ -30,7 +32,7 @@ József Ursz Jr. joined the daily operations of Dewa Zrt. 16 years ago, when his
 
 Initially, navigating the company’s diverse activities was challenging, but he quickly grasped the interconnections and operational logic. Over the years, he gained increasing insight and expertise. Today, he leads the warehouse and service teams, while also overseeing logistics and financial responsibilities.
 
-Growth After Joining – The Emergence of a New Leader
+## Growth After Joining – The Emergence of a New Leader
 
 Joining a family business often comes with challenges, but in the Ursz family’s case, it happened naturally and smoothly. His father recalls:
 
@@ -38,7 +40,7 @@ Joining a family business often comes with challenges, but in the Ursz family’
 
 Reaching this point required significant professional growth and a shift in mindset. What was once just a job for József Jr. has now become a vision for the future: he recognizes that Dewa Zrt. offers not only opportunity but also long-term prospects – for himself, his children, and potentially even future generations.
 
-Family Roles and Values at the Headquarters – Looking Toward the Future
+## Family Roles and Values at the Headquarters – Looking Toward the Future
 
 As mentioned earlier, several members of the Ursz family are actively involved at the Békéscsaba headquarters: alongside younger József, his sister Judit and his wife Lejla contribute to the company’s operations. Judit handles legal matters as the company’s lawyer, while Lejla focuses on business development, leveraging her network and excellent communication skills.
 
