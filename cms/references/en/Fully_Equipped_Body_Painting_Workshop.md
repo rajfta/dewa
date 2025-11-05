@@ -2,10 +2,9 @@
 title: Fully Equipped Body Painting Workshop
 companyname: 'M1 Flotta '
 excerpt: >-
-  As part of this greenfield project, a completely new Škoda/Volkswagen service
-  center and dealership was established in Budaörs. The service department
-  covers every aspect of body repair, while Dewa Zrt. was responsible for the
-  design and realization of the entire paint workshop.
+  Efficiency and precision in every detail — Dewa Zrt. built a fully equipped
+  body painting workshop for the new Škoda and Volkswagen service center in
+  Budaörs, designed for seamless, optimized workflows.
 date: 2021-09-03T00:00:00.000Z
 coverImage: /karosszeria.webp
 gallery:
