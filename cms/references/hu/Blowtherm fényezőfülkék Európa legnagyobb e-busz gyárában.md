@@ -1,12 +1,9 @@
 ---
 title: 'Blowtherm fényezőfülkék Európa legnagyobb e-busz gyárában '
 excerpt: >-
-  2017-ben megépült Komáromban Európa legnagyobb e-busz gyára, amelyhez a Dewa
-  Zrt több ütemben telepített buszfestő fülkéket. A különböző munkafázisoknak
-  megfelelően épült légkondíciónálással és 3D-s festőállvánnyal ellátott fényező
-  - szárító fülke, kisalkatrész festő fülke, alvázfestő és 2021-ben telepítésre
-  került 2 db előkészítő állás is.
-date: 2022/11/22
+  A Dewa Zrt. innovatív Blowtherm fényezőfülkéi biztosítják a precíz festési
+  folyamatokat Európa legnagyobb e-busz gyárában, Komáromban.
+date: 2022-11-22T00:00:00.000Z
 coverImage: /uploads/dsc_1465_3000x2000.jpeg
 gallery:
   - /uploads/dsc_1435_3000x2000.jpeg
@@ -24,9 +21,9 @@ gallery:
 seo:
   title: 'Buszfestő Blowtherm fülkék a komáromi e-busz gyárban '
   description: >-
-    Elektromos buszgyárban telepített 6 darab fényező fülke, alvázvédő,
-    kisalkatrész festő és előkészítő állások 
+    Elektromos buszgyárban telepített 6 darab Blowtherm fényezőfülke, alvázvédő,
+    kisalkatrész festő és előkészítő állások a Dewa Zrt. által
 _template: reference_gallery
 ---
 
-
+2017-ben megépült Komáromban Európa legnagyobb e-busz gyára, amelyhez a Dewa Zrt több ütemben telepített buszfestő fülkéket. A különböző munkafázisoknak megfelelően épült légkondíciónálással és 3D-s festőállvánnyal ellátott fényező - szárító fülke, kisalkatrész festő fülke, alvázfestő és 2021-ben telepítésre került 2 db előkészítő állás is.
