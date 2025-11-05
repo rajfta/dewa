@@ -1,9 +1,9 @@
 ---
 title: New Blowtherm Extra Booth in Monor
 excerpt: >-
-  Dewa Zrt. installed a high-capacity Blowtherm Extra spray booth at the Highway
-  Engineering Depot in Monor, featuring an extended size, 16-ton load capacity,
-  and advanced control system for efficient operation.
+  A powerful start to 2023 — Dewa Zrt. installed a high-capacity Blowtherm Extra
+  spray booth in Monor, combining strength, precision, and intelligent control
+  for heavy-duty vehicle painting.
 date: 2023-03-27T22:00:00.000Z
 coverImage: /New Blowtherm Extra Booth in Monor/1.jpg
 gallery:
