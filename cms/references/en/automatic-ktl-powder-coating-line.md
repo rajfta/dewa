@@ -1,12 +1,12 @@
 ---
-title: 'Automatic KTL and Powder Coating Line'
+title: Automatic KTL and Powder Coating Line
 excerpt: >-
-  In 2020, our company installed a custom-designed combined KTL and powder coating
-  line in Debrecen. The workpieces move through the required painting process line
-  with the help of a fully automated system. The also custom-designed PLC control
-  is suitable for long-term storage and analysis of production/painting data, as
-  well as remote access.
-date: 2023/01/16
+  In 2020, our company installed a custom-designed combined KTL and powder
+  coating line in Debrecen. The workpieces move through the required painting
+  process line with the help of a fully automated system. The also
+  custom-designed PLC control is suitable for long-term storage and analysis of
+  production/painting data, as well as remote access.
+date: 2023-01-16T00:00:00.000Z
 coverImage: /uploads/dsc_1575.webp
 gallery:
   - /uploads/dsc_1493.webp
