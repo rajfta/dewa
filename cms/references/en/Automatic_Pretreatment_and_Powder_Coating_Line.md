@@ -20,7 +20,7 @@ _template: reference
 
 Our client has been at the forefront of the European pool technology industry for decades. Their products incorporate numerous technical innovations that ensure comfort and safety. With 30 years of manufacturing experience and 50,000 m² of production space, they export pools and enclosures to 24 countries.
 
-Such international recognition also comes with international expectations — expectations that the newly designed and installed automatic pretreatment and powder coating line had to meet. Dewa Zrt.’s task was to design and implement a system that would satisfy the challenges of multi-metal technology, deliver the high quality required by the client, and fully comply with Industry 4.0 requirements.
+Such international recognition also comes with international expectations — expectations that the newly designed and installed automatic pretreatment and powder coating line had to meet. Dewa Zrt.’s task was to design and implement a system that would satisfy the challenges of multi-metal technology, deliver the high quality required by the client, and fully comply with Industry 4.0 requirements
 
 ## System Overview and Operation
 
