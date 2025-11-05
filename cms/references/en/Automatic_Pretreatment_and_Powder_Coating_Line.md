@@ -8,8 +8,7 @@ excerpt: >-
   software, the system handles multiple metal alloys and supports continuous
   24/7 operation with remote monitoring and flexible programming.
 date: 2021-01-03T00:00:00.000Z
-coverImage: >-
-  /Automata%20el%C5%91kezel%C5%91%20%C3%A9s%20porfest%C5%91%20sor-Aquacomet/cover.jpg
+coverImage: ''
 seo:
   title: Automatic Pretreatment and Powder Coating Line
   description: >-
