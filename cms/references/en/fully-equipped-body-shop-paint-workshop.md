@@ -22,4 +22,4 @@ seo:
 _template: reference_gallery
 ---
 
-In 2021, our company built a fully equipped body painting workshop for the newly established Škoda and Volkswagen service center in Budaörs. The facility includes spray booths of various sizes, preparation stations with integrated lifts, and a central paint-mixing room to support efficient workflow. The technological area was designed to ensure optimized and seamless execution of all painting processes.
+In 2021, our company built a fully equipped body painting workshop for the newly established Škoda and Volkswagen service center in Budaörs. The facility includes **Blowtherm** spray booths of various sizes, preparation stations with integrated lifts, and a central paint-mixing room to support efficient workflow. The technological area was designed to ensure optimized and seamless execution of all painting processes.
