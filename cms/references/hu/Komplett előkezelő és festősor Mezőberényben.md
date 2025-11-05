@@ -3,7 +3,7 @@ title: Komplett előkezelő és festősor Mezőberényben
 excerpt: >-
   A Dewa Zrt. mezőberényi festősora az automatizálás, a precizitás és a
   hatékonyság ötvözete – a felületkezelés minden fázisában, az előkezeléstől a
-  hűtésig kiemelkedő minőséget biztosít
+  hűtésig kiemelkedő minőséget biztosít.
 date: 2022-11-22T00:00:00.000Z
 coverImage: /uploads/dsc_1611_3000x2000.jpeg
 gallery:
