@@ -6,7 +6,7 @@ excerpt: >-
   body painting workshop for the new Škoda and Volkswagen service center in
   Budaörs, designed for seamless, optimized workflows.
 date: 2021-09-03T00:00:00.000Z
-coverImage: /karosszeria.webp
+coverImage: /Hall_of_fame/karosszeria.jpg
 gallery:
   - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/1.jpg
   - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/2.jpg
