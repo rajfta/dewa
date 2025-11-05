@@ -22,4 +22,4 @@ seo:
 _template: reference_gallery
 ---
 
-In two phases — summer 2020 and winter 2021 — our company installed a total of three Blowtherm World Special spray booths at the Korda Film Studio in Etyek. These units support separate production workflows, serving various departments within the studio, including costume making, prop fabrication, and set construction.
+In two phases — summer 2020 and winter 2021 — our company installed a total of three **Blowtherm World Special** spray booths at the Korda Film Studio in Etyek. These units support separate production workflows, serving various departments within the studio, including costume making, prop fabrication, and set construction.
