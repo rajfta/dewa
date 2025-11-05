@@ -1,9 +1,9 @@
 ---
 title: Fényezőfülkéink a Korda Filmstúdióban
 excerpt: >-
-  A Dewa Zrt. három Blowtherm World Special fényezőfülkét telepített az etyeki
-  Korda Filmstúdióban, a jelmez-, kellék- és díszletkészítő részlegek munkájának
-  támogatására.
+  A filmgyártás kulisszái mögött – a Dewa Zrt. Blowtherm fényezőfülkéi a Korda
+  Filmstúdióban a jelmezek, kellékek és díszletek professzionális elkészítését
+  segítik.
 date: 2022-11-28T00:00:00.000Z
 coverImage: >-
   /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/cover.jpg
