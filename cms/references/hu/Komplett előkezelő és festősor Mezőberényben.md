@@ -1,14 +1,11 @@
 ---
 title: Komplett előkezelő és festősor Mezőberényben
 excerpt: >-
-  Cégünk egyik legújabb, teljesen saját tervezésű festősorát adta át
-  Mezőberényben. A munkadarabok előkezelése egy automata szóró alagúton
-  keresztül történik, majd a technológiai elvárás szerint a megfelelő fényező
-  fülkébe mozgatható tovább. A kombinált festő - szárító fülkék után a
-  munkadarab egy hűtőzónába mozgatható, ahonnan a kész termék levételre kerül.
-  Az előkészítési és fényezési folyamatokat többek között mobil porelszívók és
-  festék keverő helység támogatja. 
-date: 2022/11/22
+  A Dewa Zrt. teljesen felszerelt előkezelő és festősorát adta át Mezőberényben,
+  amely automata szóróalagúttal, kombinált festő-szárító fülkékkel, valamint
+  integrált porelszívó- és festékkeverő rendszerekkel biztosítja a hatékony,
+  magas minőségű működést.
+date: 2022-11-22T00:00:00.000Z
 coverImage: /uploads/dsc_1611_3000x2000.jpeg
 gallery:
   - /uploads/dsc_1657_3000x2000.jpeg
@@ -42,4 +39,4 @@ seo:
 _template: reference_gallery
 ---
 
-
+Cégünk egyik legújabb, teljesen saját tervezésű festősorát adta át Mezőberényben. A munkadarabok előkezelése egy automata szóró alagúton keresztül történik, majd a technológiai elvárás szerint a megfelelő fényező fülkébe mozgatható tovább. A kombinált festő - szárító fülkék után a munkadarab egy hűtőzónába mozgatható, ahonnan a kész termék levételre kerül. Az előkészítési és fényezési folyamatokat többek között mobil porelszívók és festék keverő helység támogatja. 
