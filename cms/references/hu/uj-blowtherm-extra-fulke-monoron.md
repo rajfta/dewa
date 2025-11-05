@@ -1,9 +1,9 @@
 ---
 title: Új Blowtherm Extra fülke Monoron
 excerpt: >-
-  A Dewa Zrt. új Blowtherm Extra fényezőfülkét telepített a monori Autópálya
-  Mérnökségi Telepen, amely megnövelt méreteivel, 16 tonnás teherbírásával és
-  korszerű vezérlésével hatékony működést biztosít.
+  Erős kezdés 2023-ban – a Dewa Zrt. nagy kapacitású Blowtherm Extra
+  fényezőfülkét telepített Monoron, amely a teherjármű-fényezésben egyesíti a
+  tartósságot, a precizitást és az intelligens vezérlést.
 date: 2023-03-28T00:00:00.000Z
 coverImage: /uploads/2.jpg
 gallery:
