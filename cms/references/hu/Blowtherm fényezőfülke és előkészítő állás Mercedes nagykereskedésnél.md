@@ -1,11 +1,10 @@
 ---
 title: Blowtherm fényezőfülke és előkészítő állás Mercedes nagykereskedésnél
 excerpt: >-
-  Magyarország egyik legnagyobb Mercedes kereskedője is az új Blowtherm Extra
-  fülke és előkészítő állás mellett döntött. Termékpalettánk legjobban
-  felszerelt berendezése többek között érintőképernyős PLC vezérléssél és
-  folyamatszabályzású direkt gázégővel felszerelt gépészettel rendelkezik.
-date: 2022/11/22
+  A csúcstechnológia és a precizitás találkozása – a Dewa Zrt. Blowtherm Extra
+  fülkéje új szintre emeli a fényezés minőségét Magyarország egyik legnagyobb
+  Mercedes kereskedésében
+date: 2022-11-22T00:00:00.000Z
 coverImage: /uploads/dsc_1329_3000x2000.jpeg
 gallery:
   - /uploads/dsc_1329_3000x2000.jpeg
@@ -24,4 +23,4 @@ seo:
 _template: reference_gallery
 ---
 
-
+Magyarország egyik legnagyobb Mercedes kereskedője is az új Blowtherm Extra fülke és előkészítő állás mellett döntött. Termékpalettánk legjobban felszerelt berendezése többek között érintőképernyős PLC vezérléssél és folyamatszabályzású direkt gázégővel felszerelt gépészettel rendelkezik.
