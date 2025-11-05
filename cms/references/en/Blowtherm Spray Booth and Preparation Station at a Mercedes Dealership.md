@@ -1,0 +1,18 @@
+---
+title: Blowtherm Spray Booth and Preparation Station at a Mercedes Dealership
+excerpt: >-
+  Cutting-edge technology meets elegance — Dewa Zrt.’s Blowtherm Extra booth
+  enhances the painting quality at one of Hungary’s largest Mercedes dealerships
+date: 2022-11-21T23:00:00.000Z
+coverImage: >-
+  /Blowtherm fényezőfülke és előkezelő állás a Mercedes
+  nagykereskedésnél/cover.jpg
+seo:
+  title: Blowtherm Spray Booth and Preparation Station at a Mercedes Dealership
+  description: >-
+    Blowtherm Spray Booth and Preparation Station at a Mercedes Dealership by
+    Dewa Zrt.
+_template: reference_gallery
+---
+
+One of the largest Mercedes dealerships in Hungary has also chosen to install a new **Blowtherm Extra** spray booth and preparation station. This top-of-the-line equipment from our product range features a touchscreen PLC control system and process-controlled direct gas burner technology, ensuring maximum efficiency, precision, and ease of operation.
