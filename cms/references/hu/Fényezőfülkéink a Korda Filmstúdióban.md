@@ -7,6 +7,17 @@ excerpt: >-
 date: 2022-11-28T00:00:00.000Z
 coverImage: >-
   /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/cover.jpg
+gallery:
+  - >-
+    /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/1.jpg
+  - >-
+    /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/2.jpg
+  - >-
+    /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/3.jpg
+  - >-
+    /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/4.jpg
+  - >-
+    /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/5.jpg
 seo:
   title: 'Blowtherm World Special festőfülkék a Korda Filmstúdióban. '
   description: >-
