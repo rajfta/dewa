@@ -5,19 +5,13 @@ excerpt: >-
   Film Studio support the creation of costumes, props, and sets with
   professional precision.
 date: 2023-11-27T23:00:00.000Z
-coverImage: >-
-  /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/cover.jpg
+coverImage: /Korda_filmstudio/cover.jpg
 gallery:
-  - >-
-    /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/1.jpg
-  - >-
-    /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/2.jpg
-  - >-
-    /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/3.jpg
-  - >-
-    /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/4.jpg
-  - >-
-    /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/5.jpg
+  - /Korda_filmstudio/1.jpg
+  - /Korda_filmstudio/2.jpg
+  - /Korda_filmstudio/3.jpg
+  - /Korda_filmstudio/4.jpg
+  - /Korda_filmstudio/5.jpg
 seo:
   title: Our Spray Booths at Korda Film Studio
   description: Blowtherm Spray Booths installed at Korda Film Studio by Dewa Zrt.
