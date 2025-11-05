@@ -8,7 +8,7 @@ excerpt: >-
   software, the system handles multiple metal alloys and supports continuous
   24/7 operation with remote monitoring and flexible programming.
 date: 2021-01-03T00:00:00.000Z
-coverImage: ''
+coverImage: /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/1.jpg
 seo:
   title: Automatic Pretreatment and Powder Coating Line
   description: >-
