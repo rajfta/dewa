@@ -7,14 +7,8 @@ excerpt: >-
   iroda különböző egységeinek: jelmez készítés, kellék készítés és díszlet
   készítés.
 date: 2022-11-28T00:00:00.000Z
-coverImage: /DSC_1384.jpg
-gallery:
-  - /DSC_1401.jpg
-  - /DSC_1369.jpg
-  - /DSC_1385.jpg
-  - /DSC_1377.jpg
-  - /DSC_1387.jpg
-  - /DSC_1390.jpg
+coverImage: >-
+  /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/cover.jpg
 seo:
   title: 'Blowtherm World Special festőfülkék a Korda Filmstúdióban. '
   description: >-
