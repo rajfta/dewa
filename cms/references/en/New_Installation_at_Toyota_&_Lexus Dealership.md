@@ -17,4 +17,6 @@ seo:
 _template: reference_gallery
 ---
 
-We don’t slow down even in summer! Our latest successful project was completed at Road Service Kft., the Toyota and Lexus dealership in Debrecen. From planning to handover, the entire process was marked by seamless collaboration. The state-of-the-art equipment was designed to meet strict environmental regulations (including an activated carbon solvent separator). A distinctive feature of the system is the dual-burner design, which allows switching between gas and oil fuel without replacing the burner head.
+We don’t slow down even in summer!
+
+Our latest successful project was completed at Road Service Kft., the Toyota and Lexus dealership in Debrecen. From planning to handover, the entire process was marked by seamless collaboration. The state-of-the-art equipment was designed to meet strict environmental regulations (including an activated carbon solvent separator). A distinctive feature of the system is the dual-burner design, which allows switching between gas and oil fuel without replacing the burner head.
