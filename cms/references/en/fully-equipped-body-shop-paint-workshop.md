@@ -18,7 +18,7 @@ seo:
   title: Complete Paint Workshop
   description: >-
     Turnkey paint workshop solution with state-of-the-art Blowtherm equipment
-    and automated systems.
+    and automated systems by Dewa Zrt.
 _template: reference_gallery
 ---
 
