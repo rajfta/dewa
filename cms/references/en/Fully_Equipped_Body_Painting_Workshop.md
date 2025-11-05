@@ -6,7 +6,7 @@ excerpt: >-
   center and dealership was established in Budaörs. The service department
   covers every aspect of body repair, while Dewa Zrt. was responsible for the
   design and realization of the entire paint workshop.
-date: 2021-09-02T00:00:00.000Z
+date: 2021-09-03T00:00:00.000Z
 coverImage: /karosszeria.webp
 gallery:
   - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/1.jpg
