@@ -7,6 +7,51 @@ excerpt: >-
   production.
 date: 2022-11-21T23:00:00.000Z
 coverImage: /Komplett előkezelő és festősor Mezőberényben/cover.jpg
+gallery:
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/1.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/2.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/3.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/4.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/5.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/6.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/7.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/8.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/9.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/10.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/11.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/12.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/13.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/14.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/15.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/16.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/17.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/18.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/19.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/20.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/21.jpg
+  - >-
+    /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/22.jpg
 seo:
   title: Fully-equipped Pretreatment and Painting Line in Mezőberény
   description: Fully-equipped Pretreatment and Painting Line in Mezőberény by Dewa Zrt.
