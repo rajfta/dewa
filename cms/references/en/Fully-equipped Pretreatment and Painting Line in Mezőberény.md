@@ -1,5 +1,5 @@
 ---
-title: Fully-equipped Pretreatment and Painting Line in Mezőberény
+title: Fully-Equipped Pretreatment and Painting Line in Mezőberény
 excerpt: >-
   We installed a fully equipped pretreatment and painting line in Mezőberény,
   featuring an automatic spray tunnel, combined paint-drying booths, and
@@ -53,8 +53,8 @@ gallery:
   - >-
     /Komplett%20el%C5%91kezel%C5%91%20%C3%A9s%20fest%C5%91sor%20Mez%C5%91ber%C3%A9nyben/22.jpg
 seo:
-  title: Fully-equipped Pretreatment and Painting Line in Mezőberény
-  description: Fully-equipped Pretreatment and Painting Line in Mezőberény by Dewa Zrt.
+  title: Fully-Equipped Pretreatment and Painting Line in Mezőberény
+  description: Fully-Equipped Pretreatment and Painting Line in Mezőberény by Dewa Zrt.
 _template: reference_gallery
 ---
 
