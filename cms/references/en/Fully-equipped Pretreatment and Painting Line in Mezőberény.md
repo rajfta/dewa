@@ -1,10 +1,9 @@
 ---
 title: Fully Equipped Pretreatment and Painting Line in Mezőberény
 excerpt: >-
-  We installed a fully equipped pretreatment and painting line in Mezőberény,
-  featuring an automatic spray tunnel, combined paint-drying booths, and
-  integrated dust extraction and mixing systems for efficient, high-quality
-  production.
+  Dewa Zrt.’s advanced coating line in Mezőberény integrates automation,
+  precision, and efficiency — delivering high-quality surface treatment from
+  pretreatment to final cooling.
 date: 2022-11-21T23:00:00.000Z
 coverImage: /Komplett előkezelő és festősor Mezőberényben/cover.jpg
 gallery:
