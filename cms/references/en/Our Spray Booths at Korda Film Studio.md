@@ -4,7 +4,8 @@ excerpt: >-
   Dewa Zrt. installed three Blowtherm World Special spray booths at Korda Film
   Studio in Etyek, supporting costume, prop, and set production.
 date: 2023-11-27T23:00:00.000Z
-coverImage: /Fényezőfülkéink a Korda Filmstúdióban/cover.jpg
+coverImage: >-
+  /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/cover.jpg
 gallery:
   - >-
     /F%C3%A9nyez%C5%91f%C3%BClk%C3%A9ink%20a%20Korda%20Filmst%C3%BAdi%C3%B3ban/1.jpg
