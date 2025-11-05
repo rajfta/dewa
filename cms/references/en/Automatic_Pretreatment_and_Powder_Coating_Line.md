@@ -31,7 +31,7 @@ During the design phase, the system was divided into several key components, eac
 **The automated dip-type pretreatment and Power & Free powder coating line includes the following components:**
 
 * **Pretreatment:** The dip-type pretreatment system uses installed multi-metal technology, enabling surface preparation for aluminum, steel/iron, and galvanized sheet components. The loading/unloading station was ergonomically designed for operator comfort and minimal staffing requirements. The drying unit and pretreatment section ensure that all parts are completely dry and free of residual chemicals, fully ready for coating.
-* **Material Handling:** Material transfer is performed by an automatic Power & Free conveyor system with an integrated automatic transfer mechanism. Once the parts are loaded, they move through the entire process automatically — requiring no additional manual handling before being unloaded as finished products.
+* **Material handling:** Material transfer is performed by an automatic Power & Free conveyor system with an integrated automatic transfer mechanism. Once the parts are loaded, they move through the entire process automatically — requiring no additional manual handling before being unloaded as finished products.
 
 ![](</Automata előkezelő és porfestő sor-Aquacomet/1.jpg>)
 
@@ -43,11 +43,11 @@ During the design phase, the system was divided into several key components, eac
 
 * **Curing:** The curing oven allows precise temperature adjustment between 160–220°C, depending on the coating material and process requirements. Key design priorities included efficient heat distribution, fast heating, and energy-saving operation — achieved through high-quality mineral wool insulation, stable heat retention, and rapid pneumatic door mechanisms.
 * **Cooling:** After curing, a custom-designed cooling zone brings the parts back to a safe handling temperature, allowing operators to immediately remove finished products from the line.
-* **Wastewater Treatment:** Wastewater is treated continuously at a rate of 500 liters per hour. The process is fully automated — only the filter press requires manual supervision. The system includes: a treatment reactor, inclined-plate clarifier, buffer tanks, gravel filter, filter press, chemical dosing unit, and automatic control system.
+* **Wastewater treatment:** Wastewater is treated continuously at a rate of 500 liters per hour. The process is fully automated — only the filter press requires manual supervision. The system includes: a treatment reactor, inclined-plate clarifier, buffer tanks, gravel filter, filter press, chemical dosing unit, and automatic control system.
 
 ![](/Automata%20el%C5%91kezel%C5%91%20%C3%A9s%20porfest%C5%91%20sor-Aquacomet/3.jpg)
 
-* **Control System:** A custom-developed PLC control unit continuously provides data and system feedback to both the operator and the client — including carrier location tracking, production progress, individual frame monitoring, and real-time temperature readings.
+* **Control system:** A custom-developed PLC control unit continuously provides data and system feedback to both the operator and the client — including carrier location tracking, production progress, individual frame monitoring, and real-time temperature readings.
 
 All processes can be monitored and adjusted via touchscreen interface, and a remote access system enables Dewa Zrt. to supervise and maintain the line efficiently, ensuring smooth and reliable long-term operation.
 
