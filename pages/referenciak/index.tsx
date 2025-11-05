@@ -23,7 +23,9 @@ const References: FC<PostProps> = ({ references }) => {
     const hallOfFames = useMemo(
         () =>
             references.filter(
-                (reference) => reference._template === "referencia",
+                (reference) =>
+                    reference._template === "referencia" ||
+                    reference._template === "reference",
             ),
         [references],
     );
@@ -88,7 +90,7 @@ export const getStaticProps: GetStaticProps = async ({ locale = "hu" }) => {
             "content",
             "gallery",
             "date",
-            "companyName",
+            "companyname",
             "seo",
             "slug",
             "_template",

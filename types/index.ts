@@ -54,7 +54,7 @@ export type PostType = {
     date: string;
     coverImage: string;
     gallery?: string[];
-    companyName?: string;
+    companyname?: string;
     excerpt: string;
     content: string;
     seo: SeoType;

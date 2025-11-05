@@ -1,6 +1,5 @@
 ---
 type: hall-of-fame
-companyName: Sterbinskiyyy
 kivonat: >-
   Kivonat ami megjelenik atadom **Lorem Ipsum** is simply dummy text of the
   printing and typesetting industry. Lorem Ipsum has been the industry's

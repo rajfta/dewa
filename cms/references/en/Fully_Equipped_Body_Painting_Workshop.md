@@ -21,7 +21,7 @@ seo:
   description: >-
     Blowtherm spray booth, paint-mixing room, and preparation station installed
     at the Mészáros & Mészáros Fleet site in 2021 by Dewa Zrt.
-_template: reference
+_template: referencia
 ---
 
 In 2021, our company built a fully equipped body painting workshop for the newly constructed Škoda and Volkswagen dealership and service center in Budaörs. The facility includes multiple spray booths of various sizes, preparation stations with integrated lifts, and a central paint-mixing room to support efficient workflow. The entire workspace was designed to ensure optimized and seamless painting processes.

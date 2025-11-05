@@ -2,7 +2,6 @@
 type: hall-of-fame
 date: 2021/01/12
 title: Automata előkezelő és porfestő sor
-companyName: Vector
 kivonat: >-
   Kivonat ami megjelenik atadom **Lorem Ipsum** is simply dummy text of the
   printing and typesetting industry. Lorem Ipsum has been the industry's

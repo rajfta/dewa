@@ -243,7 +243,7 @@ export default defineConfig({
                             ...reference_hall_of_fameFields(),
                         ],
                         label: "reference",
-                        name: "reference",
+                        name: "referencia",
                     },
                 ],
             },

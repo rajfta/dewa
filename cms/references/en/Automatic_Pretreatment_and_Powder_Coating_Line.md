@@ -15,7 +15,7 @@ seo:
   description: >-
     Automatic pretreatment and powder coating line installed for Aquacomet Kft.
     by Dewa Zrt.
-_template: reference
+_template: referencia
 ---
 
 Our client has been at the forefront of the European pool technology industry for decades. Their products incorporate numerous technical innovations that ensure comfort and safety. With 30 years of manufacturing experience and 50,000 m² of production space, they export pools and enclosures to 24 countries.
