@@ -5,13 +5,13 @@ excerpt: >-
   spray booth in Monor, combining strength, precision, and intelligent control
   for heavy-duty vehicle painting.
 date: 2023-03-27T22:00:00.000Z
-coverImage: /New Blowtherm Extra Booth in Monor/1.jpg
+coverImage: /Monor/1.jpg
 gallery:
-  - /New%20Blowtherm%20Extra%20Booth%20in%20Monor/2.jpg
-  - /New%20Blowtherm%20Extra%20Booth%20in%20Monor/3.jpg
-  - /New%20Blowtherm%20Extra%20Booth%20in%20Monor/4.jpg
-  - /New%20Blowtherm%20Extra%20Booth%20in%20Monor/5.jpg
-  - /New%20Blowtherm%20Extra%20Booth%20in%20Monor/6.jpg
+  - /Monor/2.jpg
+  - /Monor/3.jpg
+  - /Monor/4.jpg
+  - /Monor/5.jpg
+  - /Monor/6.jpg
 seo:
   title: New Blowtherm Extra Booth in Monor
   description: New Blowtherm Extra Booth installation in Monor by Dewa Zrt.
