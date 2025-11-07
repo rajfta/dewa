@@ -5,12 +5,12 @@ excerpt: >-
   Debrecen, delivering an environmentally compliant, dual-fuel system designed
   for flexibility and efficiency.
 date: 2023-08-01T00:00:00.000Z
-coverImage: /New Installation at Toyota & Lexus Dealership/cover.jpg
+coverImage: /Toyota&Lexus/IMG_4110.jpg
 gallery:
-  - /New%20Installation%20at%20Toyota%20&%20Lexus%20Dealership/1.jpg
-  - /New%20Installation%20at%20Toyota%20&%20Lexus%20Dealership/2.jpg
-  - /New%20Installation%20at%20Toyota%20&%20Lexus%20Dealership/3.jpg
-  - /New%20Installation%20at%20Toyota%20&%20Lexus%20Dealership/4.jpg
+  - /Toyota&Lexus/IMG_4105.jpg
+  - /Toyota&Lexus/IMG_4124.jpg
+  - /Toyota&Lexus/IMG_4132.jpg
+  - /Toyota&Lexus/IMG_4118.jpg
 seo:
   title: New Installation at Toyota & Lexus Dealership
   description: New Blowtherm Installation at Toyota & Lexus Dealership by Dewa Zrt.
