@@ -34,15 +34,9 @@ During the design phase, the system was divided into several key components, eac
 * **Coating:** Before entering the coating area, the conveyor track divides, directing parts to one of two stations. This layout ensures that the different coating technologies can operate simultaneously without interfering with each other:
   * A [Wagner](https://www.wagner-group.com/en/industry/) automatic powder-coating robot equipped with a cyclone-type powder recovery system and an automatic powder feed unit. This station handles large-scale, continuous batch coating.
   * A custom-designed manual powder-coating booth for unique or smaller parts, featuring a cartridge-based exhaust system for efficient and economical operation.
-
-![](/Automata%20el%C5%91kezel%C5%91%20%C3%A9s%20porfest%C5%91%20sor-Aquacomet/2.jpg)
-
 * **Curing:** The curing oven allows precise temperature adjustment between 160–220°C, depending on the coating material and process requirements. Key design priorities included efficient heat distribution, fast heating, and energy-saving operation — achieved through high-quality mineral wool insulation, stable heat retention, and rapid pneumatic door mechanisms.
 * **Cooling:** After curing, a custom-designed cooling zone brings the parts back to a safe handling temperature, allowing operators to immediately remove finished products from the line.
 * **Wastewater treatment:** Wastewater is treated continuously at a rate of 500 liters per hour. The process is fully automated — only the filter press requires manual supervision. The system includes: a treatment reactor, inclined-plate clarifier, buffer tanks, gravel filter, filter press, chemical dosing unit, and automatic control system.
-
-![](/Automata%20el%C5%91kezel%C5%91%20%C3%A9s%20porfest%C5%91%20sor-Aquacomet/3.jpg)
-
 * **Control system:** A custom-developed PLC control unit continuously provides data and system feedback to both the operator and the client — including carrier location tracking, production progress, individual frame monitoring, and real-time temperature readings.
 
 All processes can be monitored and adjusted via touchscreen interface, and a remote access system enables Dewa Zrt. to supervise and maintain the line efficiently, ensuring smooth and reliable long-term operation.
