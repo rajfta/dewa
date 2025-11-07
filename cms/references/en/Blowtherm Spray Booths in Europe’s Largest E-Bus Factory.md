@@ -4,30 +4,19 @@ excerpt: >-
   Innovative Blowtherm spray booths support high-precision painting processes at
   Europe’s largest electric bus factory in Komárom
 date: 2022-11-21T23:00:00.000Z
-coverImage: /Blowtherm fényezőfülkék Európa legnagyobb e-busz gyárában/cover.jpg
+coverImage: /BYD/cover.jpg
 gallery:
-  - >-
-    /Blowtherm%20f%C3%A9nyez%C5%91f%C3%BClk%C3%A9k%20Eur%C3%B3pa%20legnagyobb%20e-busz%20gy%C3%A1r%C3%A1ban/1.jpg
-  - >-
-    /Blowtherm%20f%C3%A9nyez%C5%91f%C3%BClk%C3%A9k%20Eur%C3%B3pa%20legnagyobb%20e-busz%20gy%C3%A1r%C3%A1ban/2.jpg
-  - >-
-    /Blowtherm%20f%C3%A9nyez%C5%91f%C3%BClk%C3%A9k%20Eur%C3%B3pa%20legnagyobb%20e-busz%20gy%C3%A1r%C3%A1ban/3.jpg
-  - >-
-    /Blowtherm%20f%C3%A9nyez%C5%91f%C3%BClk%C3%A9k%20Eur%C3%B3pa%20legnagyobb%20e-busz%20gy%C3%A1r%C3%A1ban/4.jpg
-  - >-
-    /Blowtherm%20f%C3%A9nyez%C5%91f%C3%BClk%C3%A9k%20Eur%C3%B3pa%20legnagyobb%20e-busz%20gy%C3%A1r%C3%A1ban/5.jpg
-  - >-
-    /Blowtherm%20f%C3%A9nyez%C5%91f%C3%BClk%C3%A9k%20Eur%C3%B3pa%20legnagyobb%20e-busz%20gy%C3%A1r%C3%A1ban/6.jpg
-  - >-
-    /Blowtherm%20f%C3%A9nyez%C5%91f%C3%BClk%C3%A9k%20Eur%C3%B3pa%20legnagyobb%20e-busz%20gy%C3%A1r%C3%A1ban/7.jpg
-  - >-
-    /Blowtherm%20f%C3%A9nyez%C5%91f%C3%BClk%C3%A9k%20Eur%C3%B3pa%20legnagyobb%20e-busz%20gy%C3%A1r%C3%A1ban/8.jpg
-  - >-
-    /Blowtherm%20f%C3%A9nyez%C5%91f%C3%BClk%C3%A9k%20Eur%C3%B3pa%20legnagyobb%20e-busz%20gy%C3%A1r%C3%A1ban/9.jpg
-  - >-
-    /Blowtherm%20f%C3%A9nyez%C5%91f%C3%BClk%C3%A9k%20Eur%C3%B3pa%20legnagyobb%20e-busz%20gy%C3%A1r%C3%A1ban/10.jpg
-  - >-
-    /Blowtherm%20f%C3%A9nyez%C5%91f%C3%BClk%C3%A9k%20Eur%C3%B3pa%20legnagyobb%20e-busz%20gy%C3%A1r%C3%A1ban/11.jpg
+  - /BYD/1.jpg
+  - /BYD/2.jpg
+  - /BYD/3.jpg
+  - /BYD/4.jpg
+  - /BYD/5.jpg
+  - /BYD/6.jpg
+  - /BYD/7.jpg
+  - /BYD/8.jpg
+  - /BYD/9.jpg
+  - /BYD/10.jpg
+  - /BYD/11.jpg
 seo:
   title: Blowtherm Spray Booths in Europe’s Largest E-Bus Factory
   description: Blowtherm Spray Booths in Europe’s Largest E-Bus Factory by Dewa Zrt.
