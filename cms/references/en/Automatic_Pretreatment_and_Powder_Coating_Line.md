@@ -58,7 +58,7 @@ During the design phase, the system was divided into several key components, eac
 
 All processes can be monitored and adjusted via touchscreen interface, and a remote access system enables Dewa Zrt. to supervise and maintain the line efficiently, ensuring smooth and reliable long-term operation.
 
-**The video showcasing the pretreatment and powder coating line can be viewed [here](https://www.youtube.com/watch?v=7yMr4K64bUo)!**
+**The video showcasing the pretreatment and powder coating line can be [viewed here](https://www.youtube.com/watch?v=7yMr4K64bUo)!**
 
 If you’d like to see more of our similar projects, we recommend the following reference.
 
