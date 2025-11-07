@@ -8,14 +8,14 @@ excerpt: >-
 date: 2021-09-03T00:00:00.000Z
 coverImage: /Hall_of_fame/karosszeria.jpg
 gallery:
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/1.jpg
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/2.jpg
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/3.jpg
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/4.jpg
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/5.jpg
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/6.jpg
-  - /A Fully Equipped Workshop with Premium Technology/7.jpg
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/8.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/1.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/2.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/3.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/4.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/5.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/6.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/7.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/8.jpg
 seo:
   title: Fully Equipped Body Painting Workshop
   description: >-
