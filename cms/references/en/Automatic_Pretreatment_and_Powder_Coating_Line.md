@@ -60,4 +60,4 @@ All processes can be monitored and adjusted via touchscreen interface, and a rem
 
 **The video showcasing the pretreatment and powder coating line can be [viewed here](https://www.youtube.com/watch?v=7yMr4K64bUo)!**
 
-If you have any questions, please don’t hesitate to[ contact our colleagues](/contact)!
+If you have any questions, please don’t hesitate to contact our colleagues!
