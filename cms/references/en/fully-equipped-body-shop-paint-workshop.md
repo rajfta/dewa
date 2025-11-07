@@ -4,16 +4,16 @@ excerpt: >-
   Full turnkey paint workshop installation with Blowtherm equipment and custom
   material handling systems.
 date: 2023-01-15T00:00:00.000Z
-coverImage: /A Fully Equipped Workshop with Premium Technology/cover.jpg
+coverImage: /Fully_Equipped_Body_Shop_Paint_Workshop/cover.jpg
 gallery:
-  - /A Fully Equipped Workshop with Premium Technology/1.webp
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/2.webp
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/3.webp
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/4.webp
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/5.webp
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/6.webp
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/7.webp
-  - /A%20Fully%20Equipped%20Workshop%20with%20Premium%20Technology/8.webp
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/1.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/2.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/3.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/4.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/5.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/6.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/7.jpg
+  - /Fully_Equipped_Body_Shop_Paint_Workshop/8.jpg
 seo:
   title: Complete Paint Workshop
   description: >-
