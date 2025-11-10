@@ -12,15 +12,10 @@ title: Automata előkezelő és porfestő sor
 companyname: AQUACOMET Kft.
 excerpt: >
   A Dewa Zrt. 2018-ban tervezte és építette fel Győrben az ország egyik legújabb
-  automata mártó rendszerű előkezelő és porfestő sorát. 
-
-
-  A munkafolyamatok teljes mértékben automatizáltak, a rendszer az Ipar 4.0
-  elvárásainak megfelelően lett megtervezve saját vezérlési programunk
-  segítségével. 
-
-
-  A sor többfajta fémötvözet előkezelésére és festésére is alkalmas, akár 3
+  automata mártó rendszerű előkezelő és porfestő sorát, melynek munkafolyamatai
+  teljes mértékben automatizáltak. A rendszer az Ipar 4.0 elvárásainak
+  megfelelően lett megtervezve saját vezérlési programunk segítségével, így a
+  sor többfajta fémötvözet előkezelésére és festésére is alkalmas, akár 3
   műszakos 0-24 órás távolsági felülvizsgálással és rugalmas
   programozhatósággal. 
 date: 2021-01-12T00:00:00.000Z
