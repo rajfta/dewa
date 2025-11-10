@@ -1,5 +1,5 @@
 ---
-title: Blowtherm fényezőfülke és előkészítő állás a Mercedes nagykereskedésnél
+title: Blowtherm fényezőfülke és előkészítő állás egy Mercedes nagykereskedésnél
 excerpt: >-
   A csúcstechnológia és a precizitás találkozása – a Dewa Zrt. Blowtherm Extra
   fülkéje új szintre emeli a fényezés minőségét Magyarország egyik legnagyobb
