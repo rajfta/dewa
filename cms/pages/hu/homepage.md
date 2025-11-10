@@ -42,7 +42,7 @@ szoras-desc: >-
   anyagellátó tartályok és szivattyúk, melyek oldószeres és porfestésre egyaránt
   alkalmasak.
 tuzeles-desc: >-
-  A Tüzeléstechnika divízió az olasz BLOWTHERM gyártmányú fűtő és légkezelő
+  Tüzeléstechnika divíziónk az olasz BLOWTHERM gyártmányú fűtő és légkezelő
   berendezések kizárólagos magyarországi forgalmazásával foglalkozik.
   Berendezéseink között a teljesség igénye nélkül az alábbiakat találjuk: falra
   szerelhető hőlégfúvó berendezések, gáz és - olajfűtésű berendezések,
