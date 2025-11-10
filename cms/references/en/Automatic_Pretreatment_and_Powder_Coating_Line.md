@@ -9,11 +9,6 @@ excerpt: >-
   24/7 operation with remote monitoring and flexible programming.
 date: 2021-01-03T00:00:00.000Z
 coverImage: /Hall_of_fame/elokezelo.jpg
-gallery:
-  - /Automata_elokezelo_es_porfesto_sor/1.jpg
-  - /Automata_elokezelo_es_porfesto_sor/2.jpg
-  - ''
-  - ''
 seo:
   title: Automatic Pretreatment and Powder Coating Line
   description: >-
