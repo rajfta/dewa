@@ -29,18 +29,18 @@ services-subtitle: >-
   iterált tervekkel és rugalmas rendelkezésre állással támogatjuk
   megrendelőinket, programszerűen végigvezetve őket a beruházás folyamatán.
 fenyezo-description: >-
-  A Fényezőfülke divízió az olasz BLOWTHERM gyártmányú zárt fényezőfülkék
+  Fényezőfülke divíziónk az olasz BLOWTHERM gyártmányú zárt fényezőfülkék
   kizárólagos magyarországi forgalmazásával, karbantartásával és telepítésével
   foglalkozik. Fülkéink számos méretben és kialakításban elérhetők, így
-  ideálisak az autóipari, busz- és vonatfestéshez, repülőgépek, asztalosmunkák,
+  ideálisak az autóipari, busz, vonat, repülőgépek, asztalosmunkák,
   kisalkatrészek és sok egyéb felület festéséhez.
 szoras-desc: >-
-  A Szórástechnika divízió az iparban előforduló festési, ragasztási, és egyéb,
-  a folyadékok elporlasztását igénylő technológiákhoz kínál berendezéseket.
-  Ehhez több, világviszonlyatban jelentős céggel állunk képviselői kapcsolatban
-  (például Sames, Wagner, Sagola). Forgalmazott berendezéseink között
-  megtalálhatóak levegőporlasztású kézi és automata pisztolyok, anyagellátó
-  tartályok, szivattyúk - melyek alkalmasak oldószeres és porfestésre egyaránt!
+  Szórástechnika divíziónk az iparban alkalmazott festési, ragasztási és más,
+  folyadékporlasztást igénylő technológiákhoz kínál berendezéseket, több
+  nemzetközileg elismert gyártó (pl. Sames, Wagner, Sagola) képviseletében.
+  Termékeink között megtalálhatók levegőporlasztású kézi és automata pisztolyok,
+  anyagellátó tartályok és szivattyúk, melyek oldószeres és porfestésre egyaránt
+  alkalmasak.
 tuzeles-desc: >-
   A Tüzeléstechnika divízió az olasz BLOWTHERM gyártmányú fűtő és légkezelő
   berendezések kizárólagos magyarországi forgalmazásával foglalkozik.
