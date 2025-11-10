@@ -26,7 +26,7 @@ excerpt: >
 date: 2021-01-12T00:00:00.000Z
 coverImage: /uploads/dsc04179-hdr.jpg
 seo:
-  title: Automata porfestő I Dewa Zrt
+  title: Automata előkezelő és porfestő sor
   description: >-
     A Dewa Zrt. által tervezett és kivitelezett automata mártó - előkezelő és
     porfestő sor a győri Aquacomet Kft. -nél. Blowtherm, Wagner
