@@ -2,11 +2,11 @@
 title: 'Automata KTL és porfestő sor '
 excerpt: >-
   Cégünk 2020-ban telepítette Debrecenben saját tervezésű, kombinált KTL és
-  porfestő sorát. A munkadarabok az adott, megkívánt festési technológiai
-  vonalon mozognak végig a teljesen automatizált rendszer segítségével. A
-  szintén saját tervezésű PLC vezérlés gyártási/festési adatok hosszútávú
-  megörzésére és elemzésére, valamint távolsági elérésre alkalmas. 
-date: 2023/01/16
+  porfestő sorát, melyen a munkadarabok a megkívánt festési technológiai vonalon
+  mozognak végig a teljesen automatizált rendszer segítségével. A szintén saját
+  tervezésű PLC vezérlés miatt a festési adatok hosszútávú megőrzésre és
+  elemzésre, valamint távolsági elérésre is alkalmasak. 
+date: 2023-01-16T00:00:00.000Z
 coverImage: /uploads/dsc_1575.webp
 gallery:
   - /uploads/dsc_1493.webp
