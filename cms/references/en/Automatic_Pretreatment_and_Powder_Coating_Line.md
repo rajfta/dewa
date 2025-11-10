@@ -60,4 +60,8 @@ All processes can be monitored and adjusted via touchscreen interface, and a rem
 
 **The video showcasing the pretreatment and powder coating line can be [viewed here](https://www.youtube.com/watch?v=7yMr4K64bUo)!**
 
-If you have any questions, please don’t hesitate to contact our colleagues!
+If you have any questions, please don’t hesitate to [contact our colleagues](/contact)!
+
+If you’d like to see similar projects, we recommend the reference below.
+
+> Automata KTL és porfestő sor - 2020![](/public/uploads/dsc_1493.webp)***[Click here to view it.](/referenciak/automata-ktl-es-porfesto-sor "BUMET referencia")***
