@@ -1,5 +1,5 @@
 ---
-title: 'Blowtherm fényezőfülkék Európa legnagyobb e-busz gyárában '
+title: 'Blowtherm fényezőfülkék Európa egyik legnagyobb e-busz gyárában '
 excerpt: >-
   A Dewa Zrt. innovatív Blowtherm fényezőfülkéi biztosítják a precíz festési
   folyamatokat Európa legnagyobb e-busz gyárában, Komáromban.
