@@ -29,11 +29,11 @@ services-subtitle: >-
   iterált tervekkel és rugalmas rendelkezésre állással támogatjuk
   megrendelőinket, programszerűen végigvezetve őket a beruházás folyamatán.
 fenyezo-description: >-
-  Fényezőfülke divíziónk az olasz BLOWTHERM gyártmányú zárt fényezőfülkék
-  kizárólagos magyarországi forgalmazásával, karbantartásával és telepítésével
-  foglalkozik. Fülkéink számos méretben és kialakításban elérhetők, így
-  ideálisak az autóipari, busz, vonat, repülőgépek, asztalosmunkák,
-  kisalkatrészek és sok egyéb felület festéséhez.
+  Fényezőfülke divíziónk a világszerte elismert, olasz BLOWTHERM gyártmányú zárt
+  fényezőfülkék kizárólagos magyarországi forgalmazásával, karbantartásával és
+  telepítésével foglalkozik. Fülkéink számos méretben és kialakításban
+  elérhetők, így ideálisak az autóipari, busz, vonat, repülőgépek,
+  asztalosmunkák, kisalkatrészek és sok egyéb felület festéséhez.
 szoras-desc: >-
   Szórástechnika divíziónk az iparban alkalmazott festési, ragasztási és más,
   folyadékporlasztást igénylő technológiákhoz kínál berendezéseket, több
