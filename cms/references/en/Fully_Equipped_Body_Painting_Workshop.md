@@ -54,4 +54,4 @@ For the third principle, technological workflow, we worked closely with our clie
 
 The result is a workspace designed for smooth, uninterrupted progression, allowing all stages — from preparation and painting to polishing — to operate efficiently without interfering with one another.
 
-Explore the gallery of this project to see the results of our work!
+Explore our gallery of this project to see the results of our work!
