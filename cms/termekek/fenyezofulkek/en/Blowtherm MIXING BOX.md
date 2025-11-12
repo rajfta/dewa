@@ -1,22 +1,21 @@
 ---
-divizio: PAINT BOOTH
-alkategoria: Preparation Stations and Paint Kitchens
 nev: BLOWTHERM MIXING BOX
-leiras: >-
-  Premium quality industrial system engineered for demanding professional
-  applications. Features robust construction and reliable performance under
-  continuous operation. Advanced control technology ensures optimal efficiency
-  and ease of use.
+leiras: >
+  Increase your productivity and safety with the Blowtherm Mixing Box paint
+  preparation room! This enclosed workspace provides optimal protection during
+  the paint preparation process.
 
 
-  Designed for maximum productivity with minimal downtime. Comprehensive safety
-  features and compliance with international standards. Low maintenance
-  requirements with excellent long-term reliability.
+  Its ergonomic design ensures the most convenient paint mixing and spray gun
+  cleaning experience, while the ventilated environment allows for quick and
+  easy color changes and solvent dosing right next to your automatic or manual
+  painting equipment.
 
 
-  Flexible configuration options to accommodate different operational
-  requirements and installation constraints. Professional-grade components
-  ensure consistent high-quality results.
+  Both the mixing rooms and paint mixers can be customized to meet individual
+  requirements — feel free to contact our specialists for tailored solutions!
 boritokep: /uploads/blowtherm-mixing-box-festekkevero.jpg
+divizio: PAINT BOOTH
+alkategoria: Előkészítő állások és festékkonyhák
 ---
 
