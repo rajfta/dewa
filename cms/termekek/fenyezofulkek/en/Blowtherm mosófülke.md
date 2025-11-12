@@ -1,21 +1,23 @@
 ---
-divizio: PAINT BOOTH
-alkategoria: Auxiliary Equipment
 nev: MOSÓFÜLKE
-leiras: >-
-  Professional industrial equipment designed for high-performance applications.
-  This advanced system features state-of-the-art technology and precision
-  engineering. Built to meet the highest quality standards with reliable
-  operation and efficient performance.
+leiras: >
+  Boost your workshop’s productivity with Blowtherm wash booths! Available in
+  various sizes, these dual-function units make an excellent choice for any
+  business:
 
 
-  Key features include automatic controls, energy-efficient operation, and
-  robust construction. Ideal for demanding industrial environments requiring
-  consistent results and long-term reliability.
+  Washing: removal of hot vapors through the ceiling structure
 
 
-  Available in various sizes and configurations to meet specific application
-  requirements.
+  Drying: warm drying air is blown in from above and exhausted through the side
+  walls
+
+
+  Equipped with LED lighting, a corrosion-resistant INOX stainless steel
+  interior, and numerous optional accessories, the Blowtherm wash booth delivers
+  a precise and reliable solution!
 boritokep: /uploads/blowtherm-moso-fulke.jpg
+divizio: PAINT BOOTH
+alkategoria: Ipari fényezőfülkék
 ---
 
