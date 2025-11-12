@@ -1,8 +1,6 @@
 ---
-divizio: PAINT BOOTH
-alkategoria: Passenger Car Spray Booths
 nev: BLOWTHERM EXTRA
-leiras: >-
+leiras: >
   State-of-the-art industrial equipment combining innovation and reliability.
   Precision-engineered for professional use with focus on performance and
   efficiency. Built to withstand rigorous industrial environments while
@@ -17,5 +15,7 @@ leiras: >-
   Available in multiple sizes and specifications. Comprehensive support and
   documentation ensure smooth installation and operation.
 boritokep: /uploads/blowtherm-extra.jpg
+divizio: PAINT BOOTH
+alkategoria: Személyautó fényezőfülkék
 ---
 
