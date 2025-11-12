@@ -1,8 +1,6 @@
 ---
-divizio: PAINT BOOTH
-alkategoria: Preparation Stations and Paint Kitchens
 nev: BLOWTHERM GENIUS
-leiras: >-
+leiras: >
   High-quality industrial solution engineered for optimal performance and
   durability. Features innovative design elements and advanced control systems.
   Manufactured to strict quality standards ensuring long service life and
@@ -17,5 +15,7 @@ leiras: >-
   Multiple configuration options available to suit different operational needs
   and space requirements.
 boritokep: /uploads/blowtherm-genius-elokeszito.jpg
+divizio: PAINT BOOTH
+alkategoria: Előkészítő állások és festékkonyhák
 ---
 
