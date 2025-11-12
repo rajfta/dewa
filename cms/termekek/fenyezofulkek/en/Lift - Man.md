@@ -1,21 +1,12 @@
 ---
-divizio: PAINT BOOTH
-alkategoria: Auxiliary Equipment
 nev: REGLO Lift - Man mobil festőállvány
-leiras: >-
-  Professional industrial equipment designed for high-performance applications.
-  This advanced system features state-of-the-art technology and precision
-  engineering. Built to meet the highest quality standards with reliable
-  operation and efficient performance.
-
-
-  Key features include automatic controls, energy-efficient operation, and
-  robust construction. Ideal for demanding industrial environments requiring
-  consistent results and long-term reliability.
-
-
-  Available in various sizes and configurations to meet specific application
-  requirements.
+leiras: >
+  The REGLO Lift-Man painting platform, with its compact size, is an excellent
+  solution for smaller spray booths where space between the booth wall and the
+  workpiece is limited. Thanks to its mobility, it can be used in any
+  environment and is certified for ATEX compliance.
 boritokep: /uploads/liftman_08.jpg
+divizio: PAINT BOOTH
+alkategoria: Kiegészítő berendezések
 ---
 
