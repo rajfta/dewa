@@ -1,20 +1,23 @@
 ---
-divizio: PAINT BOOTH
-alkategoria: Passenger Car Spray Booths
 nev: BLOWTHERM WORLD S
-leiras: >-
-  Advanced industrial equipment offering superior performance and versatility.
-  Designed with user-friendly operation and maintenance in mind. Incorporates
-  the latest technological innovations for enhanced efficiency and productivity.
+leiras: >
+  The World/S booth delivers consistently reliable performance with an excellent
+  price-to-quality ratio. Its simple control interface and streamlined design
+  make it a solid choice for any business.
 
 
-  Robust construction ensures durability in challenging industrial environments.
-  Optimized for energy efficiency and environmental compliance. Comprehensive
-  control system provides precise operation and monitoring capabilities.
+  Available (internal) dimensions:
 
 
-  Customizable options available including various capacity ranges and technical
-  specifications to match specific application requirements.
+  Length: 6,000 mm, 7,000 mm, 8,000 mm, 9,000 mm, 10,000 mm
+
+
+  Width: 4,000 mm, 4,500 mm
+
+
+  Height: 2,755 mm, 3,055 mm, 3,355 mm, 3,555 mm, 4,055 mm
 boritokep: /uploads/blowtherm-world-special.jpg
+divizio: PAINT BOOTH
+alkategoria: Személyautó fényezőfülkék
 ---
 
