@@ -1,21 +1,11 @@
 ---
-divizio: PAINT BOOTH
-alkategoria: Auxiliary Equipment
 nev: REGLO Wall-Man 3D-s festőállvány
-leiras: >-
-  State-of-the-art industrial equipment combining innovation and reliability.
-  Precision-engineered for professional use with focus on performance and
-  efficiency. Built to withstand rigorous industrial environments while
-  maintaining consistent operation.
-
-
-  Advanced features include automated control systems, energy optimization, and
-  user-friendly interface. Suitable for a wide range of industrial applications
-  requiring high standards of quality and reliability.
-
-
-  Available in multiple sizes and specifications. Comprehensive support and
-  documentation ensure smooth installation and operation.
+leiras: >
+  The REGLO Wall - Man is one of the most popular accessories for our industrial
+  spray booths! The wall-mounted platform moves effortlessly in all directions,
+  offering simple, ergonomic operation and full spatial mobility.
 boritokep: /uploads/wall-man.jpg
+divizio: PAINT BOOTH
+alkategoria: Kiegészítő berendezések
 ---
 
