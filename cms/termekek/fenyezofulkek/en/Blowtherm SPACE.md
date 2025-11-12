@@ -1,21 +1,21 @@
 ---
-divizio: PAINT BOOTH
-alkategoria: Industrial Spray Booths
 nev: 'BLOWTHERM SPACE '
-leiras: >-
-  Professional industrial equipment designed for high-performance applications.
-  This advanced system features state-of-the-art technology and precision
-  engineering. Built to meet the highest quality standards with reliable
-  operation and efficient performance.
+leiras: >
+  The Space Series represents the manufacturer’s XL-sized booth, designed for
+  work on large vehicles. Equipped with a state-of-the-art PLC and SCADA
+  monitoring system, it ensures flawless operation by automatically calibrating
+  heating, cooling, and humidification parameters across multiple zones —
+  embodying true Industry 4.0 technology.
 
 
-  Key features include automatic controls, energy-efficient operation, and
-  robust construction. Ideal for demanding industrial environments requiring
-  consistent results and long-term reliability.
+  With its fully integrated solutions, this booth offers a unique opportunity in
+  the market of industrial spray booths.
 
 
-  Available in various sizes and configurations to meet specific application
-  requirements.
+  Available internal dimensions can be customized to individual requirements —
+  feel free to contact our specialists for personalized configurations!
 boritokep: /uploads/blowtherm-space-ipari.jpg
+divizio: PAINT BOOTH
+alkategoria: Ipari fényezőfülkék
 ---
 
