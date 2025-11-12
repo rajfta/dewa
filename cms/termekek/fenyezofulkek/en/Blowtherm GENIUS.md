@@ -1,19 +1,14 @@
 ---
 nev: BLOWTHERM GENIUS
 leiras: >
-  High-quality industrial solution engineered for optimal performance and
-  durability. Features innovative design elements and advanced control systems.
-  Manufactured to strict quality standards ensuring long service life and
-  minimal maintenance requirements.
+  Easily handle even the busiest days with the versatile Genius preparation
+  stations, available in various sizes and configurations!
 
 
-  This equipment combines cutting-edge technology with practical functionality.
-  Suitable for professional applications demanding precision and reliability.
-  Easy to operate with intuitive controls and comprehensive safety features.
-
-
-  Multiple configuration options available to suit different operational needs
-  and space requirements.
+  High-quality, insulated side panels; manually or automatically retractable
+  curtains and doors; infrared drying lamps; ergonomic lifts; built-in exhaust
+  systems; and intuitive touchscreen controls — these are just a few of the many
+  available options!
 boritokep: /uploads/blowtherm-genius-elokeszito.jpg
 divizio: PAINT BOOTH
 alkategoria: Előkészítő állások és festékkonyhák
