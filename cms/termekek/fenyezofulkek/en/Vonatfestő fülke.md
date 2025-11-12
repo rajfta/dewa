@@ -1,21 +1,20 @@
 ---
-divizio: PAINT BOOTH
-alkategoria: Railway Spray Booths
 nev: 'Vonatfestő '
-leiras: >-
-  State-of-the-art industrial equipment combining innovation and reliability.
-  Precision-engineered for professional use with focus on performance and
-  efficiency. Built to withstand rigorous industrial environments while
-  maintaining consistent operation.
+leiras: >
+  Engineered for railway applications, these large-scale booths deliver
+  outstanding performance and durability for painting locomotives and carriages.
+  Equipped with PLC and SCADA control, they ensure precise airflow, temperature,
+  and humidity management for perfect surface finishes.
 
 
-  Advanced features include automated control systems, energy optimization, and
-  user-friendly interface. Suitable for a wide range of industrial applications
-  requiring high standards of quality and reliability.
+  Their modular design allows full customization of size and layout, while
+  optional features — such as zoned drying and remote monitoring  — boost
+  efficiency and safety.
 
 
-  Available in multiple sizes and specifications. Comprehensive support and
-  documentation ensure smooth installation and operation.
+  A reliable, high-capacity solution for professional train painting operations.
 boritokep: /uploads/blowtherm-turbo-industrial-vonatfesto.jpg
+divizio: PAINT BOOTH
+alkategoria: Vasúti fényezőfülkék
 ---
 
