@@ -72,17 +72,17 @@ const TermekekPage: FC = () => {
                         />
 
                         <Division
-                            href="/termekek/tuzelestechnika"
-                            name={t("combustionTechnology")}
-                            Logo={TuzelesIcon}
-                            description={t("combustionTechnologyDescription")}
-                        />
-
-                        <Division
                             href="/termekek/feluletkezeles"
                             name={t("surfaceTreatment")}
                             Logo={FeluletIcon}
                             description={t("surfaceTreatmentDescription")}
+                        />
+
+                        <Division
+                            href="/termekek/tuzelestechnika"
+                            name={t("combustionTechnology")}
+                            Logo={TuzelesIcon}
+                            description={t("combustionTechnologyDescription")}
                         />
 
                         <Division

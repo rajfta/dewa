@@ -192,6 +192,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
                     mb={[8, 8, 12, 16]}
                     side="left"
                     alignSelf="flex-start"
+                    textTransform="none"
                 >
                     {t("backToProducts")}
                 </Button>

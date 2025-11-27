@@ -68,7 +68,7 @@ const AboutUs: FC<AboutUsProps> = ({ title, description, imageSrc }) => {
                                             {t("yearsExperience")}
                                         </dt>
                                         <dd className="order-1 text-2xl font-extrabold text-primary-500 sm:text-3xl">
-                                            30+
+                                            35+
                                         </dd>
                                     </div>
                                     <div className="flex flex-col px-8 pt-8">
@@ -76,7 +76,7 @@ const AboutUs: FC<AboutUsProps> = ({ title, description, imageSrc }) => {
                                             {t("division")}
                                         </dt>
                                         <dd className="order-1 text-2xl font-extrabold text-primary-500 sm:text-3xl">
-                                            5
+                                            4+1
                                         </dd>
                                     </div>
                                     <div className="flex flex-col px-8 pt-8">
