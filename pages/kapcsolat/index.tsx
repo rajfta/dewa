@@ -103,7 +103,7 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
         return 0;
     });
 
-    const { isMdMinus, isXlMinus } = useCurrentBreakpoint();
+    const { isMd, isMobile } = useCurrentBreakpoint();
 
     const data = useMemo(
         () =>
@@ -157,7 +157,7 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
     const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =
         useTable({ columns, data }, useSortBy);
 
-    if (isMdMinus) {
+    if (isMobile) {
         return (
             <Flex direction="column" alignSelf="normal" mt={8}>
                 {contacts.map((contact) => {
@@ -210,7 +210,10 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
                                 return (
                                     <Th
                                         display={
-                                            isXlMinus && column.id === "department"
+                                            isMd &&
+                                            isMobile &&
+                                            (column.id === "department" ||
+                                                column.id === "role")
                                                 ? "none"
                                                 : undefined
                                         }
@@ -268,8 +271,11 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
                                             }
                                             key={cell.column.id}
                                             display={
-                                                isXlMinus &&
-                                                cell.column.id === "department"
+                                                isMd &&
+                                                isMobile &&
+                                                (cell.column.id ===
+                                                    "department" ||
+                                                    cell.column.id === "role")
                                                     ? "none"
                                                     : undefined
                                             }
