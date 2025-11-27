@@ -66,7 +66,7 @@ type ProductCategoriesProps = {
 };
 
 const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
-    const { isLg } = useCurrentBreakpoint();
+    const { isMdPlus } = useCurrentBreakpoint();
     const t = useTranslations("nav");
 
     const productCategories = useMemo(
@@ -84,7 +84,7 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
         return null;
     }
 
-    if (isLg) {
+    if (isMdPlus) {
         return (
             <Box
                 pt={2}
@@ -165,7 +165,7 @@ const Products: FC<{ children?: React.ReactNode }> = ({ children }) => {
     const { pathname } = useRouter();
     const currentPage = pathname.includes("termekek");
 
-    const { isLg } = useCurrentBreakpoint();
+    const { isMdPlus } = useCurrentBreakpoint();
 
     const [show, setShow] = useState(false);
 
@@ -186,8 +186,8 @@ const Products: FC<{ children?: React.ReactNode }> = ({ children }) => {
             direction="column"
             position="relative"
             zIndex={1}
-            onMouseEnter={isLg ? onOpen : null}
-            onMouseLeave={isLg ? onClose : null}
+            onMouseEnter={isMdPlus ? onOpen : null}
+            onMouseLeave={isMdPlus ? onClose : null}
         >
             <Flex align="center" justify="flex-end">
                 <NextLink href="/termekek">
@@ -209,7 +209,7 @@ const Products: FC<{ children?: React.ReactNode }> = ({ children }) => {
                     width={3}
                     color={currentPage && "secondary.500"}
                     cursor="pointer"
-                    onClick={!isLg ? toggleShow : null}
+                    onClick={!isMdPlus ? toggleShow : null}
                 />
             </Flex>
             <ProductCategories show={show} />
@@ -306,9 +306,9 @@ const NavItems: FC = () => {
 
 const Navlist: FC = () => {
     const { isOpen, onClose, onOpen, onToggle } = useDisclosure();
-    const { isLg } = useCurrentBreakpoint();
+    const { isMdPlus } = useCurrentBreakpoint();
 
-    if (isLg) {
+    if (isMdPlus) {
         return <NavItems />;
     }
 
