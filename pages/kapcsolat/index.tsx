@@ -103,7 +103,7 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
         return 0;
     });
 
-    const { isMd, isMobile } = useCurrentBreakpoint();
+    const { isMdMinus, isXlMinus } = useCurrentBreakpoint();
 
     const data = useMemo(
         () =>
@@ -157,7 +157,7 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
     const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =
         useTable({ columns, data }, useSortBy);
 
-    if (isMobile) {
+    if (isMdMinus) {
         return (
             <Flex direction="column" alignSelf="normal" mt={8}>
                 {contacts.map((contact) => {
@@ -210,10 +210,8 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
                                 return (
                                     <Th
                                         display={
-                                            isMd &&
-                                            isMobile &&
-                                            (column.id === "department" ||
-                                                column.id === "role")
+                                            isXlMinus &&
+                                            column.id === "department"
                                                 ? "none"
                                                 : undefined
                                         }
@@ -271,11 +269,8 @@ const ContactList: FC<ContactProps> = ({ contacts }) => {
                                             }
                                             key={cell.column.id}
                                             display={
-                                                isMd &&
-                                                isMobile &&
-                                                (cell.column.id ===
-                                                    "department" ||
-                                                    cell.column.id === "role")
+                                                isXlMinus &&
+                                                cell.column.id === "department"
                                                     ? "none"
                                                     : undefined
                                             }

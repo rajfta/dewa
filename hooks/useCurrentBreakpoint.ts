@@ -5,6 +5,7 @@ enum Breakpoints {
     sm = 2,
     md = 3,
     lg = 4,
+    xl = 5,
 }
 
 const useCurrentBreakpoint = () => {
@@ -13,6 +14,7 @@ const useCurrentBreakpoint = () => {
         sm: Breakpoints.sm,
         md: Breakpoints.md,
         lg: Breakpoints.lg,
+        xl: Breakpoints.xl,
     });
 
     return {
@@ -27,6 +29,9 @@ const useCurrentBreakpoint = () => {
         isLg: currentBreakPoint === Breakpoints.lg,
         isLgPlus: currentBreakPoint > Breakpoints.lg,
         isLgMinus: currentBreakPoint < Breakpoints.lg,
+        isXl: currentBreakPoint === Breakpoints.xl,
+        isXlPlus: currentBreakPoint > Breakpoints.xl,
+        isXlMinus: currentBreakPoint < Breakpoints.xl,
     };
 };
 
