@@ -6,6 +6,7 @@ import type { FC } from "react";
 import type { PostType } from "../types";
 
 import { Button } from "./uikit";
+import { useTranslations } from "next-intl";
 
 type PageHeaderProps = {
     post: PostType;
@@ -15,6 +16,7 @@ const PageHeader: FC<PageHeaderProps> = ({
     post: { coverImage, date, excerpt, title },
 }) => {
     const { back: onBack } = useRouter();
+    const t = useTranslations("common");
 
     return (
         <div className="mt-4 wrapper lg:mt-16">
@@ -36,7 +38,7 @@ const PageHeader: FC<PageHeaderProps> = ({
                         onClick={onBack}
                         alignSelf="flex-start"
                     >
-                        Back
+                        {t("back")}
                     </Button>
                     <h1 className="mb-4 text-3xl lg:text-5xl font-semibold">
                         {title}
