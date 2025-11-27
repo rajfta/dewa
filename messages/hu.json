@@ -6,8 +6,7 @@
         "getStarted": "Kezdjünk",
         "readArticle": "Elolvasom",
         "backTo": "Vissza",
-        "send": "Küldés",
-        "back": "Vissza"
+    "send": "Küldés"
     },
     "nav": {
         "home": "Főoldal",
@@ -20,7 +19,7 @@
         "sprayTechnology": "Szórástechnika",
         "heatingTechnology": "Tüzeléstechnika",
         "surfaceTreatment": "Felületkezelés",
-        "service": "Szerviz"
+    "service": "Szerviz és karbantartás"
     },
     "footer": {
         "didWeInterestYou": "Felkeltettük",

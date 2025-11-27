@@ -6,8 +6,7 @@
     "getStarted": "Get Started",
     "readArticle": "Read More",
     "backTo": "Back to",
-    "send": "Send",
-    "back": "Back"
+    "send": "Send"
   },
   "nav": {
     "home": "Home",
@@ -20,7 +19,7 @@
     "sprayTechnology": "Spray Technology",
     "heatingTechnology": "Heating Technology",
     "surfaceTreatment": "Surface Treatment",
-    "service": "Service"
+    "service": "Service and maintenance"
   },
   "footer": {
     "didWeInterestYou": "Did we catch",
