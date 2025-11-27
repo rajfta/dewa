@@ -72,9 +72,9 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
     const productCategories = useMemo(
         () => [
             { key: "sprayBooths", slug: "fenyezofulkek" },
+            { key: "sprayTechnology", slug: "szorastechnika" },
             { key: "surfaceTreatment", slug: "feluletkezeles" },
             { key: "combustionTechnology", slug: "tuzelestechnika" },
-            { key: "sprayTechnology", slug: "szorastechnika" },
             { key: "service", slug: "szerviz" },
         ],
         [],
