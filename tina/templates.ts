@@ -149,7 +149,7 @@ export function kapcsolat_egyenFields() {
             options: [
                 "headquarters",
                 "service",
-                "heating technology",
+                "Combustion Technology",
                 "warehouse",
                 "spray technology",
                 "industrial painting equipment",
@@ -596,8 +596,8 @@ export function messagesFields() {
                 },
                 {
                     type: "string",
-                    name: "heatingTechnology",
-                    label: "Heating Technology",
+                    name: "combustionTechnology",
+                    label: "Combustion Technology",
                 },
                 {
                     type: "string",
@@ -692,8 +692,8 @@ export function messagesFields() {
                 },
                 {
                     type: "string",
-                    name: "heatingTechnology",
-                    label: "Heating Technology",
+                    name: "combustionTechnology",
+                    label: "Combustion Technology",
                 },
                 {
                     type: "string",
@@ -728,8 +728,8 @@ export function messagesFields() {
                 },
                 {
                     type: "string",
-                    name: "heatingTechnologyDescription",
-                    label: "Heating Technology Description",
+                    name: "combustionTechnologyDescription",
+                    label: "Combustion Technology Description",
                     ui: { component: "textarea" },
                 },
                 {

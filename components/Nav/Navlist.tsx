@@ -73,7 +73,7 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
         () => [
             { key: "sprayBooths", slug: "fenyezofulkek" },
             { key: "surfaceTreatment", slug: "feluletkezeles" },
-            { key: "heatingTechnology", slug: "tuzelestechnika" },
+            { key: "combustionTechnology", slug: "tuzelestechnika" },
             { key: "sprayTechnology", slug: "szorastechnika" },
             { key: "service", slug: "szerviz" },
         ],
@@ -112,7 +112,7 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
                                     category.key as
                                         | "sprayBooths"
                                         | "surfaceTreatment"
-                                        | "heatingTechnology"
+                                        | "combustionTechnology"
                                         | "sprayTechnology"
                                         | "service",
                                 )}
@@ -150,7 +150,7 @@ const ProductCategories: FC<ProductCategoriesProps> = ({ show }) => {
                             category.key as
                                 | "sprayBooths"
                                 | "surfaceTreatment"
-                                | "heatingTechnology"
+                                | "combustionTechnology"
                                 | "sprayTechnology"
                                 | "service",
                         )}

@@ -192,7 +192,7 @@ const Products = ({
 
                                 <Division
                                     href="/termekek/tuzelestechnika"
-                                    name={t("heatingTechnology")}
+                                    name={t("combustionTechnology")}
                                     Logo={TuzelesIcon}
                                     description={tuz}
                                 />

@@ -123,7 +123,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
                 case "fenyezofulkek":
                     return t("sprayBooths");
                 case "tuzelestechnika":
-                    return t("heatingTechnology");
+                    return t("combustionTechnology");
                 case "szorastechnika":
                     return t("sprayTechnology");
                 case "szerviz":
@@ -143,7 +143,7 @@ const Products: FC<ProductProps> = ({ slug, products }) => {
                 case "fenyezofulkek":
                     return t("sprayBoothsDescription");
                 case "tuzelestechnika":
-                    return t("heatingTechnologyDescription");
+                    return t("combustionTechnologyDescription");
                 case "szorastechnika":
                     return t("sprayTechnologyDescription");
                 case "szerviz":

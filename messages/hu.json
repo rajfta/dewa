@@ -17,7 +17,7 @@
         "career": "Karrier",
         "sprayBooths": "Fényezőfülkék",
         "sprayTechnology": "Szórástechnika",
-        "heatingTechnology": "Tüzeléstechnika",
+        "combustionTechnology": "Tüzeléstechnika",
         "surfaceTreatment": "Felületkezelés",
         "service": "Szerviz és karbantartás"
     },
@@ -49,7 +49,7 @@
     "products": {
         "sprayBooths": "Fényezőfülkék",
         "sprayTechnology": "Szórástechnika",
-        "heatingTechnology": "Tüzeléstechnika",
+        "combustionTechnology": "Tüzeléstechnika",
         "surfaceTreatment": "Felületkezelés",
         "service": "Szerviz és karbantartás",
         "allSubcategories": "Összes alkategória",
@@ -59,7 +59,7 @@
         "surfaceTreatmentDescription": "Felületkezelési megoldásaink átfogó rendszereket biztosítanak fém felületek előkészítésére és befejezésére. A tisztítástól és zsírtalanítástól a bevonatolásig és szárításig, teljes körű, az Ön ipari igényeihez szabott megoldásokat kínálunk.",
         "sprayBoothsDescription": "Kiváló minőségű fényezőfülkéket tervezünk és gyártunk, amelyek optimális festési körülményeket biztosítanak. Fülkéink kiváló szellőzést, világítást és hőmérséklet-szabályozást nyújtanak professzionális felületkezelési eredményekhez.",
         "sprayTechnologyDescription": "Szórástechnikai berendezéseink precíz és hatékony bevonatolást tesznek lehetővé. Szóró pisztolyok, szivattyúk és automatizált rendszerek széles választékát kínáljuk különféle ipari festési alkalmazásokhoz.",
-        "heatingTechnologyDescription": "Tüzeléstechnikai megoldásaink ipari kemencéket, szárítókat és hővisszanyerő rendszereket foglalnak magukban. Energiahatékony berendezéseket biztosítunk, amelyek optimalizálják termelési folyamatait és csökkentik az üzemeltetési költségeket.",
+        "combustionTechnologyDescription": "Tüzeléstechnikai megoldásaink ipari kemencéket, szárítókat és hővisszanyerő rendszereket foglalnak magukban. Energiahatékony berendezéseket biztosítunk, amelyek optimalizálják termelési folyamatait és csökkentik az üzemeltetési költségeket.",
         "serviceDescription": "Átfogó szerviz részlegünk karbantartást, javításokat és műszaki támogatást nyújt minden típusú ipari festőberendezéshez. Gondoskodunk róla, hogy rendszerei csúcsteljesítménnyel működjenek minimális üzemszünettel."
     },
     "references": {
