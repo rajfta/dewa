@@ -7,6 +7,7 @@ import type { PostType } from "../types";
 import { formatDate } from "../util/formatDate";
 
 import { Button } from "./uikit";
+import { useTranslations } from "next-intl";
 
 type GalleryProps = {
     post: PostType;
@@ -16,6 +17,7 @@ const Gallery: FC<GalleryProps> = ({
     post: { slug, coverImage, title, date },
 }) => {
     const [isHovered, setIsHovered] = useState(false);
+    const t = useTranslations("common");
 
     return (
         <motion.div
@@ -91,7 +93,7 @@ const Gallery: FC<GalleryProps> = ({
                                 isHovered ? "secondary.500" : "secondary.50",
                             ]}
                         >
-                            Megnyitás
+                            {t("open")}
                         </Button>
                     </Flex>
                 </Flex>

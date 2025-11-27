@@ -1,110 +1,110 @@
 {
-  "common": {
-    "contact": "Contact",
-    "readMore": "Read More",
-    "learnMore": "Learn More",
-    "getStarted": "Get Started",
-    "readArticle": "Read More",
-    "backTo": "Back to",
-    "send": "Send"
-  },
-  "nav": {
-    "home": "Home",
-    "products": "Products",
-    "references": "References",
-    "blog": "Articles",
-    "contact": "Contact",
-    "career": "Career",
-    "sprayBooths": "Spray Booths",
-    "sprayTechnology": "Spray Technology",
-    "heatingTechnology": "Heating Technology",
-    "surfaceTreatment": "Surface Treatment",
-    "service": "Service and maintenance"
-  },
-  "footer": {
-    "didWeInterestYou": "Did we catch",
-    "yourInterest": "your interest?",
-    "writeToUs": "Contact Us!",
-    "budaorsCenter": "Budaörs Center",
-    "bekescsabaCenter": "Békéscsaba Center",
-    "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörs Industrial Park)",
-    "bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)"
-  },
-  "hero": {
-    "title": "We paint the future",
-    "turnkey": "We paint",
-    "paintingSolutions": "the future",
-    "writeToUs": "Contact Us!",
-    "contact": "Contact"
-  },
-  "about": {
-    "yearsExperience": "Years of Experience",
-    "division": "Divisions",
-    "successfulProjects": "Successful Projects"
-  },
-  "products": {
-    "sprayBooths": "Spray Booths",
-    "sprayTechnology": "Spray Technology",
-    "heatingTechnology": "Combustion Technology",
-    "surfaceTreatment": "Surface Treatment",
-    "service": "Service and Maintenance",
-    "allSubcategories": "All Subcategories",
-    "title": "Our Products",
-    "subtitle": "Comprehensive industrial painting and surface treatment solutions",
-    "surfaceTreatmentDescription": "Our surface treatment solutions provide comprehensive systems for preparing and finishing metal surfaces. From cleaning and degreasing to coating and drying, we offer complete solutions tailored to your industrial needs.",
-    "sprayBoothsDescription": "We design and manufacture high-quality spray booths that ensure optimal painting conditions. Our booths provide excellent ventilation, lighting, and temperature control for professional finishing results.",
-    "sprayTechnologyDescription": "Our spray technology equipment delivers precise and efficient coating application. We offer a wide range of spray guns, pumps, and automated systems for various industrial painting applications.",
-    "heatingTechnologyDescription": "Our heating technology solutions include industrial ovens, dryers, and heat recovery systems. We provide energy-efficient equipment designed to optimize your production processes and reduce operating costs.",
-    "serviceDescription": "Our comprehensive service department offers maintenance, repairs, and technical support for all types of industrial painting equipment. We ensure your systems operate at peak performance with minimal downtime."
-  },
-  "references": {
-    "title": "References",
-    "backToReferences": "Back to References",
-    "hallOfFame": "Hall of Fame",
-    "galleries": "Galleries"
-  },
-  "blog": {
-    "title": "Blog",
-    "articles": "Articles",
-    "backToBlog": "Back to Articles"
-  },
-  "contactPage": {
-    "title": "Contact",
-    "getInTouch": "Get in Touch",
-    "description": "Have questions? Feel free to contact us!",
-    "budaorsOffice": "Budaörs Office",
-    "bekescsabaOffice": "Békéscsaba Office",
-    "budaors": "Budaörs",
-    "bekescsaba": "Békéscsaba",
-    "name": "Name",
-    "role": "Role",
-    "department": "Department",
-    "email": "Email",
-    "telephone": "Phone",
-    "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörs Industrial Park)",
-    "bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)"
-  },
-  "contactForm": {
-    "title": "Contact Us!",
-    "subject": "Subject",
-    "telephone": "Phone Number",
-    "telephonePlaceholder": "Phone Number",
-    "email": "Email Address",
-    "emailPlaceholder": "Email",
-    "message": "Message",
-    "messagePlaceholder": "Message",
-    "send": "Send",
-    "sending": "Sending email...",
-    "success": "Email sent successfully!",
-    "error": "Failed to send, please try again!",
-    "required": "Required field!",
-    "minLength": "At least {min} characters!",
-    "maxLength": "No more than {max} characters!"
-  },
-  "languageDetection": {
-    "title": "Language Preference",
-    "message": "We noticed your browser is set to English. Would you like to view this website in English?",
-    "switchEnglish": "Switch to English",
-    "stayHungarian": "Stay in Hungarian"
-  }
+    "common": {
+        "contact": "Contact",
+        "open": "Open",
+        "learnMore": "Learn More",
+        "getStarted": "Get Started",
+        "readArticle": "Read More",
+        "backTo": "Back to",
+        "send": "Send"
+    },
+    "nav": {
+        "home": "Home",
+        "products": "Products",
+        "references": "References",
+        "blog": "Articles",
+        "contact": "Contact",
+        "career": "Career",
+        "sprayBooths": "Spray Booths",
+        "sprayTechnology": "Spray Technology",
+        "heatingTechnology": "Heating Technology",
+        "surfaceTreatment": "Surface Treatment",
+        "service": "Service and maintenance"
+    },
+    "footer": {
+        "didWeInterestYou": "Did we catch",
+        "yourInterest": "your interest?",
+        "writeToUs": "Contact Us!",
+        "budaorsCenter": "Budaörs Center",
+        "bekescsabaCenter": "Békéscsaba Center",
+        "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörs Industrial Park)",
+        "bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)"
+    },
+    "hero": {
+        "title": "We paint the future",
+        "turnkey": "We paint",
+        "paintingSolutions": "the future",
+        "writeToUs": "Contact Us!",
+        "contact": "Contact"
+    },
+    "about": {
+        "yearsExperience": "Years of Experience",
+        "division": "Divisions",
+        "successfulProjects": "Successful Projects"
+    },
+    "products": {
+        "sprayBooths": "Spray Booths",
+        "sprayTechnology": "Spray Technology",
+        "heatingTechnology": "Combustion Technology",
+        "surfaceTreatment": "Surface Treatment",
+        "service": "Service and Maintenance",
+        "allSubcategories": "All Subcategories",
+        "title": "Our Products",
+        "subtitle": "Comprehensive industrial painting and surface treatment solutions",
+        "surfaceTreatmentDescription": "Our surface treatment solutions provide comprehensive systems for preparing and finishing metal surfaces. From cleaning and degreasing to coating and drying, we offer complete solutions tailored to your industrial needs.",
+        "sprayBoothsDescription": "We design and manufacture high-quality spray booths that ensure optimal painting conditions. Our booths provide excellent ventilation, lighting, and temperature control for professional finishing results.",
+        "sprayTechnologyDescription": "Our spray technology equipment delivers precise and efficient coating application. We offer a wide range of spray guns, pumps, and automated systems for various industrial painting applications.",
+        "heatingTechnologyDescription": "Our heating technology solutions include industrial ovens, dryers, and heat recovery systems. We provide energy-efficient equipment designed to optimize your production processes and reduce operating costs.",
+        "serviceDescription": "Our comprehensive service department offers maintenance, repairs, and technical support for all types of industrial painting equipment. We ensure your systems operate at peak performance with minimal downtime."
+    },
+    "references": {
+        "title": "References",
+        "backToReferences": "Back to References",
+        "hallOfFame": "Hall of Fame",
+        "galleries": "Galleries"
+    },
+    "blog": {
+        "title": "Blog",
+        "articles": "Articles",
+        "backToBlog": "Back to Articles"
+    },
+    "contactPage": {
+        "title": "Contact",
+        "getInTouch": "Get in Touch",
+        "description": "Have questions? Feel free to contact us!",
+        "budaorsOffice": "Budaörs Office",
+        "bekescsabaOffice": "Békéscsaba Office",
+        "budaors": "Budaörs",
+        "bekescsaba": "Békéscsaba",
+        "name": "Name",
+        "role": "Role",
+        "department": "Department",
+        "email": "Email",
+        "telephone": "Phone",
+        "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörs Industrial Park)",
+        "bekescsabaAddress": "5600 Békéscsaba Gyulai út (opposite Lukoil)"
+    },
+    "contactForm": {
+        "title": "Contact Us!",
+        "subject": "Subject",
+        "telephone": "Phone Number",
+        "telephonePlaceholder": "Phone Number",
+        "email": "Email Address",
+        "emailPlaceholder": "Email",
+        "message": "Message",
+        "messagePlaceholder": "Message",
+        "send": "Send",
+        "sending": "Sending email...",
+        "success": "Email sent successfully!",
+        "error": "Failed to send, please try again!",
+        "required": "Required field!",
+        "minLength": "At least {min} characters!",
+        "maxLength": "No more than {max} characters!"
+    },
+    "languageDetection": {
+        "title": "Language Preference",
+        "message": "We noticed your browser is set to English. Would you like to view this website in English?",
+        "switchEnglish": "Switch to English",
+        "stayHungarian": "Stay in Hungarian"
+    }
 }
