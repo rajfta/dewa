@@ -125,7 +125,7 @@ const Footer = () => {
                         </HStack>
                         <HStack>
                             <TelephoneIcon />
-                            <Text fontSize={[12, 12, 16]}>+36 66 546 500</Text>
+                            <Text fontSize={[12, 12, 16]}>+36 30 269 0002</Text>
                         </HStack>
                         <HStack>
                             <MailIcon />
