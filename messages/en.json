@@ -108,5 +108,10 @@
         "message": "We noticed your browser is set to English. Would you like to view this website in English?",
         "switchEnglish": "Switch to English",
         "stayHungarian": "Stay in Hungarian"
+    },
+    "socialPopup": {
+        "title": "Curious about what we're working on?",
+        "message": "Follow us on LinkedIn and Facebook to get a glimpse into the everyday life at Dewa Zrt.!",
+        "dismiss": "Maybe later"
     }
 }

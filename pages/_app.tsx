@@ -9,6 +9,7 @@ import Footer from "../components/Footer";
 import LanguageDetectionDialog from "../components/LanguageDetectionDialog";
 import LocaleHead from "../components/LocaleHead";
 import Navbar from "../components/Nav/Navbar";
+import SocialFollowDialog from "../components/SocialFollowDialog";
 import theme from "../components/theme";
 import { AlternateLocaleContext } from "../hooks/useAlternateLocale";
 import { ContactContext } from "../hooks/useContact";
@@ -55,6 +56,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
                             <LocaleHead />
                             <Navbar />
                             <LanguageDetectionDialog />
+                            <SocialFollowDialog />
                             <Component {...pageProps} />
                             <Footer />
                         </ContactContext.Provider>

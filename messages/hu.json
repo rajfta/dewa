@@ -115,5 +115,10 @@
         "message": "Észrevettük, hogy böngészője angol nyelvre van beállítva. Szeretné megtekinteni ezt a weboldalt angolul?",
         "switchEnglish": "Váltás angolra",
         "stayHungarian": "Maradok magyaron"
+    },
+    "socialPopup": {
+        "title": "Érdekli, min dolgozunk épp?",
+        "message": "Kövessen be a Linkedinen és Facebookon, és pillantson be a Dewa Zrt. mindennapjaiba!",
+        "dismiss": "Később"
     }
 }
