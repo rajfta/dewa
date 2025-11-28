@@ -1,13 +1,12 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
-
 import { Divider } from "@chakra-ui/react";
 import type { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 import { useRouter } from "next/router";
-import type { FC } from "react";
+import { type FC, useEffect } from "react";
 import Carousel from "../../components/Carousel";
 import PageBody from "../../components/PageBody";
 import PageHeader from "../../components/PageHeader";
+import { useAlternateLocale } from "../../hooks";
 import { getMessages } from "../../lib/getMessages";
 
 import type { PostType } from "../../types";
@@ -18,9 +17,22 @@ type PostProps = {
 };
 
 const Reference: FC<PostProps> = ({ reference }) => {
-    const { seo, content, slug, gallery, _template } = reference;
+    const { seo, content, slug, gallery, _template, translationSlug } =
+        reference;
+    const { setAlternatePath } = useAlternateLocale();
 
     const { isFallback } = useRouter();
+
+    // Set alternate path for language switching
+    useEffect(() => {
+        if (translationSlug) {
+            setAlternatePath(`/referenciak/${translationSlug}`);
+        } else {
+            setAlternatePath(null);
+        }
+        return () => setAlternatePath(null);
+    }, [translationSlug, setAlternatePath]);
+
     if (isFallback || !slug || !reference.title) {
         console.log("ERRORPAGE");
 
@@ -101,6 +113,7 @@ export const getStaticProps: GetStaticProps = async ({
             "seo",
             "title",
             "_template",
+            "translationSlug",
         ],
         locale,
     );

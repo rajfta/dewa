@@ -1,6 +1,7 @@
 import { Button, HStack, Image, Text } from "@chakra-ui/react";
 import { useRouter } from "next/router";
 import type { FC } from "react";
+import { useAlternateLocale } from "../hooks";
 
 type LanguageSwitcherProps = {
     textColor?: string;
@@ -9,6 +10,14 @@ type LanguageSwitcherProps = {
     size?: "xs" | "sm" | "md" | "lg";
     compact?: boolean;
 };
+
+// Map dynamic content routes to their listing page fallbacks
+const CONTENT_ROUTE_FALLBACKS: Record<string, string> = {
+    "/cikkek/[slug]": "/cikkek",
+    "/referenciak/[slug]": "/referenciak",
+};
+
+const LOCALE_STORAGE_KEY = "preferredLocale";
 
 const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
     textColor = "white",
@@ -19,10 +28,28 @@ const LanguageSwitcher: FC<LanguageSwitcherProps> = ({
 }) => {
     const router = useRouter();
     const { locale, pathname, asPath, query } = router;
+    const { alternatePath } = useAlternateLocale();
 
     const changeLanguage = (newLocale: string) => {
-        // Navigate to new locale - Next.js i18n handles routing and cookie persistence
-        router.push({ pathname, query }, asPath, { locale: newLocale });
+        // Store preference so it persists across back/forward navigation
+        localStorage.setItem(LOCALE_STORAGE_KEY, newLocale);
+
+        // Use replace instead of push so the back button doesn't cycle through language switches
+        // If an alternate path is explicitly set (e.g., from frontmatter translation link), use it
+        if (alternatePath) {
+            router.replace(alternatePath, alternatePath, { locale: newLocale });
+            return;
+        }
+
+        // For content pages without explicit translation, fall back to listing page
+        const fallbackPath = CONTENT_ROUTE_FALLBACKS[pathname];
+        if (fallbackPath) {
+            router.replace(fallbackPath, fallbackPath, { locale: newLocale });
+            return;
+        }
+
+        // Default behavior: same path with new locale
+        router.replace({ pathname, query }, asPath, { locale: newLocale });
     };
 
     if (compact) {

@@ -1,12 +1,13 @@
 ---
-title: 'Military Aircraft in DEWA’s Paint Booth: The “MIG Booth” Serving for 25 Years'
+title: 'Military Aircraft in DEWA's Paint Booth: The "MIG Booth" Serving for 25 Years'
 date: 2025-07-13T00:00:00.000Z
 excerpt: >-
-  Painting military aircraft is far from an everyday task — it’s both a
+  Painting military aircraft is far from an everyday task — it's both a
   technological challenge and a matter of safety. Read on to discover how DEWA
   Zrt. has been contributing to the work of the Hungarian Defence Forces for
   over 25 years!
 coverImage: /MIG_29.JPG
+translationSlug: A_MIG_fulke
 seo:
   title: MIG Booth
   description: The "MIG" Blowtherm Booth installed by Dewa Zrt.

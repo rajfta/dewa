@@ -14,6 +14,7 @@ gallery:
 seo:
   title: New Installation at Toyota & Lexus Dealership
   description: New Blowtherm Installation at Toyota & Lexus Dealership by Dewa Zrt.
+translationSlug: Új telepítés a Toyota&Lexus márkakereskedésben
 _template: reference_gallery
 ---
 

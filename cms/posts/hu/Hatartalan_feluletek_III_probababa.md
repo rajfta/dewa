@@ -7,6 +7,7 @@ excerpt: >-
   cégünk több területen van jelen, mint azt gondolná! Olvassa el cikkünket, és
   ismerje meg, hogyan vesz részt vállalatunk a divatiparban!
 coverImage: /probababa oltonyben.png
+translationSlug: Unlimited_Surfaces_III_Mannequins
 seo:
   title: Határtalan felületek I Próbababa
   description: A Dewa Zrt. festőipari vállalat és a divatipar kapcsolódása

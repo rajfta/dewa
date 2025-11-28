@@ -17,6 +17,7 @@ seo:
   description: >-
     Átadásra került legújabb beruházásunk Monoron. Blowtherm Extra fényezőfülke,
     PLC-s érintőképernyős vezérléssel, teljesen öntartó szerkezettel.
+translationSlug: New Blowtherm Extra Booth in Monor
 _template: reference_gallery
 ---
 

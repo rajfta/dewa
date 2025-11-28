@@ -32,6 +32,7 @@ gallery:
 seo:
   title: Fully Equipped Pretreatment and Painting Line in Mezőberény
   description: Fully Equipped Pretreatment and Painting Line in Mezőberény by Dewa Zrt.
+translationSlug: Komplett előkezelő és festősor Mezőberényben
 _template: reference_gallery
 ---
 

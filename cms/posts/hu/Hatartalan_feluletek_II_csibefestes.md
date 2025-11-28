@@ -7,6 +7,7 @@ excerpt: >-
   alakítottuk át az ipari festéstechnikát biztonságos, állatbarát megoldássá egy
   keltetőüzem számára!
 coverImage: /csibe.png
+translationSlug: Unlimited_Surfaces_II_Chicks
 seo:
   title: Határtalan felületek I Csibefestés
   description: A Dewa Zrt. speciális megoldása egy keltetőüzem számára

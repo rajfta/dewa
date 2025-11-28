@@ -5,10 +5,11 @@ excerpt: >-
   What does Dewa Zrt. have to do with jeans manufacturing?
 
   The story of jeans spans more than 150 years, and over time, this garment has
-  become one of the world’s most iconic fashion items. But few people know that
+  become one of the world's most iconic fashion items. But few people know that
   a Hungarian company, Dewa Zrt. has also played a part in this global success
   story.
 coverImage: /farmerfeste%CC%81s.jpg
+translationSlug: Hatartalan_feluletek_I_farmerfestes
 seo:
   title: Jeans Manufacturing I Dewa Zrt.
   description: Dewa Zrt.'s role in jeans manufacturing in Hungary

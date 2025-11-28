@@ -20,6 +20,7 @@ seo:
   description: >-
     Mészáros&Mészáros Kft. telephelyén 2021-ben telepített Blowtherm
     fényezőfülkék és Blowtherm előkészítő állások + festékkeverő konyha
+translationSlug: fully-equipped-body-shop-paint-workshop
 _template: reference_gallery
 ---
 

@@ -25,6 +25,7 @@ seo:
   description: >-
     A Dewa Zrt. által tervezett és kivitelezett automata mártó - előkezelő és
     porfestő sor a győri Aquacomet Kft. -nél. Blowtherm, Wagner
+translationSlug: Automatic_Pretreatment_and_Powder_Coating_Line
 _template: referencia
 ---
 

@@ -15,6 +15,7 @@ gallery:
 seo:
   title: Our Spray Booths at Korda Film Studio
   description: Blowtherm Spray Booths installed at Korda Film Studio by Dewa Zrt.
+translationSlug: Fényezőfülkéink a Korda Filmstúdióban
 _template: reference_gallery
 ---
 

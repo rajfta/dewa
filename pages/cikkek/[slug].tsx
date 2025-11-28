@@ -2,9 +2,10 @@ import { Divider } from "@chakra-ui/react";
 import type { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 import { useRouter } from "next/router";
-import type { FC } from "react";
+import { type FC, useEffect } from "react";
 import PageBody from "../../components/PageBody";
 import PageHeader from "../../components/PageHeader";
+import { useAlternateLocale } from "../../hooks";
 import { getMessages } from "../../lib/getMessages";
 import type { PostType } from "../../types";
 import { getAllContents, getContentBySlug } from "../../util";
@@ -14,9 +15,21 @@ type PostProps = {
 };
 
 const Post: FC<PostProps> = ({ post }) => {
-    const { seo, content, slug } = post;
+    const { seo, content, slug, translationSlug } = post;
+    const { setAlternatePath } = useAlternateLocale();
 
     const { isFallback } = useRouter();
+
+    // Set alternate path for language switching
+    useEffect(() => {
+        if (translationSlug) {
+            setAlternatePath(`/cikkek/${translationSlug}`);
+        } else {
+            setAlternatePath(null);
+        }
+        return () => setAlternatePath(null);
+    }, [translationSlug, setAlternatePath]);
+
     if (isFallback || !slug || !post.title) {
         return <div>ERRORPAGE</div>;
     }
@@ -55,7 +68,16 @@ export const getStaticProps: GetStaticProps = async ({
     const post = getContentBySlug(
         "posts",
         slug as string,
-        ["slug", "content", "coverImage", "date", "excerpt", "seo", "title"],
+        [
+            "slug",
+            "content",
+            "coverImage",
+            "date",
+            "excerpt",
+            "seo",
+            "title",
+            "translationSlug",
+        ],
         locale,
     );
     const serializedPost = {

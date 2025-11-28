@@ -19,6 +19,7 @@ seo:
   description: >-
     Turnkey paint workshop solution with state-of-the-art Blowtherm equipment
     and automated systems by Dewa Zrt.
+translationSlug: komplett-auto-karosszeria-fenyezo-muhely
 _template: reference_gallery
 ---
 

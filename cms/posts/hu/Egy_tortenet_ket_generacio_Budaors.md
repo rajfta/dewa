@@ -10,6 +10,7 @@ excerpt: >-
   jövője még fényesebb legyen. Olvasd el a történetüket, és ismerd meg, hogyan
   alakítják együtt a vállalat következő fejezetét!
 coverImage: /Buczko_Peter_es_Patrick.jpg
+translationSlug: One_Story_Two_Generations_Budaors
 seo:
   title: Generációk együttműködése I Budaörs
   description: >-

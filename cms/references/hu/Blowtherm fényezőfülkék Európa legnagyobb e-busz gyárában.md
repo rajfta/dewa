@@ -23,6 +23,7 @@ seo:
   description: >-
     Elektromos buszgyárban telepített 6 darab Blowtherm fényezőfülke, alvázvédő,
     kisalkatrész festő és előkészítő állások a Dewa Zrt. által
+translationSlug: Blowtherm Spray Booths in Europe's Largest E-Bus Factory
 _template: reference_gallery
 ---
 

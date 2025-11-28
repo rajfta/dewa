@@ -17,7 +17,8 @@ seo:
   description: >-
     Több ütemben épített festőfülke beruházás az etyeki Korda Filmstúdió
     területén. Összesen 3 festőberendezés biztosítja a munkafolyamatok
-    fennakadás mentes elvégzését. 
+    fennakadás mentes elvégzését.
+translationSlug: Our Spray Booths at Korda Film Studio
 _template: reference_gallery
 ---
 

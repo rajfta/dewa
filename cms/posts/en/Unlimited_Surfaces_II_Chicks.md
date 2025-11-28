@@ -7,6 +7,7 @@ excerpt: >-
   how we transformed industrial coating technology into a safe, animal-friendly
   solution for a hatchery.
 coverImage: /csibe.png
+translationSlug: Hatartalan_feluletek_II_csibefestes
 seo:
   title: Unlimited Surfaces II. I Painting Chicks
   description: A special animal-friendly painting solution for a hatchery from Dewa Zrt

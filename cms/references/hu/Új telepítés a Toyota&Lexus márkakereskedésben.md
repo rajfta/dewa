@@ -18,6 +18,7 @@ seo:
     speciális fűtési technológiákkal lettek felszerelve: duál égő (olaj és gáz
     tüzelésére egyaránt alkalmas), valamint direkt gázégő biztosítja a
     berendezések fűtését.
+translationSlug: New_Installation_at_Toyota_&_Lexus Dealership
 _template: reference_gallery
 ---
 

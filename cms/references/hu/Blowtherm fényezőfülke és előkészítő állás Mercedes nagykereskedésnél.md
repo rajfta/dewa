@@ -20,6 +20,7 @@ seo:
     Prémium kiépítettségű Blowtherm fényező - szárító fülke Magyarország
     legnagyobb Mercedes kereskedésében. PLC vezérlés, Blowtherm GV/VA
     direktgázégő
+translationSlug: Blowtherm Spray Booth and Preparation Station at a Mercedes Dealership
 _template: reference_gallery
 ---
 

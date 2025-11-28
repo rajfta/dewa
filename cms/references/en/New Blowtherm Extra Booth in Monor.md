@@ -15,6 +15,7 @@ gallery:
 seo:
   title: New Blowtherm Extra Booth in Monor
   description: New Blowtherm Extra Booth installation in Monor by Dewa Zrt.
+translationSlug: uj-blowtherm-extra-fulke-monoron
 _template: reference_gallery
 ---
 

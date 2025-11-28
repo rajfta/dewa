@@ -21,6 +21,7 @@ seo:
   description: >-
     Blowtherm spray booth, paint-mixing room, and preparation station installed
     at the Mészáros & Mészáros Fleet site in 2021 by Dewa Zrt.
+translationSlug: komplett_auto_karosszeria_fenyezo_muhely
 _template: referencia
 ---
 

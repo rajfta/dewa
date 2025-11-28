@@ -7,9 +7,10 @@ excerpt: >-
   Békéscsaba headquarters operates and how the Ursz family is preparing for the
   generational handover!
 coverImage: /Urszek.jpg
+translationSlug: Egy_tortenet_ket_generacio_Bekescsaba
 seo:
   title: 'One Story, Two Generations – Békéscsaba Headquarters'
-  description: Operation and management of Dewa Zrt.’s Békéscsaba headquarters
+  description: Operation and management of Dewa Zrt.'s Békéscsaba headquarters
 ---
 
 The story of Dewa Zrt. began in 1990, when three former colleagues – Péter Buczkó, József Ursz, and later buyout partner Géza Bradács – decided to leave the state sector and start their own company, involving Péter’s wife, Ariela De Ambrosi. Drawing on their expertise and market experience from their previous workplace, HAFE (Gear and Painting Equipment Factory), they launched a private painting business under the name Dewa Kft.

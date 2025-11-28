@@ -7,9 +7,10 @@ excerpt: >-
 
   Read on to learn more about our company and the full range of our activities!
 coverImage: /uploads/robotkezt.png
+translationSlug: Bemutatkozas
 seo:
   title: Introduction
-  description: A brief overview of Dewa Zrt.’s industrial painting activities
+  description: A brief overview of Dewa Zrt.'s industrial painting activities
 ---
 
 Welcome to the Dewa Zrt. website, where you'll find solutions for all your industrial painting equipment needs! Our team is committed to providing high-quality, efficient solutions tailored to our clients' individual requirements.

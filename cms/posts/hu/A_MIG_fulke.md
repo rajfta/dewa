@@ -1,11 +1,12 @@
 ---
-title: 25 éve szolgál a „MIG fülke” - Katonai gépek a Dewa Zrt. festőfülkéjében
+title: 25 éve szolgál a „MIG fülke" - Katonai gépek a Dewa Zrt. festőfülkéjében
 date: 2025-07-13T00:00:00.000Z
 excerpt: >-
   A katonai repülőgépek festése nem mindennapi feladat: egyszerre technológiai
   kihívás és biztonsági felelősség. Olvassa el a cikket, és ismerje meg, hogyan
   vesz részt a Dewa Zrt. több mint 25 éve a Honvédség munkájában!
 coverImage: /MIG_29.JPG
+translationSlug: MIG_Booth
 seo:
   title: Katonai gépek festése I MIG fülke
   description: A Dewa Zrt. által telepített Blowtherm festőfülke a Honvédség falain belül

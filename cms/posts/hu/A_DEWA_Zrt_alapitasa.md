@@ -6,6 +6,7 @@ excerpt: >-
   budaörsi és békéscsabai központunk működését, és ismerje meg, hogyan dolgoznak
   együtt vezetőink a vállalat sikereiért!
 coverImage: /alapitok es fiaik.jpg
+translationSlug: founding-of-dewa-zrt
 seo:
   title: A Dewa Zrt. alapítása és jelenlegi működése
   description: A Dewa Zrt. festőipari cég alapításának története és jelenlegi működése

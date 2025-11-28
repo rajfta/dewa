@@ -29,6 +29,7 @@ seo:
   description: >-
     Combined automatic KTL and powder coating line installed at BUMET Kft. in
     Debrecen in 2020 by Dewa Zrt.
+translationSlug: automata-ktl-es-porfesto-sor
 _template: reference_gallery
 ---
 

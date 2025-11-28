@@ -8,6 +8,7 @@ excerpt: >-
   át kell adni. Olvassa el cikkünket és ismerje meg közelebbről, hogyan működik
   a békéscsabai központ, és miként készül az Ursz család a generációváltásra!
 coverImage: /Urszek.jpg
+translationSlug: One_Story_Two_Generations_Bekescsaba
 seo:
   title: Generációk együttműködése I Békéscsaba
   description: A Dewa Zrt. festőipari cég békéscsabai központjának működése és irányítása

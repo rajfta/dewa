@@ -34,7 +34,8 @@ seo:
   title: Komplett előkezelő és festősor Mezőberényben
   description: >-
     Cégünk teljes körben egyedi, saját tervezésben készült kézi mozgatású
-    előzekelő és festősora. Blowtherm fényező fülkék, Filcar mobil porelszívók 
+    előzekelő és festősora. Blowtherm fényező fülkék, Filcar mobil porelszívók
+translationSlug: Fully-equipped Pretreatment and Painting Line in Mezőberény
 _template: reference_gallery
 ---
 

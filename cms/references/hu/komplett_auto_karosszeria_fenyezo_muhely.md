@@ -22,7 +22,8 @@ seo:
   title: Karosszéria festő műhely | Dewa Zrt.
   description: >-
     Mészáros&Mészáros Flotta telephelyén 2021-ben telepített Blowtherm
-    fényezőfülke, festékkeverő és előkészítőállás 
+    fényezőfülke, festékkeverő és előkészítőállás
+translationSlug: Fully_Equipped_Body_Painting_Workshop
 _template: referencia
 ---
 

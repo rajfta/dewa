@@ -3,6 +3,7 @@ title: 'Bemutatkozás: kik vagyunk mi? '
 date: 2023-02-01T00:00:00.000Z
 excerpt: 'Cégünk és szolgáltatásaink rövid bemutatása. Ismerjen meg Minket közelebbről! '
 coverImage: /uploads/robotkezt.png
+translationSlug: introduction
 seo:
   title: Bemutatkozás | Dewa Zrt. | Ipari festőberendezések
   description: A Dewa Zrt. festőipari cég tevékenységeinek rövid bemutatása

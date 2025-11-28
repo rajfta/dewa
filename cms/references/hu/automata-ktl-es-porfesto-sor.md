@@ -29,6 +29,7 @@ seo:
   description: >-
     Kombinált automata KTL és porfestő sor a debreceni BUMET Kft. telephelyén
     telepítve 2020-ban a Dewa Zrt. által
+translationSlug: automatic-ktl-powder-coating-line
 _template: reference_gallery
 ---
 

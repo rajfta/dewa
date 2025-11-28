@@ -16,6 +16,7 @@ seo:
   description: >-
     Blowtherm Spray Booth and Preparation Station at a Mercedes Dealership by
     Dewa Zrt.
+translationSlug: Blowtherm fényezőfülke és előkészítő állás Mercedes nagykereskedésnél
 _template: reference_gallery
 ---
 

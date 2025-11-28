@@ -30,6 +30,13 @@ export function postFields() {
             label: "coverImage",
         },
         {
+            type: "string",
+            name: "translationSlug",
+            label: "Translation Slug",
+            description:
+                "The slug of this content in the other language (for language switching)",
+        },
+        {
             type: "object",
             name: "seo",
             label: "seo",
@@ -202,6 +209,13 @@ export function reference_galleryFields() {
             list: true,
         },
         {
+            type: "string",
+            name: "translationSlug",
+            label: "Translation Slug",
+            description:
+                "The slug of this content in the other language (for language switching)",
+        },
+        {
             type: "object",
             name: "seo",
             label: "seo",
@@ -248,6 +262,13 @@ export function reference_hall_of_fameFields() {
             name: "gallery",
             label: "gallery",
             list: true,
+        },
+        {
+            type: "string",
+            name: "translationSlug",
+            label: "Translation Slug",
+            description:
+                "The slug of this content in the other language (for language switching)",
         },
         {
             type: "object",

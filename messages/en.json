@@ -6,7 +6,8 @@
         "getStarted": "Get Started",
         "readArticle": "Read More",
         "backTo": "Back to",
-        "send": "Send"
+        "send": "Send",
+        "back": "Back"
     },
     "nav": {
         "home": "Home",

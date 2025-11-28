@@ -14,6 +14,7 @@ seo:
   description: >-
     Automatic pretreatment and powder coating line installed for Aquacomet Kft.
     by Dewa Zrt.
+translationSlug: Automata_elokezelo_es_porfesto_sor
 _template: referencia
 ---
 

@@ -59,6 +59,7 @@ export type PostType = {
     content: string;
     seo: SeoType;
     _template: string;
+    translationSlug?: string;
 };
 
 export type PostKeys = keyof PostType;

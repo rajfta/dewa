@@ -4,9 +4,10 @@ date: 2025-08-14T00:00:00.000Z
 excerpt: >-
   Discover the story of DEWA Zrt. from its beginnings to the present day.
   Explore the operations of our Budaörs and Békéscsaba headquarters, and learn
-  how our leadership team works together to drive the company’s continued
+  how our leadership team works together to drive the company's continued
   success.
 coverImage: /alapitok%20es%20fiaik.jpg
+translationSlug: A_DEWA_Zrt_alapitasa
 seo:
   title: The Founding of DEWA Zrt. | Company History
   description: >-
