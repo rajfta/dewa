@@ -365,12 +365,12 @@ const Contact: FC<ContactProps> = ({ contacts }) => {
                         loading="lazy"
                         title="Dewa HQ"
                         allowFullScreen
-                        src="https://www.google.com/maps/embed/v1/place?q=dewa&key=AIzaSyDGQJAOWTOczUfw4RU9YoRBdpD44Kas81Q&zoom=14"
+                        src="https://www.google.com/maps/embed/v1/place?q=Dewa+Zrt.+Budaors&key=AIzaSyDGQJAOWTOczUfw4RU9YoRBdpD44Kas81Q&zoom=14"
                     />
                 ) : (
                     <iframe
                         title="Dewa Bekescsaba"
-                        src="https://www.google.com/maps/embed/v1/place?q=dewa+bekescsaba&key=AIzaSyDGQJAOWTOczUfw4RU9YoRBdpD44Kas81Q&zoom=14"
+                        src="https://www.google.com/maps/embed/v1/place?q=Dewa+Zrt.+Bekescsaba&key=AIzaSyDGQJAOWTOczUfw4RU9YoRBdpD44Kas81Q&zoom=14"
                         allowFullScreen
                         loading="lazy"
                         referrerPolicy="no-referrer-when-downgrade"
