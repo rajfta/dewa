@@ -3,7 +3,7 @@ import type { GetStaticProps } from "next";
 import { useRouter } from "next/router";
 import PageBody from "../components/PageBody";
 import { getMessages } from "../lib/getMessages";
-import { getAllContents } from "../util";
+import { getContentBySlug } from "../util";
 
 type PrivacyPolicyProps = {
     title: string;
@@ -36,28 +36,29 @@ const PrivacyPolicy = ({ title, content, lastUpdated }: PrivacyPolicyProps) => {
 export const getStaticProps: GetStaticProps = async ({ locale = "hu" }) => {
     const messages = await getMessages(locale);
 
-    // Get all privacy policy files for this locale
+    // Get privacy policy content for this locale
+    // Files are named hu.md and en.md, so use locale as slug
     // biome-ignore lint/suspicious/noExplicitAny: Privacy content type not in parser Field types
-    const allPrivacy = getAllContents(
+    const privacy = getContentBySlug(
         "privacy",
-        ["title", "content"] as any,
         locale,
-    );
+        ["title", "content", "lastUpdated"] as any,
+        locale,
+    ) as any;
 
-    if (!allPrivacy || allPrivacy.length === 0) {
+    if (!privacy || !privacy.title) {
         return {
             notFound: true,
         };
     }
 
-    // biome-ignore lint/suspicious/noExplicitAny: Privacy content has custom fields
-    const privacy = allPrivacy[0] as any;
-
     return {
         props: {
             title: privacy.title,
             content: privacy.content,
-            lastUpdated: privacy.lastUpdated || new Date().toISOString(),
+            lastUpdated: privacy.lastUpdated
+                ? new Date(privacy.lastUpdated).toISOString()
+                : new Date().toISOString(),
             messages,
         },
     };
