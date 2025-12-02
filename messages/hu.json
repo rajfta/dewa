@@ -48,6 +48,7 @@
         "successfulProjects": "Sikeres Projekt"
     },
     "products": {
+        "close": "Bezár",
         "sprayBooths": "Fényezőfülkék",
         "sprayTechnology": "Szórástechnika",
         "combustionTechnology": "Tüzeléstechnika",

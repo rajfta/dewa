@@ -48,6 +48,7 @@
         "successfulProjects": "Successful Projects"
     },
     "products": {
+        "close": "Close",
         "sprayBooths": "Spray Booths",
         "sprayTechnology": "Spray Technology",
         "combustionTechnology": "Combustion Technology",

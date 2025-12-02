@@ -14,6 +14,7 @@ import ReactMarkdown from "react-markdown";
 import type { ProductType } from "../types";
 
 import { Button } from "./uikit";
+import { useTranslations } from "next-intl";
 
 type ProductProps = {
     product: ProductType;
@@ -61,6 +62,8 @@ const ProductModal = ({
     product,
     onClose,
 }: ProductModalProps) => {
+    const t = useTranslations("products");
+
     const handleClose = () => {
         setOpen(false);
         if (onClose) {
@@ -126,7 +129,7 @@ const ProductModal = ({
                                             className="inline-flex justify-center flex-1 rounded-md border-transparent shadow-sm px-4 py-2 text-base font-medium focus:outline-none focus:ring-transparent text-white sm:text-sm"
                                             onClick={handleClose}
                                         >
-                                            Bezár
+                                            {t("close")}
                                         </Button>
                                     </div>
                                 </div>
