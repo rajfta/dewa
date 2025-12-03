@@ -2,11 +2,11 @@
 nev: Tüzeléstechnika divízió
 role: divízió
 role_en: division
+helyszin: budaors
 reszleg: tüzeléstechnika
 reszleg_en: heating technology
-helyszin: budaors
 email: tuzelestechnika@dewa.hu
-telefonszam: '+3623889770'
+telefonszam: +36 23 889 770
 ---
 
 Tüzeléstechnika divízió
