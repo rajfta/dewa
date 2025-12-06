@@ -106,7 +106,10 @@
         "error": "Failed to send, please try again!",
         "required": "Required field!",
         "minLength": "At least {min} characters!",
-        "maxLength": "No more than {max} characters!"
+        "maxLength": "No more than {max} characters!",
+        "consent": "I consent to DEWA Zrt. processing my data to respond to my inquiry",
+        "consentRequired": "Please accept the privacy policy!",
+        "privacyPolicy": "Privacy Policy"
     },
     "languageDetection": {
         "title": "Language Preference",
