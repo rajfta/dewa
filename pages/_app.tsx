@@ -15,6 +15,15 @@ import { AlternateLocaleContext } from "../hooks/useAlternateLocale";
 import { ContactContext } from "../hooks/useContact";
 import { StoreProvider, useHydrate } from "../store";
 
+// Import fallback messages for SSG
+import huMessages from "../messages/hu.json";
+import enMessages from "../messages/en.json";
+
+const fallbackMessages: Record<string, typeof huMessages> = {
+    hu: huMessages,
+    en: enMessages,
+};
+
 const LOCALE_STORAGE_KEY = "preferredLocale";
 
 const MyApp = ({ Component, pageProps }: AppProps) => {
@@ -24,25 +33,29 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
     const [alternatePath, setAlternatePath] = useState<string | null>(null);
 
     // Redirect to preferred locale if it differs from current locale
-    const { asPath, locale, isReady, replace } = router;
+    const { asPath, locale: routerLocale, isReady, replace } = router;
     useEffect(() => {
         if (typeof window === "undefined" || !isReady) return;
 
         const storedLocale = localStorage.getItem(LOCALE_STORAGE_KEY);
-        if (storedLocale && storedLocale !== locale) {
+        if (storedLocale && storedLocale !== routerLocale) {
             replace(asPath, asPath, { locale: storedLocale });
         }
-    }, [asPath, locale, isReady, replace]);
+    }, [asPath, routerLocale, isReady, replace]);
 
     const alternateLocaleValue = useMemo(
         () => ({ alternatePath, setAlternatePath }),
         [alternatePath],
     );
 
+    // Use pageProps.messages if available, otherwise fall back to imported messages
+    const locale = router.locale || "hu";
+    const messages = pageProps.messages || fallbackMessages[locale] || fallbackMessages.hu;
+
     return (
         <NextIntlClientProvider
-            locale={router.locale}
-            messages={pageProps.messages}
+            locale={locale}
+            messages={messages}
             timeZone="Europe/Budapest"
         >
             <ChakraProvider theme={theme}>
