@@ -13,7 +13,7 @@ seo:
     technológiák jellemzői, mire mit használjunk, és mit mivel fessünk
 ---
 
-### Szórópisztolyok és festőszivattyúk
+## Szórópisztolyok és festőszivattyúk
 
 A szórópisztolyoknak 3 nagy csoportja van, a levegőporlasztású, a középnyomású és a magasnyomású pisztolyok, melyeket további alcsoportokba lehet osztani:
 
@@ -23,7 +23,7 @@ A **levegőporlasztású**ba tartoznak a tartályos pisztolyok, amin belül vann
 
 A **festőszivattyú**k első csoportja az alacsony nyomású, membrán szivattyúk, például a Kremlin Prima 01D100, 01D140 vagy a Timmer, míg a középnyomású, dugattyús, nyomótalpas csoportba a Kremlin 40-es sorozata, a 34F60 és az Azur tartozik.
 
-### Mire mit használjunk
+## Mire mit használjunk
 
 **Autófényezéshez** a levegőporlasztású tartályos pisztolyok a legalkalmasabbak, ezen belül pedig a következők:
 
@@ -57,7 +57,7 @@ A **festőszivattyú**k első csoportja az alacsony nyomású, membrán szivatty
   * Nagy rétegvastagság jellemzi, sűrű anyagok
   * Anyagellátás: Kremlin 34F60, 40C sorozat, Azur
 
-### Mit mivel fessünk
+## Mit mivel fessünk
 
 Híg lakkok, zománcok és pácok esetében a tartályos pisztolyok, 0,8 – 1,5 mm fúvóka méretig, míg vastag lazúrok esetén a középnyomású, Airmix pisztolyok, 0,4-0,9-es fúvókával és EOS szivattyúval ajánlottak.
 
@@ -74,18 +74,18 @@ Híg lakkok, zománcok és pácok esetében a tartályos pisztolyok, 0,8 – 1,5
 * középnyomású, Airmix pisztolyoknál 09-es fúvóka és EOS, 20C, 40C szivattyú,
 * míg magasnyomású, Airless pisztolyok esetén a 06-12-es fúvóka és 40C, 34F60, Azur szivattyúk az ajánlottak.
 
-### Speciális szórási technológiák
+## Speciális szórási technológiák
 
-\-	Automata, robot szórófejek: Airspray (A35, A25F), Airmix (AVX, ATX), Airless (ASI24, ASI40)
+**-	Automata, robot szórófejek:** Airspray (A35, A25F), Airmix (AVX, ATX), Airless (ASI24, ASI40)
 
-\-	Elektrosztatikus:
+**-	Elektrosztatikus:**
 
 * Kézi: Nanogun Airspray, Nanogun Airmix
 * Automata: KA Airspray, KA Airmix, TRP501
 * Robotos: TRP501, PPH707 MS
 * Harang: Nanobell 2, PPH707, PPH803, Accubell 709 EVO
 
-\-	Több komponenses technológia
+\-	**Több komponenses technológia:**
 
 * Fix keverési arányú
   * PU2125, PU2160 (1:1;1:2;1:5;1:10)
@@ -93,7 +93,7 @@ Híg lakkok, zománcok és pácok esetében a tartályos pisztolyok, 0,8 – 1,5
   * PU3000 (Airspray, Airmix, Airless) – 1 szín:1 B komp.
   * Cyclomix EVO 2K / 3K (Airspray, Airmix, Airless) – 1 – 15 szín: 1-3 B komp.
 
-\-	Porfestés
+**-	Porfestés:**
 
 * Kézi: Wagner, Sames (Inocart, Inogun M)
 * Automata: Wagner, Sames (Inogun A, Inobell)
