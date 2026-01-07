@@ -29,7 +29,7 @@ Míg a felső vagy alsó tartályos pisztolyokkal kiváló minőségű festett f
 
 ### Levegő nélküli, Airless szórás
 
-Mint az elnevezés is sugallja, itt olyan festési eljárásról van szó, ahol a levegő segítségét nem veszik igénybe a festék felhordásánál, porlasztásánál. Itt a fúvókán levő furatok mérete, száma és helyzete határozza meg a porlasztás méretét, minőségét és a „szóráskép” szélességét. Magasnyomású szivattyú nyomja a festéket a pisztolyba, ahonnan 190-400 bar nyomással távozik a festék. Ez a nyomás a fúvóka speciálisan kialakított furatán keresztül, hatalmas erővel és sebességgel szórja ki a festéket, menet közben itt viszont nincs lehetőség a módosításra.
+Mint az elnevezés is sugallja, itt olyan festési eljárásról van szó, ahol a levegő segítségét nem veszik igénybe a festék felhordásánál, porlasztásánál. Itt a fúvókán levő furatok mérete, száma és helyzete határozza meg a porlasztás méretét, minőségét és a „szóráskép” szélességét. Magasnyomású szivattyú nyomja a festéket a pisztolyba, ahonnan 190-400 bar nyomással távozik a festék. Ez a nyomás a fúvóka speciálisan kialakított furatán keresztül, hatalmas erővel és sebességgel szórja ki a festéket, viszont menet közben nincs lehetőség a módosításra.
 
 Előnye, hogy rendkívül gyors vele a munkavégzés, vastag a felvitt réteg, és nagyon sűrű festékek is fel tud vinni. A fúvókakínálat itt is nagyon széles, és fordítós fúvóka használata esetén a dugulásoknál nem kell fúvókát cserélni, mert 3 mozdulattal megszüntethető a dugulás (1: fordítós fúvóka elfordítása 180 fokban; 2: ravasz pillanatnyi megnyomása; 3: fúvóka visszafordítása). Hígítás nélkül is kiszórhatóak a festékek.
 
