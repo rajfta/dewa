@@ -25,14 +25,14 @@ A **festőszivattyú**k első csoportja az alacsony nyomású, membrán szivatty
 
 ### Mire mit használjunk
 
-Autófényezéshez a levegőporlasztású tartályos pisztolyok a legalkalmasabbak, ezen belül pedig a következők:
+**Autófényezéshez** a levegőporlasztású tartályos pisztolyok a legalkalmasabbak, ezen belül pedig a következők:
 
 * Alapozás, füllerezés: Sagola Classic Lux vagy Pro, Sagola 3300 GTO, Kremlin FStart
 * Bázis szín: Sagola 3300 GTO Car, Sagola 4100, Kremlin FPro G.
 * Lakkozás: Sagola 4600, 4100
 * Hibajavítás: Sagola Mini Extreme
 
-Kis méretű fém és fa alkatrészekre a következőket ajánljuk:
+**Kis méretű fém és fa alkatrészekre a következőket ajánljuk:**
 
 * Levegőporlasztású, tartályos pisztolyok:
   * Sagola Classic Pro, Sagola 3300 GTO, Kremlin FPO G.
@@ -46,7 +46,7 @@ Kis méretű fém és fa alkatrészekre a következőket ajánljuk:
   * Kevés színváltás és 20- kg/műszak festékfelhasználás jellemzi; közepesen sűrű anyagok
   * Anyagellátás: Kremlin EOS sorozat, Kremlin 20C sorozat
 
-Nagyobb méretű alkatrészek esetén:
+**Nagyobb méretű alkatrészek esetén:**
 
 * „Középnyomású” pisztolyok:
   * Kremlin Xcite, Berizzi Mach3
@@ -61,13 +61,13 @@ Nagyobb méretű alkatrészek esetén:
 
 Híg lakkok, zománcok és pácok esetében a tartályos pisztolyok, 0,8 – 1,5 mm fúvóka méretig, míg vastag lazúrok esetén a középnyomású, Airmix pisztolyok, 0,4-0,9-es fúvókával és EOS szivattyúval ajánlottak.
 
-Füllerek és vékony lazúrok esetén:
+**Füllerek és vékony lazúrok esetén:**
 
 * a tartályos pisztolyok 1,3 – 2 mm fúvókával,
 * nyomórendszerű pisztolyok 1,1 – 1,5 mm fúvókával és membrán szivattyúval, nyomótartállyal,
 * míg a középnyomású, Airmix pisztolyok 0,6-0,9-es fúvókával és EOS, 20C szivattyú használatával ajánlottak.
 
-Az alapozóknál:
+**Az alapozóknál:**
 
 * tartályos pisztolyok esetén 2 – 2,5 mm fúvóka,
 * nyomórendszerű pisztolyoknál 1,3 – 1,6 mm fúvóka és membrán szivattyú, nyomótartály,
@@ -98,3 +98,5 @@ Az alapozóknál:
 * Kézi: Wagner, Sames (Inocart, Inogun M)
 * Automata: Wagner, Sames (Inogun A, Inobell)
 * Robot: Sames (Inobell R, Inogun R)
+
+Ha érdekli a szórástechnika világa, olvasson bele a cikksorozatunk többi részébe is!
