@@ -15,13 +15,13 @@ seo:
 
 ## Szórópisztolyok és festőszivattyúk
 
-A szórópisztolyoknak 3 nagy csoportja van, a levegőporlasztású, a középnyomású és a magasnyomású pisztolyok, melyeket további alcsoportokba lehet osztani:
+A **szórópisztolyok**nak 3 nagy csoportja van, a levegőporlasztású, a középnyomású és a magasnyomású pisztolyok, melyeket további alcsoportokba lehet osztani:
 
-A **levegőporlasztású**ba tartoznak a tartályos pisztolyok, amin belül vannak még felsőtartályos (Sagola Classic, 3300, 4100, 4600; Kremlin FStart, FPro G) és alsótartályos pisztolyok, illetve a nyomórendszerű pisztolyok (Kremlin FPro P).
+A levegőporlasztásúba tartoznak a tartályos pisztolyok, amin belül vannak még felsőtartályos (Sagola Classic, 3300, 4100, 4600; Kremlin FStart, FPro G) és alsótartályos pisztolyok, illetve a nyomórendszerű pisztolyok (Kremlin FPro P).
 
-**Középnyomású **az AirmixTM, azon belül a Kremlin XCite; a Polyhose Mach3, míg **magasnyomú **az Airless Kremlin SFlow, Polyhose RST sorozata.
+Középnyomású az AirmixTM, azon belül a Kremlin XCite; a Polyhose Mach3, míg magasnyomú az Airless Kremlin SFlow, Polyhose RST sorozata.
 
-A **festőszivattyú**k első csoportja az alacsony nyomású, membrán szivattyúk, például a Kremlin Prima 01D100, 01D140 vagy a Timmer, míg a középnyomású, dugattyús, nyomótalpas csoportba a Kremlin 40-es sorozata, a 34F60 és az Azur tartozik.
+A **festőszivattyúk **első csoportja az alacsony nyomású, membrán szivattyúk, például a Kremlin Prima 01D100, 01D140 vagy a Timmer, míg a középnyomású, dugattyús, nyomótalpas csoportba a Kremlin 40-es sorozata, a 34F60 és az Azur tartozik.
 
 ## Mire mit használjunk
 
