@@ -10,7 +10,7 @@ excerpt: >-
 
 ### Application Guide — What to Use for What
 
-Automotive Refinishing
+**Automotive Refinishing:**
 
 For car painting, air-atomizing cup guns are the most suitable. Recommended models for specific tasks:
 
@@ -19,7 +19,7 @@ For car painting, air-atomizing cup guns are the most suitable. Recommended mode
 * Clearcoat: Sagola 4600, 4100
 * Spot repair: Sagola Mini Extreme
 
-Small Metal or Wood Components
+**Small Metal or Wood Components:**
 
 * Air-atomizing cup guns: Sagola Classic Pro, Sagola 3300 GTO, Kremlin FPro G
   * Suitable for frequent color changes, low material use (1–5 kg/day per color), and low-viscosity coatings
@@ -30,7 +30,7 @@ Small Metal or Wood Components
   * Few color changes, up to 20 kg/shift; medium-viscosity coatings
   * Material supply: Kremlin EOS or 20C series
 
-Larger Components
+**Larger Components:**
 
 Medium-pressure guns: Kremlin XCite, Berizzi Mach3
 
