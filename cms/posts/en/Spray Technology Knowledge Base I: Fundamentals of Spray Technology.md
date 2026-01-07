@@ -51,3 +51,50 @@ High-pressure guns: Kremlin SFlow, Berizzi RST series
 
 * High film build; high-viscosity coatings
 * Material supply: Kremlin 34F60, 40C, or Azur
+
+### Material Compatibility — What to Use With What
+
+For thin lacquers, enamels, and stains, cup guns with nozzle sizes ranging from 0.8 to 1.5 mm are recommended. For thicker glazes, medium-pressure Airmix™ guns with 0.4–0.9 mm nozzles and an EOS pump are advised.
+
+**For fillers and thin glazes:**
+
+* Cup guns should use 1.3–2 mm nozzles.
+* Pressure-feed guns are recommended with 1.1–1.5 mm nozzles, paired with a diaphragm pump and pressure tank.
+* Medium-pressure Airmix™ guns should use 0.6–0.9 mm nozzles with an EOS or 20C pump.
+
+**For primers:**
+
+* Cup guns require 2–2.5 mm nozzles.
+* Pressure-feed guns should use 1.3–1.6 mm nozzles, combined with a diaphragm pump and pressure tank.
+* Medium-pressure Airmix™ guns should be equipped with a 0.9 mm nozzle and an EOS, 20C, or 40C pump.
+* High-pressure Airless guns are recommended with 0.6–1.2 mm nozzles and a 40C, 34F60, or Azur pump.
+
+### Special Spray Technologies
+
+Automatic & Robotic Spray Heads:
+
+* Airspray: A35, A25F
+* Airmix: AVX, ATX
+* Airless: ASI24, ASI40
+
+Electrostatic:
+
+* Manual: Nanogun Airspray, Nanogun Airmix
+* Automatic: KA Airspray, KA Airmix, TRP501
+* Robotic: TRP501, PPH707 MS
+* Bell-type: Nanobell 2, PPH707, PPH803, Accubell 709 EVO
+
+Multi-Component Systems:
+
+* Fixed mixing ratio: PU2125, PU2160 (1:1, 1:2, 1:5, 1:10)
+* Variable mixing ratio:
+  * PU3000 (Airspray, Airmix, Airless) – 1 color : 1 B component
+  * Cyclomix EVO 2K / 3K (Airspray, Airmix, Airless) – 1–15 colors : 1–3 B components
+
+Powder Coating:
+
+* Manual: Wagner; Sames (Inocart, Inogun M)
+* Automatic: Wagner; Sames (Inogun A, Inobell)
+* Robotic: Sames (Inobell R, Inogun R)
+
+If you are interested in the world of spray technology, be sure to check out the other articles in our series!
