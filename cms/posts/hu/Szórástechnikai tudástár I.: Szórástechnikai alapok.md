@@ -16,13 +16,13 @@ seo:
 
 ## Szórópisztolyok és festőszivattyúk
 
-A **szórópisztolyok**nak 3 nagy csoportja van, a levegőporlasztású, a középnyomású és a magasnyomású pisztolyok, melyeket további alcsoportokba lehet osztani:
+A szórópisztolyoknak 3 nagy csoportja van, a levegőporlasztású, a középnyomású és a magasnyomású pisztolyok, melyeket további alcsoportokba lehet osztani:
 
 A levegőporlasztásúba tartoznak a tartályos pisztolyok, amin belül vannak még felsőtartályos (Sagola Classic, 3300, 4100, 4600; Kremlin FStart, FPro G) és alsótartályos pisztolyok, illetve a nyomórendszerű pisztolyok (Kremlin FPro P).
 
 Középnyomású az AirmixTM, azon belül a Kremlin XCite; a Polyhose Mach3, míg magasnyomú az Airless Kremlin SFlow, Polyhose RST sorozata.
 
-A **festőszivattyúk **első csoportja az alacsony nyomású, membrán szivattyúk, például a Kremlin Prima 01D100, 01D140 vagy a Timmer, míg a középnyomású, dugattyús, nyomótalpas csoportba a Kremlin 40-es sorozata, a 34F60 és az Azur tartozik.
+A festőszivattyúk első csoportja az alacsony nyomású, membrán szivattyúk, például a Kremlin Prima 01D100, 01D140 vagy a Timmer, míg a középnyomású, dugattyús, nyomótalpas csoportba a Kremlin 40-es sorozata, a 34F60 és az Azur tartozik.
 
 ## Mire mit használjunk
 
@@ -77,27 +77,20 @@ Híg lakkok, zománcok és pácok esetében a tartályos pisztolyok, 0,8 – 1,5
 
 ## Speciális szórási technológiák
 
-**-	Automata, robot szórófejek:** Airspray (A35, A25F), Airmix (AVX, ATX), Airless (ASI24, ASI40)
-
-**-	Elektrosztatikus:**
-
-* Kézi: Nanogun Airspray, Nanogun Airmix
-* Automata: KA Airspray, KA Airmix, TRP501
-* Robotos: TRP501, PPH707 MS
-* Harang: Nanobell 2, PPH707, PPH803, Accubell 709 EVO
-
-\-	**Több komponenses technológia:**
-
-* Fix keverési arányú
-  * PU2125, PU2160 (1:1;1:2;1:5;1:10)
-* Szabadon módosítható keverési arány
-  * PU3000 (Airspray, Airmix, Airless) – 1 szín:1 B komp.
-  * Cyclomix EVO 2K / 3K (Airspray, Airmix, Airless) – 1 – 15 szín: 1-3 B komp.
-
-**-	Porfestés:**
-
-* Kézi: Wagner, Sames (Inocart, Inogun M)
-* Automata: Wagner, Sames (Inogun A, Inobell)
-* Robot: Sames (Inobell R, Inogun R)
+* **Automata, robot szórófejek:** Airspray (A35, A25F), Airmix (AVX, ATX), Airless (ASI24, ASI40)
+* **Elektrosztatikus:**
+  * Kézi: Nanogun Airspray, Nanogun Airmix
+  * Automata: KA Airspray, KA Airmix, TRP501
+  * Robotos: TRP501, PPH707 MS
+  * Harang: Nanobell 2, PPH707, PPH803, Accubell 709 EVO
+* **Több komponenses technológia:**
+  * Fix keverési arányú: PU2125, PU2160 (1:1;1:2;1:5;1:10)
+  * Szabadon módosítható keverési arány
+    * PU3000 (Airspray, Airmix, Airless) – 1 szín: 1 B komp.
+    * Cyclomix EVO 2K / 3K (Airspray, Airmix, Airless) – 1 – 15 szín: 1-3 B komp.
+* **Porfestés:**
+  * Kézi: Wagner, Sames (Inocart, Inogun M)
+  * Automata: Wagner, Sames (Inogun A, Inobell)
+  * Robot: Sames (Inobell R, Inogun R)
 
 Ha érdekli a szórástechnika világa, olvasson bele a cikksorozatunk többi részébe is!
