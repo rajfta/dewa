@@ -8,6 +8,16 @@ excerpt: >-
   applications and coatings.
 ---
 
+## Spray Guns and Paint Pumps
+
+Spray guns can be divided into three main categories: air-atomizing, medium-pressure, and high-pressure guns, each of which can be further subdivided.
+
+Air-atomizing guns include cup guns, which themselves can be either gravity-feed (Sagola Classic, 3300, 4100, 4600; Kremlin FStart, FPro G) or suction-feed, as well as pressure-feed systems (Kremlin FPro P).
+
+Medium-pressure guns include the Airmix™ category, such as the Kremlin XCite and Polyhose Mach3, while high-pressure guns include Airless systems like the Kremlin SFlow and Polyhose RST series.
+
+The first group of paint supply pumps consists of low-pressure, diaphragm-type pumps, for example, the Kremlin Prima 01D100, 01D140, or Timmer. The medium-pressure, piston-type pumps with a pressure plate include the Kremlin 40 series, 34F60, and Azur.
+
 ### Application Guide — What to Use for What
 
 **Automotive Refinishing:**
