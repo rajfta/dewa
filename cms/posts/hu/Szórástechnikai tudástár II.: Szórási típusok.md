@@ -1,18 +1,18 @@
 ---
 title: 'Szórástechnikai tudástár II.: Szórási típusok'
-date: '2026-01-10T00:00:00.000Z'
+date: 2026-01-10T00:00:00.000Z
 excerpt: >-
   A szórásos festésnek három nagy típusa van: az Airspray, az Airless és az
   Airmix. Ebben a cikkünkben összeszedtük ezek legfontosabb jellemzőit, előnyeit
   és hátrányait, és hogy melyiket mire érdemes használni. Olvasson bele, és
   mélyítse el tudását a szórástechnika témakörében!
+coverImage: /szorasi%20tipusok/borito%202.png
 seo:
   title: 'Szórástechnikai tudástár II.: Szórási típusok'
   description: >-
     A szórásos festés (Airspray, Airless, Airmix) jellemzői, előnyei, hátrányai
     és alkalmazásuk
 ---
-
 
 ### Levegőporlasztásos, Airspray szórás
 
