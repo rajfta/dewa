@@ -6,7 +6,7 @@ excerpt: >-
   egy áttekintést, melyben összeszedtük milyen típusú szórópisztolyok és
   festőszivattyúk vannak, a szórási technológiák jellemzőit, illetve, hogy mire
   mit érdemes használni, és mit mivel érdemes festeni.
-coverImage: /szorasi_tipusok/borito 1.png
+coverImage: /szorasi_tipusok/5.png
 seo:
   title: 'Szórástechnikai tudástár I.: Szórástechnikai alapok'
   description: >-
