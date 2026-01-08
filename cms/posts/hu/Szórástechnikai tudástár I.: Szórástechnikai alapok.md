@@ -77,20 +77,26 @@ Híg lakkok, zománcok és pácok esetében a tartályos pisztolyok, 0,8 – 1,5
 
 ## Speciális szórási technológiák
 
-* **Automata, robot szórófejek:** Airspray (A35, A25F), Airmix (AVX, ATX), Airless (ASI24, ASI40)
-* **Elektrosztatikus:**
-  * Kézi: Nanogun Airspray, Nanogun Airmix
-  * Automata: KA Airspray, KA Airmix, TRP501
-  * Robotos: TRP501, PPH707 MS
-  * Harang: Nanobell 2, PPH707, PPH803, Accubell 709 EVO
-* **Több komponenses technológia:**
-  * Fix keverési arányú: PU2125, PU2160 (1:1;1:2;1:5;1:10)
-  * Szabadon módosítható keverési arány
-    * PU3000 (Airspray, Airmix, Airless) – 1 szín: 1 B komp.
-    * Cyclomix EVO 2K / 3K (Airspray, Airmix, Airless) – 1 – 15 szín: 1-3 B komp.
-* **Porfestés:**
-  * Kézi: Wagner, Sames (Inocart, Inogun M)
-  * Automata: Wagner, Sames (Inogun A, Inobell)
-  * Robot: Sames (Inobell R, Inogun R)
+**Automata, robot szórófejek:** Airspray (A35, A25F), Airmix (AVX, ATX), Airless (ASI24, ASI40)
+
+**Elektrosztatikus:**
+
+* Kézi: Nanogun Airspray, Nanogun Airmix
+* Automata: KA Airspray, KA Airmix, TRP501
+* Robotos: TRP501, PPH707 MS
+* Harang: Nanobell 2, PPH707, PPH803, Accubell 709 EVO
+
+**Több komponenses technológia:**
+
+* Fix keverési arányú: PU2125, PU2160 (1:1;1:2;1:5;1:10)
+* Szabadon módosítható keverési arány
+  * PU3000 (Airspray, Airmix, Airless) – 1 szín: 1 B komp.
+  * Cyclomix EVO 2K / 3K (Airspray, Airmix, Airless) – 1 – 15 szín: 1-3 B komp.
+
+**Porfestés:**
+
+* Kézi: Wagner, Sames (Inocart, Inogun M)
+* Automata: Wagner, Sames (Inogun A, Inobell)
+* Robot: Sames (Inobell R, Inogun R)
 
 **Ha érdekli a szórástechnika világa, olvasson bele a cikksorozatunk többi részébe is!**
