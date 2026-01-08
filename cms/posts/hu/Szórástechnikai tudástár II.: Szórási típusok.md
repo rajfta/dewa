@@ -22,7 +22,7 @@ Tartályos pisztolyok esetén a sűrített levegő végzi a festék szállítás
 
 A képeken a felsőtartályos elve látható. A „ravasz” meghúzásakor a tű elmozdul hátra és utat enged a festéknek a fúvóka felé. Itt találkozik a sűrített levegővel, ami „kilövi” a fúvókán keresztül és a fúvókán levő, illetve „sapka” furatain kiáramló levegő pedig porlasztja azt. Ezek a pisztolyok jellemzően alacsony nyomáson, 2-3 baron működnek.
 
-![](/szorasi%20tipusok/2.png)
+![](/szorasi_tipusok/2.png)
 
 A nyomórendszerű pisztolyoknál a festék mozgatását a szivattyú vagy a nyomótartály végzi, míg a porlasztást a levegő. Ennek előnye, hogy gyorsabb és kényelmesebb a munkavégzés és viszonylag szép a felület, míg hátránya, hogy némileg magas energiafelhasználást igényel.
 
