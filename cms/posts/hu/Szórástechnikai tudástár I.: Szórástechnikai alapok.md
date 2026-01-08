@@ -42,7 +42,7 @@ A festőszivattyúk első csoportja az alacsony nyomású, membrán szivattyúk,
   * Kremlin FPro P, Sagola 4100 P
   * Színenként 10 – kg/nap anyagfelhasználásnál, viszonylag magas a szórási minőség, híg-közepesen sűrű anyagok.
   * Anyagellátás: Prima 01D100, nyomótartály
-* „Középnyomású” pisztolyok:
+* Középnyomású pisztolyok:
   * Kremlin Xcite, Berizzi Mach3
   * Kevés színváltás és 20- kg/műszak festékfelhasználás jellemzi; közepesen sűrű anyagok
   * Anyagellátás: Kremlin EOS sorozat, Kremlin 20C sorozat
