@@ -36,7 +36,7 @@ Előnye, hogy rendkívül gyors vele a munkavégzés, vastag a felvitt réteg, �
 
 Hátránya, hogy a fúvóka kiválasztásához tesztek kellenek, és hogy a festett felület minősége viszonylag alacsony. A szivattyú működtetéséhez nagy teljesítményű kompresszor (1-3 köbméter/perc levegő) szükséges.
 
-![](/szorasi%20tipusok/3.png)
+![](/szorasi_tipusok/3.png)
 
 Az felső képen az látható, hogy azonos szóráskép mellett a fúvóka lyukméretének változása hogyan befolyásolja a felületre vitt festékréteg nagyságát. A másodikon pedig, hogy azonos lyukméret esetén, ha a szórásképet változtatjuk, mi lesz a hatása a rétegvastagságra.
 
