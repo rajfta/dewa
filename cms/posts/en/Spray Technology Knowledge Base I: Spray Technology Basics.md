@@ -78,27 +78,27 @@ For thin lacquers, enamels, and stains, cup guns with nozzle sizes ranging from 
 
 ### Special Spray Technologies
 
-Automatic & Robotic Spray Heads:
+**Automatic & Robotic Spray Heads:**
 
 * Airspray: A35, A25F
 * Airmix: AVX, ATX
 * Airless: ASI24, ASI40
 
-Electrostatic:
+**Electrostatic:**
 
 * Manual: Nanogun Airspray, Nanogun Airmix
 * Automatic: KA Airspray, KA Airmix, TRP501
 * Robotic: TRP501, PPH707 MS
 * Bell-type: Nanobell 2, PPH707, PPH803, Accubell 709 EVO
 
-Multi-Component Systems:
+**Multi-Component Systems:**
 
 * Fixed mixing ratio: PU2125, PU2160 (1:1, 1:2, 1:5, 1:10)
 * Variable mixing ratio:
   * PU3000 (Airspray, Airmix, Airless) – 1 color : 1 B component
   * Cyclomix EVO 2K / 3K (Airspray, Airmix, Airless) – 1–15 colors : 1–3 B components
 
-Powder Coating:
+**Powder Coating:**
 
 * Manual: Wagner; Sames (Inocart, Inogun M)
 * Automatic: Wagner; Sames (Inogun A, Inobell)
