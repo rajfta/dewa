@@ -54,4 +54,4 @@ A szórópisztolyoknak a Sames-nál két fő változata van jelenleg, egy maximu
 
 ![](/szorasi_tipusok/4.png)
 
-Ha tetszett a cikkünk, olvassa el szórástechnika sorozatunk többi részét is, és mélyítse el a tudását velünk a szórástechnika világában!
+**Ha tetszett a cikkünk, olvassa el szórástechnika sorozatunk többi részét is, és mélyítse el a tudását velünk a szórástechnika világában!**
