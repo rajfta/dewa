@@ -1,6 +1,6 @@
 ---
-title: 'Spray Technology Knowledge Base I: Fundamentals of Spray Technology'
-date: '2025-12-10T00:00:00.000Z'
+title: 'Spray Technology Knowledge Base I: Spray Technology Basics'
+date: 2025-12-10T00:00:00.000Z
 excerpt: >-
   To help you select the right spray guns, we have prepared an overview that
   summarizes the types of spray guns and paint pumps, the characteristics of
@@ -14,8 +14,6 @@ seo:
     the characteristics of various spraying technologies, and guidance on what
     to use for specific applications and coatings
 ---
-
-
 
 ## Spray Guns and Paint Pumps
 
@@ -106,4 +104,4 @@ Powder Coating:
 * Automatic: Wagner; Sames (Inogun A, Inobell)
 * Robotic: Sames (Inobell R, Inogun R)
 
-If you are interested in the world of spray technology, be sure to check out the other articles in our series!
+**If you are interested in the world of spray technology, be sure to check out the other articles in our series!**
