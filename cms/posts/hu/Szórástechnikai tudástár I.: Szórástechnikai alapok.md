@@ -93,4 +93,4 @@ Híg lakkok, zománcok és pácok esetében a tartályos pisztolyok, 0,8 – 1,5
   * Automata: Wagner, Sames (Inogun A, Inobell)
   * Robot: Sames (Inobell R, Inogun R)
 
-Ha érdekli a szórástechnika világa, olvasson bele a cikksorozatunk többi részébe is!
+**Ha érdekli a szórástechnika világa, olvasson bele a cikksorozatunk többi részébe is!**
