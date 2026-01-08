@@ -1,5 +1,5 @@
 ---
-title: Szórási típusok jellemzői
+title: A szórási típusok jellemzői
 date: 2026-01-10T00:00:00.000Z
 excerpt: >-
   A szórásos festésnek három nagy típusa van: az Airspray, az Airless és az
@@ -52,6 +52,6 @@ Ennek a módszernek az előnye, hogy nagyon egyszerű és gyors a munkavégzés,
 
 A szórópisztolyoknak a Sames-nál két fő változata van jelenleg, egy maximum 120 bar és egy 240 bar nyomású. Az alacsonyabb nyomású, Xcite 120 pisztoly használata elsősorban az asztalos iparban vagy a kevésbé töltött és hígabb festékek esetében jellemző, míg az Xcite 240 használata a nehézgépjármű iparban, például az acélszerkezetek gyártásban gyakori, mert nagy felületű munkadarabokat is gyorsan, gazdaságosan és szép megjelenéssel fest le.
 
-![](/szorasi%20tipusok/4.png)
+![](/szorasi_tipusok/4.png)
 
 Ha tetszett a cikkünk, olvassa el szórástechnika sorozatunk többi részét is, és mélyítse el a tudását velünk a szórástechnika világában!
