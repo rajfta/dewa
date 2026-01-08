@@ -1,5 +1,5 @@
 ---
-title: 'Szórástechnikai tudástár I.: Szórástechnikai alapok'
+title: Szórástechnikai alapok
 date: 2025-12-10T00:00:00.000Z
 excerpt: >-
   Hogy megkönnyítsük a megfelelő szórópisztolyok kiválasztását, hoztunk Önöknek
