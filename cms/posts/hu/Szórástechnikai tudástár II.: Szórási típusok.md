@@ -6,7 +6,7 @@ excerpt: >-
   Airmix. Ebben a cikkünkben összeszedtük ezek legfontosabb jellemzőit, előnyeit
   és hátrányait, és hogy melyiket mire érdemes használni. Olvasson bele, és
   mélyítse el tudását a szórástechnika témakörében!
-coverImage: /szorasi%20tipusok/borito%202.png
+coverImage: /szorasi_tipusok/borito 2.png
 seo:
   title: 'Szórástechnikai tudástár II.: Szórási típusok'
   description: >-
