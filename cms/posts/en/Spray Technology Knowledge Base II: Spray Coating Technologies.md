@@ -1,16 +1,16 @@
 ---
 title: 'Spray Technology Knowledge Base II: Spray Coating Technologies'
-date: '2026-01-10T00:00:00.000Z'
+date: 2026-01-10T00:00:00.000Z
 excerpt: >-
   There are three main types of spray painting: Airspray, Airless, and Airmix.
   In this article, we have summarized their most important characteristics,
   advantages, and disadvantages, and guidance on when to use each type. Read on
   to deepen your knowledge of spray technology!
+coverImage: /szorasi_tipusok/borito-2.png
 seo:
   title: Types of Spray Technologies
   description: 'Types of Spray Technologies: Airspray, Airless and Airmix'
 ---
-
 
 ### Air-Atomizing / Airspray Coating
 
