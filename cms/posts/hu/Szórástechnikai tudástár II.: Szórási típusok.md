@@ -18,7 +18,7 @@ seo:
 
 Tartályos pisztolyok esetén a sűrített levegő végzi a festék szállítását és a porlasztást is. Ennek előnye, hogy nagyon nagymértékű a porlasztás, tökéletes a festék eloszlása, és nagyon szép a szórt felület, míg hátránya, hogy nagy gyakorlati tudást és magas energiafelhasználást igényel, amellett, hogy terheli a kéz ízületeit.
 
-A képeken a felsőtartályos elve látható. A „ravasz” meghúzásakor a tű elmozdul hátra és utat enged a festéknek a fúvóka felé. Itt találkozik a sűrített levegővel, ami „kilövi” a fúvókán keresztül és a fúvókán levő, illetve „sapka” furatain kiáramló levegő pedig porlasztja azt. Ezek a pisztolyok jellemzően alacsony nyomáson, 2-3 baron működnek.
+A képeken a felsőtartályos elve látható. A „ravasz” meghúzásakor a tű elmozdul hátra, és utat enged a festéknek a fúvóka felé. Itt találkozik a sűrített levegővel, ami „kilövi” a fúvókán keresztül és a fúvókán levő, illetve „sapka” furatain kiáramló levegő pedig porlasztja azt. Ezek a pisztolyok jellemzően alacsony nyomáson, 2-3 baron működnek.
 
 A nyomórendszerű pisztolyoknál a festék mozgatását a szivattyú vagy a nyomótartály végzi, míg a porlasztást a levegő. Ennek előnye, hogy gyorsabb és kényelmesebb a munkavégzés és viszonylag szép a felület, míg hátránya, hogy némileg magas energiafelhasználást igényel.
 
