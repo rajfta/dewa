@@ -16,7 +16,11 @@ seo:
 
 In cup guns, compressed air both delivers the paint and atomizes it. The advantages of this method are excellent atomization, perfect paint distribution, and a very smooth finish. The disadvantages are that it requires significant practical skill, high energy consumption, and can strain the operator’s hand joints.
 
+![](/szorasi_tipusok/egy.png)
+
 The images illustrate the top-feed principle. When the trigger is pulled, the needle moves backward, allowing paint to flow toward the nozzle. Here it meets compressed air, which propels the paint through the nozzle, while air exiting the cap holes atomizes it. These guns typically operate at low pressures (2–3 bar).
+
+![](/szorasi_tipusok/ketto.png)
 
 In pressure-feed guns, the paint is moved by a pump or pressure tank, while atomization is still done by air. The advantage is faster and more comfortable operation with relatively good surface quality; the disadvantage is somewhat higher energy consumption.
 
@@ -30,7 +34,9 @@ The advantages are extremely fast application, thick film build, and the ability
 
 The disadvantages include the need for testing to select the correct nozzle, relatively lower surface finish quality, and the requirement of a high-performance compressor (1–3 m³/min air).
 
-The top images demonstrate how changing the nozzle orifice size affects film thickness at the same spray pattern, while the second shows how adjusting the spray pattern affects layer thickness with the same orifice size.
+![](/szorasi_tipusok/harom.png)
+
+The top image demonstrates how changing the nozzle orifice size affects film thickness at the same spray pattern, while the second shows how adjusting the spray pattern affects layer thickness with the same orifice size.
 
 This method is suitable for more viscous materials, thicker layers, and applications with lower aesthetic requirements. It is economically viable only in industrial settings, such as steel and construction industries.
 
@@ -44,8 +50,9 @@ The advantages of this method are that it is very simple and fast to use, the qu
 
 Currently, Sames offers two main types of Airmix guns:
 
-•	Xcite 120 (up to 120 bar) – primarily used in woodworking or for low-filled, low-viscosity coatings
+* Xcite 120 (up to 120 bar) – primarily used in woodworking or for low-filled, low-viscosity coatings
+* Xcite 240 (up to 240 bar) – commonly used in heavy machinery and steel structure manufacturing, as it can quickly, economically, and neatly cover large surfaces
 
-•	Xcite 240 (up to 240 bar) – commonly used in heavy machinery and steel structure manufacturing, as it can quickly, economically, and neatly cover large surfaces
+![](/szorasi_tipusok/4.1.png)
 
 **If you enjoyed this article, read the other parts of our spray technology series and deepen your knowledge with us in the world of spray technology!**
