@@ -6,7 +6,7 @@ excerpt: >-
   summarizes the types of spray guns and paint pumps, the characteristics of
   various spraying technologies, and guidance on what to use for specific
   applications and coatings.
-coverImage: /szorasi_tipusok/borito 1.png
+coverImage: /szorasi_tipusok/borito-1.png
 seo:
   title: 'Spray Technology Knowledge Base I: Fundamentals of Spray Technology'
   description: >-
