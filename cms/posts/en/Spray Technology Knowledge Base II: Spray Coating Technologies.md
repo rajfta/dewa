@@ -18,7 +18,7 @@ In cup guns, compressed air both delivers the paint and atomizes it. The advanta
 
 ![](/szorasi_tipusok/egy.png)
 
-The images illustrate the top-feed principle. When the trigger is pulled, the needle moves backward, allowing paint to flow toward the nozzle. Here it meets compressed air, which propels the paint through the nozzle, while air exiting the cap holes atomizes it. These guns typically operate at low pressures (2–3 bar).
+The image illustrates the top-feed principle. When the trigger is pulled, the needle moves backward, allowing paint to flow toward the nozzle. Here it meets compressed air, which propels the paint through the nozzle, while air exiting the cap holes atomizes it. These guns typically operate at low pressures (2–3 bar).
 
 ![](/szorasi_tipusok/ketto.png)
 
