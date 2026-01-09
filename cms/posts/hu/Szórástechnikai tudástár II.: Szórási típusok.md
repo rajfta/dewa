@@ -34,7 +34,7 @@ Mint az elnevezés is sugallja, itt olyan festési eljárásról van szó, ahol 
 
 Előnye, hogy rendkívül gyors vele a munkavégzés, vastag a felvitt réteg, és nagyon sűrű festékek is fel tud vinni. A fúvókakínálat itt is nagyon széles, és fordítós fúvóka használata esetén a dugulásoknál nem kell fúvókát cserélni, mert 3 mozdulattal megszüntethető a dugulás (1: fordítós fúvóka elfordítása 180 fokban; 2: ravasz pillanatnyi megnyomása; 3: fúvóka visszafordítása). Hígítás nélkül is kiszórhatóak a festékek.
 
-Hátránya, hogy a fúvóka kiválasztásához tesztek kellenek, és hogy a festett felület minősége viszonylag alacsony. A szivattyú működtetéséhez nagy teljesítményű kompresszor (1-3 köbméter/perc levegő) szükséges.
+Hátránya, hogy a fúvóka kiválasztásához tesztek kellenek, és hogy a festett felület minősége viszonylag alacsony. A szivattyú működtetéséhez nagy teljesítményű kompresszor (1-3 m³/perc levegő) szükséges.
 
 ![](/szorasi_tipusok/harom.png)
 
