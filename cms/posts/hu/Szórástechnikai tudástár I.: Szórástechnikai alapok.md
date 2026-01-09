@@ -35,28 +35,36 @@ A festőszivattyúk első csoportja az alacsony nyomású, membrán szivattyúk,
 
 **Kis méretű fém és fa alkatrészekre a következőket ajánljuk:**
 
-* Levegőporlasztású, tartályos pisztolyok:
-  * Sagola Classic Pro, Sagola 3300 GTO, Kremlin FPO G.
-    * Ezekre jellemző a sokszori színváltás és kis mennyiségű festékfelhasználás (1-5 kg/nap) színenként, híg anyagok
-* Nyomórendszerű pisztolyok:
-  * Kremlin FPro P, Sagola 4100 P
-  * Színenként 10 – kg/nap anyagfelhasználásnál, viszonylag magas a szórási minőség, híg-közepesen sűrű anyagok.
-  * Anyagellátás: Prima 01D100, nyomótartály
-* Középnyomású pisztolyok:
-  * Kremlin Xcite, Berizzi Mach3
-  * Kevés színváltás és 20- kg/műszak festékfelhasználás jellemzi; közepesen sűrű anyagok
-  * Anyagellátás: Kremlin EOS sorozat, Kremlin 20C sorozat
+Levegőporlasztású, tartályos pisztolyok:
+
+* Sagola Classic Pro, Sagola 3300 GTO, Kremlin FPO G.
+  Ezekre jellemző a sokszori színváltás és kis mennyiségű festékfelhasználás (1-5 kg/nap) színenként, híg anyagok
+
+Nyomórendszerű pisztolyok:
+
+* Kremlin FPro P, Sagola 4100 P
+* Színenként 10 – kg/nap anyagfelhasználásnál, viszonylag magas a szórási minőség, híg-közepesen sűrű anyagok.
+* Anyagellátás: Prima 01D100, nyomótartály
+
+Középnyomású pisztolyok:
+
+* Kremlin Xcite, Berizzi Mach3
+* Kevés színváltás és 20- kg/műszak festékfelhasználás jellemzi; közepesen sűrű anyagok
+* Anyagellátás: Kremlin EOS sorozat, Kremlin 20C sorozat
 
 **Nagyobb méretű alkatrészek esetén:**
 
-* „Középnyomású” pisztolyok:
-  * Kremlin Xcite, Berizzi Mach3
-  * Viszonylag magas a szórási minőség (pl. burkolatok); közepesen sűrű anyagok
-  * Anyagellátás: Kremlin EOS sorozat, 20C sorozat, 34F60
-* Magasnyomású pisztolyok:
-  * Kremlin SFlow, Berizzi RST sorozat
-  * Nagy rétegvastagság jellemzi, sűrű anyagok
-  * Anyagellátás: Kremlin 34F60, 40C sorozat, Azur
+Középnyomású pisztolyok:
+
+* Kremlin Xcite, Berizzi Mach3
+* Viszonylag magas a szórási minőség (pl. burkolatok); közepesen sűrű anyagok
+* Anyagellátás: Kremlin EOS sorozat, 20C sorozat, 34F60
+
+Magasnyomású pisztolyok:
+
+* Kremlin SFlow, Berizzi RST sorozat
+* Nagy rétegvastagság jellemzi, sűrű anyagok
+* Anyagellátás: Kremlin 34F60, 40C sorozat, Azur
 
 ## Mit mivel fessünk
 
