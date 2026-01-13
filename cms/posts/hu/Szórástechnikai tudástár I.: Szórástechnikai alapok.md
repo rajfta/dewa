@@ -22,7 +22,7 @@ A levegőporlasztásúba tartoznak a tartályos pisztolyok, amin belül vannak m
 
 Középnyomású az AirmixTM, azon belül a Kremlin XCite; a Polyhose Mach3, míg magasnyomú az Airless Kremlin SFlow, Polyhose RST sorozata.
 
-A festőszivattyúk első csoportja az alacsony nyomású, membrán szivattyúk, például a Kremlin Prima 01D100, 01D140 vagy a Timmer, míg a középnyomású, dugattyús, nyomótalpas csoportba a Kremlin 40-es sorozata, a 34F60 és az Azur tartozik.
+A festőszivattyúk első csoportja az alacsony nyomású, membrán szivattyúk, például a Kremlin Prima 01D100, 01D140 vagy a Timmer, második a középnyomású, dugattyús, például  a Kremlin 40-es sorozata és a 34F60, míg harmadik a magasnyomású szivattyúk csoportja, például az Azur.
 
 ## Mire mit használjunk
 
