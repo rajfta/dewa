@@ -38,14 +38,19 @@ For car painting, air-atomizing cup guns are the most suitable. Recommended mode
 
 **Small Metal or Wood Components:**
 
-* Air-atomizing cup guns: Sagola Classic Pro, Sagola 3300 GTO, Kremlin FPro G
-  * Suitable for frequent color changes, low material use (1–5 kg/day per color), and low-viscosity coatings
-* Pressure-feed guns: Kremlin FPro P, Sagola 4100 P
-  * For higher material use (10+ kg/day per color) with high-quality atomization; low- to medium-viscosity coatings
-  * Material supply: Prima 01D100 pump, pressure tank
-* Medium-pressure guns: Kremlin XCite, Berizzi Mach3
-  * Few color changes, up to 20 kg/shift; medium-viscosity coatings
-  * Material supply: Kremlin EOS or 20C series
+Air-atomizing cup guns: Sagola Classic Pro, Sagola 3300 GTO, Kremlin FPro G
+
+* Suitable for frequent color changes, low material use (1–5 kg/day per color), and low-viscosity coatings
+
+Pressure-feed guns: Kremlin FPro P, Sagola 4100 P
+
+* For higher material use (10+ kg/day per color) with high-quality atomization; low- to medium-viscosity coatings
+* Material supply: Prima 01D100 pump, pressure tank
+
+Medium-pressure guns: Kremlin XCite, Berizzi Mach3
+
+* Few color changes, up to 20 kg/shift; medium-viscosity coatings
+* Material supply: Kremlin EOS or 20C series
 
 **Larger Components:**
 
