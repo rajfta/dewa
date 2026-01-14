@@ -50,7 +50,7 @@ Ez a festési technológia ötvözi az Airless eljárás mennyiségi hatékonys�
 
 Ennek a módszernek az előnye, hogy nagyon egyszerű és gyors a munkavégzés, a minőség csak kis mértékben függ a festő tapasztaltságától, és hogy széles a választék a fúvókákból. Hátránya, hogy a megfelelő fúvóka csak teszt festésekkel választható ki, duguláskor pedig fúvókát kell cserélni, amit azonnal, helyben nem lehet tisztítani.
 
-A szórópisztolyoknak a Sames-nál két fő változata van jelenleg, egy maximum 120 bar és egy 240 bar nyomású. Az alacsonyabb nyomású, Xcite 120 pisztoly használata elsősorban az asztalos iparban vagy a kevésbé töltött és hígabb festékek esetében jellemző, míg az Xcite 240 használata a nehézgépjármű iparban, például az acélszerkezetek gyártásban gyakori, mert nagy felületű munkadarabokat is gyorsan, gazdaságosan és szép megjelenéssel fest le.
+A szórópisztolyoknak a Sames-nál három fő változata van jelenleg, egy maximum 120 bar, egy 240 bar és 400 bar nyomású. Az alacsonyabb nyomású, Xcite 120 pisztoly használata elsősorban az asztalos iparban vagy a kevésbé töltött és hígabb festékek esetében jellemző, míg az Xcite 240 használata a nehézgépjármű iparban, például az acélszerkezetek gyártásban gyakori, mert nagy felületű munkadarabokat is gyorsan, gazdaságosan és szép megjelenéssel fest le.
 
 ![](/szorasi_tipusok/4.1.png)
 
