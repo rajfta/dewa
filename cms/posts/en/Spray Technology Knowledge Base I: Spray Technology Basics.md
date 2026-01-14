@@ -1,5 +1,5 @@
 ---
-title: 'Spray Technology Knowledge Base I: Spray Technology Basics'
+title: 'Spray Technology Knowledge Base I.: Spray Technology Basics'
 date: 2025-12-10T00:00:00.000Z
 excerpt: >-
   To help you select the right spray guns, we have prepared an overview that
