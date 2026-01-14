@@ -1,5 +1,8 @@
 ---
-title: 'Military Aircraft in DEWA's Paint Booth: The "MIG Booth" Serving for 25 Years'
+s Paint Booth: The "MIG Booth" Serving for 25 Years'
+title: >-
+  25 Years of Service: The ‘MIG Booth’ — Military Aircraft in Dewa Zrt.’s Paint
+  Booth
 date: 2025-07-13T00:00:00.000Z
 excerpt: >-
   Painting military aircraft is far from an everyday task — it's both a
