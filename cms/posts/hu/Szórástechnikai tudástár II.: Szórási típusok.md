@@ -1,5 +1,5 @@
 ---
-title: 'Szórástechnikai tudástár II: A szórási típusok jellemzői'
+title: 'Szórástechnikai tudástár II.: A szórási típusok jellemzői'
 date: 2026-01-10T00:00:00.000Z
 excerpt: >-
   A szórásos festésnek három nagy típusa van: az Airspray, az Airless és az
