@@ -18,18 +18,18 @@ seo:
 
 A szórópisztolyoknak 3 nagy csoportja van, a levegőporlasztású, a középnyomású és a magasnyomású pisztolyok, melyeket további alcsoportokba lehet osztani:
 
-A levegőporlasztásúba tartoznak a tartályos pisztolyok, amin belül vannak még felsőtartályos (Sagola Classic, 3300, 4100, 4600; Kremlin FStart, FPro G) és alsótartályos pisztolyok, illetve a nyomórendszerű pisztolyok (Kremlin FPro P).
+A levegőporlasztásúba tartoznak a tartályos pisztolyok, amin belül vannak még felsőtartályos (Sagola Classic, 3300, 4100, 4600; Sames FStart, FPro G) és alsótartályos pisztolyok, illetve a nyomórendszerű pisztolyok (Sames FPro P).
 
-Középnyomású az AirmixTM, azon belül a Kremlin XCite; a Polyhose Mach3, míg magasnyomú az Airless Kremlin SFlow, Polyhose RST sorozata.
+Középnyomású az AirmixTM, azon belül a Sames XCite; a Polyhose Mach3, míg magasnyomú az Airless Sames SFlow, Polyhose RST sorozata.
 
-A festőszivattyúk első csoportja az alacsony nyomású, membrán szivattyúk, például a Kremlin Prima 01D100, 01D140 vagy a Timmer, második a középnyomású, dugattyús, például  a Kremlin 40-es sorozata és a 34F60, míg harmadik a magasnyomású szivattyúk csoportja, például az Azur.
+A festőszivattyúk első csoportja az alacsony nyomású, membrán szivattyúk, például a Sames Prima 01D100, 01D140 vagy a Timmer, második a középnyomású, dugattyús, például  a Sames 40-es sorozata és a 34F60, míg harmadik a magasnyomású szivattyúk csoportja, például az Azur.
 
 ## Mire mit használjunk
 
 **Autófényezéshez** a levegőporlasztású tartályos pisztolyok a legalkalmasabbak, ezen belül pedig a következők:
 
-* Alapozás, füllerezés: Sagola Classic Lux vagy Pro, Sagola 3300 GTO, Kremlin FStart
-* Bázis szín: Sagola 3300 GTO Car, Sagola 4100, Kremlin FPro G.
+* Alapozás, füllerezés: Sagola Classic Lux vagy Pro, Sagola 3300 GTO, Sames FStart
+* Bázis szín: Sagola 3300 GTO Car, Sagola 4100, Sames FPro G.
 * Lakkozás: Sagola 4600, 4100
 * Hibajavítás: Sagola Mini Extreme
 
@@ -37,34 +37,34 @@ A festőszivattyúk első csoportja az alacsony nyomású, membrán szivattyúk,
 
 Levegőporlasztású, tartályos pisztolyok:
 
-* Sagola Classic Pro, Sagola 3300 GTO, Kremlin FPO G.
+* Sagola Classic Pro, Sagola 3300 GTO, Sames FPO G.
   Ezekre jellemző a sokszori színváltás és kis mennyiségű festékfelhasználás (1-5 kg/nap) színenként, híg anyagok
 
 Nyomórendszerű pisztolyok:
 
-* Kremlin FPro P, Sagola 4100 P
+* Sames FPro P, Sagola 4100 P
 * Színenként 10 – kg/nap anyagfelhasználásnál, viszonylag magas a szórási minőség, híg-közepesen sűrű anyagok.
 * Anyagellátás: Prima 01D100, nyomótartály
 
 Középnyomású pisztolyok:
 
-* Kremlin Xcite, Berizzi Mach3
+* Sames Xcite, Berizzi Mach3
 * Kevés színváltás és 20- kg/műszak festékfelhasználás jellemzi; közepesen sűrű anyagok
-* Anyagellátás: Kremlin EOS sorozat, Kremlin 20C sorozat
+* Anyagellátás: Sames EOS sorozat, Sames 20C sorozat
 
 **Nagyobb méretű alkatrészek esetén:**
 
 Középnyomású pisztolyok:
 
-* Kremlin Xcite, Berizzi Mach3
+* Sames Xcite, Berizzi Mach3
 * Viszonylag magas a szórási minőség (pl. burkolatok); közepesen sűrű anyagok
-* Anyagellátás: Kremlin EOS sorozat, 20C sorozat, 34F60
+* Anyagellátás: Sames EOS sorozat, 20C sorozat, 34F60
 
 Magasnyomású pisztolyok:
 
-* Kremlin SFlow, Berizzi RST sorozat
+* Sames SFlow, Berizzi RST sorozat
 * Nagy rétegvastagság jellemzi, sűrű anyagok
-* Anyagellátás: Kremlin 34F60, 40C sorozat, Azur
+* Anyagellátás: Sames 34F60, 40C sorozat, Azur
 
 ## Mit mivel fessünk
 
