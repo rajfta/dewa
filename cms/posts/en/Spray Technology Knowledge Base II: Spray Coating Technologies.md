@@ -48,10 +48,11 @@ This spraying technology combines the quantity efficiency of Airless with the su
 
 The advantages of this method are that it is very simple and fast to use, the quality depends only slightly on the operator’s experience, and there is a wide range of nozzles available. The disadvantage is that the correct nozzle can only be selected through test spraying, and blockages require nozzle replacement, which cannot be cleaned on-site immediately.
 
-Currently, Sames offers two main types of Airmix guns:
+Currently, Sames offers three main types of Airmix guns:
 
 * Xcite 120 (up to 120 bar) – primarily used in woodworking or for low-filled, low-viscosity coatings
 * Xcite 240 (up to 240 bar) – commonly used in heavy machinery and steel structure manufacturing, as it can quickly, economically, and neatly cover large surfaces
+* Xcite 400 (up to 400 bar)
 
 ![](/szorasi_tipusok/4.1.png)
 
