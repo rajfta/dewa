@@ -19,11 +19,11 @@ seo:
 
 Spray guns can be divided into three main categories: air-atomizing, medium-pressure, and high-pressure guns, each of which can be further subdivided.
 
-Air-atomizing guns include cup guns, which themselves can be either gravity-feed (Sagola Classic, 3300, 4100, 4600; Kremlin FStart, FPro G) or suction-feed, as well as pressure-feed systems (Kremlin FPro P).
+Air-atomizing guns include cup guns, which themselves can be either gravity-feed (Sagola Classic, 3300, 4100, 4600; Sames FStart, FPro G) or suction-feed, as well as pressure-feed systems (Sames FPro P).
 
-Medium-pressure guns include the Airmix™ category, such as the Kremlin XCite and Polyhose Mach3, while high-pressure guns include Airless systems like the Kremlin SFlow and Polyhose RST series.
+Medium-pressure guns include the Airmix™ category, such as the Sames XCite and Polyhose Mach3, while high-pressure guns include Airless systems like the Sames SFlow and Polyhose RST series.
 
-The first group of paint supply pumps consists of low-pressure, diaphragm-type pumps, for example, the Kremlin Prima 01D100, 01D140, or Timmer. The medium-pressure, piston-type pumps with a pressure plate include the Kremlin 40 series, 34F60, and Azur.
+The first group of paint supply pumps consists of low-pressure, diaphragm-type pumps, for example, the Sames Prima 01D100, 01D140, or Timmer. The medium-pressure, piston-type pumps with a pressure plate include the Sames 40 series, 34F60, and Azur.
 
 ### Application Guide — What to Use for What
 
@@ -31,38 +31,38 @@ The first group of paint supply pumps consists of low-pressure, diaphragm-type p
 
 For car painting, air-atomizing cup guns are the most suitable. Recommended models for specific tasks:
 
-* Priming and filling: Sagola Classic Lux or Pro, Sagola 3300 GTO, Kremlin FStart
-* Basecoat: Sagola 3300 GTO Car, Sagola 4100, Kremlin FPro G
+* Priming and filling: Sagola Classic Lux or Pro, Sagola 3300 GTO, Sames FStart
+* Basecoat: Sagola 3300 GTO Car, Sagola 4100, Sames FPro G
 * Clearcoat: Sagola 4600, 4100
 * Spot repair: Sagola Mini Extreme
 
 **Small Metal or Wood Components:**
 
-Air-atomizing cup guns: Sagola Classic Pro, Sagola 3300 GTO, Kremlin FPro G
+Air-atomizing cup guns: Sagola Classic Pro, Sagola 3300 GTO, Sames FPro G
 
 * Suitable for frequent color changes, low material use (1–5 kg/day per color), and low-viscosity coatings
 
-Pressure-feed guns: Kremlin FPro P, Sagola 4100 P
+Pressure-feed guns: Sames FPro P, Sagola 4100 P
 
 * For higher material use (10+ kg/day per color) with high-quality atomization; low- to medium-viscosity coatings
 * Material supply: Prima 01D100 pump, pressure tank
 
-Medium-pressure guns: Kremlin XCite, Berizzi Mach3
+Medium-pressure guns: Sames XCite, Berizzi Mach3
 
 * Few color changes, up to 20 kg/shift; medium-viscosity coatings
 * Material supply: Kremlin EOS or 20C series
 
 **Larger Components:**
 
-Medium-pressure guns: Kremlin XCite, Berizzi Mach3
+Medium-pressure guns: Sames XCite, Berizzi Mach3
 
 * High finish quality (e.g., enclosures); medium-viscosity coatings
-* Material supply: Kremlin EOS, 20C, or 34F60
+* Material supply: Sames EOS, 20C, or 34F60
 
-High-pressure guns: Kremlin SFlow, Berizzi RST series
+High-pressure guns: Sames SFlow, Berizzi RST series
 
 * High film build; high-viscosity coatings
-* Material supply: Kremlin 34F60, 40C, or Azur
+* Material supply: Sames 34F60, 40C, or Azur
 
 ### Material Compatibility — What to Use With What
 
