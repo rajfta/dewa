@@ -1,5 +1,5 @@
 ---
-title: 'Szórástechnikai tudástár III.: Cyclomix EVO 2-3'
+title: 'Szórástechnikai tudástár III.: Cyclomix EVO'
 date: 2026-01-20T00:00:00.000Z
 excerpt: >-
   Egy gép, számtalan lehetőség, a festéstechnológia új szintre lépett! A Sames
