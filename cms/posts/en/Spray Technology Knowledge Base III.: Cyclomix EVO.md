@@ -15,7 +15,9 @@ seo:
     advantages for its users
 ---
 
-Cyclomix Evo is one of the latest systems from Sames — more compact, more modern and smarter than its predecessors. Designed with efficiency, safety and user experience at its core, it delivers the following key advantages for its users:
+Cyclomix Evo is one of the latest systems from Sames — more compact, more modern and smarter than its predecessors. Designed with efficiency, safety and user experience at its core,
+
+**it delivers the following key advantages for its users:**
 
 #### **Easy Access, Fast Maintenance**
 
