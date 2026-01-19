@@ -25,9 +25,7 @@ During development, a key design priority was to ensure that all components are 
 
 #### **Modular Architecture and Flexible Connections**
 
-The material-handling section is physically separated from the control unit and connected via compressed-air hoses. The hose length can be adjusted to suit the local installation layout, providing maximum flexibility. The internal design of the control module follows the same modular philosophy: it contains only the elements actually required for operation, simplifying both use and maintenance.
-
-![](/szorasi_tipusok/cyclomix2.png)
+The material-handling section is physically separated from the control unit and connected via compressed-air hoses. The hose length can be adjusted to suit the local installation layout, providing maximum flexibility. The internal design of the control module follows the same modular philosophy: it contains only the elements actually required for operation, simplifying both use and maintenance.![](/szorasi_tipusok/cyclomix2.png)****
 
 #### **Compatibility and Advanced Data Management**
 
@@ -43,11 +41,11 @@ One of the standout features of the new system is the patented “atomized compo
 
 Material savings during color changes are achieved through the Paint Optimization Mode, which minimizes waste while increasing coating quality.
 
+![](/szorasi_tipusok/cyclomix1.png)
+
 #### **User-Friendly Interface and Remote Control**
 
 The touchscreen interface displays only the information relevant to the operator at any given moment, ensuring simple and intuitive use. Access levels can be modified at any time, and clear pictograms guide the user through each function. The system can store virtually unlimited formulas, and key functions can be controlled remotely via a smartphone application. This increases convenience, flexibility, managerial oversight, and overall operational safety and cost-efficiency.
-
-![](/szorasi_tipusok/cyclomix1.png)
 
 **The Technology of Tomorrow — Available Today**
 
