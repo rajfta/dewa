@@ -41,11 +41,11 @@ A berendezés egységei a megrendelő igényei szerint állíthatók össze, a h
 
 A berendezés egyik különleges újdonsága a szabadalmaztatott „porlasztásos” komponens befecskendezés a festékáramba, amely lehetővé teszi a tökéletes keveredését a két komponensnek. Az anyaggazdaságos színváltást, az úgynevezett „Paint optimization” mód biztosítja. Ez jelentős megtakarítást eredményez a festékhasználatban, miközben javítja a termék minőségét.
 
+![](/szorasi_tipusok/cyclomix1.png)
+
 #### **Felhasználóbarát kezelőfelület és távoli irányítás**
 
 Az érintőképernyős kijelző csak a felhasználó aktuális igényeinek megfelelő információkat jeleníti meg, ezzel is megkönnyítve a kezelést. A hozzáférési jogkörök könnyen, utólag is módosíthatók, míg az egyszerű és beszédes piktogramok támogatják a gyors eligazodást. A berendezés szinte végtelen számú receptet tud tárolni, főbb funkciói távolról is irányíthatók egy okostelefonos applikáción keresztül. Ez a lehetőség jelentősen növeli a munkavégzés kényelmét és rugalmasságát, a vezetői információszerzést, miközben hozzájárul a biztonságos és gazdaságos üzemeltetéshez.
-
-![](/szorasi_tipusok/cyclomix1.png)
 
 **A jövő technológiája – már ma!**
 
