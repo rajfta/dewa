@@ -25,6 +25,8 @@ A berendezés tervezése során kiemelt szempont volt, hogy minden alkatrész é
 
 Az anyagoldali rész fizikailag teljesen el van választva a vezérlő egységtől, melyeket sűrített levegős tömlők kötnek össze. Ezeknek a tömlőknek a hossza a helyi igények és lehetőségek szerint alakítható, így biztosítva a maximális rugalmasságot. A vezérlőegység belső felépítése is ezt a modularitást követi: csak azokat az elemeket tartalmazza, amelyekre valóban szükség van, ezáltal leegyszerűsíti a kezelést és a karbantartást.
 
+![](/szorasi_tipusok/cyclomix2.png)
+
 ### Kompatibilitás és fejlett adatkezelés
 
 Az új vezérlő egység kompatibilis az előző Cyclomix típusokkal (Cyclomix Micro, Multi és Expert) is, így a modernizáció nem jelent nagy beruházást. A fejlett adatgyűjtési és kezelési rendszer révén a termelési folyamatok nyomon követése és hatékonyságuk ellenőrzése egyszerűbbé válik, ami hosszú távon jelentős előnyöket kínál.
@@ -40,6 +42,8 @@ A berendezés egyik különleges újdonsága a szabadalmaztatott „porlasztáso
 ### Felhasználóbarát kezelőfelület és távoli irányítás
 
 Az érintőképernyős kijelző csak a felhasználó aktuális igényeinek megfelelő információkat jeleníti meg, ezzel is megkönnyítve a kezelést. A hozzáférési jogkörök könnyen, utólag is módosíthatók, míg az egyszerű és beszédes piktogramok támogatják a gyors eligazodást. A berendezés szinte végtelen számú receptet tud tárolni, főbb funkciói távolról is irányíthatók egy okostelefonos applikáción keresztül. Ez a lehetőség jelentősen növeli a munkavégzés kényelmét és rugalmasságát, a vezetői információszerzést, miközben hozzájárul a biztonságos és gazdaságos üzemeltetéshez.
+
+![](/szorasi_tipusok/cyclomix1.png)
 
 **A jövő technológiája – már ma!**
 
