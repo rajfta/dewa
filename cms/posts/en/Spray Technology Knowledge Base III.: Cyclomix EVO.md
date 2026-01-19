@@ -25,7 +25,7 @@ During development, a key design priority was to ensure that all components are 
 
 #### **Modular Architecture and Flexible Connections**
 
-The material-handling section is physically separated from the control unit and connected via compressed-air hoses. The hose length can be adjusted to suit the local installation layout, providing maximum flexibility. The internal design of the control module follows the same modular philosophy: it contains only the elements actually required for operation, simplifying both use and maintenance.![](/szorasi_tipusok/cyclomix2.png)****
+The material-handling section is physically separated from the control unit and connected via compressed-air hoses. The hose length can be adjusted to suit the local installation layout, providing maximum flexibility. The internal design of the control module follows the same modular philosophy: it contains only the elements actually required for operation, simplifying both use and maintenance.![](/szorasi_tipusok/cyclomix2.png)
 
 #### **Compatibility and Advanced Data Management**
 
