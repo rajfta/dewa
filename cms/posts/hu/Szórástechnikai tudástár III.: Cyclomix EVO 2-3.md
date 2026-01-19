@@ -8,9 +8,14 @@ excerpt: >-
   cikkünket, és tudja meg, miért jelent ez a megoldás okosabb működést — és
   milyen előnyöket kínálhat Önnek!
 coverImage: /szorasi_tipusok/borito-3.png
+seo:
+  title: 'Szórástechnikai tudástár III.: Cyclomix EVO 2-3'
+  description: >-
+    A Cyclomix EVO 2-3, a Sames egyik legújabb berendezésének bemutatása és
+    jellemzése, nagy hangsúlyt fektetve az előnyeire.
 ---
 
-Ez az új berendezés kompaktabb, modernebb és okosabb is, mint elődjei. Minden részletében a hatékonyság, biztonság és felhasználói élmény jegyében született, így a következő előnyöket biztosítja a felhasználója számára:
+A Cyclomix Evo 2-3, a Sames egyik legújabb berendezése kompaktabb, modernebb és okosabb is, mint elődjei. Minden részletében a hatékonyság, biztonság és felhasználói élmény jegyében született, így a következő előnyöket biztosítja a felhasználója számára:
 
 ### Könnyen hozzáférhető és cserélhető egységek a gyors karbantartásért
 
@@ -18,15 +23,15 @@ A berendezés tervezése során kiemelt szempont volt, hogy minden alkatrész é
 
 ### Moduláris kialakítás és rugalmas csatlakozások
 
-Az anyagoldali rész fizikailag teljesen el van választva a vezérlő egységtől, melyeket sűrített levegős tömlők kötnek össze. Ezeknek a tömlőknek a hossza a helyi igények és lehetőségek szerint alakítható, így biztosítva a maximális rugalmasságot. A vezérlő egység belső felépítése is ezt a modularitást követi: csak azokat az elemeket tartalmazza, amelyekre valóban szükség van, így egyszerűsítve a kezelést és a karbantartást.
+Az anyagoldali rész fizikailag teljesen el van választva a vezérlő egységtől, melyeket sűrített levegős tömlők kötnek össze. Ezeknek a tömlőknek a hossza a helyi igények és lehetőségek szerint alakítható, így biztosítva a maximális rugalmasságot. A vezérlőegység belső felépítése is ezt a modularitást követi: csak azokat az elemeket tartalmazza, amelyekre valóban szükség van, ezáltal leegyszerűsíti a kezelést és a karbantartást.
 
 ### Kompatibilitás és fejlett adatkezelés
 
-Az új vezérlő egység kompatibilis az előző Cyclomix típusokkal is, így a modernizáció nem jelent nagy beruházást. A fejlett adatgyűjtési és kezelési rendszer révén a termelési folyamatok nyomon követése és hatékonyságuk ellenőrzése egyszerűbbé válik, ami hosszú távon jelentős előnyöket kínál.
+Az új vezérlő egység kompatibilis az előző Cyclomix típusokkal (Cyclomix Micro, Multi és Expert) is, így a modernizáció nem jelent nagy beruházást. A fejlett adatgyűjtési és kezelési rendszer révén a termelési folyamatok nyomon követése és hatékonyságuk ellenőrzése egyszerűbbé válik, ami hosszú távon jelentős előnyöket kínál.
 
 ### Testre szabott megoldások a vevői igények alapján
 
-A berendezés egységei a megrendelő igényei szerint állíthatók össze, a hagyományos levegőporlasztástól az Airmix-en át az Airless technológiáig. A rendszer lehetővé teszi akár két pisztoly egyidejű használatát, miközben akár 99 festék- és B komponens kezelésére is képes – ami páratlan rugalmasságot kínál a felhasználóknak a piacon.
+A berendezés egységei a megrendelő igényei szerint állíthatók össze, a hagyományos levegőporlasztástól az Airmix-en át az Airless technológiáig. A rendszer lehetővé teszi akár két pisztoly egyidejű használatát, miközben akár 99 festék, és B komponens kezelésére is képes, ami páratlan rugalmasságot kínál a felhasználóknak a piacon.
 
 ### Innovatív technológiák a gazdaságosság jegyében
 
