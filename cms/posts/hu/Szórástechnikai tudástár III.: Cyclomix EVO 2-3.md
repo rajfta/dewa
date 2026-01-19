@@ -7,7 +7,7 @@ excerpt: >-
   Cyclomix Micro, Multi és Expert típusok külön-külön nyújtottak. Olvassa el
   cikkünket, és tudja meg, miért jelent ez a megoldás okosabb működést — és
   milyen előnyöket kínálhat Önnek!
-coverImage: /szorasi_tipusok/borito-3.png
+coverImage: /szorasi_tipusok/borito3.png
 seo:
   title: 'Szórástechnikai tudástár III.: Cyclomix EVO 2-3'
   description: >-
