@@ -21,11 +21,14 @@ Az elektrosztatikus porfestés egy olyan száraz festési technológia, amely so
 **Technológiai működése:**
 
 * Töltéssel rendelkező por: A porfesték szórása közben töltést kap (általában negatív), amelyet egy korona kisüléses (koronás) vagy súrlódási (tribosztatikus) elven működő pisztoly biztosít.
+
+![](/szorasi_tipusok/elektrosztatikus12.png)
+
 * Feszültség: 30-100 kV közötti nagyságú feszültséget alkalmaznak, amely a por es a munkadarab között elektromos teret hoz létre.
 * Vonzó erő: A töltés különbsége miatt a por odatapad a földelt munkadarabhoz.
 * Beégetés: A port 160-200 °C-on beégetik, ahol az megolvad, összefolyik és kemény, dekoratív rétegkép alakul ki.
 
-**Tipikus alkalmazásai: **Jellemzően fém bútorok, háztartási gépek és járműalkatrészek, illetve építőipari profilok, például alumínium nyílászáró keretek bevonására használják, mindamellett, hogy az ipari gépek és elektromos dobozokat többségét is ezzel a technológiával festik be.
+\*\*Tipikus alkalmazásai: \*\*Jellemzően fém bútorok, háztartási gépek és járműalkatrészek, illetve építőipari profilok, például alumínium nyílászáró keretek bevonására használják, mindamellett, hogy az ipari gépek és elektromos dobozokat többségét is ezzel a technológiával festik be.
 
 ### **Sames rendszerek az elektrosztatikus porfestésben**
 
@@ -43,7 +46,9 @@ Sames Inobell (Automata forgóharangos szóróegység):
 
 o	Forgóharagos porfelhordó rendszer, centrifugális elven
 
-o	Kiváló bevonatminőség es egyenletes rétegvastagság
+o	Kiváló bevonatminőség és egyenletes rétegvastagság
+
+![](/szorasi_tipusok/elektrosztatikus3.png)
 
 Ezek előnyei, hogy:
 
