@@ -1,5 +1,5 @@
 ---
-title: 'Szórástechnika a javából IV.: Az elektrosztatikus porfestés alapjai'
+title: 'Szórástechnikai tudástár IV.: Az elektrosztatikus porfestés alapjai'
 date: 2026-01-21T00:00:00.000Z
 excerpt: >-
   A következőkben az elektromos porfestést vesszük át, annak működését és
@@ -8,7 +8,7 @@ excerpt: >-
   festés témájában!
 coverImage: /szorasi_tipusok/borito4.png
 seo:
-  title: 'Szórástechnika a javából IV.: Az elektrosztatikus porfestés alapjai'
+  title: 'Szórástechnikai tudástár IV.: Az elektrosztatikus porfestés alapjai'
   description: >-
     Az elektrosztatikus festés alapjai, működése és alkalmazása, illetve a Sames
     rendszerek jelentősége az elektrosztatikus festésben.
