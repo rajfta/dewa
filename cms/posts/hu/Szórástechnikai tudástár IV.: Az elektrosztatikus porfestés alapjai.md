@@ -1,6 +1,6 @@
 ---
 title: 'Szórástechnikai tudástár IV.: Az elektrosztatikus porfestés alapjai'
-date: '2026-01-21T00:00:00.000Z'
+date: 2026-01-21T00:00:00.000Z
 excerpt: >-
   A következőkben az elektromos porfestést vesszük át, annak működését és
   alkalmazását, majd bemutatjuk a Sames által kínált elektrosztatikus rendszerek
@@ -13,7 +13,6 @@ seo:
     Az elektrosztatikus festés alapjai, működése és alkalmazása, illetve a Sames
     rendszerek jelentősége az elektrosztatikus festésben.
 ---
-
 
 ### **Az elektrosztatikus porfestés áttekintése**
 
@@ -35,19 +34,19 @@ Az elektrosztatikus porfestés egy olyan száraz festési technológia, amely so
 
 A Sames (korábban SAMES KREMLIN) az egyik legnevesebb gyártó az elektrosztatikus festési es porfestési rendszerek piacán, termékei a megbízhatóságukról, precíz adagolásukról és energiahatékony működésükről ismertek. Két jellemző eleme van a porfestési rendszereinek:
 
-Sames Inobell (Automata forgóharangos szóróegység):
+**Sames Inobell (Automata forgóharangos szóróegység):**
 
-o	Ergonomikus kialakítás
+   o	Ergonomikus kialakítás
 
-o	Állitható feszültség és poráramlás
+   o	Állitható feszültség és poráramlás
 
-o	Egyszerű karbantarthatóság
+   o	Egyszerű karbantarthatóság
 
-Sames Inobell (Automata forgóharangos szóróegység):
+**Sames Inobell (Automata forgóharangos szóróegység):**
 
-o	Forgóharagos porfelhordó rendszer, centrifugális elven
+   o	Forgóharagos porfelhordó rendszer, centrifugális elven
 
-o	Kiváló bevonatminőség és egyenletes rétegvastagság
+   o	Kiváló bevonatminőség és egyenletes rétegvastagság
 
 ![](/szorasi_tipusok/elektrosztatikus3.png)
 
