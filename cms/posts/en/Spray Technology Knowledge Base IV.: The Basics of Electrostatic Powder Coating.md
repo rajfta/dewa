@@ -25,9 +25,16 @@ Electrostatic powder coating is a dry finishing process in which finely ground t
 #### How the Technology Works:
 
 * Charged Powder: During application, the powder particles receive an electrical charge (typically negative). This is achieved using either corona charging or tribostatic (friction-based) powder guns.
+
+![](/szorasi_tipusok/elektrosztatikus1A.png)
+
 * High Voltage: A voltage of 30–100 kV is applied between the gun and the workpiece, creating an electrostatic field.
 * Attraction: Due to the charge difference, the powder is drawn to and adheres to the grounded part.
 * Curing: The coated parts are baked at 160–200°C, causing the powder to melt, flow out, and form a smooth, decorative, and highly durable finish.
+
+#### Typical applications:
+
+It is commonly used for coating metal furniture, household appliances, and vehicle components, as well as construction profiles such as aluminum window and door frames. In addition, the majority of industrial machinery and electrical enclosures are also coated using this technology.
 
 ### Sames Systems in Electrostatic Powder Coating
 
