@@ -22,7 +22,7 @@ seo:
 
 Electrostatic powder coating is a dry finishing process in which finely ground thermoplastic or thermoset powder is applied to a metal surface using electrostatic charge. The charged particles adhere uniformly to the grounded workpiece and then melt and cure in an oven, forming a hard, durable coating.
 
-#### How the Technology Works:
+#### **How the Technology Works:**
 
 * Charged Powder: During application, the powder particles receive an electrical charge (typically negative). This is achieved using either corona charging or tribostatic (friction-based) powder guns.
 
@@ -32,21 +32,21 @@ Electrostatic powder coating is a dry finishing process in which finely ground t
 * Attraction: Due to the charge difference, the powder is drawn to and adheres to the grounded part.
 * Curing: The coated parts are baked at 160–200°C, causing the powder to melt, flow out, and form a smooth, decorative, and highly durable finish.
 
-#### Typical applications:
+#### **Typical applications:**
 
 It is commonly used for coating metal furniture, household appliances, and vehicle components, as well as construction profiles such as aluminum window and door frames. In addition, the majority of industrial machinery and electrical enclosures are also coated using this technology.
 
-### Sames Systems in Electrostatic Powder Coating
+### **Sames Systems in Electrostatic Powder Coating**
 
 Sames (formerly SAMES KREMLIN) is one of the most renowned manufacturers in the market for electrostatic liquid and powder coating systems. Its products are known for their reliability, precise material dosing, and energy-efficient operation. Sames powder coating systems are characterized by two key features:
 
-#### Sames Inogun M (Manual Powder Gun)
+#### **Sames Inogun M (Manual Powder Gun)**
 
 * Ergonomic, lightweight design
 * Adjustable voltage and powder output
 * Easy maintenance and cleaning
 
-#### Sames Inobell (Automatic Rotary Bell Atomizer)
+#### **Sames Inobell (Automatic Rotary Bell Atomizer)**
 
 * Centrifugal powder application using a rotary bell
 * Exceptional coating quality and uniform film build
@@ -59,6 +59,6 @@ Advantages of Sames Powder Coating Systems:
 * Modularity: Easy integration into semi- or fully automated production lines
 * Reliability: Stable application and consistently uniform coating thickness
 
-Electrostatic powder coating is a modern, cost-effective, and environmentally friendly method for providing durable coatings on metal surfaces. Sames systems deliver high-end solutions for every application—from manual operations to fully automated industrial lines. 
+Electrostatic powder coating is a modern, cost-effective, and environmentally friendly method for providing durable coatings on metal surfaces. Sames systems deliver high-end solutions for every application—from manual operations to fully automated industrial lines.
 
-If you are considering these solutions, contact us today to find out how we can support your project!
+**If you are considering these solutions, contact us today to find out how we can support your project!**
