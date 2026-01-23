@@ -28,7 +28,7 @@ Az elektrosztatikus porfestés egy olyan száraz festési technológia, amely so
 * Vonzó erő: A töltés különbsége miatt a por odatapad a földelt munkadarabhoz.
 * Beégetés: A port 160-200 °C-on beégetik, ahol az megolvad, összefolyik és kemény, dekoratív rétegkép alakul ki.
 
-#### Tipikus alkalmazásai:
+#### **Tipikus alkalmazásai:**
 
 Jellemzően fém bútorok, háztartási gépek és járműalkatrészek, illetve építőipari profilok, például alumínium nyílászáró keretek bevonására használják, mindamellett, hogy az ipari gépek és elektromos dobozokat többségét is ezzel a technológiával festik be.
 
