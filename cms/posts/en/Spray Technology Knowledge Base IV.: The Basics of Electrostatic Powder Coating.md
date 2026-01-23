@@ -9,6 +9,13 @@ excerpt: >-
   electrostatic systems offered by Sames. Read our article and deepen your
   knowledge of electrostatic coating technology!
 coverImage: /szorasi_tipusok/borito4.png
+seo:
+  title: >-
+    Spray Technology Knowledge Base IV.: The Basics of Electrostatic Powder
+    Coating
+  description: >-
+    Fundamentals of Electrostatic Powder Coating, Its Operation, and the Role of
+    Sames Systems
 ---
 
 ### **Overview of Electrostatic Powder Coating**
@@ -23,6 +30,8 @@ Electrostatic powder coating is a dry finishing process in which finely ground t
 * Curing: The coated parts are baked at 160–200°C, causing the powder to melt, flow out, and form a smooth, decorative, and highly durable finish.
 
 ### Sames Systems in Electrostatic Powder Coating
+
+Sames (formerly SAMES KREMLIN) is one of the most renowned manufacturers in the market for electrostatic liquid and powder coating systems. Its products are known for their reliability, precise material dosing, and energy-efficient operation. Sames powder coating systems are characterized by two key features:
 
 #### Sames Inogun M (Manual Powder Gun)
 
@@ -42,3 +51,7 @@ Advantages of Sames Powder Coating Systems:
 * Energy Efficiency: Optimized powder usage and low overspray
 * Modularity: Easy integration into semi- or fully automated production lines
 * Reliability: Stable application and consistently uniform coating thickness
+
+Electrostatic powder coating is a modern, cost-effective, and environmentally friendly method for providing durable coatings on metal surfaces. Sames systems deliver high-end solutions for every application—from manual operations to fully automated industrial lines. 
+
+If you are considering these solutions, contact us today to find out how we can support your project!
