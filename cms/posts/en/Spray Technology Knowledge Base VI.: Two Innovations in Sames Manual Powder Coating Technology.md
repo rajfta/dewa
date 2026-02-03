@@ -3,6 +3,9 @@ title: 'Spray Technology Knowledge Base VI.: Two Innovations in Sames Manual Pow
 date: 2026-02-04T00:00:00.000Z
 excerpt: Two important developments are currently underway at Sames that we believe may be of interest to industry professionals. Read our article to discover Sames’ two hand powder coating innovations!
 coverImage: /szorasi_tipusok/borito6.png
+seo:
+  title: 'Spray Technology Knowledge Base VI.: Two Innovations in Sames Manual Powder Coating Technology'
+  description: 'Two Innovations in Sames Manual Powder Coating Technology: Sames TEC5, Liquid-on-Liquid Application'
 ---
 
 ### **TEC5 – A New Approach to Powder Output Control**
@@ -24,7 +27,7 @@ The chart below illustrates this concept in comparison with systems offered by o
 
 The second development is an ongoing innovation supported by DEWA Zrt., which supplies equipment to PTG Kft., the developer of the process.
 
-The owner of PTG Kft., András Dudás, is working on introducing a coating method that would be groundbreaking not only in Hungary but potentially worldwide: the “powder-on-powder” coating process, similar in concept to wet-on-wet painting.
+The owner of PTG Kft., András Dudás, is working on introducing a coating method that would be groundbreaking not only in Hungary but potentially worldwide: the “powder-on-powder” coating process, similar in concept to liquid-on-liquid painting.
 
 The idea is to apply two different powder layers—for example, a primer and a topcoat—in one continuous process, followed by a single curing cycle.
 
