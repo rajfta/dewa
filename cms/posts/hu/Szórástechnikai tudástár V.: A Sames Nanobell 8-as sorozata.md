@@ -22,16 +22,22 @@ Az állítható szóráskép méret az NW légterelőkkel lehetővé teszi a pre
 * Magas árviteli hatékonyság a szabadalmaztatott kombinált levegőszabályzási (NW) technológia révén;
 * Egyszerű telepítés és karbantartás.
 
+![](/szorasi_tipusok/nanobell1.png)
+
 #### **Nanobell 803, az automata és robotos festési technológiához, elektrosztatikával**
 
 * Preciz és egyenletes porlasztás;
 * Akár 40%-os festékmegtakarítás a hagyományos szórópisztolyos alkalmazásokhoz képest;
 * Egyszerű kezelés, erőfeszítés nélküli karbantartás.
 
+![](/szorasi_tipusok/nanobell2.png)
+
 #### **Nanobell 805, az elektrosztatikus, robotos festési alkalmazáshoz**
 
 * Az egyenes és „Vortex” (örvénylevegős) kombinációja a tökéletes anyag adagoláshoz és a finom kidolgozáshoz;
 * A T8 levegőmotor biztosítja az egyenletes áramlást;
 * Egyszerű karbantartás megbízható alkatrészekkel, biztosítja a minimális állásidőt.
+
+![](/szorasi_tipusok/nanobell3.png)
 
 A Nanobell 8-as széria az évtizedek alatt már bizonyított előző modellek (PPH308, PPH707, stb) megbízhatóságát, termelékenységét megőrizve, az újabb fejlesztésekkel az ipar egyéb, nem csak autóipari, ágazataiban tevékenykedőknek is lehetőséget nyújt a legmodernebb festési technológia alkalmazásához!
