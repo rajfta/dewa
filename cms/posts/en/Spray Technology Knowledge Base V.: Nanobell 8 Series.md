@@ -1,13 +1,12 @@
 ---
-title: 'Spray Technology Knowledge Base V.: Nanobell 8 Series'
-date: '2026-02-02T00:00:00.000Z'
+title: 'Spray Technology Knowledge Base V.: Sames Nanobell 8 Series'
+date: 2026-02-02T00:00:00.000Z
 excerpt: 'Sames’ new innovative rotary bell atomizer family meets even the most demanding industrial requirements, delivering outstanding performance, precision, and efficiency across a wide range of applications. Read our article to learn more about the series!'
 coverImage: /szorasi_tipusok/borito5.png
 seo:
-  title: 'Spray Technology Knowledge Base V.: Nanobell 8 Series'
+  title: 'Spray Technology Knowledge Base V.: Sames Nanobell 8 Series'
   description: 'Sames'' Nanobell 8 Series, Nanobell 801, 803 and 805, and its advantages'
 ---
-
 
 **Sames**' new generation of rotary bell atomizers sets a new benchmark for demanding industrial applications, offering exceptional performance, precision, and efficiency. Available from September 2025.
 
