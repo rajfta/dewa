@@ -5,7 +5,7 @@ excerpt: 'Két, véleményünk szerint fontos fejlesztés folyik a Samesnél, me
 coverImage: /szorasi_tipusok/borito6.png
 seo:
   title: 'Szórástechnikai tudástár VI.: Két innováció a Sames kézi porfestő berendezésével kapcsolatban'
-  description: 'Két innováció a Sames kézi porfestő berendezésével kapcsolatban: a Sames Tec5 és a PTG Kft. por a porra módszere'
+  description: 'Két innováció a Sames kézi porfestő berendezésével kapcsolatban: a Sames TEC5 és a PTG Kft. por a porra módszere'
 ---
 
 ### **Sames TEC5**
