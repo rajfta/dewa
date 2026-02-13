@@ -1,10 +1,7 @@
 ---
 title: 'Dewa Zrt.: stabil alapok, dinamikus fejlődés'
 date: 2025-08-14T00:00:00.000Z
-excerpt: >-
-  Ismerje meg a DEWA Zrt. történetét a kezdetektől napjainkig, fedezze fel a
-  budaörsi és békéscsabai központunk működését, és ismerje meg, hogyan dolgoznak
-  együtt vezetőink a vállalat sikereiért!
+excerpt: 'Ismerje meg a DEWA Zrt. történetét a kezdetektől napjainkig, fedezze fel a budaörsi és békéscsabai központunk működését, és ismerje meg, hogyan dolgoznak együtt vezetőink a vállalat sikereiért!'
 coverImage: /alapitok es fiaik.jpg
 translationSlug: founding-of-dewa-zrt
 seo:
@@ -52,3 +49,5 @@ Józsi ezt így egészítette ki: Valóban pozitív ember vagyok, és ha valamib
 A vállalkozás olyan stabil alapokra épült, hogy mára akár napokra is nyugodt szívvel magára hagyható. Ahogy az *Egy történet, két generáció* rovatunkban is olvashatták, a cég bővülésével az Ursz- és a Buczkó-család több tagja is csatlakozott a közös munkához. József fia, ifjabb Ursz József veszi majd át a békéscsabai telephely vezetését, míg Péter fia, Buczkó Patrick a budaörsi központ irányítását. Ez az alapítók számára hatalmas könnyebbséget jelent, hiszen az elmúlt évek során számos feladatkört átadhattak nekik, megkönnyítve saját munkájukat, és előkészítve fokozatos visszavonulásukat a napi operatív irányításból. Bár továbbra is szeretik, amit csinálnak – különösen a festőrendszerek kialakítását –, érzik, hogy lassan eljön a stafétabot átadásának ideje. Hiszik, hogy a cég jó kezekben van a következő generációnál, akik a legjobb példát követve viszik majd tovább, és új lendülettel, friss szemlélettel építik tovább a Dewa Zrt. jövőjét.
 
 ![A Dewa Zrt. jelenlegi és jöbőbeli vezetői: Buczkó Patrick, Buckó Péter, Ursz József és ifjabb Ursz József](</alapitok es fiaik.jpg> "A Dewa Zrt. jelenlegi és jöbőbeli vezetői: Buczkó Patrick, Buckó Péter, Ursz József és ifjabb Ursz József")
+
+Ha szeretné megismerni a két központ és csapatának részletesebb történetét, olvassa el az Egy történet, két generáció cikkeinket is!
