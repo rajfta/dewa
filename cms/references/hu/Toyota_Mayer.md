@@ -38,3 +38,7 @@ A projekt során olyan integrált fényezési és előkészítési rendszer val�
 ✅ speciális technológiai és munkavédelmi követelményeknek való megfelelés
 
 ✅ rugalmas alkalmazkodás a munkafolyamatokhoz és javítási igényekhez
+
+Akár új fényezőüzem kialakításáról, akár meglévő kapacitások bővítéséről van szó, a megfelelően megtervezett rendszer hosszú távon is megtérülő beruházást jelent.
+
+Lépjen kapcsolatba szakértőinkkel, és kérjen személyre szabott konzultációt.
