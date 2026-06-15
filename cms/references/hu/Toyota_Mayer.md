@@ -39,6 +39,8 @@ A projekt során olyan integrált fényezési és előkészítési rendszer val�
 
 ✅ rugalmas alkalmazkodás a munkafolyamatokhoz és javítási igényekhez
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Akár új fényezőüzem kialakításáról, akár meglévő kapacitások bővítéséről van szó, a megfelelően megtervezett rendszer hosszú távon is megtérülő beruházást jelent.
 
 [Lépjen kapcsolatba szakértőinkkel](/kapcsolat), és kérjen személyre szabott konzultációt.
