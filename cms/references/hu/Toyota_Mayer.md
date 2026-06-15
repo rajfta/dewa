@@ -41,4 +41,4 @@ A projekt során olyan integrált fényezési és előkészítési rendszer val�
 
 Akár új fényezőüzem kialakításáról, akár meglévő kapacitások bővítéséről van szó, a megfelelően megtervezett rendszer hosszú távon is megtérülő beruházást jelent.
 
-Lépjen kapcsolatba szakértőinkkel, és kérjen személyre szabott konzultációt.
+[Lépjen kapcsolatba szakértőinkkel](/kapcsolat), és kérjen személyre szabott konzultációt.
