@@ -4,6 +4,9 @@ companyname: Toyota Mayer
 excerpt: 'Modern autófényezési technológia, energiahatékonyság és kapacitásnövelés egy projektben. A Toyota Mayer budakeszi telephelyén megvalósított, emelt magasságú Blowtherm fényezőfülke és előkészítő rendszer akár 7 méter hosszú járművek kezelését is lehetővé teszi, miközben hozzájárul a gazdaságosabb és rugalmasabb üzemeltetéshez.'
 date: 2026-06-15T00:00:00.000Z
 coverImage: /Toyota%20Mayer/cover.jpeg
+gallery:
+  - ''
+translationSlug: Blowtherm Paint Booth and Preparation Station for Enhanced Automotive Refinishing Efficiency
 seo:
   title: Blowtherm fényezőfülke és előkészítő állomás az autófényezés hatékonyságának növeléséért
   description: A Dewa Zrt. által telepített Blowtherm festőfülke és előkészítő állomás a Toyota Mayer számára
@@ -24,7 +27,7 @@ A projekt során olyan integrált fényezési és előkészítési rendszer val�
 
 🔸 több 3,5 tonna teherbírású autóemelő
 
-## A rendszer telepítése általi elért eredmény:
+## A rendszer telepítése által elért eredmény:
 
 ✅ optimalizált és gazdaságos üzemeltetés
 
