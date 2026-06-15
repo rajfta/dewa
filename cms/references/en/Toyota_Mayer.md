@@ -19,7 +19,7 @@ This project involved the installation of an integrated paint booth and vehicle 
 
 🔸 Hybrid electric and gas-fired air handling system
 
-🔸 Three-bay prep area with curtain-separated workstations and a 5 × 2 m paint mixing room
+🔸 Three-bay preparation area with curtain-separated workstations and a 5 × 2 m paint mixing room
 
 🔸 Heat recovery system, LED lighting and independent ventilation system
 
