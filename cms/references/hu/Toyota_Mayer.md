@@ -27,6 +27,8 @@ A 2026-ban befejezett projekt során olyan integrált fényezési és előkész�
 
 🔸 több 3,5 tonna teherbírású autóemelő
 
+![](/Toyota%20Mayer/0.jpeg)
+
 ## A rendszer telepítése által elért eredmény:
 
 ✅ optimalizált és gazdaságos üzemeltetés
@@ -38,6 +40,8 @@ A 2026-ban befejezett projekt során olyan integrált fényezési és előkész�
 ✅ speciális technológiai és munkavédelmi követelményeknek való megfelelés
 
 ✅ rugalmas alkalmazkodás a munkafolyamatokhoz és javítási igényekhez
+
+![](/Toyota%20Mayer/3.jpeg)
 
 ***
 
