@@ -25,6 +25,8 @@ This project involved the installation of an integrated paint booth and vehicle 
 
 🔸 Multiple vehicle lifts with a lifting capacity of 3.5 tonnes
 
+![](</Toyota Mayer/0.jpeg>)
+
 ## Results Achieved:
 
 ✅ Enhanced operational efficiency and lower operating costs
@@ -36,6 +38,8 @@ This project involved the installation of an integrated paint booth and vehicle 
 ✅ Compliance with industry-specific technical and occupational safety requirements
 
 ✅ Greater flexibility to accommodate varying repair processes and workload demands
+
+![](</Toyota Mayer/3.jpeg>)
 
 ***
 
