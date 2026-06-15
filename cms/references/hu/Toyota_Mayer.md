@@ -13,7 +13,7 @@ seo:
 _template: referencia
 ---
 
-A projekt során olyan integrált fényezési és előkészítési rendszer valósult meg, amely a nagyobb járművek kezelésén túl a hatékonyabb munkaszervezést és a gazdaságosabb üzemeltetést is támogatja. A kialakítás során kiemelt figyelmet kapott az energiahatékonyság, a rugalmasság és a biztonságos munkakörnyezet megteremtése.
+A 2026-ban befejezett projekt során olyan integrált fényezési és előkészítési rendszer valósult meg, amely a nagyobb járművek kezelésén túl a hatékonyabb munkaszervezést és a gazdaságosabb üzemeltetést is támogatja. A kialakítás során kiemelt figyelmet kapott az energiahatékonyság, a rugalmasság és a biztonságos munkakörnyezet megteremtése.
 
 ## A telepített Blowtherm fényezőfülke és előkészítő állomás elemei:
 
