@@ -1,6 +1,6 @@
 ---
 title: 'Szórástechnikai tudástár VI.: Két innováció a Sames kézi porfestő berendezésével kapcsolatban'
-date: 2026-02-05T00:00:00.000Z
+date: 2026-05-10T00:00:00.000Z
 excerpt: 'Két, véleményünk szerint fontos fejlesztés folyik a Samesnél, mely érdekelheti a szakmabelieket. Olvassa el cikkünket, és ismerje meg a Sames két kézi porfestéses innovációját!'
 coverImage: /szorasi_tipusok/borito6.png
 seo:
