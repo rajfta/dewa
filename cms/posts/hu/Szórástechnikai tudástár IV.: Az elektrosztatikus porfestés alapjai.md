@@ -1,17 +1,11 @@
 ---
 title: 'Szórástechnikai tudástár IV.: Az elektrosztatikus porfestés alapjai'
-date: 2026-01-21T00:00:00.000Z
-excerpt: >-
-  A következőkben az elektromos porfestést vesszük át, annak működését és
-  alkalmazását, majd bemutatjuk a Sames által kínált elektrosztatikus rendszerek
-  szerepét. Olvassa el cikkünket, és mélyítse el tudását az elektrosztatikus
-  festés témájában!
+date: 2026-03-10T00:00:00.000Z
+excerpt: 'A következőkben az elektromos porfestést vesszük át, annak működését és alkalmazását, majd bemutatjuk a Sames által kínált elektrosztatikus rendszerek szerepét. Olvassa el cikkünket, és mélyítse el tudását az elektrosztatikus festés témájában!'
 coverImage: /szorasi_tipusok/borito4.png
 seo:
   title: 'Szórástechnikai tudástár IV.: Az elektrosztatikus porfestés alapjai'
-  description: >-
-    Az elektrosztatikus festés alapjai, működése és alkalmazása, illetve a Sames
-    rendszerek jelentősége az elektrosztatikus festésben.
+  description: 'Az elektrosztatikus festés alapjai, működése és alkalmazása, illetve a Sames rendszerek jelentősége az elektrosztatikus festésben.'
 ---
 
 ### **Az elektrosztatikus porfestés áttekintése**
