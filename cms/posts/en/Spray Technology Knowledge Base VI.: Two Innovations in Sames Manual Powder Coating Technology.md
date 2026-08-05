@@ -1,6 +1,6 @@
 ---
 title: 'Spray Technology Knowledge Base VI.: Two Innovations in Sames Manual Powder Coating Technology'
-date: 2026-02-04T00:00:00.000Z
+date: 2026-05-10T00:00:00.000Z
 excerpt: Two important developments are currently underway at Sames that we believe may be of interest to industry professionals. Read our article to discover Sames’ two hand powder coating innovations!
 coverImage: /szorasi_tipusok/borito6.png
 seo:
