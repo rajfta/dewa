@@ -1,18 +1,11 @@
 ---
 title: 'Spray Technology Knowledge Base III.: Cyclomix EVO'
-date: 2026-01-20T00:00:00.000Z
-excerpt: >-
-  One system, endless possibilities — paint application technology has taken a
-  leap forward! Sames’ latest innovation brings together, in a single unit,
-  everything that previously required three separate systems: the Cyclomix
-  Micro, Multi and Expert. Read on to discover why this solution is
-  significantly smarter — and what advantages it can bring you.
+date: 2026-02-10T00:00:00.000Z
+excerpt: 'One system, endless possibilities — paint application technology has taken a leap forward! Sames’ latest innovation brings together, in a single unit, everything that previously required three separate systems: the Cyclomix Micro, Multi and Expert. Read on to discover why this solution is significantly smarter — and what advantages it can bring you.'
 coverImage: /szorasi_tipusok/borito3.png
 seo:
   title: 'Spray Technology Knowledge Base III.: Cyclomix EVO'
-  description: >-
-    Cyclomix EVO, the latest system from Sames: its characterstics and
-    advantages for its users
+  description: 'Cyclomix EVO, the latest system from Sames: its characterstics and advantages for its users'
 ---
 
 Cyclomix Evo is one of the latest systems from Sames — more compact, more modern and smarter than its predecessors. Designed with efficiency, safety and user experience at its core,
