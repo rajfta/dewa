@@ -1,18 +1,11 @@
 ---
 title: 'Szórástechnikai tudástár III.: Cyclomix EVO'
-date: 2026-01-20T00:00:00.000Z
-excerpt: >-
-  Egy gép, számtalan lehetőség, a festéstechnológia új szintre lépett! A Sames
-  legújabb fejlesztése egyetlen készülékben egyesíti mindazt, amit korábban a
-  Cyclomix Micro, Multi és Expert típusok külön-külön nyújtottak. Olvassa el
-  cikkünket, és tudja meg, miért jelent ez a megoldás okosabb működést — és
-  milyen előnyöket kínálhat Önnek!
+date: 2026-02-10T00:00:00.000Z
+excerpt: 'Egy gép, számtalan lehetőség, a festéstechnológia új szintre lépett! A Sames legújabb fejlesztése egyetlen készülékben egyesíti mindazt, amit korábban a Cyclomix Micro, Multi és Expert típusok külön-külön nyújtottak. Olvassa el cikkünket, és tudja meg, miért jelent ez a megoldás okosabb működést — és milyen előnyöket kínálhat Önnek!'
 coverImage: /szorasi_tipusok/borito3.png
 seo:
   title: 'Szórástechnikai tudástár III.: Cyclomix EVO 2-3'
-  description: >-
-    A Cyclomix EVO 2-3, a Sames egyik legújabb berendezésének bemutatása és
-    jellemzése, nagy hangsúlyt fektetve az előnyeire.
+  description: 'A Cyclomix EVO 2-3, a Sames egyik legújabb berendezésének bemutatása és jellemzése, nagy hangsúlyt fektetve az előnyeire.'
 ---
 
 A Cyclomix Evo 2-3, a Sames egyik legújabb berendezése kompaktabb, modernebb és okosabb is, mint elődjei. Minden részletében a hatékonyság, biztonság és felhasználói élmény jegyében született,
