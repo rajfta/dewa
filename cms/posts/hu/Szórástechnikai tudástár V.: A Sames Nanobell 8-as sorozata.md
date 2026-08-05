@@ -1,6 +1,6 @@
 ---
 title: 'Szórástechnikai tudástár V.: A Sames Nanobell 8-as sorozata'
-date: 2026-02-02T00:00:00.000Z
+date: 2026-04-10T00:00:00.000Z
 excerpt: 'A Sames új innovatív forgóharangos porlasztócsaládja a legigényesebb ipari követelményeknek is megfelel, páratlan teljesítményt, pontosságot és hatékonyságot kínálva a különböző alkalmazásokban. Olvassa el cikkünket és ismerje meg a szériát!'
 coverImage: /szorasi_tipusok/borito5.png
 seo:
