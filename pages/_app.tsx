@@ -5,6 +5,8 @@ import type { AppProps } from "next/app";
 import { useRouter } from "next/router";
 import { NextIntlClientProvider } from "next-intl";
 import { useEffect, useMemo, useState } from "react";
+import Analytics from "../components/Analytics";
+import CookieConsent from "../components/CookieConsent";
 import Footer from "../components/Footer";
 import LanguageDetectionDialog from "../components/LanguageDetectionDialog";
 import LocaleHead from "../components/LocaleHead";
@@ -72,6 +74,8 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
                             <SocialFollowDialog />
                             <Component {...pageProps} />
                             <Footer />
+                            <CookieConsent />
+                            <Analytics />
                         </ContactContext.Provider>
                     </AlternateLocaleContext.Provider>
                 </StoreProvider>

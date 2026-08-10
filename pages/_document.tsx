@@ -1,11 +1,23 @@
 import { ColorModeScript } from "@chakra-ui/react";
 import NextDocument, { Head, Html, Main, NextScript } from "next/document";
+import { consentBootstrapScript, isAnalyticsEnabled } from "../lib/consent";
 
 export default class MyDocument extends NextDocument {
     render() {
         return (
             <Html>
                 <Head>
+                    {/* Must be a plain inline script rather than next/script so
+                        it is guaranteed to run before gtag.js loads. */}
+                    {isAnalyticsEnabled() && (
+                        <script
+                            // biome-ignore lint/security/noDangerouslySetInnerHtml: static first-party snippet, no interpolated user input - the only way to guarantee the consent defaults run before gtag.js
+                            dangerouslySetInnerHTML={{
+                                __html: consentBootstrapScript,
+                            }}
+                        />
+                    )}
+
                     <link
                         rel="stylesheet"
                         href="https://rsms.me/inter/inter.css"

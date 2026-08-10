@@ -31,7 +31,7 @@
         "budaorsAddress": "2040 Budaörs, Gyár u. 2. (Budaörsi Ipari Park)",
         "bekescsabaAddress": "5600 Békéscsaba Gyulai út (Lukoil-al szemben)",
         "privacyPolicy": "Adatvédelmi Nyilatkozat",
-        "cookieNotice": "Ez az oldal funkcionális cookie-kat használ a nyelvi beállítások tárolására.",
+        "cookieNotice": "Ez az oldal funkcionális cookie-kat használ a nyelvi beállítások tárolására, valamint - az Ön hozzájárulása esetén - analitikai cookie-kat a látogatottság mérésére.",
         "developedBy": "Fejlesztette",
         "rajftaDigital": "rajfta digital"
     },
@@ -121,5 +121,12 @@
         "title": "Érdekli, min dolgozunk épp?",
         "message": "Kövessen be a Linkedinen és Facebookon, és pillantson be a Dewa Zrt. mindennapjaiba!",
         "dismiss": "Később"
+    },
+    "cookieConsent": {
+        "title": "Cookie-beállítások",
+        "message": "Az oldal működéséhez szükséges funkcionális cookie-kat mindig használjuk. A látogatottság mérésére szolgáló analitikai cookie-kat csak az Ön hozzájárulásával helyezzük el. Részletek:",
+        "privacyPolicy": "Adatvédelmi Nyilatkozat",
+        "accept": "Elfogadom",
+        "decline": "Elutasítom"
     }
 }
