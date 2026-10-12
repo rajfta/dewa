@@ -1,29 +1,16 @@
 ---
 type: hall-of-fame
-kivonat: >-
-  Kivonat ami megjelenik atadom **Lorem Ipsum** is simply dummy text of the
-  printing and typesetting industry. Lorem Ipsum has been the industry's
-  standard dummy text ever since the 1500s, when an unknown printer took a
-  galley of type and scrambled it to make a type specimen book. It has survived
-  not only five centuries, but also the leap into electronic typesetting,
-  remaining essentially unchanged. It was popularised in the 1960s with the
-  release of Letrase
+kivonat: 'Kivonat ami megjelenik atadom **Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry''s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letrase'
 title: 'Komplett karosszéria fényező műhely '
 companyname: 'M1 Flotta '
-excerpt: >-
-  2021-ben Budaörsön zöldmezős beruházás részeként egy teljesen új
-  Skoda/Volkswagen márkaszervíz és kereskedés épült. A szervíz a karosszéria
-  javítás minden pontját lefedi, a Dewa Zrt. feladata a festőműhely megtervezése
-  és megvalósítása volt.
+excerpt: '2021-ben Budaörsön zöldmezős beruházás részeként egy teljesen új Skoda/Volkswagen márkaszervíz és kereskedés épült. A szervíz a karosszéria javítás minden pontját lefedi, a Dewa Zrt. feladata a festőműhely megtervezése és megvalósítása volt.'
 date: 2021-09-02T00:00:00.000Z
 coverImage: /uploads/dsc_1362.webp
 gallery: []
+translationSlug: Fully_Equipped_Body_Painting_Workshop
 seo:
   title: Karosszéria festő műhely | Dewa Zrt.
-  description: >-
-    Mészáros&Mészáros Flotta telephelyén 2021-ben telepített Blowtherm
-    fényezőfülke, festékkeverő és előkészítőállás
-translationSlug: Fully_Equipped_Body_Painting_Workshop
+  description: 'Mészáros&Mészáros Flotta telephelyén 2021-ben telepített Blowtherm fényezőfülke, festékkeverő és előkészítőállás'
 _template: referencia
 ---
 
@@ -37,7 +24,7 @@ A márkaszervíz festőműhelyének tervezése során három fő  szempontot tar
 
 Az előző kettőt az általunk forgalmazott prémium olasz márka (Blowtherm) berendezései biztosítják:
 
-* **Aktívszenes utószűrő egység:** a festési térből távozó mellészórt festékkel teli levegőt először az üvegszálas Paint Stop szűrők tisztítják meg, míg a munkadarab felületéről elpárolgó oldószereket a speciális utószűrő egység köti meg, ezzel megakadályozva a környezetkárosító kipárolgások kijutását.
+* **Aktívszenes utószűrő egység:** a festési térből távozó mellészórt festékkel teli levegőt először az üvegszálas festékmegállító szűrők tisztítják meg, míg a munkadarab felületéről elpárolgó oldószereket a speciális utószűrő egység köti meg, ezzel megakadályozva a környezetkárosító kipárolgások kijutását.
 * **Folyamatszabályzású, közvetlen tüzelésű gázégő:** a Blowtherm GV/VA gázégő sorozat egészen különleges. Első sorban folyamatszabályzásának köszönhetően *25%-kal kevesebb gázt fogyaszt* a hagyományos égőkhöz képest. Másrészről közel tökéletes égésének köszönhetően nincs szükség füstgázkémény kiépítésére, további pontforrások engedélyeztetésére.
 
 > A fenti két kiegészítőt **minden fényezőfülkénkre** és **előkészítő állásunkra** igény szerint lehet szállítani. Kifejezetten ajánljuk folyamatos gyártást folytató partnereinknek - valamint mindenkinek, akinek fontos az alacsony működtetési költség és a környezettudatoság!
